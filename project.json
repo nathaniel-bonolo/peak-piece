@@ -1,0 +1,17 @@
+{
+  "name": "Peak Piece",
+  "version": 1,
+  "canon_roots": [
+    "systems",
+    "characters",
+    "lore",
+    "story"
+  ],
+  "non_canon_roots": [
+    "proposals",
+    "references",
+    "production"
+  ],
+  "story_is_canonical_readable_layer": true,
+  "discord": "https://discord.gg/3fXkMkHJJ"
+}
