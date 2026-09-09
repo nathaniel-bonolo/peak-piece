@@ -2,21 +2,14 @@
 type: faction
 status: draft
 canon: true
-aliases:
-  - Revolutionary Army
-  - RA
-tags:
-  - faction
-  - revolutionary-army
+aliases: [Revolutionary Army, RA]
+tags: [faction, revolutionary-army]
 ---
-
 # Revolutionary Army
 
-## Current rewrite role
+## Peak Piece role
 
-The Revolutionary Army is not only Dragon's background faction.
-
-It is one of the few organizations with practical knowledge of:
+The RA becomes a real organization containing specialists in:
 
 - underground networks
 - state repression
@@ -26,56 +19,53 @@ It is one of the few organizations with practical knowledge of:
 - liberation logistics
 - asymmetric warfare
 - secure movement
+- battlefield deception
 - preserving information the World Government wants erased
 
-That makes it a natural timeskip environment for both Robin and Usopp.
+That makes it a natural timeskip environment for both Robin and Usopp without giving them the same curriculum.
 
 ## Robin
 
-[[characters/robin/timeskip|Robin]] is sent directly to a Revolutionary base by Kuma.
+Kuma sends [[characters/robin/timeskip|Robin]] directly to the base.
 
-Her value is strategic and informational.
+The RA wants her because of concrete scholarship and intelligence value, not because she is a second Chosen One.
 
-She can deepen:
-
-- historical reconstruction
-- archive work
-- intelligence analysis
-- understanding of state secrecy
-- underground information networks
-
-She is not treated as a mystical second Chosen One.
+Her first phase is quiet: choice, archives, adult peers, scholarship, and intelligence work.
 
 ## Usopp
 
-[[characters/usopp/timeskip|Usopp]] is sent toward an active field environment.
+Kuma sends [[characters/usopp/timeskip|Usopp]] to an active Revolutionary siege under [[characters/belo-betty/overview|Belo Betty]].
 
-His value emerges through asymmetric warfare:
+He learns how weaker forces alter the conditions of a fight instead of meeting superior force head-on.
 
-- reconnaissance
-- sabotage
-- long-range fire
-- deception
-- traps
-- contingency planning
+## Betty
 
-The RA does not magically make him brave.
+Peak Betty amplifies resolve that already exists. She cannot insert belief or loyalty. This lets the Revolutionary metaphor preserve agency and also lets the Fruit operate on enemy morale when surrender or retreat is already becoming a real conclusion.
 
-It teaches him how weaker forces create favorable conditions.
+## Same organization, different growth
 
-## Same faction, different curricula
+There is no rule that every Straw Hat needs a separate island.
 
-There is no reason every Straw Hat must train on a separate island.
+Robin learns how power preserves and erases truth.
 
-Robin and Usopp can both spend the timeskip with the Revolutionary Army because the organization is large enough to contain radically different specialties.
+Usopp learns how a weaker force manipulates what a stronger force thinks is true.
 
-## Sabo
+They develop independently, meet later at base, and can travel back toward Sabaody together.
 
-Current related character work includes a rewritten Sabo who is not a retroactive third sake brother.
+## Dragon and Sabo
 
-## Related
+Robin's presence creates space to develop Dragon and Sabo through actual work rather than lore dumps.
 
-- [[characters/robin/_Robin|Robin]]
-- [[characters/usopp/_Usopp|Usopp]]
-- [[lore/factions/world-government|World Government]]
-- [[lore/history/fishman-liberation|Fishman Liberation History]]
+A useful Sabo question is not only "what did Ohara know?" but:
+
+> **How did the Government convince ordinary people that Ohara deserved what happened to it?**
+
+A useful Dragon trait is willingness to let Robin prove his interpretation wrong and update the plan.
+
+## Small moments
+
+See [[lore/factions/small-moments/revolutionary-army/_Revolutionary Army Small Moments|Revolutionary Army Small Moments]].
+
+## Canon audit
+
+See [[lore/factions/revolutionary-army-canon-audit|Canon Audit]].

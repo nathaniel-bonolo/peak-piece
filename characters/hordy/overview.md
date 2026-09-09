@@ -70,3 +70,7 @@ That contradiction is the character.
 - [[characters/shirahoshi/overview|Shirahoshi]]
 - [[characters/genauche/overview|Charlotte Genauche]]
 - [[systems/gem-injection|Gem Injection]]
+
+## Canon audit
+
+See [[characters/hordy/canon-audit|Canon Audit]].

@@ -57,3 +57,9 @@ Fishman Island is the suggested starting point right now.
 
 > [!quote]
 > **Question everything.**
+
+
+## Texture and reasoning
+
+- [[lore/factions/small-moments/_Small Moments|Small Moments]]
+- [[references/canon/source-policy|Canon Audit Source Policy]]

@@ -25,10 +25,26 @@ They engineer a Yonko-vs-Yonko war and enter after both powers have spent resour
 2. Linlin needs weapons and Gems.
 3. She repeatedly contacts Kaido to negotiate.
 4. Kaido refuses.
-5. The Straw Hats and Law destroy Kaido's weapons factory.
-6. They frame Totto Land with planted evidence.
-7. Kaido interprets the evidence and repeated calls as Linlin aggression or desperation.
-8. He finally invites her to Wano.
+5. The Straw Hats and Law raid and destroy Kaido's weapons factory.
+6. They capture Queen and seize his local records / computer files.
+7. They study Kaido's defensive doctrine, including known systems such as Sky Coffin.
+8. They frame Totto Land with planted evidence.
+9. Kaido interprets the evidence and repeated calls as Linlin aggression or desperation.
+10. He finally invites her to Wano.
+
+## Why Luffy accepts this plan
+
+This is not a plan to lure civilians into a massacre. The intended collision is between **Kaido's and Linlin's military forces**.
+
+Soldiers will die. Peak Piece should not pretend war is bloodless chess. But the alternative is also war: attacking a prepared Emperor at full strength with a weaker force and hoping every matchup works.
+
+Luffy does not need to become a geopolitical lecturer to understand three things:
+
+- both armies are already hostile military powers
+- his side cannot reliably defeat either fresh
+- changing the conditions before entering is not automatically less moral than charging into the front gate
+
+The plan should deliberately keep Wano's civilians away from the main collision as much as the geography and information allow.
 
 ## Locked information asymmetry
 
@@ -108,6 +124,16 @@ Caesar produces unstable results.
 
 See [[lore/factions/beast-pirates|Beast Pirates]].
 
+### Captured intelligence
+
+Destroying the factory is also an intelligence operation. Queen is captured and his files expose significant parts of Kaido's prepared defense.
+
+The Straw Hats do **not** learn everything. Kaido still owns the battlefield and retains unknown surprises.
+
+But they learn enough to prepare for specific systems. Most importantly, they know **Sky Coffin** exists. That is why Momonosuke is prepared as a countermeasure before the battle instead of becoming emergency plot utility after the trap activates.
+
+The repo may track exactly what Queen's files contain. The story only needs to show the decisions that knowledge causes.
+
 ## Major systems
 
 ### Mirror deployment
@@ -143,6 +169,10 @@ Biscuit soldiers are industrial products with real resource limits.
 Current direction:
 
 > Biscuit shell + Linlin soul substrate + Pudding memory template.
+
+The purpose is **distributed autonomy**. At army scale, Cracker cannot plausibly consciously puppet every motion of thousands of soldiers without his actual superpower becoming impossible parallel cognition. The soul substrate gives each unit enough independent existence; Pudding's limited template gives standardized tactical behavior.
+
+The manga should establish the consequence, not present the architecture like a software diagram.
 
 ### Death Note
 
@@ -210,7 +240,19 @@ The Straw Hats and allies enter after both Emperors have been meaningfully weake
 
 ## Final Service
 
-Charlotte soldiers may voluntarily donate lifespan or whole souls late in the war.
+Charlotte soldiers may voluntarily donate lifespan late in the war.
+
+This is **not** framed as heroic martyrdom. It is wartime survival calculus.
+
+A soldier may have forty years of expected life left. If defeat means dying tonight, those forty years become worth zero to that soldier. Giving Linlin twenty can therefore be a horrifying but rational gamble:
+
+> give up twenty now -> materially improve the army's chance of survival -> maybe live the remaining twenty
+
+A useful thought is:
+
+> **If we lose, those twenty years die with me anyway.**
+
+The horror is that Linlin's empire has made human lifespan something soldiers can calculate and spend under battlefield pressure.
 
 Locked Linlin line:
 
@@ -218,21 +260,29 @@ Locked Linlin line:
 
 ## Soul Scramble
 
-Late-war direction:
+Late in the war, Linlin spends twenty years of her **own** lifespan during an existential threat.
 
-Linlin spends twenty years of her own lifespan.
+Brook leaves his body and interferes with the released soul material.
 
-Brook leaves his body to interfere with the soul directly.
+Zoro destroys the vessel the soul was intended to enter.
 
-Zoro destroys the intended vessel.
+The loose soul needs somewhere to go. An ordinary Wano battlefield katana happens to become the available vessel.
 
-Brook and Zoro force the loose soul into an ordinary Wano battlefield katana.
+That accident creates the weapon later called **The Matriarch**.
 
-That sword becomes **The Matriarch**.
+The battle is not a quest to forge a Legendary Soul Sword. Nobody is executing a known Matriarch recipe. The event emerges from established mechanics colliding under pressure.
 
-The Matriarch does not talk.
+The name can come later, after the characters have had time to understand what happened.
 
-It is a dense, oppressive, resource-hungry soul weapon forged from twenty years of Linlin's own life.
+The Matriarch:
+
+- does not talk
+- carries oppressive spiritual pressure
+- is resource-hungry
+- contains twenty years Linlin deliberately spent from her own life
+- exists because Brook and Zoro diverted a soul event already in motion
+
+The repo can describe the mechanism precisely. The manga should make the moment immediate and horrifying.
 
 ## Important principle
 
@@ -241,3 +291,8 @@ Soul Feast should be built from previously established rules.
 The war should collide known systems rather than introduce a new magic trick every chapter.
 
 Characters should move between objectives because the battlefield changes, not because every Straw Hat needs a private boss room.
+
+
+## Canon audit
+
+See [[story/sagas/soul-feast/arcs/soul-feast/canon-audit|Canon Audit]].

@@ -52,3 +52,7 @@ The tragedy is not merely that a protector dies.
 > **The roads close again.**
 
 The resulting vacuum creates the conditions for Linlin's deal.
+
+## Canon audit
+
+See [[characters/whitebeard/canon-audit|Canon Audit]].

@@ -38,3 +38,7 @@ The exact cleanup of her spider Fruit model remains open.
 The locked decision is:
 
 > **No Mythical upgrade merely to make the reference more literal.**
+
+## Canon audit
+
+See [[characters/black-maria/canon-audit|Canon Audit]].

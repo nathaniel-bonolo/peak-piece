@@ -78,3 +78,7 @@ Potential later line:
 - [[characters/linlin/overview|Linlin]]
 - [[characters/katakuri/overview|Katakuri]]
 - [[proposals/active/may-weller|May Weller proposal]]
+
+## Canon audit
+
+See [[characters/pudding/canon-audit|Canon Audit]].

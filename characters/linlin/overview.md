@@ -84,3 +84,16 @@ She is emotional, but the emotion sits inside functioning imperial machinery.
 - [[lore/factions/big-mom-pirates|Charlotte Empire]]
 - [[lore/locations/fishman-island|Fishman Island]]
 - [[lore/locations/totto-land|Totto Land]]
+
+
+## Why General Linlin is competent
+
+Peak Linlin is roughly four centuries old. She has had an absurd amount of time to make mistakes, survive them, refine institutions, learn what kinds of coercion destroy productivity, delegate, build rituals, and understand what enemies do when she applies pressure.
+
+Her competence is not emotional normality. She remains possessive, grotesque, funny, vain, loving, controlling, spiritually bizarre, and capable of rationalizing horrifying systems because they belong to **her**.
+
+Peak Piece rejects the idea that a four-century ruler needs recurring toddler-level combat incompetence to remain interesting. Competence should make her contradictions more dangerous, not erase them.
+
+## Canon audit
+
+See [[characters/linlin/canon-audit|Canon Audit]].

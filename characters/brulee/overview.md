@@ -46,3 +46,7 @@ They do not remove the need for mirrors, attunement, range, or Brulee herself.
 - [[story/sagas/soul-feast/arcs/soul-feast/arc|Soul Feast]]
 - [[systems/gems|Gems]]
 - [[lore/factions/big-mom-pirates|Charlotte Empire]]
+
+## Canon audit
+
+See [[characters/brulee/canon-audit|Canon Audit]].

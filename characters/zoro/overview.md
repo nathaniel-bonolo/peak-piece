@@ -41,3 +41,7 @@ Zoro and the crew judge what the target actually does.
 
 - [[characters/luffy/overview|Luffy]]
 - [[lore/factions/straw-hat-fleet|Straw Hat Fleet]]
+
+## Canon audit
+
+See [[characters/zoro/canon-audit|Canon Audit]].

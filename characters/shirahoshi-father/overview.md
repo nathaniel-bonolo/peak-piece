@@ -51,3 +51,7 @@ That means her later knowledge is inherited through study, not destiny or royal 
 - [[systems/gem-injection|Gem Injection]]
 - [[lore/history/fishman-liberation|Fishman Liberation History]]
 - [[lore/locations/fishman-island|Fishman Island]]
+
+## Canon audit
+
+See [[characters/shirahoshi-father/canon-audit|Canon Audit]].

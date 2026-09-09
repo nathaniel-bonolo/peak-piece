@@ -51,3 +51,12 @@ The more she extracts, the less certain she becomes that a reaction, fear, habit
 - [[characters/pudding/progression|Progression]]
 - [[systems/soul-system|Soul System]]
 - [[characters/katakuri/abilities|Katakuri's prediction]]
+
+
+## Cracker soldier templates
+
+Pudding's memory work can provide **limited standardized tactical templates** to the soul-bearing biscuit soldiers. The purpose is distributed autonomy, not arbitrary memory programming.
+
+At canon-like army scale, Cracker cannot plausibly micromanage every limb of thousands of soldiers without his hidden superpower becoming impossible parallel cognition. A limited template lets soldiers hold formation, recognize simple orders, execute drills, and react locally.
+
+The manga does not need to describe this as "biscuit shell + soul substrate + memory template" in engineering language. It only needs to establish that the soldiers can operate independently and that the autonomy comes from soul/memory machinery already introduced.

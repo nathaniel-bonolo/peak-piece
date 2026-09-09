@@ -51,3 +51,7 @@ To Shirahoshi:
 > Tiger proves what using it costs.
 
 Both interpretations can be emotionally honest.
+
+## Canon audit
+
+See [[characters/fisher-tiger/canon-audit|Canon Audit]].

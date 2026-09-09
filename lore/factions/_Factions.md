@@ -16,3 +16,5 @@ tags: [moc, lore, factions]
 - [[lore/factions/whitebeard-pirates|Whitebeard Pirates]]
 - [[lore/factions/big-mom-pirates|Charlotte Empire]]
 - [[lore/factions/beast-pirates|Beast Pirates]]
+
+- [[lore/factions/small-moments/_Small Moments|Small Moments]]

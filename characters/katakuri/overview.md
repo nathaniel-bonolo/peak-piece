@@ -52,3 +52,7 @@ It is learning that observation cannot answer every human question.
 - [[characters/katakuri/relationships|Relationships]]
 - [[characters/pudding/overview|Pudding]]
 - [[characters/linlin/overview|Linlin]]
+
+## Canon audit
+
+See [[characters/katakuri/canon-audit|Canon Audit]].

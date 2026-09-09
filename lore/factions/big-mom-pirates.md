@@ -64,3 +64,8 @@ The Charlotte state improves stability and working conditions relative to chaoti
 - [[characters/pudding/overview|Pudding]]
 - [[lore/locations/totto-land|Totto Land]]
 - [[lore/locations/fishman-island|Fishman Island]]
+
+
+## Small moments
+
+- [[lore/factions/small-moments/charlotte-family/_Charlotte Family Small Moments|Charlotte Family Small Moments]]

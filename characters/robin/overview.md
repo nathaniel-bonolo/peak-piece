@@ -67,3 +67,14 @@ If identity material becomes useful, Robin can encounter it organically through 
 
 - [[characters/robin/timeskip|Timeskip]]
 - [[lore/factions/revolutionary-army|Revolutionary Army]]
+
+
+## Identity after survival
+
+Enies Lobby answers whether Robin wants to live. The timeskip asks what she does with a life that is finally hers. See [[characters/robin/identity|Who Am I Now?]].
+
+Her happiness is causal intimacy progression, not a personality patch. Robin can remain the adult straight man while gradually allowing the crew to see more of her weirdness and joy.
+
+## Canon audit
+
+See [[characters/robin/canon-audit|Canon Audit]].

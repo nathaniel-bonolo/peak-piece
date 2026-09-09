@@ -106,3 +106,8 @@ The fleet does not need to fund itself by taxing islands under Luffy's protectio
 - [[characters/luffy/progression|Luffy's progression]]
 - [[characters/zoro/overview|Zoro]]
 - [[WRITING-PHILOSOPHY|Writing Philosophy]]
+
+
+## Small moments
+
+- [[lore/factions/small-moments/straw-hats/_Straw Hat Small Moments|Straw Hat Small Moments]]

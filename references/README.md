@@ -45,3 +45,12 @@ Keep the distinction between:
 - source fact
 - interpretation
 - rewrite decision
+
+
+## Usopp / Revolutionary warfare
+
+- [[references/history/ghost-army|Ghost Army]]
+
+## Audit sourcing
+
+- [[references/canon/source-policy|Canon Audit Source Policy]]

@@ -74,3 +74,10 @@ Later arcs:
 - [[indexes/Characters|Characters MOC]]
 - [[templates/character|Character Template]]
 - [[WRITING-PHILOSOPHY|Writing Philosophy]]
+
+
+## Canon audits
+
+Every developed character folder keeps `canon-audit.md` beside the authoritative character files. It records what canon does, what we think its function is, what Peak Piece changes, why, what survives, what is intentionally rejected, failure modes, and references.
+
+Do not create a separate audit tree. See [[references/canon/source-policy|Canon Audit Source Policy]].

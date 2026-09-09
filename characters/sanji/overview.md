@@ -66,3 +66,7 @@ This is still under discussion.
 - [[proposals/active/wci-without-germa|WCI Without Germa proposal]]
 - [[characters/pudding/overview|Pudding]]
 - [[characters/chopper/overview|Chopper]]
+
+## Canon audit
+
+See [[characters/sanji/canon-audit|Canon Audit]].

@@ -2,36 +2,72 @@
 type: character-progression
 status: draft
 canon: true
-aliases:
-  - Usopp Timeskip
-tags:
-  - character
-  - usopp
-  - timeskip
-  - revolutionary-army
+aliases: [Usopp Timeskip]
+tags: [character, usopp, timeskip, revolutionary-army]
 ---
-
 # Usopp: Timeskip
 
 ## Destination
 
-Kuma sends Usopp toward an **active Revolutionary field environment**.
+Kuma sends Usopp into an **active Revolutionary war-zone cell** where a long siege/stronghold conflict is already underway against a stronger Government-aligned force.
 
-Robin goes directly to strategic Revolutionary infrastructure.
+This is not an hour-long battle. The conflict rewards exactly the skills Usopp needs:
 
-Usopp is better served by people whose daily job is:
+- reconnaissance
+- long-range warfare
+- sabotage
+- engineering
+- deception
+- supply disruption
+- surviving while weaker
 
-> make a weaker force dangerous against a stronger one.
+[[characters/belo-betty/overview|Belo Betty]] is with the cell.
 
-## Why this fits
+## Arrival
 
-Usopp's Water 7 lesson is already pointing toward asymmetric warfare.
+Usopp is immediately terrified. His crew is not there to handle the strong people for him. He wants nothing to do with the war, but the Government force controls or threatens the surrounding exits, so there is no clean way to simply leave.
 
-The Revolutionaries can teach him how preparation works at larger scale.
+He starts observing because observation is safer than charging.
 
-## Field curriculum
+He notices guard rotations, predictable resupply, firing lanes, communications, blind spots, and reinforcement routes.
 
-Likely training areas:
+Then the Water 7 lesson comes back:
+
+> **They're stronger. But they're predictable.**
+
+Usopp makes a plan and immediately doubts himself out of trying it.
+
+## Betty crosses the first threshold
+
+Betty's Fruit does not give him the plan. The plan is already Usopp's.
+
+She amplifies the resolve to execute it.
+
+It works.
+
+Usopp forms the wrong but understandable conclusion:
+
+> **Betty made me brave.**
+
+## Sogeking conditioning
+
+The repeated ritual becomes:
+
+1. Usopp studies the problem.
+2. He prepares the equipment.
+3. The Sogeking mask goes on.
+4. Betty gives the cue.
+5. He acts.
+
+At first Betty really activates the Fruit.
+
+Later, during controlled enough missions that she is not irresponsibly gambling his life, she keeps the cue and stops activating it.
+
+Usopp still performs.
+
+## Campaign curriculum
+
+Weeks or months of real operations refine him in:
 
 - long-range marksmanship
 - target identification
@@ -41,44 +77,76 @@ Likely training areas:
 - sabotage
 - controlled demolition
 - traps
-- communications disruption
 - false signals
-- decoys
+- communications disruption
 - supply interference
 - escape planning
 - counter-surveillance
 - intelligence handling
-- mission-specific equipment
+- mission-specific engineering
 
-## How he earns his place
+When he is not internally screaming, he can work with Revolutionary inventors such as Lindbergh on gadgets. Exact command assignment is flexible; the useful relationship matters more than whether an org chart says North, South, East, or West.
 
-Usopp should not arrive and be declared important because destiny says so.
+## Ghost Army operation
 
-He gets involved in a field problem where the Revolutionary side is weaker.
+The campaign payoff borrows causal structure from the real [[references/history/ghost-army|Ghost Army]].
 
-He begins observing.
+The stronger force believes it is winning.
 
-He notices patterns.
+Usopp cannot summon eight thousand real reinforcements, so he manufactures **evidence** of them:
 
-He realizes the stronger force is predictable.
+- fake soldiers
+- fake tanks / artillery silhouettes
+- banners
+- staged movement
+- smoke
+- false Den Den Mushi traffic
+- staged sound
+- fake supply activity
+- a small number of real units placed where reconnaissance will confirm the illusion
 
-Then he contributes by preparation.
+For a critical window, much of the enemy sincerely believes a huge reinforcement force has arrived.
 
-The exact operation is still open, but the causal job is locked:
+The thought begins to spread:
 
-> **Usopp proves that his cowardly, contingency-obsessed brain can become an asymmetric-warfare asset.**
+> **It's over. We're surrounded. We should surrender before we die.**
+
+Usopp creates the belief.
+
+Betty amplifies the already-forming resolve to act on it.
+
+A few units surrender. Other units see them surrender and treat that as additional evidence that the situation is hopeless. A morale cascade begins.
+
+They can win the decisive operation without Punch Piece.
+
+## Final reveal
+
+After the campaign, Usopp credits Betty's power.
+
+She tells him she stopped using it on him some time ago.
+
+The first boosts were real. The later work was him.
+
+He gathered the intelligence. He built the plan. He made the gadgets. He took the shots. He walked into danger.
+
+His realization is:
+
+> **I did all that. I'm actually fucking good with prep.**
+
+The point is not permanent fearlessness. An explosion five minutes later can still have him screaming.
+
+Fear no longer proves incapability.
 
 ## Weapon development
 
-Usopp leaves the timeskip with a serious modular long-range weapons system rather than relying on the childhood slingshot as his primary platform.
+Usopp retires the slingshot as his primary serious combat platform.
 
-The exact weapon is still open.
+His weapon becomes a **case** containing a modular gun system and mission-specific components. He builds the configuration he needs for the current problem rather than carrying a single magic gun.
 
-It should support different mission loadouts rather than one ammunition gimmick.
+Potential modules/payloads:
 
-Potential functions include:
-
-- precision
+- long-range precision
+- shorter-range handling
 - nonlethal capture
 - smoke
 - flash
@@ -88,14 +156,10 @@ Potential functions include:
 - signaling
 - anti-equipment payloads
 
-Not every function needs to survive final design.
+Exact engineering remains open.
 
-## Robin
+## Robin reunion
 
-[[characters/robin/timeskip|Robin]] may be in the same organization without sharing Usopp's field curriculum.
+[[characters/robin/timeskip|Robin]] develops separately at the RA base while the siege runs.
 
-That creates a useful contrast:
-
-Robin learns how systems of power preserve and erase information.
-
-Usopp learns how weak forces make those systems malfunction.
+After the siege, Betty and Usopp return to base and he unexpectedly collides with Robin there. They may later travel back toward Sabaody together.

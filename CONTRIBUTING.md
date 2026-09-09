@@ -97,3 +97,14 @@ When adding a major character, system, lore, or story file:
 - keep unresolved material in `proposals/`
 
 Backlinks should emerge from actual relationships, not from dumping a giant "see also" list into every note.
+
+
+## Maintain the canon audit
+
+When a major rewrite changes **why** a character, arc, faction, or system works differently from canon, update the co-located canon audit.
+
+The audit contains the argument. The authoritative story/system file contains the result. Do not paste a five-paragraph defense of the rewrite into the manga-facing arc note.
+
+When making a canon claim, include a useful chapter/volume anchor. When making an author-intent claim, distinguish confirmed intent from interpretation. When using history/science/psychology, link a source in `references/` and state only what it actually supports.
+
+See [[references/canon/source-policy|Canon Audit Source Policy]].

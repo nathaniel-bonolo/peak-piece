@@ -58,3 +58,8 @@ tags:
 - [[templates/character|Character Template]]
 
 [[00 - Peak Piece|Back to Home]]
+
+
+## Revolutionary Army
+
+- [[characters/belo-betty/_Belo Betty|Belo Betty]]

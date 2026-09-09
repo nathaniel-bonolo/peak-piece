@@ -64,3 +64,7 @@ As his research expands, "medicine" begins to include pathological Devil Fruit e
 - [[characters/chopper/abilities|Abilities]]
 - [[characters/chopper/progression|Progression]]
 - [[systems/devil-fruit-pharmacology|Devil Fruit Pharmacology]]
+
+## Canon audit
+
+See [[characters/chopper/canon-audit|Canon Audit]].

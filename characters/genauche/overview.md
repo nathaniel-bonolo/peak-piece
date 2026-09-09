@@ -66,3 +66,7 @@ This separates her from random cruelty.
 - [[characters/genauche/abilities|Abilities]]
 - [[characters/linlin/overview|Charlotte Linlin]]
 - [[lore/locations/fishman-island|Fishman Island]]
+
+## Canon audit
+
+See [[characters/genauche/canon-audit|Canon Audit]].

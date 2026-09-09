@@ -64,3 +64,7 @@ His growth appears through:
 - [[characters/luffy/progression|Progression]]
 - [[characters/luffy/abilities|Abilities]]
 - [[lore/factions/straw-hat-fleet|Straw Hat Fleet]]
+
+## Canon audit
+
+See [[characters/luffy/canon-audit|Canon Audit]].

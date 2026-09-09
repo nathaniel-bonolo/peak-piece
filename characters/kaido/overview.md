@@ -96,3 +96,7 @@ Kaido gains structural inspiration from [[references/history/oda-nobunaga|Oda No
 - openness when foreign contact provides strategic value
 
 This is inspiration, not historical cosplay.
+
+## Canon audit
+
+See [[characters/kaido/canon-audit|Canon Audit]].

@@ -11,6 +11,53 @@ tags:
 
 # Changelog
 
+## V6 - Canon audits, backstage rigor, Robin/Usopp/Betty lock
+
+### Philosophy
+- Locked **The spreadsheet is ours. The audience gets the adventure.**
+- Explicitly clarified that the repo may be overengineered backstage so the story can stay intuitive and consistent.
+- Explicitly clarified that Peak Piece may understand and intentionally reject a canon theme/function.
+
+### Canon audits
+- Added co-located `canon-audit.md` files to character folders.
+- Added arc audits for Fishman Island, Whole Cake Island, and Soul Feast.
+- Added system audits beside systems rather than creating a parallel audit tree.
+- Added reference/source policy.
+
+### Robin
+- Kuma sends Robin directly to the RA base.
+- Removed chosen-one Revolutionary framing.
+- Enies Lobby answers **do I want to live?**; timeskip asks **who am I now that I am allowed to live?**
+- Locked scholar therapy through choice, archives, adult peers, intelligence work, and ordinary rest.
+- Her happier/more morbid later personality becomes causal intimacy progression while preserving the straight-man role.
+
+### Usopp + Betty
+- Locked the Revolutionary siege.
+- Betty amplifies resolve that already exists; she cannot create belief/loyalty/skill.
+- Locked real early boosts followed by placebo/conditioning cues.
+- Locked Ghost Army-style fake-reinforcement operation and morale cascade.
+- Kept modular gun-case direction.
+
+### Soul Feast
+- Factory raid now explicitly captures Queen and his files.
+- Alliance knows Sky Coffin before the war and prepares Momonosuke as a counter.
+- Clarified military-vs-military casualty logic and civilian protection intent.
+- Clarified Cracker's soul/memory system as distributed autonomy, not exposition.
+- Clarified Final Service as ugly survival calculus, not heroic martyrdom.
+- Matriarch stays and is explicitly emergent/accidental rather than a legendary-item quest.
+
+### Linlin
+- General Linlin stays. Roughly four centuries of experience explicitly explain institutional refinement.
+
+### Shirahoshi
+- She remains gentle and non-chosen.
+- She wants to become a warrior because she admires Tiger freeing people.
+- Her father refuses; she trains secretly; Tiger gives occasional tiny corrections without becoming her formal master.
+
+### Small moments
+- Added faction small-moment collections for Straw Hats, Charlotte family, and Revolutionary Army.
+
+
 ## V5 - Robin and Usopp timeskip lock
 
 ### Robin

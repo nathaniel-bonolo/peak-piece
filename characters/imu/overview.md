@@ -35,3 +35,7 @@ Progress against him means forcing a consequence to remain his.
 - [[characters/linlin/overview|Charlotte Linlin]]
 - [[systems/soul-system|Soul System]]
 - [[lore/factions/world-government|World Government]]
+
+## Canon audit
+
+See [[characters/imu/canon-audit|Canon Audit]].

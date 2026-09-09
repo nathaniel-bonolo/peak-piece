@@ -2,71 +2,87 @@
 type: character
 status: draft
 canon: true
-aliases:
-  - Shirahoshi
-tags:
-  - character
-  - fishman-island
+aliases: [Shirahoshi]
+tags: [character, fishman-island]
 ---
-
 # Shirahoshi
 
 ## Core
 
-Peak Shirahoshi is still giant.
+Peak Shirahoshi is still giant and emotionally gentle.
 
 She is **not a princess**.
 
-She is **not a chosen hereditary Poseidon**.
+She is **not hereditary Poseidon**.
 
-She is not defined by crying, helplessness, or being locked away from a stalker.
+Vander Decken is removed.
 
-Vander Decken is removed from the rewrite.
+The rewrite must not replace "helpless chosen princess" with "generic badass warrior woman."
+
+## Why she wants to become a warrior
+
+Shirahoshi grows up admiring [[characters/fisher-tiger/overview|Fisher Tiger]] because he actually went out and **freed people**.
+
+Her childhood logic is simple:
+
+> Tiger is a warrior. Tiger frees people. I want to free people too. I should become a warrior.
+
+## Her father refuses
+
+[[characters/shirahoshi-father/overview|Her father]] refuses to train her. He has seen what violence, rebellion, Gem research, and Tiger's life cost. He does not want his daughter turned into another weapon for Fishman Island.
+
+Shirahoshi disagrees and trains secretly on her own.
+
+## Fisher Tiger's tiny corrections
+
+Tiger does **not** become her formal anime master.
+
+He respects her father's refusal enough not to openly take her as a student, but occasionally catches her practicing badly and cannot resist giving one correction.
+
+Possible directions:
+
+> Your feet are too close together.
+
+or
+
+> Stop watching the weapon. Watch the shoulders.
+
+Then he keeps walking.
+
+Over time Shirahoshi becomes mostly self-taught, rough, imperfect, but with small pieces of Tiger embedded in her technique.
 
 ## Sea creatures
 
-Every Fishman has some capacity to tame, communicate with, or work alongside sea creatures.
-
-The ability exists on a spectrum.
-
-Some people can manage ordinary sharks or seahorses.
-
-The legendary extreme is a Fishman capable of taming an actual Sea King.
-
-That possibility is cultural legend, not royal destiny.
-
-## Family
-
-Shirahoshi's father was a [[characters/shirahoshi-father/overview|Gem researcher]] associated with Fisher Tiger's crew.
-
-She grew up around [[characters/fisher-tiger/overview|Fisher Tiger]] and wanted to become a warrior.
-
-Tiger trained her.
+Sea-creature handling exists across Fishmen on a spectrum. The legendary extreme is a Fishman capable of taming a Sea King. This is cultural possibility, not royal destiny.
 
 ## Gem knowledge
 
-Shirahoshi repeatedly entered her father's study and eventually found his work on [[systems/gem-injection|Gem Injection]].
+Shirahoshi finds her father's research on [[systems/gem-injection|Gem Injection]]. She knows Fisher Tiger used and overused it and later needed a transfusion after the damage.
 
-She knows that Tiger used and overused the technique and later required a blood transfusion because of the consequences.
+Hordy sees Tiger as proof that the technique works.
 
-That history makes her extremely wary of Hordy's obsession with it.
+Shirahoshi sees the same man as proof of what it costs.
 
-## Linlin occupation
+## Linlin's extraction regime
 
-After [[characters/linlin/overview|Linlin]] takes control of the Gem extraction system, Shirahoshi openly calls the deal what she believes it is:
+Shirahoshi calls the agreement what she believes it is:
 
 > **Slavery with extra steps.**
 
-She gains followers and repeatedly interferes when Linlin's people arrive to collect workers, hostages, or Gem output.
+She gains followers and interferes with worker, hostage, and Gem collection until she is imprisoned.
 
-She is eventually imprisoned.
+## Political position
 
-## Hordy deal
+> **The mines belong to Fishman Island. The people are not payment.**
 
-Hordy offers to release her when the Tea Party stockpile is large and the right distraction appears.
+## Growth
 
-He wants her knowledge of Gem injection and her rebel following.
+She begins with a child's equation:
 
-She wants access to the outside and a chance to break the extraction system.
+> strong warrior = frees people
 
-Neither needs to believe the other is right.
+Her arc complicates it through Tiger, Neptune, Whitebeard, Jinbe, Hordy, organizing, and the costs of violence. She does not abandon strength. She learns what strength is for.
+
+## Canon audit
+
+See [[characters/shirahoshi/canon-audit|Canon Audit]].

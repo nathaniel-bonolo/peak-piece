@@ -53,3 +53,7 @@ Luffy remains outside the city and trains on the outskirts.
 ## Open
 
 A future Boa/Luffy romance or marriage is not canon yet.
+
+## Canon audit
+
+See [[characters/boa-hancock/canon-audit|Canon Audit]].

@@ -177,3 +177,31 @@ The rewrite is not trying to sand off the absurdity.
 The point is to make the absurdity matter.
 
 Systems exist to create better adventures, problems, jokes, reveals, fights, and emotional payoffs, not to replace them.
+
+
+## Backstage rigor, reader-facing simplicity
+
+Peak Piece is intentionally overengineered **behind the scenes**. The repository may contain tactical doctrine, economic assumptions, timelines, resource budgets, power constraints, logistics, military organization, and spreadsheets that most readers should never need to see.
+
+That machinery exists so the story can feel effortless and consistent. The audience should usually experience **choices, costs, and consequences**, not a PowerPoint explaining the machinery.
+
+- Brulee does not lecture about military Mirror World throughput. The audience sees what moving an army costs.
+- Apoo does not explain resonance equations. The music starts shaking mirrors and structures.
+- A commander does not present a supply-chain diagram. An earlier choice makes the army run short later.
+- A power limit should become visible through action before anybody explains it.
+
+Informative interludes are allowed when they are fun and useful, but they should enrich something the audience already understands rather than become homework.
+
+> **The spreadsheet is ours. The audience gets the adventure.**
+
+The repository can be obsessive so the story does not have to be.
+
+## We may intentionally reject canon's function
+
+An intentional canon choice is not automatically sacred. Before replacing something, identify what canon is doing as fairly as possible. Then decide whether to preserve, relocate, transform, or reject that function.
+
+Do not call an intentional choice an accident just because we dislike it. Likewise, do not preserve it merely because it was intentional. A rewrite is allowed to say:
+
+> **We understand the original thesis. We prefer a different one.**
+
+The reasoning belongs in the co-located canon audit. The story itself should not stop to argue with canon.

@@ -59,3 +59,8 @@ It also deepens Luffy's question about power by contrasting what Whitebeard and 
 East Blue, Skypiea, and many pre-timeskip arcs have not yet been fully rewritten at chapter level.
 
 Do not invent missing arcs merely to make this file look complete.
+
+
+## Timeskip character development
+
+Robin and Usopp both enter the Revolutionary Army through different pipelines. Robin goes directly to base and develops through choice, scholarship, and intelligence. Usopp spends weeks or months in Betty's siege learning asymmetric warfare before returning to base and unexpectedly meeting Robin.

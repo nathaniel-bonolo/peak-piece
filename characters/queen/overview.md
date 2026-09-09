@@ -93,3 +93,7 @@ Peak Piece rejects making Queen Franky's father.
 It adds no needed function and makes the world smaller.
 
 > **This is not Nepo Piece.**
+
+## Canon audit
+
+See [[characters/queen/canon-audit|Canon Audit]].

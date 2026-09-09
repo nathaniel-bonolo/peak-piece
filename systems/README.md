@@ -12,3 +12,17 @@ A system file should answer:
 - How has the world adapted to it?
 
 Do not use system files as dumping grounds for every scene where the system appears.
+
+
+## Canon audits
+
+System audits live beside the systems they analyze:
+
+- [[systems/gems-canon-audit|Gems]]
+- [[systems/gem-injection-canon-audit|Gem Injection]]
+- [[systems/haki-canon-audit|Haki]]
+- [[systems/devil-fruits-canon-audit|Devil Fruits]]
+- [[systems/devil-fruit-pharmacology-canon-audit|Devil Fruit Pharmacology]]
+- [[systems/soul-system-canon-audit|Soul System]]
+- [[systems/combat-canon-audit|Combat]]
+- [[systems/technology-canon-audit|Technology]]

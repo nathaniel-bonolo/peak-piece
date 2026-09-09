@@ -202,3 +202,8 @@ Luffy should target coercive control and extraction authority, not destroy Fishm
 - whether "Poseidon" remains the common title or only one mythic name
 - Genauche's final arc outcome
 - Neptune's political end state
+
+
+## Canon audit
+
+See [[story/sagas/fishman-island/arcs/fishman-island/canon-audit|Canon Audit]].

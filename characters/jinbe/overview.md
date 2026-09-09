@@ -51,3 +51,7 @@ He restored dignity and movement to Jinbe's people.
 Whitebeard's death proves how dangerous it is for an entire people to depend on one man's deterrence.
 
 That failure helps shape Jinbe's later decisions.
+
+## Canon audit
+
+See [[characters/jinbe/canon-audit|Canon Audit]].

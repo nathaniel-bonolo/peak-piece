@@ -63,3 +63,8 @@ Nami does not need to lose intelligence for Pudding's deception to work.
 - Exact mechanism of Gem loss at Fishman Island
 - Brook's WCI sequence
 - How much of Totto Land civilian life appears
+
+
+## Canon audit
+
+See [[story/sagas/whole-cake-island/arcs/whole-cake-island/canon-audit|Canon Audit]].

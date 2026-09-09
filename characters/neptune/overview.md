@@ -66,3 +66,7 @@ Shirahoshi can correctly call the deal slavery with extra steps.
 Neptune can correctly remember how many people disappeared when the roads became unsafe.
 
 That conflict is stronger if both understand the cost.
+
+## Canon audit
+
+See [[characters/neptune/canon-audit|Canon Audit]].

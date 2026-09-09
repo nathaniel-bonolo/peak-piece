@@ -84,3 +84,14 @@ The exact final weapon mechanism is not locked yet.
 
 - [[characters/usopp/sogeking|Sogeking]]
 - [[lore/factions/revolutionary-army|Revolutionary Army]]
+
+
+## Betty and the siege
+
+The Revolutionary siege turns Usopp's Water 7 insight into field doctrine. [[characters/belo-betty/overview|Betty]] initially helps him act despite fear, then quietly proves he can perform without her Fruit.
+
+The major payoff uses [[references/history/ghost-army|Ghost Army]]-style deception to make a stronger force believe it is surrounded and then exploit the morale collapse.
+
+## Canon audit
+
+See [[characters/usopp/canon-audit|Canon Audit]].
