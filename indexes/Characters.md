@@ -11,6 +11,13 @@ tags:
 
 # Characters
 
+## Protagonist / Straw Hats
+
+- [[characters/luffy/_Luffy|Monkey D. Luffy]]
+- [[characters/zoro/overview|Roronoa Zoro]]
+- [[characters/chopper/overview|Tony Tony Chopper]]
+- [[characters/sanji/_Sanji|Sanji]]
+
 ## Fishman Island focus
 
 - [[characters/hordy/overview|Hordy Jones]]
@@ -22,16 +29,22 @@ tags:
 - [[characters/whitebeard/overview|Whitebeard]]
 - [[characters/shirahoshi-father/_Shirahoshi Father|Shirahoshi's Father]]
 
-## Straw Hats
+## Amazon Lily
 
-- [[characters/chopper/overview|Tony Tony Chopper]]
-- [[characters/sanji/_Sanji|Sanji]]
+- [[characters/boa-hancock/overview|Boa Hancock]]
 
 ## Charlotte / later arcs
 
 - [[characters/linlin/_Linlin|Charlotte Linlin]]
 - [[characters/pudding/_Pudding|Charlotte Pudding]]
 - [[characters/katakuri/_Katakuri|Charlotte Katakuri]]
+- [[characters/brulee/overview|Charlotte Brulee]]
+
+## Wano / Beast Pirates
+
+- [[characters/kaido/_Kaido|Kaido]]
+- [[characters/queen/_Queen|Queen]]
+- [[characters/black-maria/overview|Black Maria]]
 
 ## Endgame
 

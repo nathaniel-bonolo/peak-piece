@@ -28,6 +28,17 @@ tags:
 - [[lore/factions/whitebeard-pirates|Whitebeard Pirates]]
 - [[lore/factions/big-mom-pirates|Charlotte Empire]]
 
+## Luffy / fleet
+
+- [[lore/factions/straw-hat-fleet|Straw Hat Fleet]]
+- [[lore/locations/amazon-lily|Amazon Lily]]
+
+## Wano / Soul Feast
+
+- [[indexes/Wano and Soul Feast|Wano and Soul Feast MOC]]
+- [[lore/locations/wano|Wano]]
+- [[lore/factions/beast-pirates|Beast Pirates]]
+
 ## Wider systems
 
 - [[lore/history/gem-history|Gem History]]

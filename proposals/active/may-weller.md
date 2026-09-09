@@ -65,16 +65,17 @@ Soap is decontamination, not a universal antidote.
 
 Once toxin has meaningfully entered the body, washing the skin does not magically cure poisoning.
 
-## Bird-bone biomechanics: citation pending
+## Bird-bone biomechanics
 
-CerezaVeneris is looking for an academic source supporting the exact proposed biomechanics of the impact weakness.
+CerezaVeneris supplied an academic source:
 
-Current claim under review:
+[[references/science/avian-bone-biomechanics|Avian Bone Biomechanics]]
 
-- light bird anatomy is poor at taking blunt impact
-- avian bone structure may tolerate some loads differently from direct impact
+The paper supports avian bones as lightweight structures adapted for bending and torsional resistance.
 
-The **combat weakness is accepted in principle**, but the exact real-world biological justification should not be written as confirmed fact until the paper is supplied and checked.
+It does **not** directly prove a blanket claim that bird bones are especially weak to blunt impact.
+
+Peak Piece therefore keeps May's direct-impact vulnerability as an accepted **combat-design choice** without pretending the paper proves more than it does.
 
 ## Combat identity
 
@@ -164,4 +165,4 @@ Do not keep adding major hidden connections.
 
 ## Status
 
-**Duck passed concept and combat-balance review. Academic bird-bone paper still pending.**
+**Duck passed concept and combat-balance review. Research source supplied and checked; the repo now distinguishes what the paper actually supports from the fictional combat choice.**

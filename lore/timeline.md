@@ -11,7 +11,7 @@ tags:
 
 Do not guess dates when we have not locked them.
 
-## Major eras
+## Major eras and story states
 
 - Void Century
 - post-flood Gem consolidation
@@ -22,7 +22,9 @@ Do not guess dates when we have not locked them.
 - Roger era / Haki rediscovery
 - Great Pirate Era
 - pre-timeskip
+- Skypiea: major Luffy ideological snapping point
 - Marineford
+- [[story/interludes/timeskip-haki-training|Amazon Lily Haki Training]]
 - post-Whitebeard Fishman security vacuum
 - Linlin Fishman Island agreement
 - Fishman Island arc

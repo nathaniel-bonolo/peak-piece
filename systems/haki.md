@@ -1,14 +1,40 @@
-# Haki
+---
+type: system
+status: draft
+canon: true
+aliases:
+  - Haki
+tags:
+  - system
+  - haki
+  - gems
+---
 
-Status: Draft
+# Haki
 
 ## Core idea
 
-Haki is a trainable discipline that uses Gems for high-output application.
+Haki is a trainable discipline with multiple techniques and sub-specializations.
+
+High-output application uses [[systems/gems|Gems]].
 
 Gem possession does not equal Haki strength.
 
-Skill, efficiency, perception, control, experience, physical ability, and the size and quality of the available energy source all matter.
+Skill, efficiency, perception, control, experience, physical ability, and the available energy source all matter.
+
+## Training culture
+
+Haki should feel like a martial discipline rather than three upgrade bars.
+
+Different teachers can specialize in different applications of:
+
+- Observation
+- Armament
+- Conqueror's
+
+[[lore/locations/amazon-lily|Amazon Lily]] is one of the surviving cultures where Haki remains integrated into normal martial training.
+
+That is why it becomes Luffy's timeskip school.
 
 ## Historical decline
 
@@ -27,12 +53,6 @@ Knowledge survived in fragments among elites, martial schools, isolated communit
 Roger's crew does not discover one convenient "Haki textbook."
 
 Across multiple Poneglyphs, they encounter descriptions of abilities that resemble things some members of the crew had already stumbled into.
-
-Examples of the tone:
-
-- blades whose edge could not be broken though no smith had forged them so
-- rulers whose presence struck before their hands ever moved
-- warriors who closed their eyes and perceived what sight could not reveal
 
 Across several inscriptions they realize these are not unrelated legends.
 
@@ -59,6 +79,14 @@ After Marineford, the world enters a Haki arms race:
 - top crews teach
 - the Government can no longer rely on suppression and must train Marines more openly
 
+## Luffy's timeskip
+
+Rayleigh is **not** Luffy's two-year master in Peak Piece.
+
+After Marineford, [[characters/boa-hancock/overview|Boa Hancock]] arranges training through Amazon Lily's Haki specialists and personally handles Conqueror's training.
+
+See [[story/interludes/timeskip-haki-training|Timeskip Haki Training]].
+
 ## Current open questions
 
 We still need to lock:
@@ -69,6 +97,7 @@ We still need to lock:
 - depletion and recharge
 - the exact relationship between Gem size and output
 - efficiency differences between users
+- whether "Ryuo" remains a useful named distinction or is simply an Armament technique
 
 ## Rule
 

@@ -9,6 +9,7 @@ tags: [moc, lore, factions]
 
 # Factions
 
+- [[lore/factions/straw-hat-fleet|Straw Hat Fleet]]
 - [[lore/factions/world-government|World Government]]
 - [[lore/factions/marines|Marines]]
 - [[lore/factions/revolutionary-army|Revolutionary Army]]

@@ -8,6 +8,22 @@ tags:
 
 # Story Overview
 
+## Long character thread: Luffy
+
+[[characters/luffy/progression|Luffy]] does not stay psychologically static.
+
+His early belief that piracy means freedom gradually becomes a question about power, responsibility, Roger, Shanks, and what his own flag should mean.
+
+Skypiea is a major snapping point because Enel shows that domination is larger than piracy.
+
+## Timeskip
+
+After Marineford:
+
+[[story/interludes/timeskip-haki-training|Amazon Lily Haki Training]]
+
+replaces the two-year Rayleigh apprenticeship.
+
 ## Current developed arc chain
 
 ### Fishman Island
@@ -21,16 +37,18 @@ tags:
 - Hordy, Shirahoshi, Genauche, Neptune, and Jinbe's competing approaches to liberation
 - the disruption of Linlin's Gem supply
 
+It also deepens Luffy's question about power by contrasting what Whitebeard and Linlin each do with overwhelming pirate authority.
+
 ### Whole Cake Island
 
 [[story/sagas/whole-cake-island/arcs/whole-cake-island/arc|Whole Cake Island]] follows from Linlin's Gem loss, Fishman resistance, Sanji's capture, the Tea Party, and the Charlotte soul economy.
 
 ### Soul Feast
 
-[[story/sagas/soul-feast/arcs/soul-feast/arc|Soul Feast]] later turns Linlin's resource pressure and Kaido's home defense into a Yonko-vs-Yonko war engineered by the Straw Hats and Law.
+[[story/sagas/soul-feast/arcs/soul-feast/arc|Soul Feast]] turns Linlin's resource pressure and Kaido's prepared military state into a Yonko-vs-Yonko war engineered by the Straw Hats and Law.
 
 ## Earlier story
 
-East Blue and many pre-timeskip arcs have not yet been fully rewritten.
+East Blue, Skypiea, and many pre-timeskip arcs have not yet been fully rewritten at chapter level.
 
-Do not invent missing arcs simply to make this file look complete.
+Do not invent missing arcs merely to make this file look complete.

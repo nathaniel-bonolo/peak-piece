@@ -14,22 +14,58 @@ tags:
 
 ## Core idea
 
-Gems are finite portable energy storage used by high-output Devil Fruit applications, Haki, advanced weapons, and technology.
+Gems are finite portable energy storage used to support unusually high-output Devil Fruit applications, Haki, weapons, and technology.
 
 Think of them as physically and economically similar to diamonds, but geopolitically closer to oil.
 
-They are not a universal magic point bar. Skill, stamina, body limits, concentration, heat, and the mechanics of the specific ability still matter.
+> **Gems are amplifiers and external energy stores. They are not permission slips that make powers work.**
+
+A Devil Fruit still works without a Gem.
+
+## Devil Fruit relationship
+
+A Fruit normally runs through the user's own:
+
+- body
+- stamina
+- concentration
+- heat tolerance
+- mechanical limits
+
+Gems let the user push the same ability farther, longer, or harder than their normal body could sustain.
+
+Illustrative scale:
+
+- Kuzan can create ice without a Gem.
+- Freezing an enormous stretch of sea is the kind of feat where major Gem support becomes relevant.
+- [[characters/brulee/overview|Brulee]] can enter and move through the Mirror World normally.
+- Moving thousands of soldiers, equipment, and repeated crossings through a military network requires external Gem support.
+
+The Fruit determines **what is possible**.
+
+The user determines **control and technique**.
+
+The body determines **normal output**.
+
+Gems extend the energy budget without deleting the Fruit's own mechanical constraints.
+
+## Haki relationship
+
+Peak Haki also uses Gems for high-output application.
+
+Gem possession does not equal Haki mastery.
+
+See [[systems/haki|Haki]].
 
 ## Power amplification
 
-Gems allow users to store energy and later release it to support unusually large feats.
-
-Examples of the class of feat Gems are meant to help explain include:
+Gems store energy and later release it to support feats such as:
 
 - freezing huge stretches of sea
-- lifting an island-scale battlefield
+- sustaining island-scale battlefield manipulation
 - top-tier Haki output
 - large military technologies
+- mass Devil Fruit logistics
 
 Exact energy math is not locked yet.
 
@@ -57,7 +93,7 @@ Artificial Gems are better than natural Gems at the same size.
 
 Their weakness is manufacturing scale, not quality.
 
-Current technology can only manufacture them up to a limited size. Small artificial Gems are therefore excellent for machines and weapons, but artificial manufacturing has not yet reached the size class needed for the highest-end combat applications.
+Current technology can only manufacture them up to a limited size. Small artificial Gems are excellent for machines and weapons, but artificial manufacturing has not yet reached the size class needed for the highest-end combat applications.
 
 Gem storage rises sharply with size. The exact mathematical scaling is not locked yet.
 
@@ -77,7 +113,7 @@ A loop like:
 
 electricity -> Gem -> Devil Fruit effect -> heat -> turbine -> electricity
 
-should be inefficient enough that it cannot create free energy.
+must remain inefficient enough that it cannot create free energy.
 
 ## Gem injection
 
@@ -103,6 +139,8 @@ The interesting question is not only "can they do this?" but "what do they give 
 
 ## Related
 
+- [[systems/devil-fruits|Devil Fruits]]
+- [[systems/haki|Haki]]
 - [[lore/economy/gems|Gem Economy]]
 - [[lore/history/gem-history|Gem History]]
 - [[lore/locations/fishman-island|Fishman Island]]

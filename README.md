@@ -75,6 +75,10 @@ Read the full version in [`WRITING-PHILOSOPHY.md`](WRITING-PHILOSOPHY.md).
 | [`canvas/`](canvas/) | Visual relationship maps |
 | [`indexes/`](indexes/) | Maps of Content for fast navigation |
 
+## Latest locked decisions
+
+See [`CHANGELOG.md`](CHANGELOG.md) for the current V4 lock.
+
 ## Contributing
 
 You do not need to agree with every current decision.

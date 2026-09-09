@@ -26,20 +26,15 @@ Examples:
 - Linlin can extract souls and place soul material into other things.
 - Genauche can change the density of material she touches.
 
-## Energy
+## Gems do not power the Fruit
 
-High-output Devil Fruit use can require [[systems/gems|Gem]] energy.
+Devil Fruits function without [[systems/gems|Gems]].
 
-This does not erase the Fruit's own constraints.
+Normal use is limited by the user's body, stamina, concentration, heat, and the Fruit's mechanics.
 
-The user still has:
+Gems can provide external energy for unusually large, sustained, or repeated output.
 
-- body limits
-- concentration limits
-- heat
-- stamina
-- specific mechanical limitations
-- opportunity cost
+They do not create abilities the Fruit did not already have.
 
 ## Design rule
 
@@ -50,6 +45,25 @@ Prefer:
 over:
 
 > new situation -> surprise new power
+
+## Awakening
+
+An awakening should still emerge from the Fruit's core property.
+
+For [[characters/luffy/abilities|Luffy]], the Fruit remains rubber-based.
+
+The Nika / hidden Zoan retcon is removed.
+
+## Fishmen and Devil Fruits
+
+A Fishman taking a Devil Fruit is a **character-specific tradeoff**, not automatically a bad decision.
+
+Losing swimming is especially expensive for a Fishman, but the value depends on role and fighting style.
+
+- [[characters/jinbe/overview|Jinbe]] depends heavily on water and Fish-Man Karate, so most Fruits would cost him far more than they give.
+- Jack can rationally accept a powerful Zoan if the command/combat value is worth sacrificing free swimming.
+
+Peak Piece should ask what the specific person gains and loses instead of applying a species-wide rule.
 
 ## Pharmacology
 
@@ -67,8 +81,9 @@ If a Mythical Zoan appears, its abilities still need a coherent core.
 
 The current [[proposals/active/may-weller|May Weller]] proposal is being judged under this rule.
 
-## Open questions
+## Related
 
-- exact reincarnation mechanics
-- degree of Zoan will
-- how object-fed Zoans work in Peak continuity
+- [[systems/gems|Gems]]
+- [[systems/devil-fruit-pharmacology|Devil Fruit Pharmacology]]
+- [[characters/luffy/abilities|Luffy's abilities]]
+- [[lore/factions/beast-pirates|Beast Pirates]]

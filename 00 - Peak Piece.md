@@ -45,6 +45,7 @@ Fishman Island is the suggested starting point right now.
 - [[CONTRIBUTING|Contributing]]
 - [[CONTRIBUTORS|Contributors]]
 - [[OBSIDIAN|Obsidian Guide]]
+- [[CHANGELOG|Latest Locked Changes]]
 - [[templates/README|Templates Guide]]
 - [[canvas/README|Canvas Guide]]
 

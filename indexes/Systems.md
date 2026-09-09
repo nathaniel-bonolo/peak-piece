@@ -1,6 +1,10 @@
 ---
 type: moc
-tags: [moc, systems]
+status: live
+canon: true
+tags:
+  - moc
+  - systems
 ---
 
 # Systems
@@ -13,3 +17,9 @@ tags: [moc, systems]
 - [[systems/soul-system|Soul System]]
 - [[systems/combat|Combat]]
 - [[systems/technology|Technology]]
+
+## Character applications
+
+- [[characters/luffy/abilities|Luffy's rubber awakening]]
+- [[characters/brulee/overview|Brulee's military-scale Mirror World]]
+- [[lore/factions/beast-pirates|SMILE doctrine]]

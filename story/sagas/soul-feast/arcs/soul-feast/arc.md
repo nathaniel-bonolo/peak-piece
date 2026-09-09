@@ -1,6 +1,17 @@
-# Soul Feast
+---
+type: arc
+status: draft
+canon: true
+aliases:
+  - Soul Feast
+  - Soul Feast War
+tags:
+  - story
+  - soul-feast
+  - wano
+---
 
-Status: Draft
+# Soul Feast
 
 ## Core premise
 
@@ -43,11 +54,32 @@ Linlin visibly arrives on one ship.
 
 The hidden army has travelled conventionally toward Wano first.
 
-Only near the target does Brulee move major forces through the Mirror World at enormous Gem cost.
+Only near the target does [[characters/brulee/overview|Brulee]] move major forces through the Mirror World.
+
+The Fruit itself does not require Gems.
+
+The enormous army-scale operation does.
+
+## Kaido's Wano
+
+Peak Kaido is not simply waiting inside a raid dungeon.
+
+[[lore/locations/wano|Wano]] is a prepared military state.
+
+Kaido's regime imports useful technology and expertise even while ordinary citizens remain trapped by isolation.
+
+His strategic inspiration is partly drawn from [[references/history/oda-nobunaga|Oda Nobunaga]]:
+
+- aggressively adopt useful military advantages
+- reorganize forces around them
+- use foreign contact when it serves conquest
+- be ruthless about failure
+
+This is structural inspiration, not historical cosplay.
 
 ## Kaido home advantage
 
-Kaido has planned Wano invasion defense for years.
+Kaido has planned invasion defense for years.
 
 He knows:
 
@@ -62,17 +94,39 @@ Linlin brings the best expeditionary plan she can given her information.
 
 She is not stupid because Kaido has home-field tools she could not know about.
 
+## Beast Pirate doctrine
+
+Kaido's Zoan obsession becomes coherent military strategy.
+
+Natural Zoans prove that specialized bodies can create battlefield roles conventional soldiers cannot.
+
+SMILE attempts to industrialize that advantage.
+
+Caesar produces unstable results.
+
+[[characters/queen/overview|Queen]] turns useful failures into doctrine instead of feeding obviously useless products to the army and praying.
+
+See [[lore/factions/beast-pirates|Beast Pirates]].
+
 ## Major systems
 
 ### Mirror deployment
 
-Brulee's Mirror World is not free global teleportation.
+Brulee can use the Mirror World normally from her own stamina.
 
-Crossings cost Gems.
+Military-scale transport is different.
 
-Mirrors must be attuned.
+Moving thousands of soldiers, equipment, supplies, and repeated waves requires enormous [[systems/gems|Gem]] support.
 
-Range matters.
+Gems extend her energy budget.
+
+They do not remove:
+
+- attuned mirrors
+- range
+- infrastructure
+- crossing limits
+- Brulee as the critical operator
 
 Seed mirrors spread the local network after the army arrives.
 
@@ -104,11 +158,25 @@ The attack uses resonance to damage:
 - structures
 - terrain
 
-The audience should realize the "soundtrack" is diegetic before somebody explains it.
+The audience should initially experience the sound as if it were normal score.
+
+Then sand vibrates.
+
+Cups shake.
+
+Mirrors begin to tick.
+
+Only then should the audience understand that the "soundtrack" is inside the battlefield.
+
+Perospero can rapidly patch personnel with ear protection.
+
+That helps the soldiers.
+
+It does not protect the mirrors, structures, or ground.
 
 ### Hyenas
 
-Kaido's SMILE doctrine turns defects into features.
+Kaido's SMILE doctrine turns selected defects into features.
 
 Hyena troops embrace pain, have low fear, and attack wounded soldiers.
 
@@ -171,3 +239,5 @@ It is a dense, oppressive, resource-hungry soul weapon forged from twenty years 
 Soul Feast should be built from previously established rules.
 
 The war should collide known systems rather than introduce a new magic trick every chapter.
+
+Characters should move between objectives because the battlefield changes, not because every Straw Hat needs a private boss room.

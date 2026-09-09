@@ -1,6 +1,6 @@
 {
   "name": "Peak Piece",
-  "version": 2,
+  "version": 4,
   "canon_roots": [
     "systems",
     "characters",
@@ -21,5 +21,6 @@
     "Nathaniel Bonolo",
     "CerezaVeneris",
     "Remmkoe"
-  ]
+  ],
+  "latest_lock": "V4 - post-V3 writers-room decisions"
 }
