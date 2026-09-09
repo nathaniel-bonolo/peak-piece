@@ -15,6 +15,8 @@ tags:
 
 - [[characters/luffy/_Luffy|Monkey D. Luffy]]
 - [[characters/zoro/overview|Roronoa Zoro]]
+- [[characters/usopp/_Usopp|Usopp]]
+- [[characters/robin/_Robin|Nico Robin]]
 - [[characters/chopper/overview|Tony Tony Chopper]]
 - [[characters/sanji/_Sanji|Sanji]]
 

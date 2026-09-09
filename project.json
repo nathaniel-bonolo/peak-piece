@@ -1,6 +1,6 @@
 {
   "name": "Peak Piece",
-  "version": 4,
+  "version": 5,
   "canon_roots": [
     "systems",
     "characters",
@@ -22,5 +22,5 @@
     "CerezaVeneris",
     "Remmkoe"
   ],
-  "latest_lock": "V4 - post-V3 writers-room decisions"
+  "latest_lock": "V5 - Robin and Usopp timeskip / Usopp combat identity"
 }

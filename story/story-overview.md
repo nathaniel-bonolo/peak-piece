@@ -18,11 +18,18 @@ Skypiea is a major snapping point because Enel shows that domination is larger t
 
 ## Timeskip
 
-After Marineford:
+Peak Piece does not preserve canon destinations merely for symmetry.
 
-[[story/interludes/timeskip-haki-training|Amazon Lily Haki Training]]
+See [[story/interludes/straw-hat-timeskip-distribution|Straw Hat Timeskip Distribution]].
 
-replaces the two-year Rayleigh apprenticeship.
+Current locked directions:
+
+- Luffy -> [[story/interludes/timeskip-haki-training|Amazon Lily Haki Training]]
+- Robin -> [[characters/robin/timeskip|Revolutionary Army base]]
+- Usopp -> [[characters/usopp/timeskip|Revolutionary field environment]]
+- Sanji -> food / cuisine culture, exact destination open
+
+Robin and Usopp can share an organization while developing completely different specialties.
 
 ## Current developed arc chain
 

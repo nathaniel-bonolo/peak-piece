@@ -11,6 +11,52 @@ tags:
 
 # Changelog
 
+## V5 - Robin and Usopp timeskip lock
+
+### Robin
+
+- Kuma sends Robin **directly to the Revolutionary Army base**.
+- Peak Piece removes the Tequila Wolf slavery detour as the route required to get her into the RA.
+- The Revolutionary Army remains the natural timeskip destination because Robin's archaeology, history, languages, Poneglyph knowledge, intelligence instincts, and experience with state persecution all belong there.
+- Robin does **not** need to be sent to Kamabakka merely because identity is thematically relevant. She can meet Ivankov through the Revolutionary Army if that material becomes useful.
+- Robin and Usopp can both train with the RA without needing the same training program.
+
+### Usopp
+
+- Usopp's Water 7 duel with Luffy becomes a foundational combat realization.
+- He accepts that he lost, but notices that information and preparation briefly let him control the initiative against somebody vastly stronger.
+- His core combat philosophy becomes: **if I know what I am fighting and I have enough time to prepare, I can compete with people stronger than me.**
+- Cowardice and strategy are the same threat-detection brain under different conditions. Without preparation, Usopp spirals. With preparation, he converts the same fear into contingencies.
+- Sogeking is no longer just a joke identity. The mask increasingly means: **I came prepared.**
+- Usopp's dream evolves. At first he believes becoming a brave warrior of the sea means preparing for enough kinds of danger that fear can no longer stop him.
+- The long-term endpoint is still genuine bravery: eventually he must act in a situation he could not prepare for.
+- Usopp ditches the slingshot as his primary serious weapon and develops a modular long-range weapons system. The exact final mechanism is still open.
+- His timeskip training should emphasize marksmanship, reconnaissance, sabotage, traps, communications disruption, escape planning, intelligence, asymmetric warfare, and battlefield preparation.
+- Kuma sends Usopp toward an **active Revolutionary field environment**, not because the plot needs another Chosen One, but because those are the people who specialize in making weaker forces dangerous through information and preparation.
+
+### Robin + Usopp in the Revolutionary Army
+
+The two Straw Hats serve completely different functions:
+
+- Robin learns how states, archives, propaganda, intelligence networks, liberation movements, and hidden history interact.
+- Usopp learns how a weaker force can beat a stronger force without meeting it head-on.
+
+Same organization. Different curriculum.
+
+### Sanji, Nami, and Franky status
+
+- Sanji's timeskip direction moves toward a food / cuisine culture that can expand cooking, nutrition, logistics, and combat support. Exact island and curriculum are still open.
+- Nami's canon core is currently fine but needs expansion rather than replacement.
+- Franky's canon core is currently fine unless a stronger problem or opportunity is identified.
+
+### Not locked yet
+
+- Usopp developing explicit contingency plans against every Straw Hat after the Evil Zoro incident is a strong possible flaw, but remains a proposal for now.
+- The exact weapon Usopp builds after abandoning the slingshot is not locked.
+- The exact Revolutionary field operation through which Usopp proves himself is not locked.
+- The full Robin timeskip curriculum is not locked.
+- The full Sanji timeskip destination is not locked.
+
 ## V4 - Locked since V3
 
 This version records the writers-room decisions accepted after V3.

@@ -26,6 +26,26 @@ Sanji should matter because of who he already is:
 
 His character should not be held together by pervert gags.
 
+## Timeskip direction
+
+Sanji does not need to stay bound to canon's Kamabakka route.
+
+Current direction is a **food / cuisine culture** where his two-year growth can expand what already makes him indispensable:
+
+- cooking
+- nutrition
+- preservation
+- ration design
+- rare ingredients
+- recovery food
+- logistics
+- feeding a crew under extreme conditions
+- potentially food with combat or medical support functions where the system can justify it
+
+Exact island, teachers, and mechanics are still open.
+
+The point is specialization, not handing Sanji a random theme-first destination.
+
 ## WCI capture direction
 
 Current proposal direction:
