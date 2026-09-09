@@ -1,6 +1,14 @@
-# Lore Topic
+---
+type: lore
+status: concept
+canon: false
+aliases:
+  - Lore Topic
+tags:
+  - lore
+---
 
-Status: Concept
+# Lore Topic
 
 ## Summary
 
@@ -16,6 +24,15 @@ Status: Concept
 
 ## Timeline
 
-## Related files
+## Character consequences
+
+## Story consequences
 
 ## Open questions
+
+- 
+
+## Related
+
+- [[indexes/Lore|Lore MOC]]
+- [[lore/timeline|Timeline]]

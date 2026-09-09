@@ -1,6 +1,16 @@
-# Trade
+---
+type: lore
+status: concept
+canon: true
+aliases:
+  - "Trade"
+tags:
+  - lore
+  - economy
+  - trade
+---
 
-Status: Concept
+# Trade
 
 This file will track major trade flows once enough world geography is locked.
 
@@ -15,3 +25,11 @@ Likely important categories:
 - ships
 - rare materials
 - information
+
+## Related
+
+- [[lore/economy/gems|Gem Economy]]
+- [[lore/locations/fishman-island|Fishman Island]]
+- [[lore/locations/totto-land|Totto Land]]
+- [[lore/factions/world-government|World Government]]
+- [[lore/factions/big-mom-pirates|Charlotte Empire]]

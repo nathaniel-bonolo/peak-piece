@@ -1,6 +1,14 @@
-# System Name
+---
+type: system
+status: concept
+canon: false
+aliases:
+  - System Name
+tags:
+  - system
+---
 
-Status: Concept
+# System Name
 
 ## One-sentence rule
 
@@ -28,8 +36,19 @@ Status: Concept
 
 ## World adaptation
 
-- 
+Who builds doctrine, markets, institutions, counters, or infrastructure around this?
+
+## Character access
+
+Who actually knows enough to exploit the system?
+
+Do not assume theoretical possibility equals character knowledge.
 
 ## Open questions
 
--
+- 
+
+## Related
+
+- [[indexes/Systems|Systems MOC]]
+- [[WRITING-PHILOSOPHY|Writing Philosophy]]

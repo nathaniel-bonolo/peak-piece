@@ -1,35 +1,127 @@
+---
+type: location
+status: draft
+canon: true
+aliases:
+  - "Fishman Island"
+tags:
+  - location
+  - fishman-island
+  - gems
+---
+
 # Fishman Island
 
-Status: Draft
+## Strategic position
 
-## Gem role
+Fishman Island sits on one of the largest known natural Gem basins in the world.
 
-Fishman Island is one of the most strategically important Gem extraction regions in the world.
+In the Gem economy, its strategic importance is closer to Saudi Arabia than to an ordinary island.
 
-Think of its position in the energy economy as closer to Saudi Arabia than to an ordinary island economy.
+Most major deposits became harder to access after the sea-level rise.
 
-Because many Gem deposits are underwater, Fishmen have unique access to resources surface powers desperately need.
+Fishmen can work deep underwater environments that are difficult or lethal for ordinary human miners.
 
-## Oppression
+That makes Fishman labor and Fishman territory enormously valuable.
 
-The World Government's domination of Fishmen is materially tied to resource extraction.
+## Why nobody simply conquers it
 
-Linlin's "protection" can also function as an imperial extraction relationship.
+Fishman Island is difficult to occupy directly.
 
-Fishman Island is therefore caught between powers that both benefit from its resources.
+Constraints include:
 
-## Luffy alliance direction
+- extreme environment
+- logistics
+- food
+- troop transport
+- local Fishman strength
+- hostile underwater terrain
+- long supply lines
 
-Current direction:
+Outside powers therefore often prefer indirect control:
 
-At the end of the Fishman Island saga, Luffy agrees to help free Fishman residents and loosen Linlin's control.
+- kidnapping
+- trafficking
+- forced labor
+- contracts
+- middlemen
+- trade restrictions
+- political pressure
 
-In return, Fishman Island provides an alliance and favorable Gem access.
+## Fishman slavery
 
-This gives Whole Cake Island a political and economic motive beyond rescuing Sanji.
+A living Fishman can be treated as "living gold" by traffickers because the labor has direct strategic value in Gem extraction.
 
-## Important caution
+Some Fishmen also participate in kidnapping or selling other Fishmen.
 
-Do not solve liberation by destroying Fishman Island's own economic future.
+The system is not morally simplified into humans doing every bad thing and Fishmen doing none.
 
-The target should be coercive control, extraction infrastructure, quotas, or imperial enforcement, not "destroy all mines."
+## Sea-creature taming
+
+Fishmen have a natural spectrum of ability to tame, communicate with, or work alongside sea creatures.
+
+This is why ordinary Fishmen may ride sharks, seahorses, or other marine animals.
+
+The legendary extreme is someone capable of taming an actual Sea King.
+
+This is not a royal bloodline power.
+
+## Whitebeard era
+
+See [[characters/whitebeard/overview|Whitebeard]].
+
+Whitebeard claims the people rather than pretending the island itself needs conventional defense.
+
+His deterrence opens surface routes, reduces trafficking, frees slaves, and lets Fishman Island trade Gems on fairer terms.
+
+## Post-Whitebeard vacuum
+
+Whitebeard's death causes immediate material consequences.
+
+Safe movement collapses.
+
+Kidnapping and trafficking return.
+
+Merchants and families become frightened.
+
+[[characters/neptune/overview|King Neptune]] faces a security crisis.
+
+## Linlin agreement
+
+[[characters/linlin/overview|General Linlin]] offers protection and recognizes Fishman Island's strategic value.
+
+In exchange she takes control of major Gem extraction.
+
+Terms include:
+
+- required mine labor
+- required Gem output
+- a minimal local profit share
+- basic mine conditions
+- a quota of Fishman "residents" in Totto Land
+
+The residents function as hostages.
+
+Linlin does not need to call them hostages for the mechanism to work.
+
+[[characters/genauche/overview|Charlotte Genauche]] administers the operation.
+
+## Current arc pressure
+
+The Straw Hats arrive only weeks before Linlin's Tea Party.
+
+Gem extraction is therefore running near maximum intensity.
+
+The stockpile is unusually large.
+
+Worker collection and Totto Land transfers are highly visible.
+
+This creates the opportunity window for Hordy and Shirahoshi's plans.
+
+## Related
+
+- [[story/sagas/fishman-island/arcs/fishman-island/arc|Fishman Island Arc]]
+- [[indexes/Fishman Island|Fishman Island MOC]]
+- [[lore/economy/gems|Gem Economy]]
+- [[lore/economy/slavery-and-extraction|Slavery and Extraction]]
+- [[lore/history/fishman-liberation|Fishman Liberation History]]

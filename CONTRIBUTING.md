@@ -54,3 +54,16 @@ Critique the work aggressively if needed. Do not make disagreement personal.
 If an idea is weak, explain why it is weak and what function it fails to perform.
 
 If you think an existing idea should be deleted, identify what would be lost before deleting it.
+
+## Obsidian workflow
+
+The repository can be opened directly as an Obsidian vault.
+
+When adding a major character, system, lore, or story file:
+
+- add useful wikilinks to related authoritative notes
+- add the note to the relevant `indexes/` map of content
+- prefer path-qualified wikilinks
+- keep unresolved material in `proposals/`
+
+Backlinks should emerge from actual relationships, not from dumping a giant "see also" list into every note.

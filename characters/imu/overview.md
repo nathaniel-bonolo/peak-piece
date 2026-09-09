@@ -1,6 +1,16 @@
-# Imu
+---
+type: character
+status: draft
+canon: true
+aliases:
+  - "Imu"
+tags:
+  - character
+  - imu
+  - endgame
+---
 
-Status: Draft
+# Imu
 
 ## Core
 
@@ -17,3 +27,11 @@ The mechanics should characterize him.
 Imu is a man who avoids costs and makes others pay.
 
 Progress against him means forcing a consequence to remain his.
+
+## Related
+
+- [[characters/imu/abilities|Abilities]]
+- [[characters/imu/relationships|Relationships]]
+- [[characters/linlin/overview|Charlotte Linlin]]
+- [[systems/soul-system|Soul System]]
+- [[lore/factions/world-government|World Government]]

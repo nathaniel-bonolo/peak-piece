@@ -1,6 +1,16 @@
-# Gem History
+---
+type: history
+status: draft
+canon: true
+aliases:
+  - "Gem History"
+tags:
+  - lore
+  - history
+  - gems
+---
 
-Status: Draft
+# Gem History
 
 ## Ancient deposits
 
@@ -38,3 +48,11 @@ It includes:
 - legal control
 - coercion
 - information suppression
+
+## Related
+
+- [[systems/gems|Gems]]
+- [[lore/economy/gems|Gem Economy]]
+- [[lore/locations/fishman-island|Fishman Island]]
+- [[lore/factions/world-government|World Government]]
+- [[characters/imu/overview|Imu]]

@@ -1,6 +1,15 @@
-# Arc Name
+---
+type: arc
+status: concept
+canon: false
+aliases:
+  - Arc Name
+tags:
+  - story
+  - arc
+---
 
-Status: Concept
+# Arc Name
 
 ## Premise
 
@@ -10,23 +19,23 @@ Status: Concept
 
 ### Faction A
 
-Objective:
+**Objective:**
 
-Information:
+**Information:**
 
-Resources:
+**Resources:**
 
-Constraints:
+**Constraints:**
 
 ### Faction B
 
-Objective:
+**Objective:**
 
-Information:
+**Information:**
 
-Resources:
+**Resources:**
 
-Constraints:
+**Constraints:**
 
 ## Character arcs
 
@@ -35,6 +44,10 @@ Constraints:
 1. 
 2. 
 3. 
+
+## Information state
+
+Track what major characters/factions know, do not know, and falsely believe.
 
 ## Reveals
 
@@ -45,3 +58,10 @@ Constraints:
 ## Chapter list
 
 ## Open questions
+
+- 
+
+## Related
+
+- [[story/_Story|Current Story]]
+- [[indexes/Story|Story MOC]]

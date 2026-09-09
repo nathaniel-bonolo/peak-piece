@@ -1,6 +1,16 @@
-# Gems
+---
+type: system
+status: draft
+canon: true
+aliases:
+  - Gems
+tags:
+  - system
+  - gems
+  - economy
+---
 
-Status: Draft
+# Gems
 
 ## Core idea
 
@@ -10,21 +20,36 @@ Think of them as physically and economically similar to diamonds, but geopolitic
 
 They are not a universal magic point bar. Skill, stamina, body limits, concentration, heat, and the mechanics of the specific ability still matter.
 
+## Power amplification
+
+Gems allow users to store energy and later release it to support unusually large feats.
+
+Examples of the class of feat Gems are meant to help explain include:
+
+- freezing huge stretches of sea
+- lifting an island-scale battlefield
+- top-tier Haki output
+- large military technologies
+
+Exact energy math is not locked yet.
+
 ## Natural Gems
 
 Natural Gems are mined.
 
-After the ancient rise in sea level, many major deposits became submerged. This made underwater extraction strategically important and gave Fishman Island enormous geopolitical value.
+After the ancient sea-level rise, many major deposits became submerged.
 
-The World Government's power over the Gem economy comes from a mixture of:
+That made underwater extraction strategically important and made [[lore/locations/fishman-island|Fishman Island]] one of the most important energy regions in the world.
 
-- old stockpiles
-- military control
-- refining
-- shipping
-- legal restrictions
-- trade networks
-- coercion over major extraction regions
+## Fishmen and extraction
+
+Normal humans cannot safely work many deep Gem basins because of pressure and access constraints.
+
+Fishmen are uniquely suited to the work.
+
+This made living Fishmen economically valuable to slavers, states, pirates, and extraction interests.
+
+Prejudice against Fishmen was not created from nothing by one conspiracy, but the World Government and other powers deliberately exploit and amplify prejudice because dehumanization lowers the political cost of coercive labor.
 
 ## Artificial Gems
 
@@ -54,6 +79,12 @@ electricity -> Gem -> Devil Fruit effect -> heat -> turbine -> electricity
 
 should be inefficient enough that it cannot create free energy.
 
+## Gem injection
+
+Fishman history preserves a dangerous direct-body technique.
+
+See [[systems/gem-injection|Gem Injection]].
+
 ## Strategic consequences
 
 Gems create opportunity cost.
@@ -69,3 +100,9 @@ A faction may have to choose between:
 - emergency reserves
 
 The interesting question is not only "can they do this?" but "what do they give up by doing it?"
+
+## Related
+
+- [[lore/economy/gems|Gem Economy]]
+- [[lore/history/gem-history|Gem History]]
+- [[lore/locations/fishman-island|Fishman Island]]

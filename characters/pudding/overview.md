@@ -1,6 +1,17 @@
-# Charlotte Pudding
+---
+type: character
+status: draft
+canon: true
+aliases:
+  - "Charlotte Pudding"
+  - "Pudding"
+tags:
+  - character
+  - charlotte
+  - pudding
+---
 
-Status: Draft
+# Charlotte Pudding
 
 ## Core
 
@@ -58,3 +69,12 @@ Mature direction:
 Potential later line:
 
 > I am Charlotte Pudding. I decide what I carry forward.
+
+## Related
+
+- [[characters/pudding/abilities|Abilities]]
+- [[characters/pudding/progression|Progression]]
+- [[characters/pudding/relationships|Relationships]]
+- [[characters/linlin/overview|Linlin]]
+- [[characters/katakuri/overview|Katakuri]]
+- [[proposals/active/may-weller|May Weller proposal]]

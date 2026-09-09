@@ -1,6 +1,15 @@
-# Chapter XXX Notes
+---
+type: chapter-notes
+status: draft
+canon: false
+aliases:
+  - Chapter XXX Notes
+tags:
+  - story
+  - notes
+---
 
-Status: Draft
+# Chapter XXX Notes
 
 ## Purpose
 
@@ -10,15 +19,15 @@ What does this chapter actually accomplish?
 
 ### Character / faction
 
-Knows:
+**Knows:**
 
 - 
 
-Does not know:
+**Does not know:**
 
 - 
 
-Believes:
+**Believes:**
 
 - 
 
@@ -52,3 +61,8 @@ Believes:
 - Continuity review: 0%
 - Manga adaptation: 0%
 - Anime adaptation: 0%
+
+## Related
+
+- Chapter: 
+- Arc:

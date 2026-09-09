@@ -1,33 +1,49 @@
-# Manga Page Plan
+---
+type: manga-page-plan
+status: draft
+canon: false
+aliases:
+  - Manga Page Plan
+tags:
+  - production
+  - manga
+---
 
-Status: Draft
+# Manga Page Plan
 
 ## Source
 
+- Story source:
+- Adaptation note:
+
 ## Page 1
 
-Purpose:
+**Purpose:**
 
-Panels:
+**Panels:**
 
 1. 
 2. 
 3. 
 
-Dialogue:
+**Dialogue:**
 
-Notes:
+**Notes:**
 
 ## Page 2
 
-Purpose:
+**Purpose:**
 
-Panels:
+**Panels:**
 
 1. 
 2. 
 3. 
 
-Dialogue:
+**Dialogue:**
 
-Notes:
+**Notes:**
+
+## Related
+
+- [[production/manga/README|Manga Production]]

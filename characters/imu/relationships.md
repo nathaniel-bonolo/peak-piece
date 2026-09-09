@@ -1,6 +1,16 @@
-# Imu: Relationships
+---
+type: character-relationships
+status: draft
+canon: true
+aliases:
+  - "Imu Relationships"
+tags:
+  - character
+  - imu
+  - relationships
+---
 
-Status: Draft
+# Imu: Relationships
 
 ## Charlotte Linlin
 
@@ -11,3 +21,10 @@ In exchange, Linlin supplies high-quality soul material on a recurring schedule.
 The relationship is contractual, strategic, and mutually dangerous.
 
 Linlin is powerful enough to rule an empire and still fears what happens if she fails the contract.
+
+## Related
+
+- [[characters/imu/overview|Imu]]
+- [[characters/imu/abilities|Abilities]]
+- [[characters/linlin/overview|Charlotte Linlin]]
+- [[lore/factions/world-government|World Government]]

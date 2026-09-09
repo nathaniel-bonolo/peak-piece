@@ -1,6 +1,17 @@
-# Charlotte Katakuri
+---
+type: character
+status: draft
+canon: true
+aliases:
+  - "Charlotte Katakuri"
+  - "Katakuri"
+tags:
+  - character
+  - charlotte
+  - katakuri
+---
 
-Status: Draft
+# Charlotte Katakuri
 
 ## Core
 
@@ -33,3 +44,11 @@ He may correctly predict that somebody intends to leave and open the door for th
 His growth is not becoming socially incompetent.
 
 It is learning that observation cannot answer every human question.
+
+## Related
+
+- [[characters/katakuri/abilities|Abilities]]
+- [[characters/katakuri/progression|Progression]]
+- [[characters/katakuri/relationships|Relationships]]
+- [[characters/pudding/overview|Pudding]]
+- [[characters/linlin/overview|Linlin]]

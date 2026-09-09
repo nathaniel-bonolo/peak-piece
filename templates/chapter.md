@@ -1,7 +1,23 @@
-# Chapter XXX: Title
+---
+type: chapter
+status: draft
+canon: true
+aliases:
+  - Chapter XXX
+tags:
+  - story
+  - chapter
+---
 
-Status: Draft
+# Chapter XXX: Title
 
 [Reader-facing chapter text goes here.]
 
-Do not put production instructions in this file.
+> [!important]
+> Do not put prompt engineering, camera coordinates, production instructions, or writer-only continuity notes in this file.
+
+## Navigation
+
+- Previous: 
+- Next: 
+- Arc:

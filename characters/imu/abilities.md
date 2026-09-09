@@ -1,6 +1,16 @@
-# Imu: Abilities
+---
+type: character-abilities
+status: draft
+canon: true
+aliases:
+  - "Imu Abilities"
+tags:
+  - character
+  - imu
+  - abilities
+---
 
-Status: Draft
+# Imu: Abilities
 
 ## Devil Fruit
 
@@ -38,3 +48,10 @@ This is the current explanation direction for Rocks being "Domi Reversed."
 Linlin supplies high-quality soul material that Imu can use as consequence sinks.
 
 This helps explain the appearance of immortality without literal immortality.
+
+## Related
+
+- [[characters/imu/overview|Imu]]
+- [[characters/imu/relationships|Relationships]]
+- [[characters/linlin/abilities|Linlin's soul abilities]]
+- [[systems/soul-system|Soul System]]

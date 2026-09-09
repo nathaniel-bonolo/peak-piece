@@ -1,6 +1,16 @@
-# Totto Land
+---
+type: location
+status: draft
+canon: true
+aliases:
+  - "Totto Land"
+tags:
+  - location
+  - totto-land
+  - charlotte
+---
 
-Status: Draft
+# Totto Land
 
 ## Terminology
 
@@ -27,3 +37,11 @@ It should have:
 - internal family politics
 
 Not every citizen should exist only to sing about candy.
+
+## Related
+
+- [[characters/linlin/overview|Charlotte Linlin]]
+- [[lore/factions/big-mom-pirates|Charlotte Empire]]
+- [[story/sagas/whole-cake-island/arcs/whole-cake-island/arc|Whole Cake Island]]
+- [[systems/soul-system|Soul System]]
+- [[lore/economy/gems|Gem Economy]]

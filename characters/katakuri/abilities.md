@@ -1,6 +1,16 @@
-# Charlotte Katakuri: Abilities
+---
+type: character-abilities
+status: draft
+canon: true
+aliases:
+  - "Katakuri Abilities"
+tags:
+  - character
+  - katakuri
+  - abilities
+---
 
-Status: Draft
+# Charlotte Katakuri: Abilities
 
 ## Mochi
 
@@ -24,3 +34,10 @@ It is edible, but using it as normal food production is economically inefficient
 See `overview.md`.
 
 There is no literal future sight.
+
+## Related
+
+- [[characters/katakuri/overview|Katakuri]]
+- [[characters/katakuri/progression|Progression]]
+- [[systems/haki|Haki]]
+- [[systems/combat|Combat]]

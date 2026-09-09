@@ -2,93 +2,86 @@
 
 Peak Piece is a collaborative rewrite of *One Piece*.
 
-The goal is not to make *One Piece* darker, more realistic, or less ridiculous. The goal is to keep the adventure, comedy, absurdity, imagination, and personality while making the characters, powers, world, consequences, and progression hold up under scrutiny.
-
-A lot of the rewrite starts with basic questions:
-
-- What does this ability actually imply?
-- What would a competent person do with it?
-- How would the world adapt if this existed?
-- What are the second and third order effects?
-- What happens after the miracle?
-- If a character learns something, does their behavior actually change?
-- If a smart character loses, did they get outplayed or did the plot make them stupid?
-
-The basic rule is simple:
+The goal is not to make *One Piece* darker, less funny, less weird, or "realistic." The goal is to preserve the adventure, comedy, absurdity, imagination, and personality while making the characters, powers, world, consequences, and progression hold up under scrutiny.
 
 > **Important ideas should survive basic scrutiny.**
 
-## How this repository works
+## Just want to read?
 
-The repository has four main layers:
+Go to [`story/`](story/).
 
-1. **Systems, characters, and lore** define the current accepted rules of Peak Piece.
-2. **Story chapters** are the canonical readable version of the rewrite.
-3. **Manga and anime production** adapt those chapters later.
-4. **Proposals** are not canon until their accepted ideas are merged into the real files.
+**The recommended place to start right now is Fishman Island:**
 
-That means a normal reader should be able to open `story/` and read Peak Piece without needing production notes, prompt engineering, or internal planning documents.
+### [Read the current Fishman Island rewrite](story/sagas/fishman-island/arcs/fishman-island/arc.md)
 
-## Writing principles
+Fishman Island is the current development focus and the most useful entry point into what Peak Piece is trying to do. Whole Cake Island and Soul Feast are also in development, but Fishman Island is the suggested read first.
 
-**Let behavior do the talking.**  
-Backstory should explain a character, not do all the work of making them worth caring about.
+The story layer is for readable rewrite material. You do not need to read the system documents, research notes, proposals, or production files just to follow the project.
 
-**Competent characters create better problems.**  
-A character should not become stupid because the plot needs somebody else to look smart.
+## Best way to browse the project
 
-**Strength is only one part of a fight.**  
-Position, information, terrain, preparation, logistics, resources, timing, objectives, and matchups matter.
+GitHub works fine for reading, but the repository is designed as an **Obsidian vault**.
 
-**Powers should affect the world outside fights.**  
-If an ability can freeze an ocean, create armies, manipulate memories, or move people through mirrors, governments, armies, economies, and ordinary people should react to it.
+For the best navigation experience:
 
-**Power should cost something.**  
-Large-scale abilities should have limits, tradeoffs, and opportunity costs.
+1. Clone the repository, or use GitHub's **Download ZIP** option.
+2. If you downloaded a ZIP, extract it.
+3. Open the `peak-piece` folder as a vault in [Obsidian](https://obsidian.md/).
+4. Start at [`00 - Peak Piece.md`](00%20-%20Peak%20Piece.md).
 
-**The world should remember what happened.**  
-Battles create information. Institutions adapt. Characters learn. Consequences carry forward.
+Obsidian gives you the intended wikilinks, backlinks, properties, local graph, Maps of Content, and the Fishman Island canvas.
 
-**Earn emotional moments.**  
-The more thoroughly the audience understands a person, the smaller the final action can be and still hurt.
+See [`OBSIDIAN.md`](OBSIDIAN.md) for the vault guide.
 
-## Female characters and sexualisation
+## Where discussion happens
 
-Female characters are written as characters first.
+**GitHub is the source of truth. Discord is the writers' room.**
 
-They can be strong, weak, funny, cruel, brilliant, selfish, kind, incompetent, competent, ambitious, frightened, pathetic, or heroic for the same reasons male characters can be. Their gender should not replace personality, goals, skill, or agency.
-
-Peak Piece is not interested in treating women as fanservice with a character attached. We do not sexualise children or child-coded characters, and we do not force sexualised presentation onto female characters simply because they are women.
-
-Women should be allowed to be genuinely competent without the story stopping to congratulate itself for having a competent woman.
-
-A useful test is:
-
-> **If the character's gender changed, would their actual character still exist?**
-
-Gender can matter when the story has a reason for it to matter. It should not be a substitute for writing the person.
-
-## Repository map
-
-- `systems/` contains power systems, technology, combat rules, and shared mechanics.
-- `characters/` contains accepted character rewrites.
-- `lore/` contains history, factions, locations, economy, and timeline material.
-- `story/` contains the readable canonical rewrite.
-- `production/` contains future manga and anime adaptation material.
-- `proposals/` contains ideas that are still being discussed.
-- `references/` contains research and canon reference notes.
-- `templates/` contains standard formats for contributors.
-- `assets/` contains images, maps, diagrams, and other non-text material.
-
-GitHub is the source of truth. Discord is where most brainstorming, discussion, and arguing happens.
-
-## Join the rewrite
+Discord is where we brainstorm, argue, review ideas, and decide what should change.
 
 Discord: https://discord.gg/3fXkMkHJJ
 
-You do not need to agree with every idea already here. Criticism is useful. If something does not make sense, question it.
+Ideas under active discussion belong in `proposals/`. Once an idea is accepted, the actual character, system, lore, or story files are updated. There is intentionally no second "accepted proposals" canon.
 
-The point is not to defend our ideas. The point is to make them better.
+## Writing philosophy, short version
+
+Peak Piece is built around a few principles:
+
+- **Audit everything.** Ask what an idea implies, what it costs, who notices, and what changes afterward.
+- **Let action do the talking.** Do not explain what the audience can already infer.
+- **Earn emotion through accumulated meaning.** Deep setup allows tiny payoffs to hurt.
+- **Competent characters create better problems.** Do not make one side stupid so the other side can look smart.
+- **Optimize for the character, not a chess engine.** Capability is constrained by knowledge, personality, motivation, values, experience, information, and pressure.
+- **New situation, not new power.** Prefer new applications of established mechanics over surprise ability inflation.
+- **Strength is not the whole fight.** Position, information, terrain, logistics, objectives, timing, preparation, attention, and opportunity cost matter.
+- **The world learns.** Battles create doctrine. Institutions adapt. Consequences carry forward.
+- **Do the homework so the story can feel effortless.** The repo can contain spreadsheets and tactical doctrine; the reader should mostly experience their consequences.
+- **Preserve the fun.** The weirdness is not a flaw to sand away.
+
+Read the full version in [`WRITING-PHILOSOPHY.md`](WRITING-PHILOSOPHY.md).
+
+## Repository map
+
+| Area | Purpose |
+| --- | --- |
+| [`story/`](story/) | Reader-facing rewrite material |
+| [`characters/`](characters/) | Accepted character rewrites |
+| [`systems/`](systems/) | Power systems, combat rules, technology, shared mechanics |
+| [`lore/`](lore/) | History, factions, locations, economy, timeline |
+| [`proposals/`](proposals/) | Unresolved ideas; not canon |
+| [`production/`](production/) | Manga/anime adaptation work downstream from story |
+| [`references/`](references/) | Canon, history, mythology, and science research |
+| [`templates/`](templates/) | Obsidian-ready project templates |
+| [`canvas/`](canvas/) | Visual relationship maps |
+| [`indexes/`](indexes/) | Maps of Content for fast navigation |
+
+## Contributing
+
+You do not need to agree with every current decision.
+
+If something does not make sense, question it. If a change removes something canon did well, point that out too.
+
+See [`CONTRIBUTING.md`](CONTRIBUTING.md) and [`CONTRIBUTORS.md`](CONTRIBUTORS.md).
 
 ## Fan project
 

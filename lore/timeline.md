@@ -1,23 +1,36 @@
+---
+type: lore
+status: draft
+canon: true
+tags:
+  - lore
+  - timeline
+---
+
 # Timeline
-
-Status: Draft
-
-This file will eventually become the master chronological index.
 
 Do not guess dates when we have not locked them.
 
 ## Major eras
 
 - Void Century
-- Post-flood consolidation
-- Early World Government
+- post-flood Gem consolidation
+- early World Government
 - Linlin and Imu contract era
-- Roger era
-- Haki rediscovery
+- Fisher Tiger liberation era
+- Whitebeard Fishman protection era
+- Roger era / Haki rediscovery
 - Great Pirate Era
-- Pre-timeskip
+- pre-timeskip
 - Marineford
-- Post-timeskip Haki arms race
-- Soul Feast era
+- post-Whitebeard Fishman security vacuum
+- Linlin Fishman Island agreement
+- Fishman Island arc
+- Whole Cake Island
+- Soul Feast
+
+## Important causal chain
+
+[[characters/whitebeard/overview|Whitebeard]] dies -> Fishman surface security collapses -> [[characters/neptune/overview|Neptune]] accepts [[characters/linlin/overview|Linlin's]] extraction agreement -> Fishman resistance grows -> the Straw Hats disrupt the system -> Linlin suffers Gem pressure -> Whole Cake Island and later Soul Feast inherit the consequences.
 
 Detailed dates still need to be built.

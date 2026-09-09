@@ -1,6 +1,18 @@
-# Charlotte Linlin
+---
+type: character
+status: draft
+canon: true
+aliases:
+  - "Charlotte Linlin"
+  - "General Linlin"
+  - "Big Mom"
+tags:
+  - character
+  - charlotte
+  - linlin
+---
 
-Status: Draft
+# Charlotte Linlin
 
 ## Core
 
@@ -48,7 +60,7 @@ This line is not locked yet.
 
 ## Soul doctrine
 
-See `systems/soul-system.md`.
+See [[systems/soul-system|Soul System]].
 
 ## WCI
 
@@ -62,3 +74,13 @@ Peak Whole Cake Island should treat Linlin as an emperor responding to:
 - internal family and military concerns
 
 She is emotional, but the emotion sits inside functioning imperial machinery.
+
+## Related
+
+- [[characters/linlin/abilities|Abilities]]
+- [[characters/linlin/progression|Progression]]
+- [[characters/linlin/relationships|Relationships]]
+- [[systems/soul-system|Soul System]]
+- [[lore/factions/big-mom-pirates|Charlotte Empire]]
+- [[lore/locations/fishman-island|Fishman Island]]
+- [[lore/locations/totto-land|Totto Land]]

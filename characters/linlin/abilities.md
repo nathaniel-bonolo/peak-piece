@@ -1,6 +1,16 @@
-# Charlotte Linlin: Abilities
+---
+type: character-abilities
+status: draft
+canon: true
+aliases:
+  - "Linlin Abilities"
+tags:
+  - character
+  - linlin
+  - abilities
+---
 
-Status: Draft
+# Charlotte Linlin: Abilities
 
 ## Soul-Soul Fruit
 
@@ -8,7 +18,7 @@ Linlin can extract soul material and place it into other vessels.
 
 Fear helps extraction but does not define total soul value.
 
-See `systems/soul-system.md`.
+See [[systems/soul-system|Soul System]].
 
 ## Personal lifespan
 
@@ -31,3 +41,11 @@ They carry spiritual intent and pressure.
 Linlin is enormously strong independently of the Fruit.
 
 The Fruit does not explain why she is physically terrifying.
+
+## Related
+
+- [[characters/linlin/overview|Linlin]]
+- [[characters/linlin/progression|Progression]]
+- [[systems/soul-system|Soul System]]
+- [[systems/gems|Gems]]
+- [[story/sagas/soul-feast/arcs/soul-feast/arc|Soul Feast]]

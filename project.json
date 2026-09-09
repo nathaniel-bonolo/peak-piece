@@ -1,6 +1,6 @@
 {
   "name": "Peak Piece",
-  "version": 1,
+  "version": 2,
   "canon_roots": [
     "systems",
     "characters",
@@ -13,5 +13,13 @@
     "production"
   ],
   "story_is_canonical_readable_layer": true,
-  "discord": "https://discord.gg/3fXkMkHJJ"
+  "discord": "https://discord.gg/3fXkMkHJJ",
+  "obsidian_home": "00 - Peak Piece.md",
+  "moc_root": "indexes",
+  "current_focus": "Fishman Island",
+  "contributors": [
+    "Nathaniel Bonolo",
+    "CerezaVeneris",
+    "Remmkoe"
+  ]
 }

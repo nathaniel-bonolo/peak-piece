@@ -1,6 +1,16 @@
-# Sanji
+---
+type: character
+status: draft
+canon: true
+aliases:
+  - "Sanji"
+tags:
+  - character
+  - straw-hat
+  - sanji
+---
 
-Status: Draft
+# Sanji
 
 ## Current direction
 
@@ -29,3 +39,10 @@ Sanji has high current value, is more isolatable, and removing him damages the c
 He can therefore be selected as a harvest target and bait for Luffy.
 
 This is still under discussion.
+
+## Related
+
+- [[story/sagas/whole-cake-island/arcs/whole-cake-island/arc|Whole Cake Island]]
+- [[proposals/active/wci-without-germa|WCI Without Germa proposal]]
+- [[characters/pudding/overview|Pudding]]
+- [[characters/chopper/overview|Chopper]]

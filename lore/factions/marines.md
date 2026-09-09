@@ -1,6 +1,15 @@
-# Marines
+---
+type: faction
+status: draft
+canon: true
+aliases:
+  - "Marines"
+tags:
+  - faction
+  - marines
+---
 
-Status: Draft
+# Marines
 
 ## Haki
 
@@ -13,3 +22,10 @@ After Marineford makes Haki public, the Marines must expand training to stay com
 The Marines use expensive weapon platforms like Pacifistas when preparation, logistics, and strategic value justify them.
 
 They do not have infinite deployment.
+
+## Related
+
+- [[systems/haki|Haki]]
+- [[systems/technology|Technology]]
+- [[lore/history/haki-history|Haki History]]
+- [[lore/factions/world-government|World Government]]

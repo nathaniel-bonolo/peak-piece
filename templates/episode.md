@@ -1,11 +1,20 @@
-# Episode XXX: Title
+---
+type: anime-episode
+status: draft
+canon: false
+aliases:
+  - Episode XXX
+tags:
+  - production
+  - anime
+---
 
-Status: Draft
+# Episode XXX: Title
 
 ## Source map
 
 - Chapter:
-- Pages / section:
+- Section:
 
 ## Episode function
 
@@ -22,3 +31,7 @@ Status: Draft
 ## Adaptation changes
 
 ## Production notes
+
+## Related
+
+- [[production/anime/README|Anime Production]]

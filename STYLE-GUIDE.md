@@ -55,3 +55,15 @@ Use one of:
 - `Locked`
 
 "Locked" means accepted until deliberately reopened. It does not mean the project can never change it.
+
+## Obsidian links
+
+Use path-qualified wikilinks for important internal relationships:
+
+`[[characters/hordy/overview|Hordy Jones]]`
+
+This prevents ambiguity between repeated filenames such as `overview.md`.
+
+Use YAML properties on major notes when practical.
+
+Do not require third-party Obsidian plugins for the repository to remain navigable.

@@ -1,6 +1,16 @@
-# Charlotte Pudding: Progression
+---
+type: character-progression
+status: draft
+canon: true
+aliases:
+  - "Pudding Progression"
+tags:
+  - character
+  - pudding
+  - progression
+---
 
-Status: Draft
+# Charlotte Pudding: Progression
 
 ## Thesis
 
@@ -28,3 +38,10 @@ The audience should already know:
 - the cost of extraction
 
 The war then pushes the system to failure.
+
+## Related
+
+- [[characters/pudding/overview|Pudding]]
+- [[characters/pudding/relationships|Relationships]]
+- [[story/sagas/soul-feast/arcs/soul-feast/arc|Soul Feast]]
+- [[proposals/active/may-weller|May Weller proposal]]

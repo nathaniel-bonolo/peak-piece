@@ -1,19 +1,48 @@
+---
+type: guide
+status: live
+canon: true
+aliases:
+  - Story Guide
+tags:
+  - story
+  - reading
+---
+
 # Story
 
-This is the reader-facing canonical story layer.
+This is the reader-facing rewrite layer.
 
-If somebody wants to read Peak Piece and does not care about development, this is where they should go.
+> [!success] Recommended now
+> Start with [[story/sagas/fishman-island/arcs/fishman-island/arc|Fishman Island]].
 
-## Rule
+If you only want to see what Peak Piece is changing in the story, you can stay inside this folder.
 
-`chapter.md` is the story.
+## Current reading order
 
-`notes.md` is for writers.
+1. [[story/sagas/fishman-island/arcs/fishman-island/arc|Fishman Island]]
+2. [[story/sagas/whole-cake-island/arcs/whole-cake-island/arc|Whole Cake Island]]
+3. [[story/sagas/soul-feast/arcs/soul-feast/arc|Soul Feast]]
 
-Do not put AI generation instructions, camera coordinates, prompt weights, or internal continuity checklists into `chapter.md`.
+The earlier East Blue material has not been fully rewritten yet.
+
+## Canonical chapter rule
+
+When prose chapters are written:
+
+- `chapter.md` is the readable canonical chapter
+- `notes.md` is writer-only support material
+
+Planning files such as `arc.md` constrain the chapters but are not manga-production scripts.
 
 ## Adaptation
 
 Manga and anime are downstream adaptations.
 
-One chapter does not have to equal one manga chapter or one anime episode.
+One written chapter does not have to equal one manga chapter or one anime episode.
+
+## Navigation
+
+- [[story/_Story|Current Story]]
+- [[indexes/Story|Story MOC]]
+- [[00 - Peak Piece|Vault Home]]

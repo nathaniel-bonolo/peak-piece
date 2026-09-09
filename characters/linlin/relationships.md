@@ -1,6 +1,16 @@
-# Charlotte Linlin: Relationships
+---
+type: character-relationships
+status: draft
+canon: true
+aliases:
+  - "Linlin Relationships"
+tags:
+  - character
+  - linlin
+  - relationships
+---
 
-Status: Draft
+# Charlotte Linlin: Relationships
 
 ## Pudding
 
@@ -31,3 +41,11 @@ Linlin does not micromanage every battlefield decision.
 The relationship is contractual, strategic, and dangerous.
 
 Linlin fears Imu despite being an emperor in her own right.
+
+## Related
+
+- [[characters/linlin/overview|Linlin]]
+- [[characters/pudding/overview|Pudding]]
+- [[characters/katakuri/overview|Katakuri]]
+- [[characters/imu/overview|Imu]]
+- [[characters/genauche/overview|Genauche]]

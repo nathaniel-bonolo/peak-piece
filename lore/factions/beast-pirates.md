@@ -1,6 +1,16 @@
-# Beast Pirates
+---
+type: faction
+status: draft
+canon: true
+aliases:
+  - "Beast Pirates"
+tags:
+  - faction
+  - kaido
+  - soul-feast
+---
 
-Status: Draft
+# Beast Pirates
 
 ## Zoan concentration
 
@@ -23,3 +33,10 @@ Desired traits include:
 - willingness to keep fighting through injury
 
 This becomes the basis for Hyena-style shock troops.
+
+## Related
+
+- [[story/sagas/soul-feast/arcs/soul-feast/arc|Soul Feast]]
+- [[systems/devil-fruits|Devil Fruits]]
+- [[proposals/active/chopper-smile-blackbeard|Chopper / SMILE / Blackbeard proposal]]
+- [[lore/locations/wano|Wano]]

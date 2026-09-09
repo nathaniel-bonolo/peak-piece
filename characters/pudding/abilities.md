@@ -1,6 +1,16 @@
-# Charlotte Pudding: Abilities
+---
+type: character-abilities
+status: draft
+canon: true
+aliases:
+  - "Pudding Abilities"
+tags:
+  - character
+  - pudding
+  - abilities
+---
 
-Status: Draft
+# Charlotte Pudding: Abilities
 
 ## Memo-Memo Fruit
 
@@ -34,3 +44,10 @@ Conflicting memory sets create noise.
 Her own mind is the bottleneck.
 
 The more she extracts, the less certain she becomes that a reaction, fear, habit, relationship, or memory belongs to her.
+
+## Related
+
+- [[characters/pudding/overview|Pudding]]
+- [[characters/pudding/progression|Progression]]
+- [[systems/soul-system|Soul System]]
+- [[characters/katakuri/abilities|Katakuri's prediction]]

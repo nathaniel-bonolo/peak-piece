@@ -1,6 +1,16 @@
-# Charlotte Pudding: Relationships
+---
+type: character-relationships
+status: draft
+canon: true
+aliases:
+  - "Pudding Relationships"
+tags:
+  - character
+  - pudding
+  - relationships
+---
 
-Status: Draft
+# Charlotte Pudding: Relationships
 
 ## Linlin
 
@@ -27,3 +37,10 @@ Peak WCI should not require Pudding to exist only because she is a girl who can 
 Any Sanji relationship must survive beyond "female romantic plot device."
 
 Sanji genuinely finding her third eye attractive can still be a meaningful human beat if it emerges naturally.
+
+## Related
+
+- [[characters/pudding/overview|Pudding]]
+- [[characters/linlin/overview|Linlin]]
+- [[characters/katakuri/overview|Katakuri]]
+- [[characters/sanji/overview|Sanji]]
