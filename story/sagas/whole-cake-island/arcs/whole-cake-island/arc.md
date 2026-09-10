@@ -70,7 +70,7 @@ from:
 
 > treating myself as expendable because I love them
 
-See [[characters/sanji/progression|Sanji Progression]].
+See Sanji Progression.
 
 ## Sanji's absence
 
@@ -102,8 +102,3 @@ Nami does not need to lose intelligence for Pudding's deception to work.
 - Exact mechanism of Gem loss at Fishman Island
 - Brook's WCI sequence
 - How much of Totto Land civilian life appears
-
-
-## Canon audit
-
-See [[story/sagas/whole-cake-island/arcs/whole-cake-island/canon-audit|Canon Audit]].

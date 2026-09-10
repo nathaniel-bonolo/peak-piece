@@ -11,6 +11,98 @@ tags:
 
 # Changelog
 
+## V8 - Reader/production split, Gem doctrine, full Hordy lock
+
+### Repository architecture
+- Root now has only two project-content directories: `story/` and `production/`.
+- `story/` is the reader-facing rewrite layer.
+- `production/` is the writer-facing engine room.
+- Characters, systems, lore, references, proposals, indexes, templates, canvases, assets, Obsidian guides, and philosophy moved under `production/`.
+- Writer-only story audits, tone tests, and scene engineering moved into `production/story-notes/`.
+- Reader-facing story files no longer link into production material.
+- Root README and production README rewritten around this split.
+
+### Spreadsheet doctrine
+- Locked: **The world sees the jewels. The audience sees the miracle. The writers see the ledger.**
+- Locked: **When the spreadsheet has done enough to make the adventure consistent, close it.**
+- Production accounting is continuity control, not reader-facing exposition.
+- Internal resource ledgers can track approximate expenditure without characters announcing percentages.
+- Added an explicit stop-engineering rule.
+
+### Ability / character / faction ceilings
+- Replaced remnants of generic "what would a competent strategic person do?" thinking.
+- Added:
+  - ability ceiling
+  - character ceiling
+  - faction ceiling
+- Locked: **Optimization belongs to characters who optimize.**
+- Apoo / Queen is the model: Apoo may possess the ability ceiling while Queen raises the faction ceiling through testing and doctrine.
+
+### Gems
+- Clarified immediately that Devil Fruits and Haki work without Gems.
+- Gems are external energy amplifiers / batteries.
+- Gems increase scale, duration, repetition, or output.
+- Gems do not grant new permissions, skill, or remove non-energy bottlenecks.
+- Added Brulee, Kuzan, Haki, Luffy, and Apoo examples.
+- Gems are visibly worn as jewelry / bling; only the resource accounting is backstage.
+- Expanded trade, war, technology, Fishman Island, Haki concentration, and World Government dominance.
+- Locked: **Gems feed Fishman racism. They do not cause it.**
+- Expanded hidden extraction / shipping / intermediary incentives.
+- Expanded Whitebeard's effect on coerced Gem supply and prices.
+- Expanded flood-as-strategic-denial logic.
+
+### Character philosophy
+- Added **Contradiction is not inconsistency**.
+- Linlin can sincerely care for Pudding while believing Pudding owes service to the family.
+- Hunger tantrums remain cut.
+- Added **Continuity can discover payoff**.
+- Backwards Salute Batch remains a joke first; possible later Pudding identity meaning was discovered through continuity rather than manufactured backward from a payoff.
+
+### Contributors
+- Nathan: Project Lead · Lead Writer · Story Architect.
+- CerezaVeneris: Writer · Research & Thematic Development.
+- Remmkoe: Writer · Story Development & Review.
+- Nathan remains final continuity / merge authority while ideation remains collaborative.
+
+### Hordy Jones
+- Full childhood-to-death backstory developed.
+- Around age 10-12, Hordy sneaks to Sabaody because he is fascinated by humans.
+- Genuine human childhood friendships are exploited by adults who arrange his trafficking.
+- In the mine he learns collective punishment, waits for Tiger / the Sea King, and watches friends die attempting crude Gem injection.
+- First whipping creates his central survival belief:
+  - **I can hurt one Fishman less badly than humans will hurt fifty.**
+- The kapo role initially reduces some real suffering, making the rationalization durable.
+- Hordy becomes increasingly efficient at preventing rebellion and improving production.
+- He is not secretly a saint; he accepts privileges, drinks, benefits, and sometimes hurts people selfishly.
+- `Devil's Hand` becomes an earned miner nickname.
+- Private apology-letter / burn / shower ritual fully developed.
+- Same pen survives across the ritual; symbolic stool removed.
+- Alcoholism and smoking become extensions of emotional suppression.
+- Genauche recruits him specifically because his coercive labor intelligence is useful.
+- Hordy develops unfair resentment toward Fisher Tiger because miners died imitating the injection legend.
+- Shirahoshi triggers the same "hope gets everybody punished" instinct.
+- Hordy and Shirahoshi's alliance becomes a transactional route to the real injection technique.
+- Hordy gains the technique, becomes monstrously strong, and tries to become the Sea King nobody sent to save the miners.
+- An actual Sea King answers Shirahoshi and bites off Hordy's right hand while he is choking her.
+- Hordy's reaction includes relief: he no longer has to be Devil's Hand.
+- Hordy returns home, writes one final left-handed apology, fails to burn it, lets the shower destroy it, says **Thank you**, and dies before Shirahoshi arrives.
+- Shirahoshi finds only an unreadable washed-down letter.
+- No public vindication / secret-saint reveal.
+
+### Hordy's letters
+Added a dedicated letter file with:
+- first dead-boy letter
+- east-gate escape letter
+- ration letter
+- pre-emptive rebellion letter
+- Devil's Hand letter
+- thank-you letter
+- drunk violence letter
+- Shirahoshi letter
+- final letter to the first person Hordy whipped
+
+The final apology contains no `but`.
+
 ## V7 - Causal world, imperfect institutions, Soul Feast tone lock
 
 ### Philosophy
@@ -178,16 +270,16 @@ This version records the writers-room decisions accepted after V3.
 
 ### Kaido, Wano, and the Beast Pirates
 
-- Kaido gains a structural historical inspiration from [[references/history/oda-nobunaga|Oda Nobunaga]].
+- Kaido gains a structural historical inspiration from [[production/references/history/oda-nobunaga|Oda Nobunaga]].
 - Wano can be closed to ordinary people while Kaido's regime freely imports useful technology, scientists, weapons, and ideas.
 - Kaido's Zoan obsession becomes military doctrine: he sees specialized Zoan bodies as a strategic advantage worth concentrating and industrializing.
 - Caesar creates unstable artificial Zoans.
-- [[characters/queen/overview|Queen]] becomes the person who classifies failures and turns useful traits into military doctrine.
+- [[production/characters/queen/overview|Queen]] becomes the person who classifies failures and turns useful traits into military doctrine.
 - The Ice Oni crisis is removed as Chopper's required Wano subplot.
 - Queen is **not** built as Chopper's designated thematic rival.
 - Peak Piece rejects a Queen/Franky father reveal. This is not Nepo Piece.
 - The exact Tobi Roppo cuts are not locked yet.
-- A future [[proposals/active/yamato-betrayal|Yamato betrayal]] inspired by the structural logic of Honnō-ji remains a proposal, not canon.
+- A future [[production/proposals/active/yamato-betrayal|Yamato betrayal]] inspired by the structural logic of Honnō-ji remains a proposal, not canon.
 
 ### Luffy
 

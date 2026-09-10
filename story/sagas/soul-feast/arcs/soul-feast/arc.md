@@ -95,7 +95,7 @@ Linlin visibly arrives on one ship.
 
 The hidden army travels conventionally toward Wano first.
 
-Only near the target does [[characters/brulee/overview|Brulee]] move major forces through the Mirror World.
+Only near the target does Brulee move major forces through the Mirror World.
 
 The Fruit itself does not require Gems.
 
@@ -115,7 +115,7 @@ Everybody laughs.
 
 The scene moves on.
 
-The actual backstage reason is [[lore/locations/wano|Kaido's reflective-surface denial policy]].
+The actual backstage reason is Kaido's reflective-surface denial policy.
 
 Kaido knows Linlin has Brulee.
 
@@ -125,13 +125,13 @@ The story does not need to explain this immediately.
 
 It may never explain it directly.
 
-See [[story/sagas/soul-feast/arcs/soul-feast/scene-seeds|Scene Seeds]].
+See Scene Seeds.
 
 ## Kaido's Wano
 
 Peak Kaido is not simply waiting inside a raid dungeon.
 
-[[lore/locations/wano|Wano]] is a prepared military state.
+Wano is a prepared military state.
 
 Kaido's regime imports useful technology and expertise even while ordinary citizens are isolated.
 
@@ -176,7 +176,7 @@ Brulee can use the Mirror World normally from her own stamina.
 
 Military-scale transport is different.
 
-Moving thousands of soldiers, equipment, supplies, and repeated waves requires enormous [[systems/gems|Gem]] support.
+Moving thousands of soldiers, equipment, supplies, and repeated waves requires enormous Gem support.
 
 Gems extend her energy budget.
 
@@ -235,7 +235,7 @@ If repairing the batch costs more than living with the defect:
 
 > they salute backwards now
 
-See [[lore/factions/small-moments/charlotte-family/backwards-salute-batch|Backwards Salute Batch]].
+See Backwards Salute Batch.
 
 ### Death Note
 
@@ -328,7 +328,7 @@ She is in a war, sees what looks like a familiar resource opportunity, applies a
 
 Competence is not omniscience.
 
-See [[systems/soul-system|Soul System]].
+See Soul System.
 
 ### Floating battlefield
 
@@ -484,9 +484,3 @@ The reader should remember:
 - a sword receiving something it was never meant to contain
 
 They should not need to remember the repo's engineering vocabulary.
-
-See [[story/sagas/soul-feast/arcs/soul-feast/tone-test|Soul Feast Tone Test]].
-
-## Canon audit
-
-See [[story/sagas/soul-feast/arcs/soul-feast/canon-audit|Canon Audit]].

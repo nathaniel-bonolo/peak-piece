@@ -37,9 +37,9 @@ For example, Wano discussion should start from [[story/sagas/soul-feast/arcs/sou
 
 ## Where an idea goes
 
-If an idea is not accepted yet, put it in `proposals/active/`.
+If an idea is not accepted yet, put it in `production/proposals/active/`.
 
-Do not put contested material directly into `systems/`, `characters/`, `lore/`, or `story/`.
+Do not put contested material directly into `production/systems/`, `production/characters/`, `production/lore/`, or `story/`.
 
 When a proposal is accepted, update the real canon files.
 
@@ -92,19 +92,32 @@ If you think an existing idea should be deleted, identify what would be lost bef
 When adding a major character, system, lore, or story file:
 
 - add useful wikilinks to related authoritative notes
-- add the note to the relevant `indexes/` map of content
+- add the note to the relevant `production/indexes/` map of content
 - prefer path-qualified wikilinks
-- keep unresolved material in `proposals/`
+- keep unresolved material in `production/proposals/`
 
 Backlinks should emerge from actual relationships, not from dumping a giant "see also" list into every note.
 
 
 ## Maintain the canon audit
 
-When a major rewrite changes **why** a character, arc, faction, or system works differently from canon, update the co-located canon audit.
+When a major rewrite changes **why** a character, arc, faction, or system works differently from canon, update its production-side canon audit.
 
-The audit contains the argument. The authoritative story/system file contains the result. Do not paste a five-paragraph defense of the rewrite into the manga-facing arc note.
+Character/system audits normally live beside their production files. Story audits mirror the reader path under `production/story-notes/`. The audit contains the argument; the story contains the result. Do not paste a five-paragraph defense of the rewrite into a reader-facing arc note.
 
-When making a canon claim, include a useful chapter/volume anchor. When making an author-intent claim, distinguish confirmed intent from interpretation. When using history/science/psychology, link a source in `references/` and state only what it actually supports.
+When making a canon claim, include a useful chapter/volume anchor. When making an author-intent claim, distinguish confirmed intent from interpretation. When using history/science/psychology, link a source in `production/references/` and state only what it actually supports.
 
-See [[references/canon/source-policy|Canon Audit Source Policy]].
+See [[production/references/canon/source-policy|Canon Audit Source Policy]].
+
+
+## Reader / production boundary
+
+`story/` is the reader-facing product.
+
+`production/` is the writer-facing engine room.
+
+Do not move technical reasoning into the reader layer merely because the reasoning is important to us.
+
+If a chapter needs a production document to make sense, improve the chapter.
+
+If a production document needs to be ugly and technical to keep the chapter consistent, that is fine.

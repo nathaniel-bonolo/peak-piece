@@ -11,12 +11,11 @@ tags:
 
 # Story
 
-This is the reader-facing rewrite layer.
+This is the **reader-facing** side of Peak Piece.
 
-> [!success] Recommended now
-> Start with [[story/sagas/fishman-island/arcs/fishman-island/arc|Fishman Island]].
+If you only want the rewrite, stay here.
 
-If you only want to see what Peak Piece is changing in the story, you can stay inside this folder.
+You do not need the production bible to understand what happens.
 
 ## Current reading order
 
@@ -26,27 +25,20 @@ If you only want to see what Peak Piece is changing in the story, you can stay i
 
 The earlier East Blue material has not been fully rewritten yet.
 
-## Canonical chapter rule
+## Current format
 
-When prose chapters are written:
+Peak Piece is still in development.
 
-- `chapter.md` is the readable canonical chapter
-- `notes.md` is writer-only support material
+For now, some arcs are represented by readable arc treatments while full chapters are being built.
 
-Planning files such as `arc.md` constrain the chapters but are not manga-production scripts.
+As chapters are written, the reader-facing prose belongs here.
 
-## Adaptation
+Writer-only material such as canon audits, tactical breakdowns, system rules, spreadsheets, scene engineering, and research belongs in `production/`.
 
-Manga and anime are downstream adaptations.
+## Rule
 
-One written chapter does not have to equal one manga chapter or one anime episode.
+A reader should not need to open `production/` to understand a chapter.
 
-## Navigation
+If the story only works after reading the design notes, the story is not finished.
 
-- [[story/_Story|Current Story]]
-- [[indexes/Story|Story MOC]]
-- [[00 - Peak Piece|Vault Home]]
-
-## Production checks
-
-- [[story/sagas/soul-feast/arcs/soul-feast/tone-test|Soul Feast Tone Test]]
+> **The spreadsheet is ours. The audience gets the adventure.**

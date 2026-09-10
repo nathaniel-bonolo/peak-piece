@@ -2,88 +2,74 @@
 
 Peak Piece is a collaborative rewrite of *One Piece*.
 
-The goal is not to make *One Piece* darker, less funny, less weird, or "realistic." The goal is to preserve the adventure, comedy, absurdity, imagination, and personality while making the characters, powers, world, consequences, and progression hold up under scrutiny.
+The goal is to preserve the adventure, comedy, absurdity, imagination, and personality while making character progression, consequences, powers, institutions, and long-term causality hold up under scrutiny.
 
-> **Important ideas should survive basic scrutiny.**
+## Just want to read Peak Piece?
 
-## Just want to read?
+**Stay in [`story/`](story/README).**
 
-Go to [`story/`](story/).
+That is the reader-facing side of the project.
 
-**The recommended place to start right now is Fishman Island:**
+You do **not** need to read the systems, character architecture, canon audits, research, tactical notes, resource accounting, or spreadsheets to understand the story.
 
-### [Read the current Fishman Island rewrite](story/sagas/fishman-island/arcs/fishman-island/arc.md)
+Right now the project is still being written, so `story/` contains readable arc treatments and will increasingly contain full chapters as they are finished.
 
-Fishman Island is the current development focus and the most useful entry point into what Peak Piece is trying to do. Whole Cake Island and Soul Feast are also in development, but Fishman Island is the suggested read first.
+### Start here
 
-The story layer is for readable rewrite material. You do not need to read the system documents, research notes, proposals, or production files just to follow the project.
+- [Story guide](story/README.md)
+- [Fishman Island](story/sagas/fishman-island/arcs/fishman-island/arc.md)
+- [Whole Cake Island](story/sagas/whole-cake-island/arcs/whole-cake-island/arc.md)
+- [Soul Feast](story/sagas/soul-feast/arcs/soul-feast/arc.md)
 
-## Best way to browse the project
+> **The spreadsheet is ours. The audience gets the adventure.**
 
-GitHub works fine for reading, but the repository is designed as an **Obsidian vault**.
+## Want to see how it is made?
 
-For the best navigation experience:
+Open [`production/`](production/README).
 
-1. Clone the repository, or use GitHub's **Download ZIP** option.
-2. If you downloaded a ZIP, extract it.
-3. Open the `peak-piece` folder as a vault in [Obsidian](https://obsidian.md/).
-4. Start at [`00 - Peak Piece.md`](00%20-%20Peak%20Piece.md).
+That is the writer-facing production bible.
 
-Obsidian gives you the intended wikilinks, backlinks, properties, local graph, Maps of Content, and the Fishman Island canvas.
+It contains character architecture, systems, lore, canon audits, research, timelines, economics, resource accounting, tactical doctrine, active proposals, Obsidian navigation, and adaptation production notes.
 
-See [`OBSIDIAN.md`](OBSIDIAN.md) for the vault guide.
+Those files are intentionally more obsessive and technical than the finished story.
 
-## Where discussion happens
+The production bible exists so the story does **not** need to stop and explain the machinery.
+
+> **The world sees the jewels. The audience sees the miracle. The writers see the ledger.**
+
+When the internal model has done enough to keep the adventure consistent:
+
+> **Close the spreadsheet and write the fucking story.**
+
+## Two layers, one project
+
+```text
+peak-piece/
+├── story/        # what readers are meant to read
+└── production/   # how the writers keep it consistent
+```
+
+Repository administration such as the changelog, contributing guide, and contributor list stays at the root.
+
+## Obsidian
+
+If you want the full writer-room experience, clone/download the repository and open the `peak-piece` folder in Obsidian.
+
+Start from [`production/00 - Peak Piece.md`](production/00%20-%20Peak%20Piece.md).
+
+See [`production/OBSIDIAN.md`](production/OBSIDIAN.md).
+
+## Discussion
 
 **GitHub is the source of truth. Discord is the writers' room.**
 
-Discord is where we brainstorm, argue, review ideas, and decide what should change.
-
 Discord: https://discord.gg/3fXkMkHJJ
-
-Ideas under active discussion belong in `proposals/`. Once an idea is accepted, the actual character, system, lore, or story files are updated. There is intentionally no second "accepted proposals" canon.
-
-## Writing philosophy, short version
-
-Peak Piece is built around a few principles:
-
-- **Audit everything.** Ask what an idea implies, what it costs, who notices, and what changes afterward.
-- **Let action do the talking.** Do not explain what the audience can already infer.
-- **Earn emotion through accumulated meaning.** Deep setup allows tiny payoffs to hurt.
-- **Competent characters create better problems.** Do not make one side stupid so the other side can look smart.
-- **Optimize for the character, not a chess engine.** Capability is constrained by knowledge, personality, motivation, values, experience, information, and pressure.
-- **New situation, not new power.** Prefer new applications of established mechanics over surprise ability inflation.
-- **Strength is not the whole fight.** Position, information, terrain, logistics, objectives, timing, preparation, attention, and opportunity cost matter.
-- **The world learns.** Battles create doctrine. Institutions adapt. Consequences carry forward.
-- **Do the homework so the story can feel effortless.** The repo can contain spreadsheets and tactical doctrine; the reader should mostly experience their consequences.
-- **Preserve the fun.** The weirdness is not a flaw to sand away.
-
-Read the full version in [`WRITING-PHILOSOPHY.md`](WRITING-PHILOSOPHY.md).
-
-## Repository map
-
-| Area | Purpose |
-| --- | --- |
-| [`story/`](story/) | Reader-facing rewrite material |
-| [`characters/`](characters/) | Accepted character rewrites |
-| [`systems/`](systems/) | Power systems, combat rules, technology, shared mechanics |
-| [`lore/`](lore/) | History, factions, locations, economy, timeline |
-| [`proposals/`](proposals/) | Unresolved ideas; not canon |
-| [`production/`](production/) | Manga/anime adaptation work downstream from story |
-| [`references/`](references/) | Canon, history, mythology, and science research |
-| [`templates/`](templates/) | Obsidian-ready project templates |
-| [`canvas/`](canvas/) | Visual relationship maps |
-| [`indexes/`](indexes/) | Maps of Content for fast navigation |
-
-## Latest locked decisions
-
-See [`CHANGELOG.md`](CHANGELOG.md) for the current V4 lock.
 
 ## Contributing
 
 You do not need to agree with every current decision.
 
-If something does not make sense, question it. If a change removes something canon did well, point that out too.
+If something does not make sense, question it. If a rewrite removes something canon did well, say so. "Different from canon" is not a defense for being worse.
 
 See [`CONTRIBUTING.md`](CONTRIBUTING.md) and [`CONTRIBUTORS.md`](CONTRIBUTORS.md).
 

@@ -42,9 +42,9 @@ At the moment, the arc-level rewrite documents are ahead of the prose chapter pr
 
 ## Want the deeper machinery?
 
-- [[indexes/Characters|Characters]]
-- [[indexes/Systems|Systems]]
-- [[indexes/Lore|Lore]]
-- [[indexes/Fishman Island|Fishman Island development map]]
+- Characters
+- Systems
+- Lore
+- Fishman Island development map
 
-[[00 - Peak Piece|Back to Home]]
+Back to Home

@@ -47,13 +47,13 @@ His death closes those roads again.
 
 ### Neptune
 
-[[characters/neptune/overview|King Neptune]] faces the post-Whitebeard security collapse.
+King Neptune faces the post-Whitebeard security collapse.
 
 He accepts Linlin's deal because refusing may immediately cost lives.
 
 ### Linlin
 
-[[characters/linlin/overview|General Linlin]] offers security and sovereignty tolerance in exchange for strategic Gem control.
+General Linlin offers security and sovereignty tolerance in exchange for strategic Gem control.
 
 The agreement requires:
 
@@ -66,19 +66,31 @@ Those residents function as hostages.
 
 ### Genauche
 
-[[characters/genauche/overview|Charlotte Genauche]] runs the mining operation.
+Charlotte Genauche runs the mining operation.
 
 She improves safety, predictability, and efficiency while preserving coercive ownership.
 
 ### Hordy
 
-[[characters/hordy/overview|Hordy Jones]] is a former child miner turned kapo and Genauche's most important Fishman subordinate.
+Hordy Jones was trafficked into Gem mining as a child.
 
-He secretly intends to use the system's own Gem knowledge to become strong enough to break it.
+He survived by becoming a kapo: the Fishman who took the whip because he believed he could hurt one person less badly than human overseers would hurt fifty.
+
+The strategy sometimes worked.
+
+Then he became good at it.
+
+He learned to stop rebellions before they began, improved production, accepted privileges, accumulated guilt, and became known as **Devil's Hand**.
+
+Genauche later brings him into Fishman Island's extraction system because that exact experience makes him useful.
+
+Hordy secretly searches for the real Gem-injection technique.
+
+He believes enough strength will finally let him become the Sea King nobody ever sent to save the miners.
 
 ### Shirahoshi
 
-[[characters/shirahoshi/overview|Shirahoshi]] is not a princess and not a hereditary Ancient Weapon.
+Shirahoshi is not a princess and not a hereditary Ancient Weapon.
 
 She is a giant Fishman/mermaid warrior-in-training raised around Fisher Tiger.
 
@@ -94,11 +106,11 @@ The mines call such a figure a Sea King/Poseidon.
 
 There is no chosen royal bloodline.
 
-The rumor that [[systems/gem-injection|Gem Injection]] might make someone strong enough is only a rumor.
+The rumor that Gem Injection might make someone strong enough is only a rumor.
 
 ## Fisher Tiger and the old technique
 
-[[characters/fisher-tiger/overview|Fisher Tiger]] used and overused Gem injection.
+Fisher Tiger used and overused Gem injection.
 
 It helped him accomplish extraordinary liberation feats.
 
@@ -108,11 +120,27 @@ Shirahoshi knows this history.
 
 Hordy interprets it differently.
 
+In the mine, Hordy's friends heard that Tiger had used the technique and tried crude versions themselves.
+
+Some died.
+
+Hordy unfairly turns that memory into resentment toward Tiger:
+
+> **Tiger taught desperate people to believe strength would save them.**
+
+That resentment is one reason Shirahoshi's open admiration of Tiger enrages him.
+
 ## Hordy and Shirahoshi deal
 
 Hordy has access to the prison and mine system.
 
 Shirahoshi has rebel credibility, followers, and access to her father's Gem research.
+
+Before the deal, Hordy initially helps contain Shirahoshi because her public rebellion triggers the same survival instinct the mine taught him:
+
+> **You idiot. You're going to make them punish everyone.**
+
+Once Hordy becomes confident she knows the real injection technique, they begin private correspondence.
 
 They agree that when:
 
@@ -121,6 +149,8 @@ They agree that when:
 - a major distraction appears
 
 Hordy will release her.
+
+In exchange, Hordy gains the technique.
 
 They are allies of necessity, not ideological partners.
 
@@ -181,6 +211,50 @@ The arc should not collapse that question into one speech.
 - Poseidon is not hereditary destiny.
 - The arc is not driven by a candy-factory protection dispute.
 
+## Hordy's final sequence
+
+Hordy eventually obtains the real Gem-injection technique.
+
+The power lets him overwhelm fighters who previously outclassed him.
+
+He decides:
+
+> **If nobody came to save us, I will become the Sea King myself.**
+
+During the final struggle, Hordy gets his right hand around Shirahoshi's throat.
+
+Shirahoshi has exhausted every other option.
+
+She calls for a Sea King.
+
+It comes for **her**.
+
+The Sea King bites off Hordy's right hand.
+
+That is the hand that first took the whip, wrote every private apology, became Devil's Hand, and is currently choking Shirahoshi.
+
+Hordy's expression includes relief.
+
+He no longer has to carry the role he convinced himself only he could carry.
+
+The Sea King throws him into the outskirts and everyone initially assumes he is dead.
+
+Later word arrives that Hordy survived and is heading home.
+
+Luffy is unconscious.
+
+Shirahoshi follows.
+
+Hordy reaches his room first, writes one final apology with his left hand, fails to burn it when the lighter slips, and lets the shower wash the confession away as he dies.
+
+Shirahoshi arrives after death.
+
+She finds only an unreadable ruined page.
+
+There is no public redemption.
+
+See Hordy's Backstory and Hordy's Letters.
+
 ## Ending / bridge to WCI
 
 The final Fishman Island outcome should directly damage Linlin's Gem supply and extraction authority.
@@ -198,12 +272,6 @@ Luffy should target coercive control and extraction authority, not destroy Fishm
 - exact Gem stockpile layout
 - exact mechanics of Gem injection
 - exact Fishman creature-taming mechanics
-- precise nature of Hordy's final use
 - whether "Poseidon" remains the common title or only one mythic name
 - Genauche's final arc outcome
 - Neptune's political end state
-
-
-## Canon audit
-
-See [[story/sagas/fishman-island/arcs/fishman-island/canon-audit|Canon Audit]].

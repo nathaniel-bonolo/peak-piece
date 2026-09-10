@@ -7,43 +7,76 @@ tags:
 
 # Contributors
 
-Roles describe current strengths and responsibilities. They are not territory. Anyone can contribute anywhere.
+Roles describe current strengths and responsibilities.
 
-## Nathaniel Bonolo
+They are not territory. Everyone can challenge, develop, research, or contribute outside the label.
 
-Primary focus:
+## Nathan
 
-- systems
-- worldbuilding
-- causal story architecture
-- continuity
-- long-range setup and payoff
+**Project Lead · Lead Writer · Story Architect**
+
+Current responsibilities:
+
+- final Peak Piece continuity
+- final merge decisions
+- story architecture
+- systems/worldbuilding architecture
+- causal auditing
+- character and arc integration
+- long-range continuity
+- turning collaborative ideas into the authoritative project state
+
+Nathan is the final canon owner for Peak Piece.
+
+That does not mean every idea originates with him.
+
+A collaborative project still needs one place where continuity decisions terminate.
 
 ## CerezaVeneris
 
-Primary focus:
+**Writer · Research & Thematic Development**
 
-- writing
+Current strengths include:
+
 - character development
-- story analysis
+- story development
+- thematic development
+- historical research
+- mythology
+- biology
+- cultural references
+- finding real-world material that deepens or challenges an existing Peak direction
 - original character work
-- research
+
+Cereza's research frequently gives an existing idea stronger historical, thematic, mythological, or scientific roots rather than merely decorating it afterward.
 
 Current authored proposal:
 
-- [[proposals/active/may-weller|May Weller]]
+- [[production/proposals/active/may-weller|May Weller]]
 
 ## Remmkoe
 
-Primary focus:
+**Writer · Story Development & Review**
 
-- manga art
-- paneling
-- visual storytelling
-- writing and review
-- continuity-preservation pressure
+Current strengths include:
 
-Remmkoe's Piratefolk post was one of the events that directly led to Peak Piece becoming a collaborative project.
+- character / arc ideation
+- story development
+- critique
+- reviewing proposed directions before they lock
+- continuity pressure
+- challenging ideas that may lose something canon did well
 
-Original project-origin post shared by the team:
+Peak Piece's collaboration grew out of discussion following Remmkoe's original Piratefolk post:
+
 https://www.reddit.com/r/Piratefolk/s/zSf6onlYJE
+
+## Collaboration rule
+
+Contributors can propose anything.
+
+Accepted ideas become canon only when they are integrated into the authoritative character, system, lore, or story files.
+
+There is no separate "accepted proposal" canon.
+
+See [`CONTRIBUTING.md`](CONTRIBUTING.md).

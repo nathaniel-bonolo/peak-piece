@@ -47,7 +47,7 @@ Luffy remains outside Amazon Lily's city.
 
 ## Application
 
-[[lore/locations/amazon-lily|Amazon Lily]] teaches.
+Amazon Lily teaches.
 
 Rusukaina tests.
 
@@ -71,6 +71,6 @@ Rayleigh can still exist and matter without spending two years as Luffy's privat
 
 ## Related
 
-- [[characters/luffy/overview|Luffy]]
-- [[characters/boa-hancock/overview|Boa Hancock]]
-- [[systems/haki|Haki]]
+- Luffy
+- Boa Hancock
+- Haki

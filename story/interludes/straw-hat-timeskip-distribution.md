@@ -26,7 +26,7 @@ A destination should exist because it develops that character's actual specializ
 
 ## Robin
 
-[[characters/robin/timeskip|Revolutionary Army base]]
+Revolutionary Army base
 
 Kuma sends her directly.
 
@@ -41,7 +41,7 @@ Focus:
 
 ## Usopp
 
-[[characters/usopp/timeskip|Revolutionary field environment]]
+Revolutionary field environment
 
 Focus:
 

@@ -10,7 +10,7 @@ tags:
 
 ## Long character thread: Luffy
 
-[[characters/luffy/progression|Luffy]] does not stay psychologically static.
+Luffy does not stay psychologically static.
 
 His early belief that piracy means freedom gradually becomes a question about power, responsibility, Roger, Shanks, and what his own flag should mean.
 
@@ -25,8 +25,8 @@ See [[story/interludes/straw-hat-timeskip-distribution|Straw Hat Timeskip Distri
 Current locked directions:
 
 - Luffy -> [[story/interludes/timeskip-haki-training|Amazon Lily Haki Training]]
-- Robin -> [[characters/robin/timeskip|Revolutionary Army base]]
-- Usopp -> [[characters/usopp/timeskip|Revolutionary field environment]]
+- Robin -> Revolutionary Army base
+- Usopp -> Revolutionary field environment
 - Sanji -> food / cuisine culture, exact destination open
 
 Robin and Usopp can share an organization while developing completely different specialties.
