@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "7be400b0fe9f5686",
+    "type": "split",
+    "children": [
+      {
+        "id": "f876bcb0646a651a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83cf80f4f4353bd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2134baf08815abb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcc66bb21b51c3b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e404c1f9c264637",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d532741b1238647b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "553805695755dd33",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f584949b2bbcad92",
+    "type": "split",
+    "children": [
+      {
+        "id": "13b890c14bac57ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ac2d7fefd8a02f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WRITING-PHILOSOPHY.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a13a198a7598fdce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WRITING-PHILOSOPHY.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5510ca70b2b92781",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ad480907d27ca008",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6d7fa4fc45fcdb56",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WRITING-PHILOSOPHY.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "c3cf2d2e01d4e992",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "83cf80f4f4353bd3",
+  "lastOpenFiles": [
+    "CONTRIBUTORS.md",
+    "production/characters/hordy/canon-audit.md",
+    "production/characters/hordy/backstory.md",
+    "production/characters/hordy/abilities.md",
+    "production/systems/gems.md",
+    "production/canvas/README.md",
+    "production/characters/linlin/overview.md",
+    "production/canvas/Fishman Island.canvas",
+    "production/assets/README.md",
+    "production/README.md",
+    "README.md",
+    "production.md",
+    "story/README.md",
+    "story.md",
+    "story/sagas/soul-feast/arcs/soul-feast/arc.md",
+    "references/history/ghost-army.md",
+    "references/canon/source-policy.md",
+    "characters/imu/canon-audit.md",
+    "characters/shirahoshi/canon-audit.md",
+    "characters/jinbe/canon-audit.md",
+    "characters/neptune/canon-audit.md",
+    "characters/sanji/canon-audit.md",
+    "characters/hordy/canon-audit.md",
+    "characters/pudding/canon-audit.md",
+    "characters/robin/canon-audit.md",
+    "characters/robin/identity.md",
+    "characters/luffy/canon-audit.md",
+    "characters/belo-betty",
+    "lore/factions/small-moments/straw-hats",
+    "lore/factions/small-moments/charlotte-family",
+    "lore/factions/small-moments/revolutionary-army",
+    "lore/factions/small-moments",
+    "characters/usopp",
+    "characters/robin",
+    "references/canon/onigashima-raid-timeline.xlsx",
+    "characters/queen",
+    "characters/kaido"
+  ]
+}

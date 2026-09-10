@@ -7,8 +7,8 @@ Thumbs.db
 .idea/
 
 # Obsidian local state
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
+.sobsidian/workspace.json
+.sobsidian/workspace-mobile.json
 .obsidian/cache
 
 # Temporary files
