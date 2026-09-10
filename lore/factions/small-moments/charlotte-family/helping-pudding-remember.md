@@ -2,6 +2,13 @@
 type: small-moment
 status: scene-seed
 canon: true
+tone:
+  - affection
+  - routine
+function:
+  - family-texture
+  - continuity
+  - character-texture
 tags: [charlotte-family, pudding, memory, small-moments]
 ---
 # Helping Pudding Remember

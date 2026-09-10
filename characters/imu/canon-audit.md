@@ -51,3 +51,24 @@ Do not overdefine Imu too early. Contract limits stay open until the endgame is 
 - [[characters/imu/abilities|Abilities]]
 
 See [[references/canon/source-policy|Canon Audit Source Policy]].
+
+## Linlin connection test
+
+The Linlin relationship must remain causal rather than connective fanservice.
+
+Remove a bad lore connection and almost nothing changes.
+
+Remove this contract and major questions reopen:
+
+- why does the World Government tolerate a four-century pirate empire?
+- what does Linlin owe for that immunity?
+- why does Imu accept her continued expansion?
+- how does an external soul obligation reshape an economy Linlin already wants?
+
+The contract passes the connection test only as long as Linlin remains the author of her own empire.
+
+## Failure mode
+
+Do not centralize every strange thing in the world under Imu.
+
+If Linlin's culture, Tea Parties, family, soul use, or imperial identity would disappear without him, the relationship has swallowed too much.

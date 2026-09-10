@@ -9,5 +9,6 @@ tags: [charlotte-family, small-moments]
 
 - [[lore/factions/small-moments/charlotte-family/linlin-comforts-pudding|Linlin Comforts Pudding]]
 - [[lore/factions/small-moments/charlotte-family/helping-pudding-remember|Helping Pudding Remember]]
+- [[lore/factions/small-moments/charlotte-family/backwards-salute-batch|Backwards Salute Batch]]
 
 The Charlotte family must feel like a family for its political and soul systems to hurt.

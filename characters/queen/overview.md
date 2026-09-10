@@ -97,3 +97,25 @@ It adds no needed function and makes the world smaller.
 ## Canon audit
 
 See [[characters/queen/canon-audit|Canon Audit]].
+
+## Apoo and Sky Coffin
+
+Queen is the person most likely to look at a bizarre Devil Fruit and ask what its side effects can do at scale.
+
+Sky Coffin originally used too much machinery and money.
+
+Kaido kills the project after roughly ten percent of the groundwork is finished.
+
+Later Queen sees Apoo's sound ability and wants him recruited because amplification could create a strategic weapon.
+
+During Death Note testing, Queen discovers that the same resonance can fracture terrain.
+
+That discovery makes the abandoned Sky Coffin groundwork viable.
+
+Apoo did not need to invent the trap.
+
+Queen did not need to possess Apoo's Fruit.
+
+The application emerges because a scientist stands beside a specialist and notices what the specialist enables.
+
+See [[story/sagas/soul-feast/arcs/soul-feast/arc|Soul Feast]].

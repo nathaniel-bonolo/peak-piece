@@ -2,6 +2,12 @@
 type: small-moment
 status: scene-seed
 canon: true
+tone:
+  - warm
+  - comedy
+function:
+  - character-texture
+  - continuity
 tags: [straw-hats, sanji, fleet]
 ---
 # Sanji Leaves Rations

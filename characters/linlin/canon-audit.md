@@ -54,3 +54,33 @@ Do not turn her into a sterile chess computer. Keep bizarre rituals, emotional a
 - [[story/sagas/soul-feast/arcs/soul-feast/arc|Soul Feast]]
 
 See [[references/canon/source-policy|Canon Audit Source Policy]].
+
+## Imu connection
+
+Peak Linlin already has:
+
+- Totto Land ambition
+- family structure
+- longevity incentives
+- military soul use
+- Tea Party culture
+
+before the Imu contract becomes important.
+
+Imu buys influence by giving her something she cannot manufacture herself:
+
+**long-term Government tolerance.**
+
+The contract changes the scale and pressure of the soul economy.
+
+It does not create the empire.
+
+## Competence failure mode
+
+Do not use "she is four hundred years old" as permission to make her right about everything.
+
+Centuries of experience create strong models.
+
+Strong models can still fail when something genuinely new appears.
+
+The Hyena extraction blunder is a deliberate example.

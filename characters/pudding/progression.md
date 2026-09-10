@@ -45,3 +45,17 @@ The war then pushes the system to failure.
 - [[characters/pudding/relationships|Relationships]]
 - [[story/sagas/soul-feast/arcs/soul-feast/arc|Soul Feast]]
 - [[proposals/active/may-weller|May Weller proposal]]
+
+## Accidental anchors
+
+Not every identity anchor needs to begin as a serious coping mechanism.
+
+A stupid old mistake can later become evidence that Pudding existed in a particular moment.
+
+The backwards-saluting Biscuit Reserve batch may eventually do this.
+
+Important:
+
+the original gag should work even if the later payoff is never used.
+
+See [[lore/factions/small-moments/charlotte-family/backwards-salute-batch|Backwards Salute Batch]].

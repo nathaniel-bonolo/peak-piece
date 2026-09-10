@@ -50,3 +50,19 @@ They do not remove the need for mirrors, attunement, range, or Brulee herself.
 ## Canon audit
 
 See [[characters/brulee/canon-audit|Canon Audit]].
+
+## Enemy adaptation
+
+A Fruit this strategically useful should change enemy behavior.
+
+Kaido knows Brulee exists and has had years to prepare Wano.
+
+Peak Wano therefore restricts ordinary mirrors and convenient reflective infrastructure.
+
+This does **not** mean Brulee can use any shiny surface automatically.
+
+It means Kaido sees no upside in leaving thousands of potential candidates across his home territory.
+
+The audience can encounter the restriction first as a stupid Orochi law.
+
+See [[lore/locations/wano|Wano]].

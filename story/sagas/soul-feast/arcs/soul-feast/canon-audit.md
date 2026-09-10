@@ -78,3 +78,57 @@ The manga does not present that as a PowerPoint.
 - [[references/canon/onigashima-raid-timeline|Onigashima Raid Timeline]]
 
 See [[references/canon/source-policy|Canon Audit Source Policy]].
+
+## Counter-build criticism
+
+A hostile reading can make Soul Feast sound like:
+
+> Unit A exists -> invent Unit B to counter it -> invent Unit C to counter Unit B.
+
+That is not the intended development method.
+
+Several interactions emerged by following consequences that were already independently useful.
+
+Example chain:
+
+1. Apoo's amplified sound can destroy hearing.
+2. Kaido's own troops therefore use hearing protection because they know their weapon.
+3. Linlin's side experiences the problem and Perospero has an obvious material response: quick candy molds.
+4. The same sound also damages mirrors and terrain, so protecting ears does not solve the battlefield.
+5. Hyena traits were selected because Kaido finds low fear / pain tolerance useful.
+6. Only later does that established trait collide with Linlin's fear extraction.
+7. The terrain-fracture behavior makes Queen's old uneconomic Sky Coffin groundwork viable.
+
+The rule is:
+
+> **Follow the consequence, not the optimization.**
+
+If a counter exists only because the author wanted a balanced matchup, audit it harder.
+
+If it is the obvious thing this person would try after seeing the problem, refusing to use it can become the plot hole.
+
+## Authority versus ideation
+
+Do not summarize the alliance as "Luffy invents a false flag."
+
+Law, Robin, and other planners can create the operation.
+
+Luffy authorizes participation.
+
+Do not summarize Sky Coffin as "Kaido engineers a terrain trap."
+
+Queen creates the project.
+
+Kaido decides whether it is worth the cost.
+
+## Aggregate-tone criticism
+
+"This is different from canon" is not a defense if the finished chapters are less fun.
+
+The real test begins when pages exist.
+
+The design repo is allowed to look like engineering documentation.
+
+The manga is not.
+
+See [[story/sagas/soul-feast/arcs/soul-feast/tone-test|Soul Feast Tone Test]].

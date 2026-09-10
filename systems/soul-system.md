@@ -1,33 +1,118 @@
+---
+type: system
+status: draft
+canon: true
+aliases:
+  - Soul System
+tags:
+  - system
+  - soul
+  - linlin
+---
+
 # Soul System
 
-Status: Draft
+## Core
 
-## Linlin's core ability
+Charlotte Linlin can extract soul material from people and place it into other vessels.
 
-Charlotte Linlin can extract soul material from people and place that material into other vessels.
+The system should remain spiritually intimate even when the repo tracks it precisely.
 
-Fear makes extraction easier and can increase usable yield, but soul value is not one-dimensional.
+The reader should feel:
 
-A soul can also be valuable because of:
-
+- fear
 - conviction
-- will
-- experience
+- willingness
+- resistance
 - identity
-- willingly surrendered lifespan
-- emotional coherence
+- the weight of years being lost
 
-A terrified weak person may be easy to harvest but still produce mediocre material.
+The reader should **not** experience a soul spreadsheet.
 
-A person with enormous conviction may be harder to extract but much more valuable.
+## Yield
+
+**Yield** is how much usable soul material Linlin can extract in a given attempt.
+
+The current direction is:
+
+> **The stronger the emotion powering the extraction route, the greater the available yield.**
+
+Fear is Linlin's most common battlefield route because:
+
+- she is terrifying
+- fear is easy to create quickly
+- armies under pressure contain large numbers of frightened people
+
+That does not mean fear is the metaphysical definition of a soul.
+
+It means fear is one effective way Linlin forces the soul into an extractable state.
+
+A target who barely feels fear can therefore be a poor target for a **fear-based extraction**, even if that person possesses a strong soul.
+
+## Quality
+
+**Quality** is not how scared somebody is.
+
+It comes primarily from the strength and coherence of the person whose soul is being used:
+
+- will
+- identity
+- conviction
+- experience
+- psychological integration
+- the degree to which the material behaves like a strong whole rather than emotional debris
+
+This gives Peak Piece two different questions:
+
+> **How much can Linlin get out?**
+
+and
+
+> **What kind of soul material did it come from?**
+
+A terrified strong person may provide high yield and high-quality material.
+
+A fearless strong person may provide poor fear-extraction yield while still possessing high-quality soul material if Linlin can access it through another valid route.
+
+## Voluntary surrender
+
+Willingly surrendered lifespan is different from forced fear extraction.
+
+The donor is intentionally giving up part of their future.
+
+That willingness can make the material unusually coherent because the soul is not being ripped loose through panic.
+
+This matters to [[story/sagas/soul-feast/arcs/soul-feast/arc|Final Service]].
+
+It does not make the act morally clean.
+
+## Hyenas
+
+[[lore/factions/beast-pirates|Hyena troops]] have abnormal fear and pain responses.
+
+Linlin can make a real battlefield blunder by trying mass fear extraction on them.
+
+The move does not need to become literally impossible.
+
+It simply returns far less usable material than she expects because the emotional condition she is relying on is weak.
+
+That scene should communicate the mechanic better than a lecture ever could.
 
 ## Homie weapons
 
-Peak Piece homie weapons do not talk or sing.
+Peak Piece homie weapons do not talk or sing by default.
 
 They feel spiritually awake.
 
-A weapon may carry pressure, urgency, rage, direction, or the emotional residue of the soul material inside it, but it is not a chatty preserved person.
+A weapon may carry:
+
+- pressure
+- urgency
+- rage
+- direction
+- emotional residue
+
+without being a preserved chatty person.
 
 ## Lifespan extension
 
@@ -35,44 +120,77 @@ Linlin can use soul material to extend lifespan.
 
 This is part of how she and parts of her family have survived for centuries.
 
-The exact efficiency and limits are still being locked.
+The exact efficiency and upper limits remain open.
 
 ## Final Service
 
-Charlotte military doctrine distinguishes between different casualty states.
+Charlotte military doctrine distinguishes casualty states.
 
 Recoverable casualties should be saved medically.
 
-A living soldier may voluntarily donate some lifespan.
+A living soldier may voluntarily donate lifespan.
 
 A terminal soldier may voluntarily surrender their whole soul.
 
-Consent matters mechanically and culturally.
+The logic is survival under catastrophic risk.
 
-A willing gift from a convinced soldier can produce exceptionally coherent soul material.
+A soldier with forty expected years left may decide:
 
-Linlin's principle:
+> if we lose tonight, those forty years die with me anyway
 
-> **Nothing valuable is wasted.**
+and give twenty years to materially improve the army's chance of surviving.
 
-During a major war, this can become a terrifying form of mutual commitment rather than simple harvesting.
-
-Locked Linlin line:
+Linlin's locked line:
 
 > **I will spend every year you give me as though it were my own.**
 
+The scene can have pathos without the story treating the empire as morally heroic.
+
 ## After the war
 
-Final Service weapons are not casually retained as trophies.
+Final Service weapons are not automatically trophies.
 
-If the donor did not request otherwise, the weapon can be cleaned, identified, and returned to the family as a memorial or body substitute.
+If the donor did not request otherwise, a weapon can be:
 
-## Constraints
+- cleaned
+- identified
+- recorded
+- returned to family
 
-Still being locked:
+as a memorial or body substitute.
 
-- vessel soul capacity
+Centuries of soul warfare should create ritual.
+
+## Story presentation rule
+
+The repo can use words such as:
+
+- yield
+- quality
+- coherence
+- vessel capacity
+
+because authors need precise distinctions.
+
+The manga should usually show:
+
+- Linlin getting almost nothing from a move she expected to work
+- Brook immediately sensing that Linlin's own twenty years are different
+- a willingly offered soul behaving differently from a terrified stolen fragment
+- a vessel cracking because it cannot hold what was forced into it
+
+No HUD.
+
+No percentages.
+
+No required PowerPoint.
+
+> **The spreadsheet is ours. The audience gets the adventure.**
+
+## Constraints still open
+
+- exact vessel capacity
 - incompatible donor turbulence
-- Linlin's processing bandwidth
-- living donor aging and weakness
+- Linlin's processing limits
+- exact living-donor aging and weakness
 - large-scale collection logistics

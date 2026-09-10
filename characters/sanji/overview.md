@@ -70,3 +70,23 @@ This is still under discussion.
 ## Canon audit
 
 See [[characters/sanji/canon-audit|Canon Audit]].
+
+## Why WCI is Sanji's arc
+
+Operational targeting is not enough.
+
+Charlotte intelligence selecting Sanji explains why the enemy chooses him.
+
+The character arc comes from Sanji's own flaw:
+
+> **My needs are cheaper than yours.**
+
+Sanji loves by serving.
+
+He cooks, protects, plans, and absorbs costs.
+
+That can become a habit of treating himself as the obvious sacrifice whenever somebody has to pay.
+
+WCI attacks that assumption.
+
+See [[characters/sanji/progression|Progression]].

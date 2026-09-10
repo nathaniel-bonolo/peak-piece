@@ -2,6 +2,12 @@
 type: small-moment
 status: scene-seed
 canon: true
+tone:
+  - affection
+  - quiet
+function:
+  - family-texture
+  - character-texture
 tags: [charlotte-family, linlin, pudding, small-moments]
 ---
 # Linlin Comforts Pudding

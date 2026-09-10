@@ -11,6 +11,65 @@ tags:
 
 # Changelog
 
+## V7 - Causal world, imperfect institutions, Soul Feast tone lock
+
+### Philosophy
+- Locked **Peak Piece does not optimize the world. It refuses to make the world ignore itself.**
+- Added **follow the consequence, not the optimization**.
+- Added **competence is not omniscience**.
+- Added **authority is not ideation**.
+- Added **competent systems are not perfect systems**.
+- Added a causal-connection test for lore relationships.
+- Added hidden causal worldbuilding / rewatch rewards.
+- Explicitly locked that **"different from canon" is not a defense if the replacement is less fun**.
+- Expanded Small Moments / organic comedy rules.
+
+### Soul system
+- Split backstage soul logic into **yield** and **quality**.
+- Yield follows the strength of the emotion enabling extraction.
+- Quality follows the strength/coherence of the person the soul comes from.
+- Fear remains Linlin's most common extraction route without becoming the definition of soul value.
+- Added a hard reader-facing rule against onscreen soul statification.
+
+### Soul Feast
+- Clarified alliance authorship: Law/Robin/etc. can design the operation; Luffy authorizes it.
+- Clarified Beast Pirate authorship: Queen develops weapons; Kaido approves/rejects cost.
+- Added the full causal chain for Death Note, hearing protection, Perospero's emergency candy molds, Hyenas, soul-extraction failure, and Sky Coffin.
+- Locked Linlin's failed mass extraction against Hyenas as a **competent blunder**.
+- Added Sky Coffin's history: expensive machine project cancelled around ten percent completion, later revived when Apoo's resonance changes the economics.
+- Added a co-located Soul Feast tone acceptance test.
+- Expanded Soul Scramble to make the Matriarch chain explicitly emergent from Linlin -> Luffy -> Brook -> Zoro rather than planned loot.
+
+### Wano mirrors
+- Wano now has a hidden reflective-surface denial policy.
+- Residents can use water reflections because ordinary household mirrors are rare.
+- Orochi publicly claims mirrors encourage vanity.
+- A child can say Orochi just does not want to see his ugly face.
+- Backstage truth: Kaido knows Brulee exists and refuses to leave convenient mirror infrastructure around Wano.
+- The story does not need to explain this on first read.
+
+### Linlin / Imu
+- Clarified that Linlin is already building Totto Land and already has independent reasons for soul extraction before the Imu contract matters.
+- Imu buys influence by providing long-term World Government tolerance/immunity in exchange for a recurring soul obligation.
+- WCI does not simply "feed Imu."
+- Linlin remains the author of her empire.
+- Added the connection test: removing the contract reopens major causal questions about four centuries of Government tolerance.
+
+### Sanji / WCI
+- Added Sanji progression file.
+- WCI's Sanji-specific internal flaw is now **My needs are cheaper than yours.**
+- Operational targeting explains why Linlin chooses him.
+- Self-sacrificial usefulness explains why the arc belongs to Sanji.
+- The emotional resolution distinguishes loving through service from treating himself as expendable.
+
+### Charlotte comedy / institutional imperfection
+- Added **Backwards Salute Batch** as a Charlotte Family small moment.
+- Pudding rushes a routine Biscuit Reserve template job and creates a harmless defect.
+- The batch fights normally but salutes backwards.
+- Repair costs more than tolerating the defect, so Cracker keeps them.
+- The batch becomes continuity comedy and may later become an accidental identity anchor for Pudding without requiring that payoff.
+- Existing small moments now carry richer tone/function metadata.
+
 ## V6 - Canon audits, backstage rigor, Robin/Usopp/Betty lock
 
 ### Philosophy

@@ -36,3 +36,22 @@ Do not make WCI an economics lecture. Do not make Linlin emotionally normal. Do 
 - [[characters/sanji/canon-audit|Sanji Audit]]
 
 See [[references/canon/source-policy|Canon Audit Source Policy]].
+
+## Sanji-specific replacement
+
+The hostile criticism that "better hostage logic does not automatically make a Sanji arc" is valid.
+
+Peak's answer is not to restore Germa automatically.
+
+It is to give WCI a Sanji-specific internal problem:
+
+> **Sanji treats his own needs as cheaper than everybody else's.**
+
+Charlotte intelligence can exploit that because a person who thinks self-sacrifice is love is easier to keep captive through threats against others.
+
+The rewrite therefore needs both:
+
+- operational reason the enemy chooses Sanji
+- emotional reason Sanji responds the way he does
+
+See [[characters/sanji/progression|Sanji Progression]].

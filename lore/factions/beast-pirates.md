@@ -96,3 +96,37 @@ The canon Ice Oni crisis is cut from Chopper's required Wano function.
 - [[systems/devil-fruits|Devil Fruits]]
 - [[proposals/active/chopper-smile-blackbeard|Chopper / SMILE / Blackbeard]]
 - [[lore/locations/wano|Wano]]
+
+## How ideas move through the organization
+
+Kaido sets strategic appetite.
+
+Queen turns mechanics into doctrine.
+
+Other specialists contribute capabilities.
+
+This distinction matters.
+
+Apoo can be recruited because Queen sees what amplified sound enables.
+
+Queen can revive Sky Coffin because Apoo changes the engineering problem.
+
+Kaido can approve the cost without personally inventing either system.
+
+> **Authority is not ideation.**
+
+## Competence is not omniscience
+
+The Beast Pirates prepare for weapons they know.
+
+They still make assumptions.
+
+They still waste money.
+
+They still have abandoned projects.
+
+They still discover new interactions during testing.
+
+The old Sky Coffin program being cancelled at ten percent and later revived is a useful model:
+
+a competent organization can make the correct decision to kill an uneconomic project and later make the correct decision to reopen it when technology changes.

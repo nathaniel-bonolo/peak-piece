@@ -33,6 +33,45 @@ The current direction ties the arc to:
 
 This chain is still under review.
 
+## Why this is Sanji's arc
+
+The Charlotte intelligence logic answers:
+
+> **Why choose Sanji?**
+
+The emotional spine answers:
+
+> **Why does this story belong to Sanji?**
+
+Sanji's flaw is not that he cares too much.
+
+It is that he can turn care into self-erasure.
+
+He is comfortable treating himself as the person who should absorb the cost because:
+
+- the crew needs him
+- other people have dreams he wants to protect
+- he knows exactly how much suffering he can personally endure
+- sacrificing himself feels more controllable than risking somebody else
+
+The dangerous belief is:
+
+> **My needs are cheaper than yours.**
+
+That makes Sanji unusually exploitable.
+
+If captivity appears to protect the crew, he can cooperate with it long after escape becomes emotionally necessary.
+
+WCI should separate:
+
+> serving people because I love them
+
+from:
+
+> treating myself as expendable because I love them
+
+See [[characters/sanji/progression|Sanji Progression]].
+
 ## Sanji's absence
 
 The crew should materially feel the loss of their cook.

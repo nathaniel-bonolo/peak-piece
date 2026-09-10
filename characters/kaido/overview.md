@@ -100,3 +100,49 @@ This is inspiration, not historical cosplay.
 ## Canon audit
 
 See [[characters/kaido/canon-audit|Canon Audit]].
+
+## Leadership
+
+Kaido does not personally invent every Beast Pirate system.
+
+His job is to decide what kind of power he wants, recruit dangerous people, and decide which projects are worth paying for.
+
+Queen can be the person who sees the application.
+
+Kaido can still be the person who says:
+
+> fund it
+
+or:
+
+> too expensive, kill it
+
+This keeps Kaido strategically competent without turning him into a scientist.
+
+## Sky Coffin
+
+Sky Coffin begins as a Queen proposal.
+
+The original machine-heavy version becomes too expensive after roughly ten percent of the groundwork is completed, so Kaido cancels it.
+
+Years later Apoo changes the economics.
+
+Queen discovers that amplified resonance can perform much of the terrain-fracture work the machines were supposed to do.
+
+The old ten percent becomes useful groundwork instead of total waste.
+
+Kaido authorizes the revived project.
+
+See [[story/sagas/soul-feast/arcs/soul-feast/arc|Soul Feast]].
+
+## Mirror paranoia
+
+Kaido knows Brulee exists.
+
+He therefore orders reflective-surface restrictions across Wano long before Linlin arrives.
+
+The ban is not proof he knows exactly how every mirror attack would work.
+
+It is cheap denial against a known dangerous capability.
+
+See [[lore/locations/wano|Wano]].

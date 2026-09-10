@@ -97,3 +97,36 @@ Peak Piece rejects the idea that a four-century ruler needs recurring toddler-le
 ## Canon audit
 
 See [[characters/linlin/canon-audit|Canon Audit]].
+
+## Competence is not perfection
+
+Four centuries of experience should make Linlin frighteningly refined.
+
+It should not make her omniscient.
+
+She can:
+
+- trust a normally reliable battlefield assumption
+- underestimate a novel SMILE phenotype
+- commit a powerful move before testing the edge case
+- learn the answer only after the move fails
+
+Her mass fear-extraction attempt against the Hyenas is a model error.
+
+The mistake works because the decision is reasonable from what Linlin knows.
+
+## She is still the author of her empire
+
+Imu does not invent Totto Land.
+
+Imu does not invent Linlin's family.
+
+Imu does not invent Linlin's desire for longevity.
+
+Imu does not invent her military need for soul material.
+
+Linlin is already building.
+
+The Imu relationship changes the environment in which that project is allowed to grow.
+
+See [[characters/linlin/relationships|Relationships]].

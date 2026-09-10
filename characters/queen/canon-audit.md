@@ -51,3 +51,17 @@ Do not turn Queen into a dry bureaucrat. Doctrine should generate ridiculous vis
 - [[lore/factions/beast-pirates|Beast Pirates]]
 
 See [[references/canon/source-policy|Canon Audit Source Policy]].
+
+## Sky Coffin as a Queen example
+
+Queen previously built roughly ten percent of an expensive terrain-collapse project before Kaido cancelled it.
+
+When Apoo's resonance later proves capable of doing most of the missing fracture work, Queen recognizes that the abandoned groundwork has become useful.
+
+This is the kind of doctrine role Peak Queen needs:
+
+not "invent random superweapon because plot."
+
+Instead:
+
+> **notice what a new capability makes possible.**

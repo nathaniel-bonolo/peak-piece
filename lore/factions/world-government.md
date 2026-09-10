@@ -42,3 +42,19 @@ As Haki declines, the Government removes knowledge from books and institutions t
 - [[lore/history/haki-history|Haki History]]
 - [[lore/locations/fishman-island|Fishman Island]]
 - [[lore/factions/marines|Marines]]
+
+## Linlin exemption
+
+The Government's tolerance of Linlin is not passive stupidity.
+
+A hidden Imu-level contract protects the Charlotte Empire from the full suppression pressure a centuries-long pirate state would normally invite.
+
+The public Government does not need to understand the real reason.
+
+Linlin pays for that immunity through a recurring soul obligation.
+
+This does not make Linlin an ordinary Government subordinate.
+
+It creates a dangerous exemption whose terms matter to both sides.
+
+See [[characters/imu/relationships|Imu and Linlin]].

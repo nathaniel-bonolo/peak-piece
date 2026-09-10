@@ -45,3 +45,19 @@ Not every citizen should exist only to sing about candy.
 - [[story/sagas/whole-cake-island/arcs/whole-cake-island/arc|Whole Cake Island]]
 - [[systems/soul-system|Soul System]]
 - [[lore/economy/gems|Gem Economy]]
+
+## Linlin built this
+
+Totto Land is Linlin's project.
+
+The Imu contract does not create it.
+
+Linlin is already constructing the family-state and already has independent reasons to use soul material.
+
+Imu's contribution is political space:
+
+a hidden arrangement that makes the World Government tolerate expansion it would otherwise have stronger incentives to crush.
+
+That immunity lets Linlin refine the project for centuries.
+
+See [[characters/linlin/relationships|Linlin and Imu]].

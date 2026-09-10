@@ -2,6 +2,13 @@
 type: small-moment
 status: scene-seed
 canon: true
+tone:
+  - comedy
+  - affection
+function:
+  - character-texture
+  - family-texture
+  - continuity
 tags: [straw-hats, robin, small-moments]
 ---
 # Robin Gets Dragged In

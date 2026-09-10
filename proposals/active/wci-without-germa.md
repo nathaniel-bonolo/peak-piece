@@ -50,3 +50,27 @@ Her relationship with Sanji can still matter, but it should not be the only reas
 - Who is marrying whom?
 - What specific event causes Sanji's capture?
 - What exact information does Pudding gain from him?
+
+## Accepted emotional direction
+
+The operational question and character question are now separated.
+
+Charlotte intelligence choosing Sanji explains **why he is captured**.
+
+The accepted emotional direction explaining **why WCI belongs to Sanji** is:
+
+> **My needs are cheaper than yours.**
+
+Sanji loves through service and can turn that virtue into self-erasure.
+
+WCI should attack the belief that protecting people means he should always be the expendable one.
+
+See [[characters/sanji/progression|Sanji Progression]].
+
+## Still open after this lock
+
+- exact capture event
+- exact form of leverage
+- exact Tea Party / harvest schedule
+- whether a separate Charlotte political wedding still appears
+- exact Sanji/Pudding relationship progression

@@ -54,3 +54,16 @@ Do not make Kaido a genius at everything. Queen and commanders need real jobs. K
 - [[references/history/oda-nobunaga|Nobunaga]]
 
 See [[references/canon/source-policy|Canon Audit Source Policy]].
+
+## Authority versus ideation
+
+Kaido's competence should not be measured by whether he personally invents every project.
+
+Peak structure:
+
+- Kaido sets the strategic appetite
+- Queen proposes and tests systems
+- specialists provide unusual capabilities
+- Kaido approves, rejects, funds, or kills projects
+
+Sky Coffin being Queen's idea protects this division of labor.

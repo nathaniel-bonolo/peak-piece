@@ -2,6 +2,13 @@
 type: small-moment
 status: scene-seed
 canon: true
+tone:
+  - comedy
+  - affection
+function:
+  - character-texture
+  - continuity
+  - family-texture
 tags: [revolutionary-army, robin, usopp, small-moments]
 ---
 # Usopp Meets Robin Again

@@ -52,3 +52,13 @@ Do not make identity contamination random amnesia. Keep stages, coping tools, an
 - [[characters/pudding/abilities|Abilities]]
 
 See [[references/canon/source-policy|Canon Audit Source Policy]].
+
+## Institutional imperfection
+
+Do not make Pudding's military usefulness mean she becomes a flawless production machine.
+
+Routine can create mistakes.
+
+A harmless template defect can survive for years because repair costs more than tolerance.
+
+That kind of comedy pushes against sterile "optimized empire" writing while remaining causal.

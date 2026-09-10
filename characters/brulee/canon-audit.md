@@ -52,3 +52,15 @@ Do not explain every throughput constraint in dialogue. Show exhaustion, bottlen
 - [[story/sagas/soul-feast/arcs/soul-feast/arc|Soul Feast]]
 
 See [[references/canon/source-policy|Canon Audit Source Policy]].
+
+## World adaptation
+
+If Brulee is one of Linlin's most dangerous infiltration assets, enemies who know about her should sometimes adapt.
+
+Wano's mirror restrictions are a model.
+
+Kaido does not need to know exactly which mirror Brulee will use.
+
+He simply removes cheap potential infrastructure from his home territory.
+
+The story can present the result as a stupid Orochi law first and let the causal answer remain hidden.

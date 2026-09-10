@@ -52,3 +52,23 @@ Do not turn Sanji into a nutrition spreadsheet. Food must remain sensory, emotio
 - [[story/interludes/straw-hat-timeskip-distribution|Timeskip Distribution]]
 
 See [[references/canon/source-policy|Canon Audit Source Policy]].
+
+## WCI emotional replacement
+
+Removing Germa creates a real obligation.
+
+"Sanji is the optimal hostage" is only operational logic.
+
+Peak WCI still needs a Sanji-specific wound.
+
+Current answer:
+
+> **Sanji loves through usefulness and can therefore treat his own needs as cheaper than everybody else's.**
+
+This preserves a personal self-sacrifice arc without requiring biological-family machinery to make Sanji matter.
+
+## Failure mode
+
+Do not let "the crew needs the cook" become the emotional answer.
+
+The point is that they want **Sanji**, not only the services Sanji performs.

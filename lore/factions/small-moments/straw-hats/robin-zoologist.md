@@ -2,6 +2,11 @@
 type: small-moment
 status: scene-seed
 canon: true
+tone:
+  - comedy
+function:
+  - character-texture
+  - family-texture
 tags: [straw-hats, robin, comedy]
 ---
 # Robin the Zoologist

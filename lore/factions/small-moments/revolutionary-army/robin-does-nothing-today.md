@@ -2,6 +2,13 @@
 type: small-moment
 status: scene-seed
 canon: true
+tone:
+  - quiet
+  - awkward
+function:
+  - character-texture
+  - healing
+  - continuity
 tags: [revolutionary-army, robin, small-moments]
 ---
 # Robin Does Nothing Today

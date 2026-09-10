@@ -3,7 +3,7 @@ type: character-relationships
 status: draft
 canon: true
 aliases:
-  - "Linlin Relationships"
+  - Linlin Relationships
 tags:
   - character
   - linlin
@@ -38,9 +38,27 @@ Linlin does not micromanage every battlefield decision.
 
 ## Imu
 
-The relationship is contractual, strategic, and dangerous.
+The relationship is contractual, strategic, and load-bearing.
 
-Linlin fears Imu despite being an emperor in her own right.
+The important order is:
+
+1. Linlin is already Linlin.
+2. She is already building the state that becomes Totto Land.
+3. She already has independent reasons to value souls: longevity, Homies, weapons, family/state power.
+4. Imu offers something the World Government can uniquely provide: long-term tolerance / immunity from the level of suppression that would normally target a growing pirate empire.
+5. Linlin pays for that freedom with a recurring soul obligation.
+
+The contract therefore **shapes** an extraction economy that already has reasons to exist.
+
+It does not create Linlin's personality or author the Charlotte Empire.
+
+Without the contract, the story immediately has to answer why the World Government tolerated roughly four centuries of expansion without escalating to existential suppression.
+
+That makes the connection causal rather than trivia.
+
+Current working continuity still allows Imu to have arranged or influenced Linlin's access to the Soul-Soul Fruit, but that detail should not become "Imu created Big Mom."
+
+Linlin fears Imu because she understands the cost of breaking the contract, not because she is secretly his subordinate in every part of her life.
 
 ## Related
 
@@ -49,3 +67,4 @@ Linlin fears Imu despite being an emperor in her own right.
 - [[characters/katakuri/overview|Katakuri]]
 - [[characters/imu/overview|Imu]]
 - [[characters/genauche/overview|Genauche]]
+- [[lore/locations/totto-land|Totto Land]]

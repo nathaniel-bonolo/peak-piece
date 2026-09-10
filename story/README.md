@@ -46,3 +46,7 @@ One written chapter does not have to equal one manga chapter or one anime episod
 - [[story/_Story|Current Story]]
 - [[indexes/Story|Story MOC]]
 - [[00 - Peak Piece|Vault Home]]
+
+## Production checks
+
+- [[story/sagas/soul-feast/arcs/soul-feast/tone-test|Soul Feast Tone Test]]
