@@ -6,16 +6,14 @@ tags: [audit, chopper, devil-fruit]
 ---
 # Devil Fruit Pharmacology: Canon Audit
 
-## Canon baseline
-Chopper's Rumble Ball demonstrates that chemistry can alter Zoan transformation behavior; SMILE demonstrates artificial Devil Fruit-like biological manipulation.
+Canon Rumble Balls already establish that chemistry can alter Zoan transformation behavior.
 
-## Peak response
-Follow that bridge. Chopper becomes a Devil Fruit pharmacologist. Rumble compounds are Fruit-specific calibrations and SMILE becomes his major research problem.
+Peak follows that biological bridge without creating a universal Devil Fruit permission layer.
 
-## References
-- Canon Rumble Ball material.
-- Canon SMILE material.
-- [[production/systems/devil-fruit-pharmacology|Devil Fruit Pharmacology]]
-- [[production/characters/chopper/canon-audit|Chopper Audit]]
+The current boundary is:
 
-See [[production/references/canon/source-policy|Source Policy]].
+> **Pharmacology can perturb biological expression. It does not directly rewrite abstract supernatural permissions.**
+
+Chopper begins as a Zoan pharmacologist. SMILE is the natural expansion. Luffy remains only a possible bespoke edge case because his body is permanently rubberized.
+
+Other major scientists should have adjacent research. Chopper is not allowed to invent an obvious trillion-Berry field in a vacuum while Queen, Caesar, Vegapunk, and the World Government ignore it.

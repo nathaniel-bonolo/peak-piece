@@ -2,87 +2,43 @@
 type: lore
 status: draft
 canon: true
-aliases:
-  - Slavery and Extraction
-tags:
-  - lore
-  - economy
-  - fishman-island
+aliases: [Slavery and Extraction]
+tags: [lore, economy, fishman-island]
 ---
-
 # Slavery and Extraction
-
-Peak Piece treats exploitation as a functioning system, not only visible sadism.
 
 ## Fishmen
 
-Fishmen are valuable to underwater Gem extraction because many can work deposits that ordinary humans cannot safely access.
+Fishmen are valuable to **underwater extraction generally** because many can work deposits, ruins, infrastructure, and depths ordinary humans cannot safely access.
 
-That makes kidnapping economically attractive.
+That makes kidnapping and coercive labor economically attractive even in a world with no Gems.
+
+Targets can include ordinary minerals, rare industrial ores, submerged salvage, deep infrastructure, Gem deposits, and other post-flood resources.
 
 ## Racism comes first; profit feeds it
 
-Anti-Fishman prejudice does not need one single material origin.
+Anti-Fishman prejudice can come from physical difference, fear, historical separation, slavery, inherited resentment, and conflict.
 
-It can come from:
+Underwater extraction then gives powerful actors incentives to preserve prejudice because dehumanization makes exploitation cheaper.
 
-- physical difference
-- fear
-- historical separation
-- slavery
-- inherited resentment
-- conflict
-
-Gem extraction then gives powerful actors incentives to **feed, preserve, and institutionalize** prejudice because dehumanization makes exploitation cheaper.
-
-This distinction is locked:
+Gem demand can intensify that incentive without creating it.
 
 > **Gems feed Fishman racism. They do not cause it.**
 
-## Hidden support
+## Why autonomy threatens the labor market
 
-Beneficiaries do not need to publicly support slavery or racism.
+A safe and economically independent Fishman Island gives workers somewhere else to go.
 
-The system can hide responsibility through:
+A mine in another sea that once relied on desperate Fishman workers may suddenly have to pay more, improve conditions, compete for labor, or invest in expensive alternative technology.
 
-- middlemen
-- subcontractors
-- shipping firms
-- illegal mines
-- smugglers
-- corrupt officials
-- falsified cargo origin
-- legal classifications
-- debt
-- "voluntary" labor contracts
-- protection agreements
+## Why indirect exploitation can beat direct conquest
 
-A clean public company can still benefit from dirty supply if nobody with power wants to inspect why the price is so low.
+Direct occupation means spending huge capital on underwater facilities local Fishmen may later seize in a revolt.
+
+A failed occupation can leave the outsider poorer while giving Fishman Island equipment, mines, trained workers, infrastructure, and export leverage.
+
+Many exploiters therefore prefer keeping Fishmen weak and dependent on intermediaries.
 
 ## "Slavery with paperwork"
 
-Linlin's Fishman Island agreement is deliberately more sophisticated than a whip-and-chain mine.
-
-Workers can receive:
-
-- food
-- medical care
-- shifts
-- limited pay
-
-The system remains coercive if:
-
-- people cannot refuse
-- movement is restricted
-- family members are leverage
-- political sovereignty is exchanged for labor
-
-Improved conditions do not automatically create consent.
-
-## Related
-
-- [[production/lore/economy/gems|Gem Economy]]
-- [[production/lore/economy/trade|Trade]]
-- [[production/lore/locations/fishman-island|Fishman Island]]
-- [[production/characters/genauche/overview|Charlotte Genauche]]
-- [[production/characters/hordy/overview|Hordy Jones]]
+Linlin's system can provide food, medical care, shifts, and limited pay while remaining coercive if workers cannot refuse, movement is restricted, family members are leverage, or sovereignty is exchanged for labor.

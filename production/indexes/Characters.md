@@ -2,19 +2,16 @@
 type: moc
 status: live
 canon: true
-aliases:
-  - Characters MOC
-tags:
-  - moc
-  - characters
+aliases: [Characters MOC]
+tags: [moc, characters]
 ---
-
 # Characters
 
 ## Protagonist / Straw Hats
 
 - [[production/characters/luffy/_Luffy|Monkey D. Luffy]]
 - [[production/characters/zoro/overview|Roronoa Zoro]]
+- [[production/characters/nami/_Nami|Nami]]
 - [[production/characters/usopp/_Usopp|Usopp]]
 - [[production/characters/robin/_Robin|Nico Robin]]
 - [[production/characters/chopper/overview|Tony Tony Chopper]]
@@ -29,17 +26,12 @@ tags:
 - [[production/characters/neptune/overview|King Neptune]]
 - [[production/characters/jinbe/overview|Jinbe]]
 - [[production/characters/whitebeard/overview|Whitebeard]]
-- [[production/characters/shirahoshi-father/_Shirahoshi Father|Shirahoshi's Father]]
-
-## Amazon Lily
-
-- [[production/characters/boa-hancock/overview|Boa Hancock]]
 
 ## Charlotte / later arcs
 
 - [[production/characters/linlin/_Linlin|Charlotte Linlin]]
-- [[production/characters/pudding/_Pudding|Charlotte Pudding]]
 - [[production/characters/katakuri/_Katakuri|Charlotte Katakuri]]
+- [[production/characters/pudding/_Pudding|Charlotte Pudding]]
 - [[production/characters/brulee/overview|Charlotte Brulee]]
 
 ## Wano / Beast Pirates
@@ -48,18 +40,10 @@ tags:
 - [[production/characters/queen/_Queen|Queen]]
 - [[production/characters/black-maria/overview|Black Maria]]
 
-## Endgame
-
-- [[production/characters/imu/_Imu|Imu]]
-
-## Guides
-
-- [[production/characters/README|Character Guide]]
-- [[production/templates/character|Character Template]]
-
-[[production/00 - Peak Piece|Back to Home]]
-
-
 ## Revolutionary Army
 
 - [[production/characters/belo-betty/_Belo Betty|Belo Betty]]
+
+## Endgame
+
+- [[production/characters/imu/_Imu|Imu]]

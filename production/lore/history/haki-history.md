@@ -2,49 +2,59 @@
 type: history
 status: draft
 canon: true
-aliases:
-  - "Haki History"
-tags:
-  - lore
-  - history
-  - haki
+aliases: [Haki History]
+tags: [lore, history, haki]
 ---
-
 # Haki History
 
-See [[production/systems/haki|Haki]] for the mechanic.
+## Haki never vanished
 
-This file tracks the historical rise, decline, suppression, rediscovery, and public return of Haki.
+Basic Haki does not require Gems.
 
-## Decline
+The historical decline of widespread Haki knowledge is **not caused by Gem scarcity**.
 
-Gem scarcity and monopolization make Haki economically unattractive for most people.
+Haki survives in fragmented traditions among elite martial lineages, isolated cultures, pirate crews, military institutions, specialist schools, Amazon Lily, Wano, and other regional traditions.
 
-The World Government encourages the decline and erases knowledge where possible.
+Different cultures preserve different terminology, emphasis, and technique.
 
-## Roger era
+## Why knowledge fragments
 
-Roger's crew encounters descriptions across multiple Poneglyphs that resemble abilities members of the crew already possess.
+Haki is difficult to scale socially because strong instruction depends on experienced teachers, apprenticeship, embodied practice, long training, guarded techniques, and human teaching networks.
 
-They recognize a lost shared discipline.
+A rifle curriculum is easier for a state to standardize than finding thousands of genuine Haki masters.
 
-The crucial discovery is that it can be taught.
+That does not make Haki useless. It makes transmission vulnerable.
 
-## Renaissance
+## World Government suppression
 
-Roger's generation experiments and spreads Haki among top crews.
+The emerging World Government can absorb useful teachers, destroy hostile schools, restrict archives, suppress connective terminology, and make elite instruction a controlled privilege.
 
-Shanks grows up inside this renaissance and becomes an obsessive specialist.
+Suppression does not erase every practitioner.
+
+It prevents fragmented traditions from easily reconnecting into one widely understood global discipline.
+
+## Roger era: reconnection, not invention
+
+Roger's crew already encounters people who can do things we would call Haki.
+
+Across travel, regional traditions, and Poneglyph descriptions, they begin recognizing that apparently separate abilities belong to a shared trainable discipline.
+
+The important realization is:
+
+> **These traditions are related, and people can teach each other.**
+
+Roger's generation compares terminology, techniques, and experience and helps reconnect knowledge that survived in isolated pockets.
+
+## Repopularization
+
+The Great Pirate Era increases demand for teachers.
+
+Haki begins spreading again through pirate apprenticeships, surviving schools, isolated cultures, Marines, defectors, mercenaries, copied instruction, and frauds.
+
+Shanks grows up inside this reconnection and becomes an obsessive specialist.
 
 ## Marineford
 
-The broadcast makes Haki public and undeniable.
+Marineford's broadcast makes elite Haki visible and undeniable to a huge audience and accelerates the renaissance.
 
-Post-Marineford, suppression becomes impossible and the world enters an arms race.
-
-## Related
-
-- [[production/systems/haki|Haki]]
-- [[production/systems/gems|Gems]]
-- [[production/lore/factions/world-government|World Government]]
-- [[production/lore/factions/marines|Marines]]
+Gem support remains relevant only to especially high-output use; it does not explain Haki's existence, decline, or return.

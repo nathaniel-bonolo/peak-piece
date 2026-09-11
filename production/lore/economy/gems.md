@@ -2,127 +2,59 @@
 type: lore
 status: draft
 canon: true
-aliases:
-  - Gem Economy
-tags:
-  - lore
-  - economy
-  - gems
+aliases: [Gem Economy]
+tags: [lore, economy, gems]
 ---
-
 # Gem Economy
 
 See [[production/systems/gems|Gems]] for the energy mechanic.
 
-This file focuses on markets, extraction, trade, monopoly, shipping, and politics.
-
 ## Strategic role
 
-Gems function like a combination of:
+Gems are **not oil**.
 
-- oil
-- batteries
-- diamonds
-- military reserve currency
+Mining them does not create energy. Raw / uncharged Gems contain little or no useful stored power.
 
-They are portable, finite, beautiful, valuable, and strategically useful.
+Their value comes from capacity, energy density, throughput, stability, cycle life, rarity, and beauty.
+
+Industrial users still have to generate electricity and accept large conversion losses to charge them.
+
+The market is closer to an arms market for exceptional high-density capacitors than a market for fuel.
+
+## Main buyers
+
+The strongest demand comes from actors for whom density and burst output justify terrible efficiency: major militaries, Emperor fleets, elite combat units, strategic transport operations, high-output Fruit/Haki users, and specialist weapons.
+
+Ordinary homes and businesses usually have better things to use.
 
 ## Fishman Island
 
-[[production/lore/locations/fishman-island|Fishman Island]] sits on one of the world's most important submerged Gem basins.
+Fishman Island sits in a major submerged **mineral basin**.
 
-Its importance comes from both:
+Gems are one important resource among many.
 
-- the resource
-- Fishmen's ability to physically access deposits surface populations struggle to reach
+Fishmen are valuable to underwater extraction globally even when no Gem is involved.
 
-## Gems feed racism; they do not invent it
+See [[production/lore/economy/underwater-extraction|Underwater Extraction]].
 
-Anti-Fishman prejudice already exists independently.
+## Gems feed exploitation; they do not create it
 
-The Gem economy gives institutions reasons to quietly preserve the social conditions that make Fishmen cheap to exploit.
+Remove Gems and trafficking, underwater minerals, political weakness, and exploitative labor markets still exist.
 
-Possible mechanisms include:
-
-- shipping companies buying suspiciously cheap Gem cargo through intermediaries
-- illegal extraction networks
-- smugglers
-- corrupt officials
-- contractors hiding forced labor behind subcontractors
-- politicians defending movement restrictions in the language of "stability"
-- firms publicly condemning slavery while refusing to investigate cheap supply
-
-Nobody needs to announce:
-
-> racism is good for quarterly earnings
-
-The point is distance between public morality and profitable supply.
-
-## Feedback loop
-
-> prejudice lowers the cost of exploitation  
-> cheap exploitation creates profit  
-> profit rewards actors who preserve the conditions enabling it  
-> those conditions feed further prejudice and segregation
-
-The economic layer reinforces racism.
-
-It is not the sole origin of every racist belief.
+Gem demand makes certain deposits especially profitable because military buyers pay heavily for high-grade storage crystals.
 
 ## Whitebeard effect
 
-Whitebeard's Fishman policy disrupts this system.
+Whitebeard strengthens Fishman bargaining power across the underwater-extraction economy.
 
-He:
+Gem supply is one affected market, not the whole reason his policy matters.
 
-- frees enslaved Fishmen
-- attacks traffickers
-- keeps routes safer
-- lets Fishmen travel
-- helps Fishman Island trade on better terms
+## Stockpiles
 
-That can reduce coerced Gem supply and raise the cost of obtaining it.
+Separate **physical capacity** from **ready energy**.
 
-So Whitebeard is not merely a strong pirate sitting near **Fishman Arabia**.
+An empty high-grade Gem can be stored long-term.
 
-His protection can hurt:
+Maintaining Gems near maximum charge costs electricity, converters, inspection, security, leakage losses, and cycle life.
 
-- slavers
-- smugglers
-- extraction interests
-- shipping networks
-- buyers who benefited from cheap coerced supply
-- World Government leverage
-
-This gives powerful actors material reasons to prefer a world without him even before personal or military motives are counted.
-
-## Linlin model
-
-Linlin provides security in exchange for extraction control, labor quotas, hostage leverage, and a dominant share of output.
-
-Her system can be safer than previous mines while remaining coercive.
-
-## War
-
-Factions can fight over:
-
-- deposits
-- refining
-- shipping
-- chokepoints
-- stockpiles
-- embargoes
-- access to Fishman labor
-- artificial-Gem technology
-
-The story does not need an economics lecture every time.
-
-The production bible tracks the pressure so conflicts have causes beyond "villain wants chaos."
-
-## Related
-
-- [[production/systems/gems|Gems]]
-- [[production/lore/economy/trade|Trade]]
-- [[production/lore/economy/slavery-and-extraction|Slavery and Extraction]]
-- [[production/lore/locations/fishman-island|Fishman Island]]
-- [[production/lore/history/gem-history|Gem History]]
+A four-century stockpile of crystals is not a four-century stockpile of electricity.

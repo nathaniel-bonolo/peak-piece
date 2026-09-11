@@ -2,68 +2,61 @@
 type: system
 status: draft
 canon: true
-aliases:
-  - Devil Fruit Pharmacology
-  - Rumble Ball System
-tags:
-  - system
-  - devil-fruit
-  - chopper
+aliases: [Devil Fruit Pharmacology, Rumble Ball System, Zoan Pharmacology]
+tags: [system, devil-fruit, chopper]
 ---
-
 # Devil Fruit Pharmacology
 
 ## Core rule
 
-> **Rumble compounds temporarily alter how a Devil Fruit expresses properties it already possesses.**
+> **Pharmacology can perturb biological expression. It does not directly rewrite a Devil Fruit's abstract supernatural permissions.**
 
-The underlying principle can apply to multiple Devil Fruits, but formulations are **Fruit-specific**.
-
-A Rumble Ball calibrated for Chopper is not automatically useful to Luffy.
+This begins as **Zoan pharmacology**, because Zoan transformation states are embodied in biology and Chopper has direct experimental access to his own body.
 
 ## Origin
 
-[[production/characters/chopper/overview|Chopper]] discovered the principle accidentally.
+As a child Chopper experimented on his Human-Human Fruit because he wanted to look more human. What he once saw as monstrous failures later becomes a body of knowledge about transformation expression.
 
-As a child he desperately wanted to look more human, so he experimented on his Human-Human Fruit.
+## Rumble compounds
 
-Every experiment seemed to make him more monstrous.
+Rumble compounds are highly bespoke.
 
-After the Straw Hats accepted him, Chopper stopped seeing those forms as failed attempts at humanity and recognized that he had discovered a way to manipulate Devil Fruit expression.
+A formula calibrated for Chopper is not automatically useful to another Zoan.
 
-## Combat use
+They can alter how already-existing transformed biology expresses; they cannot grant unrelated powers.
 
-Chopper turns the old experiments into combat forms.
+## SMILE
 
-The emotional progression is:
+SMILE is the natural next research bridge because it is an artificial Zoan-like effect embedded pathologically in biology.
 
-> He modified himself because he hated looking like a monster.
+Chopper's knowledge gives him a reason to recognize that SMILE may not behave like an ordinary disease.
 
-> He later masters those modifications because he no longer cares whether protecting his friends makes him look like one.
+## Other Fruit classes
 
-## Other Fruits
+Do **not** assume a universal tuning industry.
 
-Chopper eventually begins developing Fruit-specific formulations for other users.
+Zoans are the most plausible field. Artificial Zoans / SMILE are adjacent but pathological. Paramecia / Logia applications are much harder and sometimes impossible.
 
-### Luffy
+A drug cannot manipulate an abstract permission merely because somebody ate a Devil Fruit.
 
-Current examples:
+## Luffy as an edge case
 
-- a formulation that makes Luffy's rubber harder and denser, closer to tire rubber
-- a formulation that makes his rubber substantially more elastic
+Luffy may be unusually researchable because his body is permanently rubberized.
 
-These are not free upgrades. Changing one material property should create tradeoffs in another.
+Even then, research must be Luffy-specific, slow, narrow, tradeoff-heavy, and incapable of inventing arbitrary rubber powers.
 
-Exact formulations and costs still need to be locked.
+There is no RPG inventory of boss-specific forms.
 
-## Research implications
+## Independent research elsewhere
 
-This makes Chopper an emerging **Devil Fruit pharmacologist**, not merely the doctor who happens to have a Fruit.
+A field this valuable cannot exist only because the protagonist's doctor thought of it.
 
-That research later becomes central to [[production/proposals/active/chopper-smile-blackbeard|the SMILE cure problem]].
+Queen, Caesar, Vegapunk, and other research cultures may have independently explored adjacent territory for different reasons.
 
-## Related
+## Anti-permission-layer rule
 
-- [[production/characters/chopper/abilities|Chopper's Abilities]]
-- [[production/systems/devil-fruits|Devil Fruits]]
-- [[production/systems/gems|Gems]]
+If a future fight needs a new ability and the answer is:
+
+> **Chopper conveniently made a compound for that.**
+
+stop.

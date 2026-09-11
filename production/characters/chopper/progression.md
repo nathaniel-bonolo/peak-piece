@@ -2,74 +2,44 @@
 type: character
 status: draft
 canon: true
-tags:
-  - character
-  - chopper
-  - progression
+tags: [character, chopper, progression]
 ---
-
 # Chopper: Progression
 
 ## Childhood
 
-Chopper believes becoming more human-looking might make him acceptable.
+Chopper believes becoming more human-looking might make him acceptable and experiments on his own Zoan body.
 
-His self-experiments repeatedly make him look more monstrous.
+## Acceptance
 
-## Straw Hat acceptance
+The crew accepts him without requiring him to become more human. What he once considered failures become tools.
 
-The crew accepts him without requiring him to become more human.
+## Zoan pharmacologist
 
-That changes the meaning of his research.
+Chopper realizes Rumble compounds can alter the biological expression of **his own Zoan transformation**.
 
-What he once considered failures become tools.
+His expertise grows outward from that concrete base.
 
-## Devil Fruit researcher
+He is not immediately a universal Devil Fruit pharmacist.
 
-Chopper realizes Rumble compounds can alter Devil Fruit expression and begins researching Fruits more generally.
+## Timeskip gap
 
-This eventually allows experimental formulations for Luffy.
+The current destination / curriculum still needs a stronger causal bridge into the doctor-scientist he becomes.
+
+The location can preserve useful canon material, but two years should not reduce to "he read medical books."
+
+See [[production/proposals/active/chopper-timeskip-audit|Chopper Timeskip Audit]].
 
 ## Wano and SMILE
 
-When Chopper meets SMILE victims in Wano, he is devastated.
+When Chopper meets SMILE victims, his Zoan pharmacology gives him a reason to recognize an artificial Fruit effect embedded in biology.
 
-He researches the condition throughout the arc instead of solving a disposable crisis in minutes.
+Treating symptoms is not enough; a complete cure may require removing or neutralizing the artificial Fruit effect.
 
-His conclusion:
+## Toko
 
-> **SMILE is not merely a normal disease. The pathological effect is tied to the artificial Devil Fruit itself.**
-
-Treating symptoms is not enough.
-
-A complete cure may require removing the artificial Fruit effect from the victim.
-
-This creates the future [[production/proposals/active/chopper-smile-blackbeard|Blackbeard extraction problem]].
-
-## Toko payoff
-
-The eventual cure is tested on Toko.
-
-She is laughing.
-
-Then a laugh does not come.
-
-The smile slowly leaves her face.
-
-A tear runs down her cheek.
-
-She touches it.
-
-Another tear follows.
-
-Then she grabs Chopper and finally sobs.
-
-For the first time in years, she is physically able to grieve.
-
-No speech is required.
+The eventual emotional payoff remains: Toko's involuntary laugh finally fails, her smile leaves, a tear appears, and she can physically sob again.
 
 ## Character line
 
-Chopper's long arc can be summarized as:
-
-> **He tried to alter a Devil Fruit because he wanted to stop being a monster. He becomes the person who understands Devil Fruit alteration well enough to free other people from what was done to them.**
+> **He tried to alter a Devil Fruit because he wanted to stop being a monster. He becomes the person who understands altered Zoan biology well enough to help free other people from what was done to them.**

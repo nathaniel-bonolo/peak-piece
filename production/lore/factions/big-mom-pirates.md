@@ -3,8 +3,8 @@ type: faction
 status: draft
 canon: true
 aliases:
-  - "Big Mom Pirates"
-  - "Charlotte Empire"
+  - Big Mom Pirates
+  - Charlotte Empire
 tags:
   - faction
   - charlotte
@@ -29,20 +29,53 @@ Major branches currently include:
 - ranged forces
 - logistics
 - strategic resource administration
+- intelligence
+- Orchard evaluation / harvest support
 
 Officers are expected to act autonomously.
 
 ## Core doctrine
 
-The empire combines family loyalty, resource accounting, specialist Devil Fruits, fortification, intelligence, and soul economics.
+The empire combines family loyalty, specialist Devil Fruits, fortification, intelligence, soul economics, trade, and long institutional memory.
+
+Linlin's patience applies to souls as well as territory: she is willing to let a promising person mature before harvesting them.
+
+See [[production/lore/factions/charlotte-orchard|The Orchard]].
+
+## The Orchard
+
+High bounties can trigger evaluation because they are a public signal of unusual danger / value.
+
+Charlotte intelligence then estimates:
+
+- current soul value
+- growth potential
+- spoilage risk
+
+Promising low-risk targets can be left **Green** and tracked.
+
+Targets near ceiling become **Ripe**.
+
+Declining targets can become **Overripe**.
+
+Katakuri handles the most dangerous high-value captures.
+
+Pudding helps prepare captured people by identifying fears and routes to surrender without bruising the soul.
+
+Linlin turns completed souls into **toys**.
 
 ## Fishman Island
 
-After Whitebeard's death, Linlin turns the security vacuum into a strategic Gem agreement.
+After Whitebeard's death, Linlin finds a functioning Fishman-owned extraction economy plus a security vacuum.
 
-[[production/characters/genauche/overview|Charlotte Genauche]] administers the mine system.
+She supplies protection and takes controlling rights over strategic output.
 
-The Charlotte state improves stability and working conditions relative to chaotic trafficking while still coercing labor, output, sovereignty, and hostages.
+The Charlotte state can improve stability and working conditions relative to chaotic trafficking while still coercing:
+
+- labor
+- output
+- sovereignty
+- hostages
 
 ## Important figures
 
@@ -55,20 +88,6 @@ The Charlotte state improves stability and working conditions relative to chaoti
 - Cracker
 - Smoothie
 - Oven
-
-## Related
-
-- [[production/characters/linlin/overview|Charlotte Linlin]]
-- [[production/characters/genauche/overview|Charlotte Genauche]]
-- [[production/characters/katakuri/overview|Katakuri]]
-- [[production/characters/pudding/overview|Pudding]]
-- [[production/lore/locations/totto-land|Totto Land]]
-- [[production/lore/locations/fishman-island|Fishman Island]]
-
-
-## Small moments
-
-- [[production/lore/factions/small-moments/charlotte-family/_Charlotte Family Small Moments|Charlotte Family Small Moments]]
 
 ## Competent does not mean sterile
 
@@ -103,3 +122,13 @@ The soldiers are people inside a system that has normalized lifespan as somethin
 Their grief, loyalty, fear, and dignity are allowed to be real.
 
 That emotional reality does not require the story to endorse the empire.
+
+## Related
+
+- [[production/characters/linlin/overview|Charlotte Linlin]]
+- [[production/characters/genauche/overview|Charlotte Genauche]]
+- [[production/characters/katakuri/overview|Katakuri]]
+- [[production/characters/pudding/overview|Pudding]]
+- [[production/lore/factions/charlotte-orchard|The Orchard]]
+- [[production/lore/locations/totto-land|Totto Land]]
+- [[production/lore/locations/fishman-island|Fishman Island]]

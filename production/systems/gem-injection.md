@@ -2,68 +2,43 @@
 type: system
 status: draft
 canon: true
-aliases:
-  - Gem Injection
-  - Gem Blood
-tags:
-  - system
-  - gems
-  - fishman-island
+aliases: [Gem Injection, Gem Blood]
+tags: [system, gems, fishman-island]
 ---
-
 # Gem Injection
 
-## Locked story facts
-
-Gem injection is an old Fishman technique that can produce an enormous temporary increase in physical and energy output.
+Gem injection is an old Fishman technique that routes **stored charged Gem energy** directly through the body for a huge temporary increase in physical / energy output.
 
 It is extremely dangerous.
 
-[[production/characters/fisher-tiger/overview|Fisher Tiger]] used the technique and overused it. The resulting damage is why he later required a blood transfusion.
+Raw empty crystal is not a magic steroid.
 
-[[production/characters/shirahoshi/overview|Shirahoshi]] knows what the technique did to Tiger and therefore understands the cost before [[production/characters/hordy/overview|Hordy]] tries to use it.
+Fisher Tiger used and overused the technique. Shirahoshi knows the cost through her father's research.
 
-Miners have heard degraded stories about the technique. Desperate Fishmen have attempted crude versions and died.
+## Hordy's mine
 
-## Sea King / Poseidon rumor
+Hordy did not grow up in a Gem mine.
 
-Gem injection does **not** automatically make someone Poseidon or a Sea King tamer.
+His mine extracted other underwater minerals.
 
-Fishmen have a natural spectrum of ability to tame and work with sea creatures.
+Prisoners heard degraded stories about Tiger, acquired small low-grade Gems through secondary finds / mixed cargo / theft, charged them badly with mine electricity, and tried to reproduce a procedure they did not understand.
 
-A legendary Fishman capable of taming an actual Sea King is sometimes imagined as a "Sea King" or Poseidon figure.
+Failure can come from wrong charge profile, dose, transfer medium, discharge rate, missing preparation, or missing stabilization.
 
-The mine rumor is simply:
+Some die. Some receive a terrifying burst and collapse.
 
-> **Maybe Gem injection could make someone strong enough to do it.**
+This preserves Hordy's childhood lesson without making Gems the reason his enslavement exists.
 
-Hordy believes the rumor.
+## Sea King rumor
 
-It has not been established as true.
+Gem injection does not automatically make someone Poseidon or able to tame Sea Kings.
 
-## Mechanics not locked yet
+The rumor is simply that it might make someone strong enough.
 
-The exact biological and energy-transfer mechanism is intentionally open.
+Hordy believes the rumor. The story does not establish it as true.
 
-We still need to define:
+## Open mechanics
 
-- how Gem material enters or interfaces with the body
-- why the boost is so large
-- what tissue is damaged
-- whether damage comes from dose, output, duration, or all three
-- how quickly the body can recover
-- whether skilled use can ever be reasonably safe
-- whether the technique can interact with Haki
-- what a blood transfusion actually repairs
+Still open: exact body interface, damaged tissue, recovery, dose/output/duration relationship, whether skilled use can ever be reasonably safe, Haki interaction, and what the transfusion repairs.
 
-> [!warning]
-> Do not turn Gem injection into consequence-free "Super Saiyan heroin."
-
-The power is interesting because the cost matters.
-
-## Related
-
-- [[production/systems/gems|Gems]]
-- [[production/characters/fisher-tiger/overview|Fisher Tiger]]
-- [[production/characters/hordy/overview|Hordy Jones]]
-- [[production/characters/shirahoshi/overview|Shirahoshi]]
+Do not invent fake biochemistry only to make the notes look complete.

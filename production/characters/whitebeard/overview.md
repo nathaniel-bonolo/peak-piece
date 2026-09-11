@@ -2,57 +2,49 @@
 type: character
 status: draft
 canon: true
-aliases:
-  - Edward Newgate
-  - Whitebeard
-tags:
-  - character
-  - whitebeard
-  - fishman-island
+aliases: [Edward Newgate, Whitebeard]
+tags: [character, whitebeard, fishman-island]
 ---
-
 # Whitebeard
 
-## Fishman Island role
+## Fishman policy
 
-Fishman Island itself is extremely difficult to conquer.
-
-Its people are still vulnerable when they travel, trade, work, or are kidnapped outside the island.
-
-Whitebeard therefore does not need to "protect the island" in the simple sense.
+Whitebeard does not need to "protect the island" in the simple sense.
 
 He **claims the people**.
 
 His flag makes preying on Fishmen expensive.
 
-## What Whitebeard changes
+Under Whitebeard, slaves are recovered, traffickers face retaliation, surface routes become safer, Fishman merchants trade directly, and Fishman-owned underwater extraction can accumulate capital.
 
-Under Whitebeard:
+## Why this is economically disruptive
 
-- enslaved Fishmen are freed and returned
-- kidnapped mothers can return to their children
-- traffickers know touching Fishmen risks retaliation
-- Fishman traders can move through surface routes
-- pirate crews help guard routes and ports
-- Fishman Island can sell Gems instead of surrendering them through predatory middlemen
-- profits are split fairly rather than extracted almost entirely by outsiders
+A protected Fishman economy gives workers elsewhere an alternative.
 
-Whitebeard gives Fishmen **freedom of movement**.
+A worker can leave. A merchant can refuse. A Fishman-owned operation can compete.
 
-## Why the Government hates it
+Distant mines may have to raise wages, improve conditions, negotiate, or invest in expensive alternative technology.
 
-Whitebeard is not only a military threat.
+Whitebeard raises the cost of exploitation without needing an economic manifesto.
 
-His system destroys profits built on Fishman trafficking, coercive labor, and control of Gem access.
+## Why nobody simply did this before
+
+The unusual thing is not that Whitebeard is the first person strong enough to invade Fishman Island.
+
+Direct colonial investment is risky because Fishmen can revolt, seize underwater infrastructure, and become independent competitors.
+
+Whitebeard does something different:
+
+> **He underwrites autonomy without demanding ownership of the productive system.**
+
+## Why powerful interests hate it
+
+His system damages profits and leverage built on trafficking, slavery, cheap underwater labor, controlled movement, predatory mineral contracts, Gem access, and shipping dependence.
+
+The Gem market is one pressure among several.
 
 ## After his death
 
-The tragedy is not merely that a protector dies.
-
 > **The roads close again.**
 
-The resulting vacuum creates the conditions for Linlin's deal.
-
-## Canon audit
-
-See [[production/characters/whitebeard/canon-audit|Canon Audit]].
+But the economic system built during the safer era remains, which is exactly why Linlin can step into a cheaper, already-functioning opportunity.

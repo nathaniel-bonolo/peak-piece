@@ -2,59 +2,43 @@
 type: faction
 status: draft
 canon: true
-aliases:
-  - "World Government"
-tags:
-  - faction
-  - world-government
-  - gems
+aliases: [World Government]
+tags: [faction, world-government]
 ---
-
 # World Government
 
-## Current direction
+## Material power
 
-The World Government's power is partly material.
+The World Government's power is partly material, but not reducible to one commodity.
 
-It controls or influences:
+It controls combinations of strategic stockpiles, shipping, legal trade, military access, extraction systems, archives, specialist infrastructure, high-grade Gem capacity, processing, and converter technology.
 
-- Gem stockpiles
-- refining
-- shipping
-- legal trade
-- military access
-- knowledge
-- extraction systems
+The flood can strengthen that advantage by destroying rival access to many different resources.
 
-Its oppression of Fishmen is therefore not only prejudice.
+## Fishmen
 
-It is tied to control of strategically important underwater resources.
+The Government order benefits from Fishman political weakness because Fishmen are valuable across underwater extraction.
+
+That does not require one central memo whose only purpose is "keep Fishmen enslaved."
+
+Governments, mine owners, contractors, shippers, nobles, buyers, traffickers, and corrupt officials can have overlapping incentives.
+
+Gems make some extraction more strategically valuable. They do not create the system.
 
 ## Haki suppression
 
-As Haki declines, the Government removes knowledge from books and institutions to prevent rivals from rebuilding the discipline.
+The Government does not wait for Gem scarcity to make Haki disappear.
 
-## Related
+Over centuries it can absorb teachers, suppress hostile schools, restrict archives, fragment terminology, and monopolize elite instruction.
 
-- [[production/characters/imu/overview|Imu]]
-- [[production/lore/economy/gems|Gem Economy]]
-- [[production/lore/history/gem-history|Gem History]]
-- [[production/lore/history/haki-history|Haki History]]
-- [[production/lore/locations/fishman-island|Fishman Island]]
-- [[production/lore/factions/marines|Marines]]
+Haki survives in pockets.
 
 ## Linlin exemption
 
-The Government's tolerance of Linlin is not passive stupidity.
+A hidden Imu-level contract protects the Charlotte Empire from the full suppression pressure a centuries-long pirate state would ordinarily invite.
 
-A hidden Imu-level contract protects the Charlotte Empire from the full suppression pressure a centuries-long pirate state would normally invite.
+Linlin pays through a recurring soul obligation.
 
-The public Government does not need to understand the real reason.
+Important:
 
-Linlin pays for that immunity through a recurring soul obligation.
-
-This does not make Linlin an ordinary Government subordinate.
-
-It creates a dangerous exemption whose terms matter to both sides.
-
-See [[production/characters/imu/relationships|Imu and Linlin]].
+> **The Imu deal explains why the central Government tolerates her. It does not erase four centuries of consequences for everybody else.**

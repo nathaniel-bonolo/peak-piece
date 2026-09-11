@@ -14,9 +14,13 @@ tags:
 
 ## Premise
 
-Fishman Island is one of the world's most important Gem regions.
+Fishman Island sits in one of the world's great submerged mineral basins.
 
-The Straw Hats arrive during a period of maximum extraction only weeks before Linlin's Tea Party.
+Gems are one valuable resource among many.
+
+The deeper political fact is broader: Fishmen are extraordinarily valuable to underwater extraction throughout a world whose ancient flood put enormous amounts of useful material beneath the sea.
+
+The Straw Hats arrive during a period of maximum strategic extraction only weeks before Linlin's Tea Party.
 
 They do not create the island's resistance.
 
@@ -27,21 +31,39 @@ They enter an existing political crisis at exactly the moment the system is unde
 ### Fishman Island
 
 - extremely difficult to conquer directly
-- strategically vital because of submerged Gems
+- strategically important because of underwater labor, routes, and minerals
+- home to major Gem deposits without being reducible to them
 - politically traumatized by slavery and trafficking
 - dependent on external access for safe movement and trade
 
+Direct conquest is also economically risky.
+
+An occupier has to spend heavily on underwater mines, equipment, transport, ports, processing, and security. If Fishmen revolt successfully, the occupier can lose that entire investment and leave the rebels with the infrastructure needed to become an independent competitor.
+
+That helps explain why outside powers so often prefer trafficking, coercive labor, middlemen, unequal contracts, and political pressure over clean territorial occupation.
+
 ### Whitebeard legacy
 
-Before Marineford, Whitebeard claimed Fishmen as people rather than merely putting a flag on the island.
+Before Marineford, Whitebeard claimed Fishmen as people rather than merely placing a flag over the island.
 
 He:
 
 - freed slaves
 - returned kidnapped Fishmen
 - protected surface routes
-- helped Fishman merchants trade
-- helped sell Gems fairly
+- helped Fishman merchants trade directly
+- protected Fishman-owned extraction
+- let Fishmen sell minerals and Gems on better terms
+
+His protection changes more than Fishman Island.
+
+A Fishman worker trapped in an abusive platinum mine in another sea has more leverage when home is safe and Fishman-controlled employers can hire.
+
+The result is higher bargaining power, higher wages, and fewer situations where "accept this or starve" is the only realistic choice.
+
+Whitebeard never needs to announce an economic revolution.
+
+He changes the labor market simply by making **no** more possible.
 
 His death closes those roads again.
 
@@ -53,16 +75,32 @@ He accepts Linlin's deal because refusing may immediately cost lives.
 
 ### Linlin
 
-General Linlin offers security and sovereignty tolerance in exchange for strategic Gem control.
+General Linlin does not arrive to build Fishman Island from nothing.
 
-The agreement requires:
+Whitebeard already helped create a functioning protected extraction economy: mines, equipment, trained workers, routes, merchant relationships, and confidence that Fishmen can sell their own output.
+
+After his death, Linlin enters the security vacuum and changes the protector's role.
+
+Whitebeard's model was:
+
+> **Security so you can bargain for yourselves.**
+
+Linlin's becomes:
+
+> **Security, therefore I get the controlling share.**
+
+Her agreement requires some combination of:
 
 - mine labor
-- Gem output
+- strategic output
 - a dominant Charlotte share
 - a quota of Fishmen moved to Totto Land as "residents"
 
 Those residents function as hostages.
+
+Gems matter because militaries pay heavily for high-grade storage crystals.
+
+They are not the reason Fishman Island has an extraction economy.
 
 ### Genauche
 
@@ -72,7 +110,7 @@ She improves safety, predictability, and efficiency while preserving coercive ow
 
 ### Hordy
 
-Hordy Jones was trafficked into Gem mining as a child.
+Hordy Jones was trafficked into **non-Gem underwater mineral extraction** as a child.
 
 He survived by becoming a kapo: the Fishman who took the whip because he believed he could hurt one person less badly than human overseers would hurt fifty.
 
@@ -82,7 +120,21 @@ Then he became good at it.
 
 He learned to stop rebellions before they began, improved production, accepted privileges, accumulated guilt, and became known as **Devil's Hand**.
 
-Genauche later brings him into Fishman Island's extraction system because that exact experience makes him useful.
+Gem injection enters his childhood as a liberation rumor rather than the reason the mine exists.
+
+Prisoners hear that Fisher Tiger once used an old technique. They acquire small low-grade Gems through secondary finds, mixed cargo, or theft, charge them badly using mine electricity, and try to reproduce a result without knowing the procedure.
+
+Some die.
+
+Some gain a terrifying burst and collapse.
+
+The rebellion fails and collective punishment follows.
+
+Hordy learns the wrong lesson:
+
+> **Hope gets everybody hurt when you do not have enough power or knowledge to finish the job.**
+
+Genauche later brings him into Fishman Island's extraction system because his experience makes him useful.
 
 Hordy secretly searches for the real Gem-injection technique.
 
@@ -92,7 +144,7 @@ He believes enough strength will finally let him become the Sea King nobody ever
 
 Shirahoshi is not a princess and not a hereditary Ancient Weapon.
 
-She is a giant Fishman/mermaid warrior-in-training raised around Fisher Tiger.
+She is a giant Fishman / mermaid warrior-in-training shaped by Fisher Tiger's example.
 
 She opposes Linlin's deal and is eventually imprisoned after repeated resistance.
 
@@ -102,55 +154,49 @@ Fishmen have varying natural ability to tame and work with sea creatures.
 
 The legend says a Fishman might one day become skilled or strong enough to tame an actual Sea King.
 
-The mines call such a figure a Sea King/Poseidon.
+The mines call such a figure a Sea King / Poseidon.
 
 There is no chosen royal bloodline.
 
-The rumor that Gem Injection might make someone strong enough is only a rumor.
+The rumor that Gem injection might make someone strong enough is only a rumor.
 
 ## Fisher Tiger and the old technique
 
-Fisher Tiger used and overused Gem injection.
+Fisher Tiger used and overused Gem injection during liberation.
 
-It helped him accomplish extraordinary liberation feats.
+It helped him perform extraordinary feats and damaged him badly enough that he later needed a blood transfusion.
 
-It also damaged him badly enough that he later needed a blood transfusion.
+The technique is something Tiger used.
 
-Shirahoshi knows this history.
+It is not why Tiger matters.
 
-Hordy interprets it differently.
+Shirahoshi sees Tiger as proof that liberation can require terrible personal cost.
 
-In the mine, Hordy's friends heard that Tiger had used the technique and tried crude versions themselves.
+Hordy sees the same history through the friends who died trying to imitate a distorted underground version of it.
 
-Some died.
+His resentment toward Tiger is emotionally real and factually unfair.
 
-Hordy unfairly turns that memory into resentment toward Tiger:
+## Hordy and Shirahoshi
 
-> **Tiger taught desperate people to believe strength would save them.**
-
-That resentment is one reason Shirahoshi's open admiration of Tiger enrages him.
-
-## Hordy and Shirahoshi deal
-
-Hordy has access to the prison and mine system.
-
-Shirahoshi has rebel credibility, followers, and access to her father's Gem research.
-
-Before the deal, Hordy initially helps contain Shirahoshi because her public rebellion triggers the same survival instinct the mine taught him:
+Hordy initially helps contain Shirahoshi because her open rebellion triggers the same survival instinct the mine taught him:
 
 > **You idiot. You're going to make them punish everyone.**
 
-Once Hordy becomes confident she knows the real injection technique, they begin private correspondence.
+Once he becomes convinced she possesses her father's research, they begin private correspondence.
+
+Hordy has access, keys, followers, and knowledge of the extraction system.
+
+Shirahoshi has rebel legitimacy, followers, her father's research, and the technique he wants.
 
 They agree that when:
 
-- the Tea Party stockpile is large
+- the Tea Party reserve is high
 - Charlotte forces are stretched
 - a major distraction appears
 
 Hordy will release her.
 
-In exchange, Hordy gains the technique.
+In exchange, he gains the real technique.
 
 They are allies of necessity, not ideological partners.
 
@@ -158,13 +204,13 @@ They are allies of necessity, not ideological partners.
 
 The Tea Party is weeks away.
 
-Mining is running near maximum output.
+Strategic extraction is running near maximum output.
 
-The stockpile is huge.
+The Gem reserve is unusually large.
 
 Workers and Totto Land "residents" are being collected.
 
-The Straw Hats see the extraction system directly and become involved.
+The Straw Hats see the coercive system directly and become involved.
 
 Their confrontation with Genauche creates the large distraction Hordy and Shirahoshi have been waiting for.
 
@@ -188,7 +234,7 @@ Their confrontation with Genauche creates the large distraction Hordy and Shirah
 
 ### Whitebeard
 
-> Freedom of movement through deterrence.
+> Security should give people enough freedom to bargain for themselves.
 
 ### Jinbe
 
@@ -253,25 +299,10 @@ She finds only an unreadable ruined page.
 
 There is no public redemption.
 
-See Hordy's Backstory and Hordy's Letters.
-
 ## Ending / bridge to WCI
 
-The final Fishman Island outcome should directly damage Linlin's Gem supply and extraction authority.
+The final outcome damages Linlin's strategic extraction authority and access to a major Gem reserve.
 
-That creates a concrete economic and political reason for the later [[story/sagas/whole-cake-island/arcs/whole-cake-island/arc|Whole Cake Island]] conflict.
-
-Important:
+That gives the later Whole Cake conflict a concrete economic and political consequence without making Fishman Island's entire value depend on Gems.
 
 Luffy should target coercive control and extraction authority, not destroy Fishman Island's own long-term resource future.
-
-## Open questions
-
-- exact opening sequence when the Straw Hats arrive
-- exact number and nature of Linlin's quotas
-- exact Gem stockpile layout
-- exact mechanics of Gem injection
-- exact Fishman creature-taming mechanics
-- whether "Poseidon" remains the common title or only one mythic name
-- Genauche's final arc outcome
-- Neptune's political end state

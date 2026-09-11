@@ -13,6 +13,7 @@ tags: [moc, character, pudding]
 - [[production/characters/pudding/abilities|Abilities]]
 - [[production/characters/pudding/progression|Progression]]
 - [[production/characters/pudding/relationships|Relationships]]
+- [[production/characters/pudding/identity-and-harvest|Identity and Harvest]]
 
 ## Connected characters
 

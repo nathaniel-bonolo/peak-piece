@@ -2,102 +2,62 @@
 type: system
 status: draft
 canon: true
-aliases:
-  - Haki
-tags:
-  - system
-  - haki
-  - gems
+aliases: [Haki]
+tags: [system, haki, gems]
 ---
-
 # Haki
 
 ## Core idea
 
 Haki is a trainable discipline with multiple techniques and sub-specializations.
 
-High-output application uses [[production/systems/gems|Gems]].
+It works **without Gems**.
+
+Gem support is optional external energy for unusually high-output or sustained applications.
 
 Gem possession does not equal Haki strength.
 
-Skill, efficiency, perception, control, experience, physical ability, and the available energy source all matter.
+Skill, efficiency, perception, control, experience, physical ability, and available energy all matter.
 
 ## Training culture
 
 Haki should feel like a martial discipline rather than three upgrade bars.
 
-Different teachers can specialize in different applications of:
+Different teachers can specialize in Observation, Armament, and Conqueror's.
 
-- Observation
-- Armament
-- Conqueror's
+Amazon Lily is one surviving culture where Haki remains integrated into ordinary martial training.
 
-[[production/lore/locations/amazon-lily|Amazon Lily]] is one of the surviving cultures where Haki remains integrated into normal martial training.
+## Historical fragmentation
 
-That is why it becomes Luffy's timeskip school.
+Haki did not become rare because Gems became scarce.
 
-## Historical decline
+Teaching networks fragmented and the World Government deliberately disrupted / monopolized them over centuries.
 
-As Gems became scarce and monopolized, Haki became economically unattractive for most people.
+Knowledge survives among elite crews, martial schools, Marines, isolated cultures, regional traditions, and private lineages.
 
-If one fighter spends a thousand hours learning weak basic Haki while another spends those same hours mastering a conventional weapon, the second fighter may simply be more useful.
+Roger's generation reconnects and repopularizes surviving traditions rather than inventing Haki from zero.
 
-Over centuries, Haki became rarer.
+See [[production/lore/history/haki-history|Haki History]].
 
-The World Government exploited that decline by erasing or restricting Haki knowledge in books and institutions.
+## Gems and Haki
 
-Knowledge survived in fragments among elites, martial schools, isolated communities, and myths.
+A sufficiently skilled Haki user may route stored Gem energy into an application they already know.
 
-## Roger's generation
+This can support duration, repetition, or output.
 
-Roger's crew does not discover one convenient "Haki textbook."
+It does not teach technique, provide will, create perception, or bypass body / throughput limits.
 
-Across multiple Poneglyphs, they encounter descriptions of abilities that resemble things some members of the crew had already stumbled into.
-
-Across several inscriptions they realize these are not unrelated legends.
-
-They are parts of a lost discipline.
-
-The important discovery is not merely that Haki existed. It is that it can be taught.
-
-Roger's crew begins comparing experiences, experimenting, and teaching each other.
-
-## Haki renaissance
-
-Shanks grows up during this rediscovery and becomes unusually fascinated with the discipline.
-
-He becomes a technical Haki specialist because he spends decades learning and refining it, not because he has a larger invisible number than everybody else.
-
-Marineford makes Haki public and undeniable.
-
-After Marineford, the world enters a Haki arms race:
-
-- pirates search for teachers
-- old schools become valuable
-- black markets form
-- frauds appear
-- top crews teach
-- the Government can no longer rely on suppression and must train Marines more openly
+Directly charging Gems with Haki is possible only at tiny, inefficient scales compared with industrial electricity and is not how strategic reserves are normally filled.
 
 ## Luffy's timeskip
 
 Rayleigh is **not** Luffy's two-year master in Peak Piece.
 
-After Marineford, [[production/characters/boa-hancock/overview|Boa Hancock]] arranges training through Amazon Lily's Haki specialists and personally handles Conqueror's training.
+Boa Hancock arranges training through Amazon Lily's Haki specialists and personally handles Conqueror's training.
 
-See [[story/interludes/timeskip-haki-training|Timeskip Haki Training]].
+The timeskip improves Luffy's tools. It does not complete his emotional / philosophical growth.
 
-## Current open questions
-
-We still need to lock:
-
-- how Gems physically interface with Haki
-- training costs
-- carrying methods
-- depletion and recharge
-- the exact relationship between Gem size and output
-- efficiency differences between users
-- whether "Ryuo" remains a useful named distinction or is simply an Armament technique
+Sabaody and Marineford are the first major cracks; deeper growth continues after reunion.
 
 ## Rule
 

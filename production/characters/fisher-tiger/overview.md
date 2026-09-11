@@ -2,56 +2,37 @@
 type: character
 status: draft
 canon: true
-aliases:
-  - Fisher Tiger
-  - Tiger
-tags:
-  - character
-  - fishman-island
+aliases: [Fisher Tiger, Tiger]
+tags: [character, fishman-island]
 ---
-
 # Fisher Tiger
 
 ## Core
 
 Fisher Tiger remains a liberation figure shaped by direct experience of human slavery and violence.
 
-He does not need to become perfectly forgiving to be morally meaningful.
+His importance comes from what he did for enslaved people.
+
+Do not let Gem injection swallow the man.
 
 ## Shirahoshi
 
-[[production/characters/shirahoshi/overview|Shirahoshi]] grew up around Tiger and wanted to become a warrior.
+Shirahoshi grows up admiring Tiger because he actually freed people.
 
-Tiger trained her.
+Her father refuses to train her.
 
-Her father served around Tiger as a [[production/characters/shirahoshi-father/overview|Gem researcher]].
+Tiger does **not** become her formal anime master. He occasionally catches her practicing badly, gives one tiny correction, and keeps walking.
+
+She remains mostly self-taught.
 
 ## Gem injection
 
-Tiger used [[production/systems/gem-injection|Gem Injection]] during the liberation struggle and **overused it**.
+Tiger used and overused Gem injection during liberation and later needed a blood transfusion after the damage.
 
-The technique helped him perform extraordinary feats.
+Important:
 
-It also damaged him badly enough that he later required a blood transfusion.
+> **Tiger is not legendary because of Gem injection.**
 
-This gives the transfusion a direct causal relationship to the power he spent freeing other people.
+Later prisoners can incorrectly compress the story into `Tiger used Gems → Tiger became strong enough → Gems are the secret of liberation`.
 
-The exact medical mechanism and the exact final transfusion scene are not locked yet.
-
-## Legacy
-
-Hordy and Shirahoshi read the same history differently.
-
-To Hordy:
-
-> Tiger proves the technique works.
-
-To Shirahoshi:
-
-> Tiger proves what using it costs.
-
-Both interpretations can be emotionally honest.
-
-## Canon audit
-
-See [[production/characters/fisher-tiger/canon-audit|Canon Audit]].
+That distortion is part of Hordy's tragedy, not the story's thesis.

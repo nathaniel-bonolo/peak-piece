@@ -11,6 +11,94 @@ tags:
 
 # Changelog
 
+## V9 - Anti-Gemflation, underwater extraction, Haki reconnection, Orchard doctrine, timeskip expansion
+
+### Gems
+- Gems are high-density strategic storage, not energy sources.
+- Raw Gems contain little or no useful charge; electricity is the industrial charging method.
+- Direct Haki / Fruit charging is possible only at tiny irrational scales.
+- Conventional energy systems remain superior for normal use.
+- Added capacity, density, throughput, efficiency, cycle life, deep-charge leakage/stress, and physical degradation.
+- Locked: **energy reserve is not output capacity**.
+- Locked anti-Gemflation rule: **Gems amplify. They should rarely originate.**
+- Added causal-compression test: **Does this connection deepen the world, or merely reduce the number of independent causes in it?**
+
+### Fishman Island / extraction
+- Fishmen are valuable to underwater extraction generally, not only Gem mining.
+- Fishman Island is a major mineral basin with Gems as one strategic resource among many.
+- Direct colonial occupation has an investment trap: revolt can seize the occupier's expensive underwater infrastructure and create a competitor.
+- Whitebeard underwrites autonomy and raises Fishman bargaining power globally.
+- Linlin arrives later because Whitebeard already helped make the productive system viable; she converts security into controlling ownership.
+
+### Hordy
+- Hordy no longer grows up in a Gem mine.
+- Gem injection enters as a distorted liberation rumor.
+- Prisoners obtain low-grade crystals, charge them badly with mine electricity, and imitate the result without knowing the procedure.
+- Hoshi keeps the real researched technique.
+
+### Flood / Government
+- Imu's pre-flood advantage comes from stockpiling many resources, infrastructure, and knowledge, including Gems.
+- The flood is not a Gem event.
+
+### Haki
+- Removed the broken `Gem scarcity -> Haki decline` chain.
+- Haki survives in fragmented traditions; the Government suppresses / monopolizes teaching networks.
+- Roger's generation reconnects and repopularizes surviving traditions rather than inventing Haki.
+
+### Devil Fruit pharmacology
+- Narrowed Chopper's field to biological expression beginning with Zoans.
+- SMILE is the natural research bridge.
+- Luffy remains only a possible bespoke edge case.
+- Other major scientists can have adjacent research.
+
+### Charlotte Orchard / soul harvest
+- Removed the mistaken literal venture-capital / bounty-liquidity interpretation.
+- High bounties now function only as a noisy first-pass signal for potentially valuable souls.
+- Added **The Orchard** for tracked high-potential prospects.
+- Locked vocabulary: **Green, Ripe, Overripe, Spoilage risk, Harvest, Bruising, Toys**.
+- Katakuri is the premium high-value **harvester**, not a Government bounty-money hunter.
+- Linlin can deliberately let Green low-risk prospects mature and can resent other Emperors for spoiling people she already considers hers.
+- Separated soul **quality**, extraction **yield**, and surrender **compatibility**.
+- Captives are prepared until they submit to Linlin while still coherent; over-torture risks **bruising** the soul.
+- Linlin personally calls completed soul-weapons **toys**.
+
+### Pudding
+- Locked that one person's coherent memory network is normally manageable.
+- Identity drift primarily comes from repeated **multi-person extraction**, especially when Pudding searches the same emotional pathways such as fear.
+- Locked mundane residue: foreign affection, fear, familiarity, homesickness, habits, and relationship impulses can remain after extraction.
+- Journal One is built by Pudding **and family memories of Pudding**.
+- Journal Two records people / residues she has carried.
+- Pre-extraction anchor is intentionally tiny: her name plus one mundane sentence, e.g. **"Charlotte Pudding. I burned my tongue on tea this morning."**
+- Pudding helps the Charlotte harvest system identify fears that create yield / surrender without bruising the captive.
+- Locked pirate-father sequence, gift / letter, Linlin mail check, and Linlin sitting with Pudding afterward.
+- Locked Linlin's Soul Feast boundary: **"I asked you to preserve my soldiers. I did not ask you to erase my daughter, Pudding." / "I can do more." / "I know."**
+
+### Linlin historical footprint
+- Kept roughly four-century General Linlin.
+- The Imu contract explains Government tolerance only; it does not erase diplomacy, wars, trade, migration, folklore, bloodlines, and military adaptation created by four centuries of Charlotte power.
+
+### Discord / timeskip integration
+- Dreams shape ordinary Straw Hat life.
+- Sanji's timeskip targets respect for women while keeping attraction / romance; Lotus / flytrap island remains an active proposal.
+- Nami keeps Weatheria and returns with stronger mapping, weather, market, and pricing knowledge.
+- Chopper timeskip remains under causal audit.
+- Zoro's core stays; add more Mihawk / Perona lived interaction.
+- Luffy's timeskip improves tools but does not complete his emotional growth.
+- Franky's timeskip remains broadly fine; Egghead is the later problem.
+- Black Maria yūkaku / floating-world concept is parked as a researched Wano proposal.
+- May Weller placement remains under causal / OC-discipline review.
+- Recent Brook discussion is intentionally not integrated.
+- Added contributor-intake rule: do not assign a formal role until contribution patterns are actually visible.
+
+### Workflow / review
+- Added Docs/Discord easy-writing lane, Obsidian full-project lane, GitHub source-of-truth layer.
+- Documented the correct `git clone` setup.
+- Added hostile-review protocol separating demonstrated flaw, structural risk, execution risk, taste disagreement, obsolete criticism, and documentation misunderstanding.
+
+### Public title
+- Root README now presents **One Piece: Recharted**.
+- Peak Piece remains the internal codename elsewhere for now.
+
 ## V8 - Reader/production split, Gem doctrine, full Hordy lock
 
 ### Repository architecture

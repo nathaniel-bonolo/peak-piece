@@ -1,12 +1,14 @@
-# Peak Piece
+# One Piece: Recharted
 
-Peak Piece is a collaborative rewrite of *One Piece*.
+**One Piece: Recharted** is a collaborative fan rewrite of *One Piece*.
+
+The project began internally under the codename **Peak Piece**. That name remains useful writer shorthand inside the production bible and older files; this version does not perform a repo-wide rename.
 
 The goal is to preserve the adventure, comedy, absurdity, imagination, and personality while making character progression, consequences, powers, institutions, and long-term causality hold up under scrutiny.
 
-## Just want to read Peak Piece?
+## Just want to read Recharted?
 
-**Stay in [`story/`](story/README).**
+**Stay in [`story/`](story/README.md).**
 
 That is the reader-facing side of the project.
 
@@ -25,7 +27,7 @@ Right now the project is still being written, so `story/` contains readable arc 
 
 ## Want to see how it is made?
 
-Open [`production/`](production/README).
+Open [`production/`](production/README.md).
 
 That is the writer-facing production bible.
 
@@ -53,7 +55,7 @@ Repository administration such as the changelog, contributing guide, and contrib
 
 ## Obsidian
 
-If you want the full writer-room experience, clone/download the repository and open the `peak-piece` folder in Obsidian.
+If you want the full writers' room experience, clone/download the repository and open the `peak-piece` folder in Obsidian.
 
 Start from [`production/00 - Peak Piece.md`](production/00%20-%20Peak%20Piece.md).
 
@@ -75,4 +77,4 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) and [`CONTRIBUTORS.md`](CONTRIBUTORS.md
 
 ## Fan project
 
-Peak Piece is an unofficial, non-commercial fan rewrite of *One Piece*. *One Piece* and its characters belong to Eiichiro Oda, Shueisha, and the relevant rights holders.
+**One Piece: Recharted** is an unofficial, non-commercial fan rewrite of *One Piece*. *One Piece* and its characters belong to Eiichiro Oda, Shueisha, and the relevant rights holders.

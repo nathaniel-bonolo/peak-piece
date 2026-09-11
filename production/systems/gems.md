@@ -2,331 +2,225 @@
 type: system
 status: draft
 canon: true
-aliases:
-  - Gems
-tags:
-  - system
-  - gems
-  - economy
+aliases: [Gems]
+tags: [system, gems, economy]
 ---
-
 # Gems
 
-## One-paragraph explanation
+## Core
 
-**Gems are external energy amplifiers / batteries.**
+**Gems are high-density strategic energy-storage media. They do not create energy.**
+
+A raw / uncharged Gem contains little or no useful stored energy.
 
 Devil Fruits and Haki work **without** Gems.
 
-A user already has a natural energy/output budget supplied by their own body, stamina, training, will, Fruit, and Haki.
+The normal industrial chain is:
 
-Gems provide additional stored energy that can let an existing ability operate at greater:
+> **electricity → converter → Gem → compatible user / machine**
 
-- scale
-- duration
-- repetition
-- output
+Round-trip efficiency is terrible.
 
-They do **not** grant a new power.
+That gives Gems a deliberately narrow niche:
 
-They do **not** teach skill.
+> **bad everyday battery, excellent strategic capacitor**
 
-They do **not** erase non-energy limitations.
+They are useful when extreme energy density, portability, or burst throughput matters more than efficiency: war, strategic transport, emergency overdrive, high-output combat, siege systems, and similar jobs.
 
-The closest shorthand is:
+## Five rules
 
-> **DF/Haki user = internal battery. Gem = external battery pack.**
+### 1. Powers work without Gems
 
-## They are visible
+Kuzan still freezes enormous things. Brulee still enters Mirror World. Haki still works. Luffy is still rubber.
 
-The accounting is backstage.
+### 2. Gems store energy; they do not generate it
 
-The Gems are not.
+Mining a Gem gives you storage capacity, not fuel.
 
-They are physically beautiful, valuable stones.
+### 3. Gems give energy, not new permissions
 
-Powerful fighters, nobles, commanders, and rich institutions can wear strategic reserves as:
+They do not grant skill, knowledge, Haki mastery, cognition, creativity, or new Devil Fruit abilities.
 
-- rings
-- necklaces
-- bracelets
-- crowns
-- weapon fittings
-- armor decoration
+### 4. Non-energy bottlenecks remain
 
-The resource can literally add **bling** to top-tier aura.
+Attention, mirrors, range, anatomy, heat, body durability, technique, setup, information, environment, and safe discharge rate still matter.
 
-The audience can see the jewels and still experience the feat as a miracle.
+### 5. Gems are physical assets with lifecycles
+
+Heavy use creates fatigue and microfractures. Crystals can leak, derate, crack, require recutting, or fail catastrophically.
+
+A faction owns a **population of crystals**, not one abstract mana number.
+
+## Why normal civilization does not run on Gems
+
+Conventional batteries, fuels, generators, mechanical storage, and ordinary electrical infrastructure are more efficient for routine work.
+
+If somebody generates 500 units of electricity and recovers only a fraction after charging/storage/discharge loss, using Gems for lamps, kitchens, routine factories, or normal ship power is stupid.
+
+Do not let Gems replace technological diversity.
+
+## Charging
+
+### Industrial default: electricity
+
+Electricity is overwhelmingly the practical way to charge strategic reserves.
+
+Charging requires converter infrastructure and wastes substantial energy.
+
+### Direct charging by users
+
+Some Haki / Devil Fruit users can pour a tiny amount of their own usable energy into a compatible Gem.
+
+This is possible but strategically irrational as a normal charging method.
+
+A person is a terrible power plant.
+
+It is exhausting, inefficient, and microscopic compared with industrial electrical charging. Keep it for emergencies, field improvisation, rituals, or weird edge cases—not power stations full of people charging jewelry.
+
+## Discharge paths
+
+Stored energy can be drawn by:
+
+- a compatible Devil Fruit / Haki user performing something they already know how to do
+- a purpose-built machine / converter
+- destructive rupture or catastrophic overdraw, producing an explosion at the cost of the Gem
+
+## Grade is multidimensional
+
+Do not reduce Gem quality to one number.
+
+Useful properties include:
+
+- **capacity** — total safe energy
+- **energy density** — energy per size / mass
+- **throughput** — safe charge/discharge rate
+- **conversion efficiency** — how much survives the cycle
+- **cycle life / stability** — how many serious cycles the crystal can survive
+
+Quality can depend on volume, purity, lattice structure, flaws, fracture history, processing, and artificial consistency.
+
+The intended feel is **exponential storage**: relatively small improvements in exceptional crystal quality can create enormous jumps in practical capacity / density. The exact mathematical curve remains unlocked. Treat it as strongly nonlinear until the story genuinely needs numbers.
+
+## Deep-charge pressure
+
+Empty or lightly charged high-grade Gems can be long-lived assets.
+
+Keeping them near maximum charge creates:
+
+- leakage
+- lattice stress
+- inspection burden
+- accelerated fatigue
+- replacement cost
+- dangerous transport
+
+A state can hoard **capacity** for decades.
+
+It cannot cheaply hoard fully ready battlefield energy forever.
+
+## Stockpile equilibrium
+
+Strategic reserves create an arms race, but not free infinite escalation.
+
+If one faction expects an opponent to field a certain reserve, it has reason to remain in the same broad order of magnitude.
+
+Pushing far past useful parity has declining returns because:
+
+- rivals respond
+- high-grade crystals become more expensive
+- charging consumes enormous electricity
+- maximum-charge reserves leak and stress crystals
+- warfare consumes cycle life
+- transport becomes dangerous
+- capital spent on Gems is not spent on ships, food, soldiers, conventional weapons, intelligence, or infrastructure
+- compatible users and machines have finite throughput
+
+> **Energy reserve is not output capacity.**
+
+Owning ten times more stored energy does not make one punch ten times harder. Past safe throughput, more reserve mainly buys endurance, redundancy, and repeated high-output actions.
+
+## Visible bling
+
+Gems themselves are not secret.
+
+Powerful people can wear strategic capacity as rings, necklaces, crowns, weapon fittings, bracelets, or armor decoration.
 
 > **The world sees the jewels. The audience sees the miracle. The writers see the ledger.**
 
-## Five simple rules
+## Examples
 
-### 1. Your power works without Gems
+### Brulee
 
-Kuzan still makes ice.
+Without Gems she can use Mirror World normally and move herself / small groups.
 
-Brulee still enters the Mirror World.
+With major Gem support she can sustain military-scale movement of thousands, equipment, and repeated crossings.
 
-A Haki user still uses Haki.
+Mirrors, concentration, range, stability, and Brulee herself remain bottlenecks.
 
-Luffy is still rubber.
-
-No Gem is required for the ability to exist.
-
-### 2. Gems give energy, not new permissions
-
-More energy cannot make a Devil Fruit perform something outside its mechanic.
-
-A rubber Fruit does not become teleportation because somebody found a larger diamond.
-
-### 3. Gems do not replace skill
-
-A novice wearing a fortune in Gems is still a novice.
-
-They do not automatically gain:
-
-- Haki mastery
-- timing
-- perception
-- combat judgment
-- Devil Fruit control
-- creativity
-
-### 4. Gems do not remove non-energy bottlenecks
-
-A power can still be limited by:
-
-- attention
-- cognition
-- mirrors
-- range
-- anatomy
-- heat
-- body durability
-- information
-- technique
-- setup
-- environment
-
-### 5. Gems run out
-
-Extreme feats can therefore remain extreme.
-
-A faction can perform something ridiculous without gaining an infinitely reusable button.
-
-## Three ceilings
-
-Gem energy only affects part of what a power can become.
-
-### Ability ceiling
-
-What the power itself could theoretically permit.
-
-### Character ceiling
-
-What this particular user would realistically discover and execute.
-
-### Faction ceiling
-
-What surrounding experts, institutions, technology, and infrastructure can help the user discover or deploy.
-
-Apoo may possess the raw ability needed for strategic resonance warfare without ever inventing it himself.
-
-[[production/characters/queen/overview|Queen]] can hear the Fruit, run tests, and realize what it does to structures.
-
-More energy did not create the idea.
-
-The faction raised the usable ceiling.
-
-> **Optimization belongs to characters who optimize.**
-
-## Example: Brulee
-
-Without Gems:
-
-- enters the Mirror World
-- moves herself
-- moves small groups
-- uses mirrors for ordinary infiltration / travel
-
-With major Gem support:
-
-- moves thousands of soldiers
-- moves equipment
-- maintains repeated military crossings
-- sustains an operation far beyond her natural budget
-
-The Gem does **not** remove:
-
-- the need for usable / attuned mirrors
-- her concentration
-- range / operational horizon
-- crossing stability
-- Brulee herself as the critical operator
-
-This is the cleanest example of amplification rather than permission.
-
-## Example: Kuzan
+### Kuzan
 
 Without Gems, Kuzan is already fucking Kuzan.
 
-He can freeze enormous amounts of matter because his Fruit, body, control, and natural output are absurd.
+Gem support is optional strategic overdrive: more sustained or unusually extreme output through the same ice mechanic.
 
-Gem support can push the same mechanic into especially expensive strategic-scale feats or make similarly extreme output sustainable for longer.
+The story shows the ocean freezing and lets the reader think **holy fuck**. The production ledger can remember consequences without announcing percentages.
 
-The story should show:
-
-> **the ocean freezes**
-
-and let the reader think:
-
-> **holy fuck**
-
-The production ledger may record that the Marines spent a meaningful resource.
-
-The manga does not announce a percentage.
-
-This preserves both:
-
-- aura
-- consequences
-
-An impossible feat remains special because it cannot become an infinitely repeatable default answer to every later problem.
-
-## Example: Haki
+### Haki
 
 Haki works without Gems.
 
-A master remains a master because of:
-
-- will
-- technique
-- experience
-- control
-- perception
-- timing
-
-Gem energy can support a very high-output application or sustain one longer.
+A Gem can support unusually high-output or sustained use by someone who already possesses the skill.
 
 Putting a diamond necklace on Usopp does not turn him into Garp.
 
-## Example: Luffy
+Gem scarcity does **not** explain why Haki knowledge became rare.
 
-Luffy's rubber body works normally with no Gems.
+### Technology
 
-If he uses Gem support, the energy can only amplify something his rubber mechanics already permit.
+A Pacifista should not run all day on Gem power merely because Gems exist.
 
-It cannot widen the Fruit into arbitrary magic.
+Conventional systems handle normal operation. A high-grade Gem reserve may handle emergency acceleration, sustained laser barrage, or another burst the normal system cannot package densely enough.
 
-## Example: Apoo
+## Anti-Gemflation rule
 
-Apoo's Fruit may have an enormous ability ceiling.
+> **Gems amplify. They should rarely originate.**
 
-That does not mean Apoo has the personality, scientific knowledge, or interest required to discover every application.
+They can amplify a fighter's output, military advantage, demand for underwater extraction, profitability of exploitation, and leverage around strategic scarcity.
 
-Queen can notice structural resonance and build Death Note around it.
+They should not automatically become the sole cause of racism, imperialism, Fishman exploitation, the World Government, the ancient flood, Linlin's empire, Hordy's oppression, all advanced technology, or every war.
 
-This is a faction-level application, not proof that every Devil Fruit user automatically optimizes themselves.
+Useful audit:
 
-## Why Gems exist narratively
+> **If Gems disappeared, would the underlying institution / incentive / conflict still basically exist?**
 
-Gems are not only a nerf that stops top tiers from spamming.
+Then ask:
 
-They create:
+> **Does this connection deepen the world, or merely reduce the number of independent causes in it?**
 
-- strategic power amplification
-- visible status / bling
-- technological energy storage
-- trade
-- wars
-- mining
-- imperial competition
-- black markets
-- reasons extraordinary feats have downstream cost
-- reasons the World Government cares about resource geography
-- reasons Fishman access to submerged deposits matters
+## Underwater extraction
 
-## Natural Gems
+After the flood many Gem deposits became submerged, but so did many other resources.
 
-Natural Gems are mined.
+Fishmen are valuable to underwater extraction **in general**.
 
-After the ancient sea-level rise, many major deposits became submerged.
+Fishman Island sits in a major submerged mineral basin where Gems happen to be one especially strategic resource.
 
-That made underwater extraction strategically important and made [[production/lore/locations/fishman-island|Fishman Island]] one of the world's most important energy regions.
-
-## Fishmen and racism
-
-> **Gems feed Fishman racism. They do not cause it.**
-
-Anti-Fishman prejudice already has its own history:
-
-- visible difference
-- fear
-- segregation
-- slavery
-- inherited resentment
-- old violence
-
-Gems give powerful institutions **material incentives to preserve conditions that make Fishmen cheap to exploit**.
-
-Racism can lower the political cost of:
-
-- coerced underwater labor
-- restricted movement
-- trafficking
-- dangerous extraction
-- unequal contracts
-
-An ordinary racist civilian does not need to know anything about Gem economics.
-
-A company benefiting from cheap Gem supply does not need to publicly admit it benefits from anti-Fishman policy.
-
-The feedback loop can be:
-
-> prejudice makes exploitation cheaper  
-> exploitation rewards institutions that preserve the prejudice
-
-See [[production/lore/economy/slavery-and-extraction|Slavery and Extraction]].
+See [[production/lore/economy/underwater-extraction|Underwater Extraction]].
 
 ## World Government
 
-The ancient flood submerged huge amounts of accessible strategic energy.
+The ancient flood submerged far more than Gems.
 
-If the World Government / Imu stockpiled beforehand while rivals lost access, the same disaster can help explain centuries of material dominance.
+Imu / the emerging World Government can gain leverage by stockpiling **many resources, infrastructure, and knowledge** beforehand.
 
-This does not need to be the flood's only motive.
+Gems are one strategic category inside that broader material advantage.
 
-See [[production/lore/history/gem-history|Gem History]].
-
-## Artificial Gems
-
-Artificial Gems are better than natural Gems at the same size.
-
-Their weakness is manufacturing scale.
-
-Current technology cannot yet manufacture the largest size classes required for the most extreme strategic applications.
-
-The exact storage / discharge scaling remains open.
-
-## Conversion losses
-
-Gems are energy storage, not perpetual motion.
-
-Conversion always loses enough energy to prevent free loops.
+See [[production/lore/history/flood-resource-order|Flood Resource Order]].
 
 ## Gem injection
 
-Fishman history preserves a dangerous direct-body technique.
+The old Fishman technique routes **charged** Gem energy through the body.
+
+Raw empty crystal is not a magic steroid.
 
 See [[production/systems/gem-injection|Gem Injection]].
-
-## Writer-facing accounting
-
-We may track approximate faction reserves internally.
-
-That does not mean characters talk like accountants.
-
-The point is that if a faction spends something enormous in one arc, the writers remember it in the next.
-
-> **When the spreadsheet has done enough to make the adventure consistent, close it.**

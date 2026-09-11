@@ -6,39 +6,9 @@ It is not the recommended reading experience.
 
 If you only want the rewrite, go back to [`../story/`](../story/).
 
-## What lives here
+Writers may track resource reserves, timelines, information states, logistics, abandoned projects, economic incentives, motifs, and scene causality here.
 
-```text
-production/
-├── characters/      # character architecture, progression, relationships, audits
-├── systems/         # powers, Haki, Gems, combat, technology
-├── lore/            # factions, economy, history, locations, timelines
-├── story-notes/     # canon audits, tone tests, scene engineering
-├── proposals/       # unresolved ideas
-├── references/      # canon / history / science / mythology research
-├── indexes/         # Obsidian maps of content
-├── templates/       # project templates
-├── canvas/          # visual maps
-├── manga/           # manga adaptation production
-├── anime/           # anime adaptation production
-└── assets/          # supporting project assets
-```
-
-## Why this is more technical than the story
-
-Writers need to remember things readers should never have to calculate.
-
-We may track approximate Gem reserves, troop losses, production capacity, travel time, what each faction knows, power constraints, abandoned engineering projects, economic incentives, and supply chains.
-
-This is **continuity control**, not reader-facing simulation.
-
-If Kuzan freezes an enormous stretch of ocean, the story should make the audience think:
-
-> **holy fuck, Kuzan**
-
-The production bible may separately record that the feat consumed a meaningful resource so later scenes do not behave as though it was infinitely repeatable.
-
-The audience does not need the percentage.
+That is **continuity control**, not reader-facing simulation.
 
 > **The world sees the jewels. The audience sees the miracle. The writers see the ledger.**
 
@@ -46,17 +16,15 @@ The audience does not need the percentage.
 
 More rigor is not automatically better.
 
-Once the internal model has generated a consistent scene and answered the questions that matter downstream:
+Once the internal model has answered the downstream questions that matter:
 
 > **Close the spreadsheet and write the fucking story.**
-
-Do not keep engineering simply because another paragraph of engineering is possible.
 
 ## Core philosophy
 
 See [[production/WRITING-PHILOSOPHY|Writing Philosophy]].
 
-Key ideas:
+Key ideas include:
 
 - follow the consequence, not the optimization
 - ability ceiling is not character ceiling
@@ -67,9 +35,16 @@ Key ideas:
 - contradiction is not inconsistency
 - continuity can discover payoff without manufacturing setup
 - different from canon is not a defense for being less fun
+- causal integration should deepen the world rather than collapse every cause into one master system
 
-## Obsidian
+## Collaboration
 
-Start at [[production/00 - Peak Piece|Peak Piece Home]].
+See [[production/WORKFLOW|Writers' Room Workflow]].
 
-The production bible preserves detailed reasoning so contributors can see **why** a decision exists instead of reverse-engineering the writer's intent later.
+Docs/Discord can be the easy drafting surface. Obsidian can be the full project view. GitHub is the source of truth underneath both.
+
+## Review
+
+See [[production/REVIEW-PROTOCOL|Review Protocol]].
+
+Production density is not reader-facing overexplanation. Critique the current artifact, distinguish flaws from risks, and do not grade unwritten scenes as finished execution.
