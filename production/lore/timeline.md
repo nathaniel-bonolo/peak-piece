@@ -16,7 +16,7 @@ Do not guess dates when we have not locked them.
 - Void Century
 - post-flood Gem consolidation
 - early World Government
-- Linlin and Imu contract era
+- possible ancient-Linlin / Imu contract era — contested, see [[production/proposals/active/ancient-linlin-soul-dynasty|proposal]]
 - Fisher Tiger liberation era
 - Whitebeard Fishman protection era
 - Roger era / Haki rediscovery

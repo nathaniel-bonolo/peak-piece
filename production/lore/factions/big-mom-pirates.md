@@ -91,7 +91,7 @@ The Charlotte state can improve stability and working conditions relative to cha
 
 ## Competent does not mean sterile
 
-A roughly four-century empire should have mature institutions.
+A mature imperial family-state should have real institutional memory.
 
 It should also have:
 
@@ -105,7 +105,7 @@ It should also have:
 
 The Charlotte Empire is not a perfectly optimized strategy-game faction.
 
-It is a family state that has been alive for centuries.
+It is a family state with enough history to accumulate habits, shortcuts, and doctrine.
 
 A Biscuit Reserve batch that salutes backwards can coexist with terrifying battlefield logistics.
 
@@ -113,7 +113,7 @@ See [[production/lore/factions/small-moments/charlotte-family/backwards-salute-b
 
 ## Ritual and Final Service
 
-Long-lived military culture produces ritual.
+Long-running military culture produces ritual.
 
 Final Service therefore has ceremonial weight without being framed as morally heroic.
 

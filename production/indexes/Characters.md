@@ -16,6 +16,7 @@ tags: [moc, characters]
 - [[production/characters/robin/_Robin|Nico Robin]]
 - [[production/characters/chopper/overview|Tony Tony Chopper]]
 - [[production/characters/sanji/_Sanji|Sanji]]
+- [[production/characters/brook/_Brook|Brook]]
 
 ## Fishman Island focus
 
@@ -43,6 +44,7 @@ tags: [moc, characters]
 ## Revolutionary Army
 
 - [[production/characters/belo-betty/_Belo Betty|Belo Betty]]
+- [[production/characters/koala/overview|Koala]]
 
 ## Endgame
 

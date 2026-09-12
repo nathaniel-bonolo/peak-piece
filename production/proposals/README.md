@@ -13,3 +13,14 @@ Use this area to discuss changes before they are merged into authoritative files
 There is intentionally no permanent "accepted" folder.
 
 If an idea is accepted, update the real canon files.
+
+
+## Decision states
+
+Major directions can move through:
+
+> **Draft → Contested → Converging → Locked**
+
+A contested proposal is not rejected. It is a direction with unresolved disagreement that should be developed before final comparison.
+
+A foundation is not stored here merely because somebody disagrees with it; foundations are documented in [[production/FOUNDATIONS|Foundations]].

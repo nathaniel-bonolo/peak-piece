@@ -1,10 +1,16 @@
 # One Piece: Recharted
 
-**One Piece: Recharted** is a collaborative fan rewrite of *One Piece*.
+**One Piece: Recharted** is a collaborative reimagining of *One Piece*.
 
 The project began internally under the codename **Peak Piece**. That name remains useful writer shorthand inside the production bible and older files; this version does not perform a repo-wide rename.
 
-The goal is to preserve the adventure, comedy, absurdity, imagination, and personality while making character progression, consequences, powers, institutions, and long-term causality hold up under scrutiny.
+Recharted is not limited to repairing scenes that canon executed badly. It can preserve what works, repair what needs repair, develop what was underused, and rebuild a foundation when another direction is worth exploring.
+
+> **Respect canon enough to understand what it is doing. Never respect it so much that we stop asking “what if?”**
+
+That means a canon idea does **not** have to be bad before Recharted is allowed to explore another one. A replacement still has to earn itself before it locks, but a promising direction is allowed to be cooked before it is compared against a finished manga.
+
+See [`production/FOUNDATIONS.md`](production/FOUNDATIONS.md) and [`production/WRITING-PHILOSOPHY.md`](production/WRITING-PHILOSOPHY.md).
 
 ## Just want to read Recharted?
 
@@ -24,6 +30,18 @@ Right now the project is still being written, so `story/` contains readable arc 
 - [Soul Feast](story/sagas/soul-feast/arcs/soul-feast/arc.md)
 
 > **The spreadsheet is ours. The audience gets the adventure.**
+
+## Why reread a story you already know?
+
+Repairs matter, but repair alone is not the whole pitch.
+
+A reader who already knows *One Piece* should still be able to discover Recharted rather than only check which canon problems were cleaned up.
+
+A useful internal test is:
+
+> **If summarizing the change gives away most of the reason to experience it, it is mainly a repair. If summarizing it creates more questions than it answers, it is becoming a reimagining.**
+
+Both are useful. Recharted intentionally makes room for both.
 
 ## Want to see how it is made?
 
@@ -65,15 +83,19 @@ See [`production/OBSIDIAN.md`](production/OBSIDIAN.md).
 
 **GitHub is the source of truth. Discord is the writers' room.**
 
+Major changes to project philosophy or foundations must also be announced where collaborators actually work. A silent GitHub edit is not an acceptable way to redefine the project for people who do not use Git day-to-day.
+
 Discord: https://discord.gg/3fXkMkHJJ
 
 ## Contributing
 
 You do not need to agree with every current decision.
 
-If something does not make sense, question it. If a rewrite removes something canon did well, say so. "Different from canon" is not a defense for being worse.
+If something does not make sense, question it. If a rewrite removes something canon did well, say so. If a strange alternative has real potential, it is allowed to be explored before anybody has to prove it beats a finished canon version.
 
-See [`CONTRIBUTING.md`](CONTRIBUTING.md) and [`CONTRIBUTORS.md`](CONTRIBUTORS.md).
+Foundational directions are disclosed up front. They are not immunity from criticism; they define which version of *One Piece* this particular project is trying to make.
+
+See [`CONTRIBUTING.md`](CONTRIBUTING.md), [`CONTRIBUTORS.md`](CONTRIBUTORS.md), and [`production/FOUNDATIONS.md`](production/FOUNDATIONS.md).
 
 ## Fan project
 

@@ -85,6 +85,30 @@ Stored energy can be drawn by:
 - a purpose-built machine / converter
 - destructive rupture or catastrophic overdraw, producing an explosion at the cost of the Gem
 
+## Strategic jurisdiction
+
+Gems are **external strategic reserves for extreme, sustained, infrastructure-scale, or military output**.
+
+They are not the explanation for ordinary supernatural action.
+
+Luffy stretching, Robin making limbs, normal fire/string use, ordinary Haki, and routine Devil Fruit combat do not need a Gem accounting pass.
+
+Start asking about external reserve support when a feat begins affecting:
+
+- armies
+- islands
+- infrastructure
+- repeated strategic-scale output
+- sustained military logistics
+
+Examples include army-scale Mirror World transport, unusually sustained Kuzan-scale freezing, repeated massive gravity operations, island-lifting endurance, or emergency machine overdrive.
+
+> **Gems do not create the limit. They let a user temporarily push past a normal sustainable limit.**
+
+Production stopping rule:
+
+> **Audit the miracle when its scale creates strategic consequences. Leave ordinary spectacle alone.**
+
 ## Grade is multidimensional
 
 Do not reduce Gem quality to one number.

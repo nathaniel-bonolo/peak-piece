@@ -31,27 +31,48 @@ Classify criticism as:
 - **structural risk** — design can predictably create a problem later
 - **execution risk** — idea may work or fail depending on the finished scene
 - **taste disagreement** — reviewer prefers another thematic or aesthetic choice
+- **foundation disagreement** — reviewer wants a meaningfully different adaptation premise
 - **obsolete criticism** — current version already changed the attacked thing
 - **documentation-caused misunderstanding** — bad reading reveals a clarity problem in the notes
 - **non-engagement** — criticism requires ignoring what the current file explicitly says
 
 A wrong criticism can still reveal a useful symptom. Extract the symptom without accepting the false claim.
 
-## No unfalsifiable loop
+## Do not compare an embryo to finished canon
 
-Do not accept:
+A new direction can be worth exploring before it is good enough to replace canon.
 
-> unexplained → "this makes no sense"  
-> explained privately → "the author explains everything"  
-> hidden from readers → "the spreadsheet still infects the story"
+Do not run this sequence:
 
-If the concern is that backstage rigor will make the final story sterile, that is an **execution risk** until a reader-facing scene demonstrates it.
+> one-paragraph pitch → compare to decades of polished/familiar canon → kill pitch because canon feels more complete
 
-## Burden of evidence
+Instead:
 
-If somebody says the spreadsheet makes the story sterile, ask which reader-facing scene demonstrates it.
+1. identify canon's function
+2. identify the new direction's intended function
+3. ask whether the alternate direction has enough potential to develop
+4. let it acquire scenes, consequences, relationships, and costs
+5. compare the developed version
 
-If the evidence exists only in `production/`, label it a risk rather than a demonstrated failure.
+> **Canon quality determines the burden of replacement, not whether replacement is allowed to be explored.**
+
+"I prefer canon" is valid taste.
+
+"Canon already works, therefore exploring another direction is invalid" is not a sufficient review argument in Recharted.
+
+## Foundational directions
+
+Read [[production/FOUNDATIONS|Foundations]].
+
+If a critique says "Luffy should remain essentially static," "Brook should remain a Rumbar Pirate," "Hordy should return to canon's central thesis," or "the Government can simply destroy the Poneglyphs," it is not a tiny implementation note.
+
+It is proposing a different adaptation foundation.
+
+That can still be discussed. It should simply be classified honestly rather than smuggled into a scene-level vote.
+
+Foundational status does **not** protect bad execution.
+
+A Luffy scene can still be out of character. Brook's arc can still drag. Hordy's logic can still fail. Poneglyph implementation can still create contradictions.
 
 ## Canon comparison
 
@@ -62,6 +83,24 @@ After the rewrite explicitly understands and intentionally rejects that function
 "I prefer canon Hordy's inherited-hatred thesis" is valid taste/thematic disagreement.
 
 "The rewrite failed to understand canon Hordy" is not valid if the audit explicitly states the function and rejects it intentionally.
+
+Likewise, "canon Linlin is already good" does not settle whether the ancient-Linlin proposal is worth exploring. The proposal still has to earn itself, but the room has to judge the question it is actually asking.
+
+## No unfalsifiable loop
+
+Do not accept:
+
+> unexplained → "this makes no sense"
+> explained privately → "the author explains everything"
+> hidden from readers → "the spreadsheet still infects the story"
+
+If the concern is that backstage rigor will make the final story sterile, that is an **execution risk** until a reader-facing scene demonstrates it.
+
+## Burden of evidence
+
+If somebody says the spreadsheet makes the story sterile, ask which reader-facing scene demonstrates it.
+
+If the evidence exists only in `production/`, label it a risk rather than a demonstrated failure.
 
 ## Causal-compression test
 
@@ -74,3 +113,15 @@ Causal integration is good.
 Causal compression is not automatically good.
 
 If one mechanic starts answering unrelated questions across politics, history, technology, character psychology, and economics, inspect its jurisdiction before adding another connection.
+
+## Review the cost of familiarity too
+
+Canon has an enormous familiarity advantage.
+
+That is real emotional value, but it can hide a cost: predictability.
+
+When comparing versions, ask not only whether the rewrite preserves a beloved beat, but whether the new route gives returning readers meaningful discovery.
+
+Do not sacrifice emotion merely for novelty.
+
+Do not sacrifice every possibility of novelty merely because familiarity is immediately emotional.

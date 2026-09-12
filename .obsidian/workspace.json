@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "production/lore/factions/charlotte-orchard.md",
+                "file": "CONTRIBUTORS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "charlotte-orchard"
+              "title": "CONTRIBUTORS"
             }
           }
         ]
@@ -201,6 +201,8 @@
   },
   "active": "83cf80f4f4353bd3",
   "lastOpenFiles": [
+    "CONTRIBUTING.md",
+    "production/lore/factions/charlotte-orchard.md",
     "production/lore/factions/big-mom-pirates.md",
     "production/systems/soul-system.md",
     "production/characters/linlin/abilities.md",
@@ -228,8 +230,6 @@
     "production/characters/nami/overview.md",
     "production/characters/nami",
     "production/characters/genauche/abilities.md",
-    "CONTRIBUTORS.md",
-    "production/characters/hordy/canon-audit.md",
     "characters/belo-betty",
     "lore/factions/small-moments/straw-hats",
     "lore/factions/small-moments/charlotte-family",

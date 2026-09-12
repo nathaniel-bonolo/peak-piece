@@ -1,0 +1,3033 @@
+diff --git a/CHANGELOG.md b/CHANGELOG.md
+index e730bd7..72683ed 100644
+--- a/CHANGELOG.md
++++ b/CHANGELOG.md
+@@ -11,6 +11,68 @@ tags:
+ 
+ # Changelog
+ 
++## V10 - Recharted becomes a disclosed reimagining
++
++### Project identity
++- Reframed Recharted from a repair-only project into a project that can **preserve, repair, develop, or reimagine**.
++- Locked: **canon quality determines the burden of replacement, not whether replacement is allowed to be explored.**
++- Added the exploration pipeline: **What if? → worth exploring? → let it cook → audit the result → lock/revise/contest/reject.**
++- Added discovery as an explicit reader value: returning readers should not always be able to infer the rewrite from a list of canon complaints.
++- Added: **Audit the miracle when its scale creates strategic consequences. Leave ordinary spectacle alone.**
++
++### Foundations
++- Added a public [[production/FOUNDATIONS|Foundations]] document so collaborators know the adaptation premise before investing work.
++- Foundational: Luffy meaningfully develops rather than remaining essentially static.
++- Foundational: Hordy keeps the Devil's Hand thesis rather than returning to canon's central inherited-hatred function.
++- Foundational: Brook is not a Rumbar Pirate; his accidental second life becomes a dead-promises / survival arc.
++- Foundational: the Government cannot simply destroy Poneglyphs and therefore suppresses readers, scholarship, and access.
++- Foundations remain criticizable in execution and cannot be silently added by the maintainer.
++
++### Brook
++- Added full Brook character architecture.
++- Preserved the Rumbar Pirates, Laboon promise, Binks' Sake, and musical death sequence while separating Brook's own crew from the Rumbar crew.
++- Locked core movement: **"I have to finish what the dead couldn't" → "I can remember the dead without giving them the rest of my life."**
++- Brook / Linlin history moved to a separate contested extension.
++
++### Linlin
++- **Superseded V9's lock on roughly four-century Linlin.** Ancient Linlin is now contested, not canon.
++- Orchard, harvest doctrine, Pudding, competent imperial motherhood, Final Service, and Soul Feast no longer depend on Linlin being ancient.
++- Added the Ancient Linlin / Immortal Soul Dynasty proposal.
++- If accepted, lifespan conversion is lossy and increasingly inefficient with age.
++- Locked proposal requirement: **the longer Linlin and the preserved dynasty live, the more external lifespan they need merely to sustain the dynasty they already have.**
++- Ancient Linlin must pay for four centuries in actual world history if accepted.
++- Imu / Linlin soul-for-tolerance connection is now proposal-dependent rather than canonical.
++
++### Imu
++- Refined contract rules: voluntary agreement, mutual understanding, no lying about terms, promises within actual capability, both sides bound, explicit breach consequences.
++- Domi Reversi moved toward a contract-breach collection mechanism rather than free point-and-click mind control.
++- Imu's deferred-consequence system must work without Linlin.
++
++### Elbaf proposals
++- Added Fable Loki proposal.
++- Corrected Ragnir history: Ragnir was the Ratatoskr + Mjolnir idea, a hammer that ate a squirrel Zoan.
++- New proposal deletes literal Ragnir: Loki carries a fake hammer, convinces people it is the real legendary weapon, and belief makes the lie functionally real.
++- Added CerezaVeneris's Nidhoggr-as-creature direction, separate from Loki's Fruit.
++
++### Revolutionaries
++- Added Fox's Koala #2 direction to current character/faction architecture.
++- Added Fox's Burgess-receives-Mera-Mera proposal.
++- Added contested Sabo earned-brotherhood proposal.
++
++### Governance / contributors
++- Added **Draft → Contested → Converging → Locked** workflow.
++- Major philosophy/foundation changes must be discussed and announced in the writers' room rather than silently changed in GitHub.
++- Reworded maintainer authority so merge/continuity responsibility is not mistaken for unilateral creative ownership.
++- Added **firefox6663355 / Fox** as a credited contributor; credit persists regardless of current server activity.
++- Preserved Remmkoe's role as co-founder and explicitly acknowledged that the original project pitch was a post-timeskip repair, making the broader reimagining shift something that must be discussed openly.
++
++### Gems
++- Narrowed their jurisdiction again: strategic external reserves for extreme, sustained, infrastructure-scale, or military output.
++- Ordinary supernatural action does not require Gem accounting.
++
++### Death / fakeout direction
++- Added planning note preserving Pell and Pound deaths while leaving Bon Clay and Kin'emon implementation open.
++
+ ## V9 - Anti-Gemflation, underwater extraction, Haki reconnection, Orchard doctrine, timeskip expansion
+ 
+ ### Gems
+diff --git a/CONTRIBUTING.md b/CONTRIBUTING.md
+index 69c489d..77ba0dd 100644
+--- a/CONTRIBUTING.md
++++ b/CONTRIBUTING.md
+@@ -7,13 +7,25 @@ tags: [contributing]
+ ---
+ # Contributing
+ 
+-Peak Piece is collaborative. Disagreement is expected.
++Recharted is collaborative. Disagreement is expected.
+ 
+ The standard is not "does everyone like this?"
+ 
+ The standard is:
+ 
+-> **Does this make the story better, and can it survive questions?**
++> **Does this direction have enough potential to explore, and after we explore it, does the finished replacement earn what it costs?**
++
++## Know what project you are joining
++
++Recharted is **not** a repair-only project.
++
++It preserves canon when canon earns preservation, repairs weak execution when repair is enough, develops wasted material, and can rebuild good canon material when another direction is worth exploring.
++
++Read [[production/FOUNDATIONS|Foundations]] before doing major story work.
++
++Foundations are not a list of Nathan ideas that nobody may question. They are direction-level premises of this particular adaptation. Their execution can be attacked, rewritten, improved, or replaced with another implementation that still serves the same foundation.
++
++If somebody fundamentally wants a different adaptation, that is creative incompatibility, not misconduct. A clean branch/fork/separate version is healthier than pressuring people to write a project they do not believe in.
+ 
+ ## Read before redesigning
+ 
+@@ -21,7 +33,27 @@ Before proposing a change to material that already exists, read the relevant cur
+ 
+ Critique the version we actually have, not the version you assume we have.
+ 
+-If you want to replace an accepted idea, identify what the current version is doing, what problem you see, what your replacement does better, and what would be lost.
++Before replacing canon, identify what canon is doing. Do not call an intentional canon choice an accident merely because we dislike it.
++
++But do **not** demand that a new direction already defeat a finished canon version before it is allowed to be developed.
++
++A proposal can begin with:
++
++> **I understand what canon is doing. What if we tried this instead?**
++
++## Exploration before lock
++
++Use this sequence for substantial alternatives:
++
++1. **What if?** — identify the alternate direction.
++2. **Worth exploring?** — ask whether it opens enough character, theme, world, mystery, causality, emotion, or fun to justify development.
++3. **Let it cook.** — develop scenes, consequences, relationships, costs, and downstream effects.
++4. **Audit the result.** — compare what canon achieved, what the rewrite preserves, what it loses, and what it gains.
++5. **Lock, revise, contest, or reject.**
++
++> **Canon quality determines the burden of replacement, not whether replacement is allowed to be explored.**
++
++Different is not automatically better. Familiar is not automatically better either.
+ 
+ ## Two contributor workflows
+ 
+@@ -43,15 +75,29 @@ Do not use `gh repo clone` unless GitHub CLI is installed.
+ 
+ See [[production/WORKFLOW|Writers' Room Workflow]].
+ 
++## No silent constitutional edits
++
++A repository maintainer can merge files. That does **not** make silent philosophy changes legitimate.
++
++If a change would alter what contributors reasonably think Recharted is, discuss it with the current group and announce it in the writers' room before treating it as the shared rule.
++
++This matters especially because some contributors work almost entirely through Discord/Docs and may never notice a GitHub diff.
++
+ ## Where an idea goes
+ 
+ If an idea is not accepted yet, put it in `production/proposals/active/`.
+ 
++Use the project states described in [[production/WORKFLOW|Writers' Room Workflow]]:
++
++> **Draft → Contested → Converging → Locked**
++
+ When a proposal is accepted, update the real canon files. Do not create a permanent second canon in proposal files.
+ 
++Foundational directions are documented separately in [[production/FOUNDATIONS|Foundations]].
++
+ ## When reviewing an idea
+ 
+-Separate canon fact, interpretation, and rewrite decision.
++Separate canon fact, interpretation, rewrite decision, and project foundation.
+ 
+ Also separate demonstrated flaw, structural risk, execution risk, taste disagreement, obsolete criticism, and documentation-caused misunderstanding.
+ 
+@@ -60,6 +106,7 @@ See [[production/REVIEW-PROTOCOL|Review Protocol]].
+ ## Good review questions
+ 
+ - What narrative job is this doing?
++- What new possibility makes this direction worth exploring?
+ - If we remove it, which functions still need replacements?
+ - Does this character know enough to make this decision?
+ - Is somebody becoming stupid for the plot?
+@@ -68,6 +115,7 @@ See [[production/REVIEW-PROTOCOL|Review Protocol]].
+ - Does this create a contradiction elsewhere?
+ - Did we make the machinery stronger while accidentally removing the fun?
+ - **Does this connection deepen the world, or merely reduce the number of independent causes in it?**
++- Is the objection "this cannot work," "this has not earned itself yet," or simply "I prefer canon"?
+ 
+ ## Reader / production boundary
+ 
+diff --git a/CONTRIBUTORS.md b/CONTRIBUTORS.md
+index ce09586..bba9f2d 100644
+--- a/CONTRIBUTORS.md
++++ b/CONTRIBUTORS.md
+@@ -7,30 +7,32 @@ tags:
+ 
+ # Contributors
+ 
+-Roles describe current strengths and responsibilities.
++Roles describe current strengths, responsibilities, and credited contributions.
+ 
+-They are not territory. Everyone can challenge, develop, research, or contribute outside the label.
++They are not rank, territory, or a statement that one writer's ideas outrank another writer's ideas.
++
++Credit remains credit even if somebody later becomes inactive or leaves the server.
+ 
+ ## Nathan
+ 
+-**Project Lead · Lead Writer · Story Architect**
++**Maintainer · Lead Writer · Story Architect**
+ 
+ Current responsibilities:
+ 
+-- final Peak Piece continuity
+-- final merge decisions
++- maintaining the authoritative repository state
++- continuity and merge work
+ - story architecture
+ - systems/worldbuilding architecture
+ - causal auditing
+ - character and arc integration
+ - long-range continuity
+-- turning collaborative ideas into the authoritative project state
++- translating collaborative decisions into linked production files
+ 
+-Nathan is the final canon owner for Peak Piece.
++Nathan being the maintainer means somebody has to resolve file conflicts and keep one coherent project state.
+ 
+-That does not mean every idea originates with him.
++It does **not** mean every creative question terminates at "Nathan wins."
+ 
+-A collaborative project still needs one place where continuity decisions terminate.
++Foundational project directions are disclosed in [[production/FOUNDATIONS|Foundations]] rather than kept as hidden personal vetoes.
+ 
+ ## CerezaVeneris
+ 
+@@ -45,7 +47,7 @@ Current strengths include:
+ - mythology
+ - biology
+ - cultural references
+-- finding real-world material that deepens or challenges an existing Peak direction
++- finding real-world material that deepens or challenges an existing Recharted direction
+ - original character work
+ 
+ Cereza's research frequently gives an existing idea stronger historical, thematic, mythological, or scientific roots rather than merely decorating it afterward.
+@@ -53,10 +55,11 @@ Cereza's research frequently gives an existing idea stronger historical, themati
+ Current authored proposal:
+ 
+ - [[production/proposals/active/may-weller|May Weller]]
++- [[production/proposals/active/nidhoggr-creature|Nidhoggr creature direction]]
+ 
+ ## Remmkoe
+ 
+-**Writer · Story Development & Review**
++**Co-founder · Writer · Story Development & Review**
+ 
+ Current strengths include:
+ 
+@@ -66,17 +69,37 @@ Current strengths include:
+ - reviewing proposed directions before they lock
+ - continuity pressure
+ - challenging ideas that may lose something canon did well
++- community / server support
+ 
+-Peak Piece's collaboration grew out of discussion following Remmkoe's original Piratefolk post:
++Recharted's collaboration grew out of discussion following Remmkoe's original Piratefolk post, which proposed a post-timeskip rewrite focused on fixing major problems:
+ 
+ https://www.reddit.com/r/Piratefolk/s/zSf6onlYJE
+ 
++The project's later expansion from repair toward broader reimagining should therefore be discussed openly rather than retroactively treated as what everybody originally signed up for.
++
++## firefox6663355 / Fox
++
++**Contributor · Story Development & Character/Arc Reimagining**
++
++Fox is credited for ideas and development contributed to Recharted regardless of current server activity.
++
++Notable credited directions include:
++
++- pushing [[production/characters/koala/overview|Koala]] toward Revolutionary Army #2
++- proposing [[production/proposals/active/burgess-mera-mera|Burgess as the Mera-Mera no Mi recipient]]
++- sustained critique that helped clarify the difference between repair, reimagining, and canon-preservation arguments
++
++
+ ## Collaboration rule
+ 
+ Contributors can propose anything.
+ 
++A promising direction does not have to prove itself better than finished canon before it can be explored.
++
+ Accepted ideas become canon only when they are integrated into the authoritative character, system, lore, or story files.
+ 
+ There is no separate "accepted proposal" canon.
+ 
+-See [`CONTRIBUTING.md`](CONTRIBUTING.md).
++Foundations define the adaptation's direction; they do not make their implementation immune to critique.
++
++See [`CONTRIBUTING.md`](CONTRIBUTING.md) and [[production/FOUNDATIONS|Foundations]].
+diff --git a/README.md b/README.md
+index e5a16d2..47bc020 100644
+--- a/README.md
++++ b/README.md
+@@ -1,10 +1,16 @@
+ # One Piece: Recharted
+ 
+-**One Piece: Recharted** is a collaborative fan rewrite of *One Piece*.
++**One Piece: Recharted** is a collaborative reimagining of *One Piece*.
+ 
+ The project began internally under the codename **Peak Piece**. That name remains useful writer shorthand inside the production bible and older files; this version does not perform a repo-wide rename.
+ 
+-The goal is to preserve the adventure, comedy, absurdity, imagination, and personality while making character progression, consequences, powers, institutions, and long-term causality hold up under scrutiny.
++Recharted is not limited to repairing scenes that canon executed badly. It can preserve what works, repair what needs repair, develop what was underused, and rebuild a foundation when another direction is worth exploring.
++
++> **Respect canon enough to understand what it is doing. Never respect it so much that we stop asking “what if?”**
++
++That means a canon idea does **not** have to be bad before Recharted is allowed to explore another one. A replacement still has to earn itself before it locks, but a promising direction is allowed to be cooked before it is compared against a finished manga.
++
++See [`production/FOUNDATIONS.md`](production/FOUNDATIONS.md) and [`production/WRITING-PHILOSOPHY.md`](production/WRITING-PHILOSOPHY.md).
+ 
+ ## Just want to read Recharted?
+ 
+@@ -25,6 +31,18 @@ Right now the project is still being written, so `story/` contains readable arc
+ 
+ > **The spreadsheet is ours. The audience gets the adventure.**
+ 
++## Why reread a story you already know?
++
++Repairs matter, but repair alone is not the whole pitch.
++
++A reader who already knows *One Piece* should still be able to discover Recharted rather than only check which canon problems were cleaned up.
++
++A useful internal test is:
++
++> **If summarizing the change gives away most of the reason to experience it, it is mainly a repair. If summarizing it creates more questions than it answers, it is becoming a reimagining.**
++
++Both are useful. Recharted intentionally makes room for both.
++
+ ## Want to see how it is made?
+ 
+ Open [`production/`](production/README.md).
+@@ -65,15 +83,19 @@ See [`production/OBSIDIAN.md`](production/OBSIDIAN.md).
+ 
+ **GitHub is the source of truth. Discord is the writers' room.**
+ 
++Major changes to project philosophy or foundations must also be announced where collaborators actually work. A silent GitHub edit is not an acceptable way to redefine the project for people who do not use Git day-to-day.
++
+ Discord: https://discord.gg/3fXkMkHJJ
+ 
+ ## Contributing
+ 
+ You do not need to agree with every current decision.
+ 
+-If something does not make sense, question it. If a rewrite removes something canon did well, say so. "Different from canon" is not a defense for being worse.
++If something does not make sense, question it. If a rewrite removes something canon did well, say so. If a strange alternative has real potential, it is allowed to be explored before anybody has to prove it beats a finished canon version.
++
++Foundational directions are disclosed up front. They are not immunity from criticism; they define which version of *One Piece* this particular project is trying to make.
+ 
+-See [`CONTRIBUTING.md`](CONTRIBUTING.md) and [`CONTRIBUTORS.md`](CONTRIBUTORS.md).
++See [`CONTRIBUTING.md`](CONTRIBUTING.md), [`CONTRIBUTORS.md`](CONTRIBUTORS.md), and [`production/FOUNDATIONS.md`](production/FOUNDATIONS.md).
+ 
+ ## Fan project
+ 
+diff --git a/production/00 - Peak Piece.md b/production/00 - Peak Piece.md
+index f43d8bb..6d7dea5 100644
+--- a/production/00 - Peak Piece.md	
++++ b/production/00 - Peak Piece.md	
+@@ -40,6 +40,7 @@ Fishman Island is the suggested starting point right now.
+ 
+ ## Project files
+ 
++- [[production/FOUNDATIONS|Recharted Foundations]]
+ - [[production/WRITING-PHILOSOPHY|Writing Philosophy]]
+ - [[production/STYLE-GUIDE|Style Guide]]
+ - [[CONTRIBUTING|Contributing]]
+diff --git a/production/FOUNDATIONS.md b/production/FOUNDATIONS.md
+new file mode 100644
+index 0000000..e0efaa8
+--- /dev/null
++++ b/production/FOUNDATIONS.md
+@@ -0,0 +1,148 @@
++---
++type: project-foundations
++status: live
++canon: true
++aliases: [Foundations, Recharted Foundations]
++tags: [project, philosophy, foundations]
++---
++# Recharted Foundations
++
++This file exists so nobody has to discover the project's core direction after weeks of contributing.
++
++A **foundation** is not "an idea Nathan likes too much to vote on."
++
++It is a direction-level premise that defines what version of *One Piece* Recharted is trying to make.
++
++Foundations can be criticized. Their execution can change radically. Scenes can fail. Progression can be too fast. A mechanism can be replaced. A better implementation can win.
++
++But removing a foundation entirely means proposing a meaningfully different adaptation.
++
++> **Foundational does not mean above criticism. It means disclosed before collaboration.**
++
++## 1. Recharted is a reimagining, not a repair-only project
++
++Recharted can:
++
++- preserve what earns preservation
++- repair weak execution
++- develop wasted material
++- reimagine good canon material when another direction is worth exploring
++
++Canon does not have to be bad before we are allowed to ask:
++
++> **What if?**
++
++Different is not automatically better. A replacement still has to earn its cost before it locks.
++
++But an undeveloped alternative does not need to beat a finished manga before writers are allowed to explore it.
++
++See [[production/WRITING-PHILOSOPHY|Writing Philosophy]].
++
++## 2. Luffy meaningfully develops
++
++Recharted rejects an essentially static Luffy as the long-form protagonist model.
++
++Luffy remains joyful, impulsive, absurd, hungry, intuitive, stubborn, and recognizably Luffy.
++
++What changes is his understanding of the world he is crossing.
++
++He begins with:
++
++> **Piracy means freedom.**
++
++He gradually learns that the deeper problem is not merely "bad pirates." It is what happens when somebody has enough power that everybody else's freedom becomes meaningless.
++
++Skypiea matters because Enel is not a pirate.
++
++The exact scenes, pacing, fleet implementation, and conclusions can be challenged. The existence of meaningful progression is foundational.
++
++See [[production/characters/luffy/overview|Luffy]] and [[production/characters/luffy/progression|Luffy Progression]].
++
++## 3. Hordy uses the Devil's Hand thesis
++
++Recharted understands canon Hordy's inherited-hatred thesis and deliberately chooses another central question:
++
++> **What happens when an oppressed person learns that becoming the oppressor's hand is the safest way to protect the oppressed?**
++
++His survival logic works just enough to become identity, authority, rationalization, and eventually oppression.
++
++Canon's inherited-hatred idea can still exist elsewhere in Fishman Island society. Hordy is not required to remain its pure vehicle.
++
++The exact scenes can be improved. The core Devil's Hand direction is foundational.
++
++See [[production/characters/hordy/overview|Hordy]] and [[production/characters/hordy/canon-audit|Hordy Canon Audit]].
++
++## 4. Brook's second life is an actual character arc
++
++Brook is **not** a Rumbar Pirate in Recharted.
++
++The Rumbar Pirates remain their own crew and retain the Laboon promise.
++
++Brook had his own crew. After resurrection and the death of that crew, he spends decades among wrecks and dead crews, reading logbooks, carrying unfinished promises, and gradually giving his accidental second life away to people who no longer have one.
++
++Core thesis:
++
++> **Everyone else got to die. Brook didn't.**
++
++Core movement:
++
++> **I have to finish what the dead couldn't.**
++
++becomes:
++
++> **I can remember the dead without giving them the rest of my life.**
++
++Binks' Sake and the crew-death music sequence are preserved through Brook's own crew.
++
++The exact promise list, parrot material, scenes, and route to Laboon can be refined. The second-life / dead-promises direction is foundational.
++
++Brook's possible history with an ancient Linlin is **not** part of this foundation. It is a contested extension that only exists if the ancient-Linlin proposal survives.
++
++See [[production/characters/brook/overview|Brook]].
++
++## 5. Poneglyph survival is a structural world rule
++
++The World Government cannot simply destroy the Poneglyphs.
++
++Because destruction is unavailable, Government strategy focuses on destroying **access to meaning**:
++
++- suppress readers and scholars
++- erase teaching traditions
++- criminalize research
++- control dangerous sites
++- bury, seal, fortify, or outsource protection of especially dangerous stones
++
++Most Poneglyphs do not need a permanent army standing beside them.
++
++Road Poneglyphs and other high-danger stones can receive exceptional containment.
++
++This architecture is foundational because it explains why forbidden history can survive while the Government remains serious about suppressing it.
++
++The exact material science, movement limits, and disposal edge cases can remain open until the story needs them.
++
++See [[production/lore/history/poneglyphs|Poneglyphs]].
++
++## What is explicitly **not** foundational
++
++Being exciting is not enough to become a foundation.
++
++Current examples that remain proposals / contested directions include:
++
++- [[production/proposals/active/ancient-linlin-soul-dynasty|roughly 400-year-old Linlin / immortal soul dynasty]]
++- Brook's possible Charlotte/Orchard victim history
++- [[production/proposals/active/loki-fable-fake-ragnir|Fable Loki and fake Ragnir]]
++- exact Imu/Linlin contract integration
++- exact Sabo reconstruction
++- Burgess receiving the Mera-Mera no Mi until the scenario is finished
++
++These can be developed, challenged, accepted, rejected, or replaced without changing the basic identity of Recharted.
++
++## Foundation governance
++
++Do not silently add foundations because the maintainer controls the repository.
++
++A change to this file changes what collaborators are being asked to make.
++
++It should therefore be discussed with the current group and announced in the writers' room before being treated as shared project doctrine.
++
++If collaborators discover that they want fundamentally different adaptations, splitting into separate versions is healthier than pretending the disagreement is a scene-level vote.
+diff --git a/production/README.md b/production/README.md
+index 734d29c..51b219c 100644
+--- a/production/README.md
++++ b/production/README.md
+@@ -22,7 +22,7 @@ Once the internal model has answered the downstream questions that matter:
+ 
+ ## Core philosophy
+ 
+-See [[production/WRITING-PHILOSOPHY|Writing Philosophy]].
++See [[production/FOUNDATIONS|Foundations]] and [[production/WRITING-PHILOSOPHY|Writing Philosophy]].
+ 
+ Key ideas include:
+ 
+@@ -34,7 +34,9 @@ Key ideas include:
+ - competent systems are not perfect systems
+ - contradiction is not inconsistency
+ - continuity can discover payoff without manufacturing setup
+-- different from canon is not a defense for being less fun
++- canon quality raises the burden of replacement; it does not ban exploration
++- different from canon is not enough to lock, but it can be enough to explore
++- returning readers should receive discovery as well as repair
+ - causal integration should deepen the world rather than collapse every cause into one master system
+ 
+ ## Collaboration
+diff --git a/production/REVIEW-PROTOCOL.md b/production/REVIEW-PROTOCOL.md
+index 86d3d1b..1b60866 100644
+--- a/production/REVIEW-PROTOCOL.md
++++ b/production/REVIEW-PROTOCOL.md
+@@ -31,27 +31,48 @@ Classify criticism as:
+ - **structural risk** — design can predictably create a problem later
+ - **execution risk** — idea may work or fail depending on the finished scene
+ - **taste disagreement** — reviewer prefers another thematic or aesthetic choice
++- **foundation disagreement** — reviewer wants a meaningfully different adaptation premise
+ - **obsolete criticism** — current version already changed the attacked thing
+ - **documentation-caused misunderstanding** — bad reading reveals a clarity problem in the notes
+ - **non-engagement** — criticism requires ignoring what the current file explicitly says
+ 
+ A wrong criticism can still reveal a useful symptom. Extract the symptom without accepting the false claim.
+ 
+-## No unfalsifiable loop
++## Do not compare an embryo to finished canon
+ 
+-Do not accept:
++A new direction can be worth exploring before it is good enough to replace canon.
+ 
+-> unexplained → "this makes no sense"  
+-> explained privately → "the author explains everything"  
+-> hidden from readers → "the spreadsheet still infects the story"
++Do not run this sequence:
+ 
+-If the concern is that backstage rigor will make the final story sterile, that is an **execution risk** until a reader-facing scene demonstrates it.
++> one-paragraph pitch → compare to decades of polished/familiar canon → kill pitch because canon feels more complete
+ 
+-## Burden of evidence
++Instead:
+ 
+-If somebody says the spreadsheet makes the story sterile, ask which reader-facing scene demonstrates it.
++1. identify canon's function
++2. identify the new direction's intended function
++3. ask whether the alternate direction has enough potential to develop
++4. let it acquire scenes, consequences, relationships, and costs
++5. compare the developed version
+ 
+-If the evidence exists only in `production/`, label it a risk rather than a demonstrated failure.
++> **Canon quality determines the burden of replacement, not whether replacement is allowed to be explored.**
++
++"I prefer canon" is valid taste.
++
++"Canon already works, therefore exploring another direction is invalid" is not a sufficient review argument in Recharted.
++
++## Foundational directions
++
++Read [[production/FOUNDATIONS|Foundations]].
++
++If a critique says "Luffy should remain essentially static," "Brook should remain a Rumbar Pirate," "Hordy should return to canon's central thesis," or "the Government can simply destroy the Poneglyphs," it is not a tiny implementation note.
++
++It is proposing a different adaptation foundation.
++
++That can still be discussed. It should simply be classified honestly rather than smuggled into a scene-level vote.
++
++Foundational status does **not** protect bad execution.
++
++A Luffy scene can still be out of character. Brook's arc can still drag. Hordy's logic can still fail. Poneglyph implementation can still create contradictions.
+ 
+ ## Canon comparison
+ 
+@@ -63,6 +84,24 @@ After the rewrite explicitly understands and intentionally rejects that function
+ 
+ "The rewrite failed to understand canon Hordy" is not valid if the audit explicitly states the function and rejects it intentionally.
+ 
++Likewise, "canon Linlin is already good" does not settle whether the ancient-Linlin proposal is worth exploring. The proposal still has to earn itself, but the room has to judge the question it is actually asking.
++
++## No unfalsifiable loop
++
++Do not accept:
++
++> unexplained → "this makes no sense"
++> explained privately → "the author explains everything"
++> hidden from readers → "the spreadsheet still infects the story"
++
++If the concern is that backstage rigor will make the final story sterile, that is an **execution risk** until a reader-facing scene demonstrates it.
++
++## Burden of evidence
++
++If somebody says the spreadsheet makes the story sterile, ask which reader-facing scene demonstrates it.
++
++If the evidence exists only in `production/`, label it a risk rather than a demonstrated failure.
++
+ ## Causal-compression test
+ 
+ A useful hostile-review question:
+@@ -74,3 +113,15 @@ Causal integration is good.
+ Causal compression is not automatically good.
+ 
+ If one mechanic starts answering unrelated questions across politics, history, technology, character psychology, and economics, inspect its jurisdiction before adding another connection.
++
++## Review the cost of familiarity too
++
++Canon has an enormous familiarity advantage.
++
++That is real emotional value, but it can hide a cost: predictability.
++
++When comparing versions, ask not only whether the rewrite preserves a beloved beat, but whether the new route gives returning readers meaningful discovery.
++
++Do not sacrifice emotion merely for novelty.
++
++Do not sacrifice every possibility of novelty merely because familiarity is immediately emotional.
+diff --git a/production/WORKFLOW.md b/production/WORKFLOW.md
+index acd323b..ce7bc9e 100644
+--- a/production/WORKFLOW.md
++++ b/production/WORKFLOW.md
+@@ -15,6 +15,50 @@ Use Discord and/or shared Docs for brainstorming, dialogue, scene drafts, resear
+ 
+ Material written there is not automatically canon. Accepted material is integrated into the repository's authoritative files.
+ 
++## Decision states
++
++Substantial ideas can move through:
++
++> **Draft → Contested → Converging → Locked**
++
++### Draft
++
++The direction is being built. Criticism is welcome, but do not pretend an unfinished pitch has already demonstrated finished execution.
++
++### Contested
++
++There is meaningful disagreement about direction, cost, or fit.
++
++Contested does not mean "dead." The point is to develop the strongest version, not repeat the same one-paragraph argument forever.
++
++### Converging
++
++The room broadly agrees on direction. Remaining work is mostly implementation, continuity, or wording.
++
++### Locked
++
++The direction is authoritative until new evidence or a genuinely better replacement justifies reopening it.
++
++Not every tiny scene needs a formal state or vote.
++
++## Foundations are a separate layer
++
++[[production/FOUNDATIONS|Foundations]] describe the adaptation itself.
++
++They are not ordinary proposals and should be disclosed before somebody invests heavily in the project.
++
++Foundations can still be criticized in execution.
++
++Adding or removing one is a project-level conversation, not a silent maintainer edit.
++
++## Major disagreement
++
++Voting can resolve a major contested direction after the competing versions have been developed enough to compare fairly.
++
++Do not turn every scene into parliament.
++
++Do not vote on a sentence-long alternate pitch against a finished canon arc and call the result objective.
++
+ ## Full project view
+ 
+ Use Obsidian when you want the real folder hierarchy, backlinks, systems, character files, lore, and current production bible.
+@@ -37,7 +81,25 @@ GitHub remains useful because this project can grow into hundreds or thousands o
+ 
+ Writers do not need to care about those mechanics unless they want to.
+ 
+-If collaborators still hate Obsidian after setup, Docs can remain the main drafting surface while the repository remains the source of truth underneath it.
++## No silent rule changes
++
++A GitHub change can be technically authoritative while still being socially deceptive if the people collaborating never saw it.
++
++If a change affects project identity, governance, or foundations:
++
++1. discuss it with the current contributors
++2. announce the decision in the writers' room
++3. mirror the result into GitHub
++
++Do not use somebody's Git unfamiliarity as accidental consent.
++
++## Forking is a safety valve, not governance
++
++A project can always branch or fork if contributors want fundamentally different adaptations.
++
++But "just fork it" is not a substitute for clear collaboration, especially when some writers have not successfully set up Git yet.
++
++Help people preserve their work and credits if a split happens.
+ 
+ ## Future ideal
+ 
+diff --git a/production/WRITING-PHILOSOPHY.md b/production/WRITING-PHILOSOPHY.md
+index 1c78bb0..f5a0732 100644
+--- a/production/WRITING-PHILOSOPHY.md
++++ b/production/WRITING-PHILOSOPHY.md
+@@ -11,6 +11,100 @@ tags:
+ 
+ # Writing Philosophy
+ 
++
++## Recharted is allowed to recook the meal
++
++The project is not limited to cleaning up canon mistakes.
++
++Sometimes canon already works and another direction is still worth exploring.
++
++The question is not always:
++
++> **What did Oda do wrong?**
++
++It can also be:
++
++> **I understand what this version is doing. What else could these ingredients become?**
++
++Recharted can preserve, repair, develop, or reimagine.
++
++A good canon idea creates a **higher burden of replacement**, not a prohibition on experimentation.
++
++> **Canon quality determines the burden of replacement, not whether replacement is allowed to be explored.**
++
++An alternative does not need to defeat a finished manga at pitch stage. It needs enough potential to justify development.
++
++Only after the direction has been given scenes, consequences, relationships, costs, and payoff should we make the serious comparison.
++
++This protects two things at once:
++
++- canon is not changed merely to be different
++- canon familiarity does not kill every new idea before it has a chance to become a story
++
++## Pre-timeskip is protected, not sacred
++
++Pre-timeskip material generally carries a higher burden of replacement because more of it already works and because early character identity matters.
++
++That does **not** create a no-retcon zone.
++
++A pre-timeskip change is allowed when it creates enough character, causality, downstream structure, discovery, or emotional value to justify what is lost.
++
++> **Protected means higher burden. Sacred means no questions. Recharted chooses protected.**
++
++A proposal does not become good merely because it is radical, but "Oda already cooked this part" is not the end of the discussion.
++
++## Discovery is a creative value
++
++Recharted is being made for people who may already know *One Piece*.
++
++Repairs have value. A cleaner fight, a dead Pell, or a removed gag can make the story better.
++
++But discovery has value too.
++
++A useful internal test:
++
++> **If one sentence gives away most of the reason to experience the change, it is mainly a repair. If one sentence creates more questions than it answers, it is becoming a reimagining.**
++
++Neither category is automatically superior.
++
++But Recharted should contain enough discovery that a returning reader cannot always predict the route from a list of canon complaints.
++
++## Creative ownership is a feature
++
++If this project eventually becomes drawn chapters, contributors should sometimes feel that they are drawing **their version of the story**, not only redrawing Oda with corrections.
++
++That does not mean forcing novelty into every scene.
++
++It means making room for original architecture, alternate theses, new consequences, new characters, and different routes when they earn the opportunity to exist.
++
++A rewrite that only removes gags, shortens arcs, and repairs fights can still be useful. Recharted deliberately aims for enough original discovery that creators and returning readers both have something genuinely new to uncover.
++
++## Let collaborators cook
++
++A writer does not need to make everybody prefer a proposal immediately before they are allowed to develop it.
++
++If somebody has demonstrated good instincts and sees potential the rest of the room does not yet see, the room can say:
++
++> **I do not see the full meal yet. Cook.**
++
++Exploration is not lock.
++
++Trusting somebody to develop a direction is not the same as promising to accept the final result.
++
++This is especially important for original characters, alternate theses, and major reimaginings where the value may only become visible after several consequences are connected.
++
++## Foundations are disclosed, not hidden vetoes
++
++Some direction-level choices define what adaptation Recharted is.
++
++Those choices live in [[production/FOUNDATIONS|Foundations]].
++
++A foundation can be attacked in execution. It can be refined. Its mechanism can change. It is not protected from criticism.
++
++But contributors should not discover foundational premises only after investing weeks of work.
++
++Likewise, maintainers should not create new foundations silently in GitHub and rely on collaborators never noticing the diff.
++
+ ## Audit everything
+ 
+ A cool premise is not enough.
+@@ -397,25 +491,30 @@ Informative interludes are allowed when they are fun and useful, but they should
+ 
+ The repository can be obsessive so the story does not have to be.
+ 
+-## Different from canon is not a defense
++## Different from canon is not enough to lock
+ 
+-Peak Piece being intentionally different from canon does **not** answer the question:
++Intentional difference is a valid reason to **explore**.
+ 
+-> **Is the replacement actually better?**
++It is not, by itself, a valid reason to **lock**.
+ 
+-If a rewrite is more coherent but less fun, less emotional, less distinctive, less surprising, or less character-specific, "we meant to change it" is not a defense.
+-
+-Every intentional replacement still has to survive the same audit:
++After the alternative has been developed enough to judge fairly, audit it:
+ 
++- what did canon accomplish?
++- what did we preserve?
++- what did we deliberately reject?
+ - what did we gain?
+ - what did we lose?
+-- is the new version actually better on the page?
++- is the new version fun, emotional, distinctive, surprising, and character-specific enough to justify its cost?
+ - did rigor preserve the character's identity or sterilize it?
+-- did we replace a flawed One Piece idea with something that no longer feels like One Piece?
++- did we create discovery, or merely rearrange facts?
++
++A rewrite may knowingly choose a different thesis even when canon's thesis was good.
++
++The standard is not "canon had a flaw, therefore change."
+ 
+-Intent protects us from the accusation that we accidentally missed canon's point.
++The standard is:
+ 
+-It does not protect the replacement from criticism.
++> **Was the alternate direction worth exploring, and after exploration, did it earn its place in this version?**
+ 
+ ## We may intentionally reject canon's function
+ 
+@@ -561,5 +660,11 @@ stop.
+ 
+ > **When the spreadsheet has done enough to make the adventure consistent, close it.**
+ 
++A broader stopping rule:
++
++> **Audit the miracle when its scale creates strategic consequences. Leave ordinary spectacle alone.**
++
++Follow consequence until additional precision stops improving character, plot, worldbuilding, continuity, or payoff.
++
+ Then write the fucking adventure.
+ 
+diff --git a/production/characters/README.md b/production/characters/README.md
+index 7416d2a..7186e53 100644
+--- a/production/characters/README.md
++++ b/production/characters/README.md
+@@ -67,8 +67,14 @@ Later arcs:
+ - [[production/characters/pudding/overview|Charlotte Pudding]]
+ - [[production/characters/katakuri/overview|Charlotte Katakuri]]
+ - [[production/characters/sanji/overview|Sanji]]
++- [[production/characters/brook/overview|Brook]]
++- [[production/characters/koala/overview|Koala]]
+ - [[production/characters/imu/overview|Imu]]
+ 
++## Foundations
++
++Some character directions define the adaptation rather than living as ordinary proposals. See [[production/FOUNDATIONS|Foundations]] for Luffy, Hordy, and Brook.
++
+ ## Related
+ 
+ - [[production/indexes/Characters|Characters MOC]]
+diff --git a/production/characters/brook/_Brook.md b/production/characters/brook/_Brook.md
+new file mode 100644
+index 0000000..b510c2a
+--- /dev/null
++++ b/production/characters/brook/_Brook.md
+@@ -0,0 +1,15 @@
++---
++type: character-home
++status: live
++canon: true
++aliases: [Brook]
++tags: [character, brook, straw-hat]
++---
++# Brook
++
++- [[production/characters/brook/overview|Overview]]
++- [[production/characters/brook/progression|Progression]]
++- [[production/characters/brook/relationships|Relationships]]
++- [[production/characters/brook/canon-audit|Canon Audit]]
++
++> **Foundational direction:** Brook's accidental second life becomes an actual character arc. He is not a Rumbar Pirate in Recharted.
+diff --git a/production/characters/brook/canon-audit.md b/production/characters/brook/canon-audit.md
+new file mode 100644
+index 0000000..976a76a
+--- /dev/null
++++ b/production/characters/brook/canon-audit.md
+@@ -0,0 +1,65 @@
++---
++type: canon-audit
++status: live
++canon: false
++aliases: [Brook Canon Audit]
++tags: [audit, canon, brook]
++---
++# Brook: Canon Audit
++
++## Canon baseline
++
++Canon Brook is a Rumbar Pirate whose crew promised Laboon they would return. Brook dies, revives through the Yomi Yomi no Mi, survives alone, and eventually joins the Straw Hats who have independently met Laboon.
++
++The Rumbar death sequence and Binks' Sake carry enormous emotional value.
++
++## What canon accomplishes
++
++Canon creates a powerful delayed connection between Brook and Laboon and gives the Straw Hats a direct living bridge to people Laboon loved.
++
++That is a real strength.
++
++## Recharted's different question
++
++Recharted deliberately asks:
++
++> **What does decades of accidental survival actually do to Brook?**
++
++The concern is not that canon's Laboon reveal has no emotion.
++
++The concern is that Brook's resurrection and fifty years of isolation can carry a much larger character arc than mainly preserving one old promise until the Straw Hats happen to meet its surviving member.
++
++## Recharted response
++
++Brook has his own crew.
++
++The Rumbar Pirates remain separate.
++
++Brook lives among wrecks, learns dead people's unfinished promises, and gradually spends his second life carrying lives that ended.
++
++His arc becomes learning that memory does not require surrendering his entire future to the dead.
++
++## What we preserve
++
++- Binks' Sake
++- a crew dying one by one while the music continues
++- Brook's absurd comedy and skeleton identity
++- decades of isolation
++- the Rumbar Pirates
++- Laboon's waiting and the Rumbar promise
++- Brook eventually becoming part of Laboon's emotional resolution
++
++## What we intentionally change
++
++- Brook is not Rumbar
++- Laboon is not the singular reason his fifty-year survival matters
++- Brook develops a second-life / dead-promises arc
++- his relationship to Laboon comes through witnessing the dead rather than coincidence of membership
++
++## Foundational status
++
++This direction is foundational to Recharted.
++
++That does not mean every scene is locked.
++
++See [[production/FOUNDATIONS|Foundations]].
+diff --git a/production/characters/brook/overview.md b/production/characters/brook/overview.md
+new file mode 100644
+index 0000000..42650cc
+--- /dev/null
++++ b/production/characters/brook/overview.md
+@@ -0,0 +1,117 @@
++---
++type: character
++status: draft
++canon: true
++foundational: true
++aliases: [Brook, Soul King]
++tags: [character, brook, straw-hat, foundational]
++---
++# Brook
++
++> **Foundational direction:** Brook is not a Rumbar Pirate. His second life is not merely transportation to Laboon; it is the central problem of his character.
++
++## Core
++
++> **Everyone else got to die. Brook didn't.**
++
++Brook resurrects after losing his own pirate crew and then spends decades among the wreckage of people whose lives ended while his did not.
++
++He does not know what to do with an accidental extra life.
++
++So he starts giving it away to the dead.
++
++## Brook's crew
++
++Brook had his **own** pirate crew roughly fifty years before the main story.
++
++They are separate from the Rumbar Pirates.
++
++Binks' Sake remains a common pirate song of the era.
++
++Brook's crew can still die one by one while playing it until Brook is left alone, preserving the musical death sequence without requiring him to be a Rumbar Pirate.
++
++A classic pirate-animal relationship, including the current parrot direction, can deepen why Brook later understands the Rumbar crew's promise to Laboon. The exact animal material is implementation, not foundation.
++
++## The graveyard years
++
++After resurrection, Brook eventually reaches the Florian Triangle / graveyard of failed ships.
++
++He boards wrecks.
++
++He reads logbooks.
++
++He learns names.
++
++He talks to skeletons as though crews are still present.
++
++He finds promises nobody can finish and begins finishing them himself.
++
++At first this gives his second life purpose.
++
++Over decades it becomes unhealthy.
++
++He accumulates dead crews inside his routine until the line between:
++
++> **what they would say**
++
++and
++
++> **what they are saying to me**
++
++starts to blur.
++
++## The Rumbar Pirates
++
++The Rumbar Pirates remain a separate crew.
++
++They still meet Laboon, leave him with Crocus, promise to return, enter the Grand Line, and die.
++
++Brook later finds their wreckage/logs among the dead he has been collecting.
++
++He adds their unfinished promise to his own list:
++
++> **Tell Laboon what happened.**
++
++He may ask whales he encounters:
++
++> **Are you Laboon?**
++
++Laboon matters because Brook understands what it means for an animal to wait for people who will never return, not because the universe made Brook secretly one of the exact pirates the Straw Hats already promised to help.
++
++Possible eventual line:
++
++> **Laboon... I knew the people who loved you.**
++
++## Character movement
++
++Brook begins with:
++
++> **I have to finish what the dead couldn't.**
++
++The Straw Hats force another possibility into his life:
++
++> **I can remember the dead without giving them the rest of my life.**
++
++Survival is allowed to create new wants.
++
++Remembering somebody is not the same thing as becoming their unfinished life.
++
++## What is not foundational
++
++The following can still be changed without abandoning Peak Brook:
++
++- exact number and type of promises he carries
++- the parrot implementation
++- exact wreck / logbook sequence
++- exact order in which he learns about Laboon
++- precise comedy / hallucination balance
++- his possible connection to Charlotte Linlin
++
++The [[production/proposals/active/brook-ancient-linlin-extension|Brook / ancient Linlin connection]] is specifically **contested** and only exists if the ancient-Linlin proposal survives.
++
++## Related
++
++- [[production/characters/brook/progression|Progression]]
++- [[production/characters/brook/relationships|Relationships]]
++- [[production/characters/brook/canon-audit|Canon Audit]]
++- [[production/FOUNDATIONS|Foundations]]
+diff --git a/production/characters/brook/progression.md b/production/characters/brook/progression.md
+new file mode 100644
+index 0000000..11a8a8d
+--- /dev/null
++++ b/production/characters/brook/progression.md
+@@ -0,0 +1,66 @@
++---
++type: character-progression
++status: draft
++canon: true
++aliases: [Brook Progression]
++tags: [character, brook, progression]
++---
++# Brook: Progression
++
++## 1. A life that should have ended
++
++Brook dies with his own crew and returns after the moment has already passed.
++
++His resurrection is not victory.
++
++Everybody else got an ending.
++
++He got continuation.
++
++## 2. The dead become company
++
++Isolation makes wrecks and skeletons easier to treat as people who are still present.
++
++Logbooks let him reconstruct voices, habits, destinations, jokes, debts, lovers, children, and unfinished plans.
++
++## 3. Purpose through promises
++
++Brook starts carrying unfinished promises because completing them gives his second life a use.
++
++This is initially compassionate.
++
++It also lets him avoid asking what **Brook** wants.
++
++## 4. Accumulation
++
++Decades of other people's unfinished lives become weight.
++
++Brook can remember a dead person's preferences more easily than his own.
++
++He may talk to people who are not there and occasionally stop knowing whether he is remembering, imagining, or answering himself.
++
++## 5. Rumbar / Laboon
++
++The Rumbar logbooks give him one of the clearest unfinished promises he has ever found.
++
++Laboon becomes a high-priority promise without retroactively making Brook part of that crew.
++
++## 6. Straw Hats
++
++The Straw Hats do not tell Brook to forget the dead.
++
++They keep making new memories with him anyway.
++
++For the first time in decades, his calendar begins filling with obligations to living people and wants that are actually his.
++
++## 7. Choice
++
++Brook still honors promises where he can.
++
++The change is that he stops treating every dead person's unfinished life as a commandment.
++
++> **I can remember the dead without giving them the rest of my life.**
++
++## Progression sentence
++
++> **Brook begins by using his accidental second life to carry everybody who lost theirs; he grows into believing that survival permits him to want a life of his own.**
+diff --git a/production/characters/brook/relationships.md b/production/characters/brook/relationships.md
+new file mode 100644
+index 0000000..9d3b989
+--- /dev/null
++++ b/production/characters/brook/relationships.md
+@@ -0,0 +1,52 @@
++---
++type: character-relationships
++status: draft
++canon: true
++aliases: [Brook Relationships]
++tags: [character, brook, relationships]
++---
++# Brook: Relationships
++
++## His original crew
++
++Brook's grief begins with **his own** crew.
++
++They are not the Rumbar Pirates.
++
++Their death sequence can preserve Binks' Sake as the song that continues until nobody is left to play it.
++
++## The dead crews
++
++Brook develops parasocial relationships with people he knows only through wrecks, bodies, possessions, and logs.
++
++This is compassionate, lonely, funny, and eventually unhealthy.
++
++The dead become the community he builds because living company is unavailable.
++
++## Rumbar Pirates
++
++Brook knows the Rumbar crew after their deaths through what they left behind.
++
++He becomes a witness to their love for Laboon rather than secretly being part of the promise from the beginning.
++
++## Laboon
++
++The Straw Hats have their own Laboon promise.
++
++Brook should not hijack it.
++
++His contribution is different:
++
++> **I knew the people who loved you.**
++
++That gives Laboon information and mourning rather than magically returning the exact crew member the story already connected to him.
++
++## Straw Hats
++
++The crew becomes evidence that Brook's second life is allowed to contain new relationships rather than only obligations inherited from the dead.
++
++## Charlotte Linlin
++
++No Linlin relationship is locked here.
++
++See [[production/proposals/active/brook-ancient-linlin-extension|Brook / ancient Linlin extension]].
+diff --git a/production/characters/hordy/canon-audit.md b/production/characters/hordy/canon-audit.md
+index 2b3f475..a827b4e 100644
+--- a/production/characters/hordy/canon-audit.md
++++ b/production/characters/hordy/canon-audit.md
+@@ -7,6 +7,8 @@ tags: [audit, canon]
+ ---
+ # Hordy Jones: Canon Audit
+ 
++> **Foundational direction:** this alternate thesis is an intentional identity-level choice for Recharted, not a claim that canon failed to have a thesis.
++
+ ## Canon baseline
+ 
+ Canon Hordy is deliberately revealed as someone whose hatred is not rooted in a personal atrocity committed against him. The Fish-Man District environment transmits hatred to him.
+diff --git a/production/characters/hordy/overview.md b/production/characters/hordy/overview.md
+index 6b9b093..0175f1e 100644
+--- a/production/characters/hordy/overview.md
++++ b/production/characters/hordy/overview.md
+@@ -7,6 +7,8 @@ tags: [character, fishman-island]
+ ---
+ # Hordy Jones
+ 
++> **Foundational direction:** Recharted intentionally gives Hordy the Devil's Hand thesis rather than using him as canon's pure inherited-hatred vehicle. See [[production/FOUNDATIONS|Foundations]].
++
+ ## Core
+ 
+ > **If somebody is going to hurt us anyway, I should control how much it hurts.**
+diff --git a/production/characters/imu/abilities.md b/production/characters/imu/abilities.md
+index ee025f2..430bfe5 100644
+--- a/production/characters/imu/abilities.md
++++ b/production/characters/imu/abilities.md
+@@ -3,7 +3,7 @@ type: character-abilities
+ status: draft
+ canon: true
+ aliases:
+-  - "Imu Abilities"
++  - Imu Abilities
+ tags:
+   - character
+   - imu
+@@ -22,7 +22,7 @@ If Imu's leg is broken, he can defer the consequence.
+ 
+ The injury does not disappear.
+ 
+-As he continues to use the leg, the unpaid consequence accumulates interest.
++As he continues to use the leg, the unpaid consequence accumulates.
+ 
+ Eventually the consequence must be paid.
+ 
+@@ -35,23 +35,43 @@ Possible destinations include:
+ 
+ The exact transfer rules still need to be locked.
+ 
+-## Contracts
++## Contract rules
+ 
+-Contracts create additional routes for consequence and control.
++The current direction is intentionally stricter than generic magical fine print.
+ 
+-A severe contract violation may allow Imu to seize the violator's body.
++A valid contract requires:
+ 
+-This is the current explanation direction for Rocks being "Domi Reversed."
++- both parties voluntarily agree
++- both parties understand the terms and conditions they are agreeing to
++- neither side lies about the agreement
++- each promised action is actually within the promisor's known capability
++- both parties are bound
++- the consequence for breach is whatever the contract explicitly establishes
+ 
+-## Linlin connection
++Imu must uphold his side too.
+ 
+-Linlin supplies high-quality soul material that Imu can use as consequence sinks.
++A contract is frightening because somebody knowingly accepts a cost, not because the Fruit silently rewrites a document they never understood.
+ 
+-This helps explain the appearance of immortality without literal immortality.
++## Domi Reversi direction
++
++Domi Reversi is not innate point-and-click mind control.
++
++A contract can contain a breach clause granting Imu access to mind/body if a party knowingly violates a specified term.
++
++If the breach occurs, Imu collects the payment that was actually agreed.
++
++The exact Rocks implementation remains endgame work.
++
++## Soul material
++
++Stored soul material can potentially function as a consequence sink.
++
++Imu's survival system must work independently of Charlotte Linlin.
++
++If [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin]] survives, her empire can become an unusually valuable supplier of coherent soul material. That is an optional extension, not the engine that makes Imu possible.
+ 
+ ## Related
+ 
+ - [[production/characters/imu/overview|Imu]]
+ - [[production/characters/imu/relationships|Relationships]]
+-- [[production/characters/linlin/abilities|Linlin's soul abilities]]
+ - [[production/systems/soul-system|Soul System]]
+diff --git a/production/characters/imu/canon-audit.md b/production/characters/imu/canon-audit.md
+index c26790e..c72e954 100644
+--- a/production/characters/imu/canon-audit.md
++++ b/production/characters/imu/canon-audit.md
+@@ -23,7 +23,7 @@ Peak Piece wants the supernatural toolkit to express one coherent character idea
+ 
+ ## Peak Piece response
+ 
+-Peak Imu's core is deferred consequence: avoid costs now, transfer them through valid contracts/souls, and force somebody else to pay later. Linlin's contract is one expression.
++Peak Imu's core is deferred consequence: avoid costs now, transfer them through valid contracts/souls, and force somebody else to pay later. The system must stand independently of any Linlin connection.
+ 
+ ## Why this solution
+ 
+@@ -52,20 +52,18 @@ Do not overdefine Imu too early. Contract limits stay open until the endgame is
+ 
+ See [[production/references/canon/source-policy|Canon Audit Source Policy]].
+ 
+-## Linlin connection test
++## Linlin extension test
+ 
+-The Linlin relationship must remain causal rather than connective fanservice.
++A Linlin relationship is no longer assumed.
+ 
+-Remove a bad lore connection and almost nothing changes.
++If [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin]] survives, a soul-for-tolerance contract can be tested as an extension.
+ 
+-Remove this contract and major questions reopen:
++It only passes if:
+ 
+-- why does the World Government tolerate a four-century pirate empire?
+-- what does Linlin owe for that immunity?
+-- why does Imu accept her continued expansion?
+-- how does an external soul obligation reshape an economy Linlin already wants?
+-
+-The contract passes the connection test only as long as Linlin remains the author of her own empire.
++- Imu's system already works without her
++- Linlin remains the author of her own empire
++- the exchange creates real obligations on both sides
++- the connection answers more than "these two villains are important"
+ 
+ ## Failure mode
+ 
+diff --git a/production/characters/imu/relationships.md b/production/characters/imu/relationships.md
+index ea594bc..a1c2087 100644
+--- a/production/characters/imu/relationships.md
++++ b/production/characters/imu/relationships.md
+@@ -14,46 +14,24 @@ tags:
+ 
+ ## Charlotte Linlin
+ 
+-Imu does not create Linlin's empire.
++No Linlin contract is currently locked.
+ 
+-Linlin is already building the political/family project that becomes Totto Land and already has independent reasons to harvest soul material.
++Peak Imu's deferred-consequence system must stand on its own.
+ 
+-Imu offers:
++If [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin]] survives, a possible relationship is:
+ 
+-- World Government tolerance
+-- protection from the level of suppression that would normally threaten a centuries-long pirate state
+-- political room for Linlin's project to grow
++- Linlin is already building her own family-state
++- Imu offers long-term Government tolerance / political room
++- Linlin supplies recurring high-quality soul material
++- both sides exchange something the other uniquely controls
+ 
+-In exchange, Linlin supplies recurring high-quality soul material that can serve Imu's deferred-consequence system.
++That version is proposal-dependent.
+ 
+-This is effectively a tax for immunity.
+-
+-Whole Cake Island does not simply "feed Imu."
+-
+-Linlin uses souls for her own:
+-
+-- longevity
+-- Homies
+-- weapons
+-- state
+-- family systems
+-
+-and pays part of that extraction obligation upward because the contract buys freedom from Government destruction.
+-
+-The relationship is therefore:
+-
+-> two dangerous powers exchanging something the other uniquely controls
+-
+-rather than:
+-
+-> final villain secretly invented the midgame villain.
+-
+-Current working continuity still allows Imu to have arranged or influenced Linlin's access to the Soul-Soul Fruit, but the empire remains Linlin's creation.
++Do not write current Linlin as secretly subordinate to Imu.
+ 
+ ## Related
+ 
+ - [[production/characters/imu/overview|Imu]]
+ - [[production/characters/imu/abilities|Abilities]]
+ - [[production/characters/linlin/overview|Charlotte Linlin]]
+-- [[production/characters/linlin/relationships|Linlin Relationships]]
+ - [[production/lore/factions/world-government|World Government]]
+diff --git a/production/characters/koala/overview.md b/production/characters/koala/overview.md
+new file mode 100644
+index 0000000..e8d09d7
+--- /dev/null
++++ b/production/characters/koala/overview.md
+@@ -0,0 +1,53 @@
++---
++type: character
++status: draft
++canon: true
++origin: firefox6663355 / Fox
++aliases: [Koala]
++tags: [character, revolutionary-army, koala]
++---
++# Koala
++
++## Current direction
++
++Koala becomes **Revolutionary Army #2**.
++
++This direction originated with **firefox6663355 / Fox**.
++
++Nathan did not initially see why the rank itself was better than canon, but accepted the direction as worth developing because Koala's history and Revolutionary experience create room for a far larger role.
++
++The rank now needs to be earned on the page rather than treated as a power-scaling sticker.
++
++## Why Koala
++
++Koala's movement from enslaved child to one of the people most responsible for organized liberation is the point.
++
++Her importance should come from years of:
++
++- field experience
++- liberation work
++- strategy
++- organization
++- Fishman Karate
++- political trust
++- surviving systems of slavery and then learning how to dismantle them
++
++## Sabo
++
++Sabo can be physically stronger in some contexts without automatically outranking Koala.
++
++Koala can be the more experienced organizer / strategist while Sabo is more impulsive and combat-forward.
++
++Exact command structure still needs scenes.
++
++## Combat
++
++Fishman Karate remains central.
++
++Other weapon / Dragon-claw-adjacent ideas can be explored if they grow from training rather than turning her into a pile of cool moves.
++
++## Standard
++
++Do not make Koala #2 merely because the project wants "a strong woman."
++
++Make her #2 because the organization, history, competence, and relationships actually support it.
+diff --git a/production/characters/linlin/_Linlin.md b/production/characters/linlin/_Linlin.md
+index 6b385ca..d268f2e 100644
+--- a/production/characters/linlin/_Linlin.md
++++ b/production/characters/linlin/_Linlin.md
+@@ -26,3 +26,7 @@ tags: [moc, character, linlin]
+ - [[production/systems/soul-system|Soul System]]
+ - [[production/lore/factions/big-mom-pirates|Charlotte Empire]]
+ - [[production/lore/locations/totto-land|Totto Land]]
++
++## Contested extension
++
++- [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin proposal]]
+diff --git a/production/characters/linlin/canon-audit.md b/production/characters/linlin/canon-audit.md
+index d124bd3..c3483e2 100644
+--- a/production/characters/linlin/canon-audit.md
++++ b/production/characters/linlin/canon-audit.md
+@@ -17,17 +17,31 @@ Canon mixes fairy-tale horror, grotesque motherhood, childish desire, imperial s
+ 
+ Unless a source explicitly confirms authorial intent, this is **interpretation**, not a claim about Oda's private intention.
+ 
+-## Problems Peak Piece identifies
++## Problems Recharted identifies
+ 
+-Hunger pangs repeatedly reduce a top political/military actor to plot-controlled toddler behavior; centuries of survival do not consistently produce institutional refinement; her family can function as an enemy roster more than a lived family.
++Hunger pangs repeatedly reduce a top political/military actor to plot-controlled toddler behavior; her family can function as an enemy roster more than a lived family; the Soul-Soul Fruit opens institutional possibilities canon does not always pursue.
+ 
+-## Peak Piece response
++## Recharted response
+ 
+-Peak Linlin is a roughly four-century Victorian-style empress whose competence has been refined through centuries of mistakes. Her soul economy, Tea Party, family, coercion, tenderness, humor, vanity, and possessiveness all remain. Final Service is wartime lifespan calculus, not heroic martyrdom.
++Peak Linlin is a competent imperial matriarch whose soul economy, Tea Party, family, coercion, tenderness, humor, vanity, and possessiveness all remain.
+ 
+-## Why this solution
++The Orchard and harvest doctrine develop implications of her soul power without requiring a new age.
+ 
+-Four hundred years should produce learning. Competence does not make Linlin morally clean; it makes her contradictions harder to escape.
++Final Service is wartime lifespan calculus, not heroic martyrdom.
++
++## Ancient Linlin is now contested
++
++Earlier Peak material locked a roughly four-century Linlin.
++
++That is no longer authoritative.
++
++The idea is preserved as [[production/proposals/active/ancient-linlin-soul-dynasty|a contested proposal]] because it may create a much larger alternate story even though canon Linlin's existing backstory is already good.
++
++This is a deliberate example of the new project philosophy:
++
++> **canon can work and another direction can still be worth exploring**
++
++If the proposal loses, the Orchard, Pudding work, Soul Feast, and competent Linlin remain.
+ 
+ ## What we preserve
+ 
+@@ -41,60 +55,19 @@ Recurring hunger-tantrum incompetence as a fight-balancing device.
+ 
+ Do not turn her into a sterile chess computer. Keep bizarre rituals, emotional attachments, humor, vanity, love, and control.
+ 
++Do not treat institutional competence as evidence that she must be ancient.
++
+ ## References
+ 
+ ### Canon anchors
+ - Manga ch. 835 - Totto Land lifespan toll and soul system.
+ - Manga ch. 829 - major hunger-pang material.
+ 
+-### Peak Piece
++### Recharted
+ - [[production/characters/linlin/overview|Overview]]
+ - [[production/characters/linlin/abilities|Abilities]]
+ - [[production/systems/soul-system|Soul System]]
+ - [[story/sagas/soul-feast/arcs/soul-feast/arc|Soul Feast]]
++- [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin proposal]]
+ 
+ See [[production/references/canon/source-policy|Canon Audit Source Policy]].
+-
+-## Imu connection
+-
+-Peak Linlin already has:
+-
+-- Totto Land ambition
+-- family structure
+-- longevity incentives
+-- military soul use
+-- Tea Party culture
+-
+-before the Imu contract becomes important.
+-
+-Imu buys influence by giving her something she cannot manufacture herself:
+-
+-**long-term Government tolerance.**
+-
+-The contract changes the scale and pressure of the soul economy.
+-
+-It does not create the empire.
+-
+-## Competence failure mode
+-
+-Do not use "she is four hundred years old" as permission to make her right about everything.
+-
+-Centuries of experience create strong models.
+-
+-Strong models can still fail when something genuinely new appears.
+-
+-The Hyena extraction blunder is a deliberate example.
+-
+-## Emotional architecture
+-
+-A valid hostile concern is that institutional competence could accidentally sanitize Linlin.
+-
+-Peak's answer is **not** to restore hunger tantrums.
+-
+-It is to preserve contradiction at the level of desire, ownership, motherhood, rejection, and obligation.
+-
+-A person can genuinely care for someone and still hold beliefs that harm them.
+-
+-Linlin comforting Pudding does not prove her possessiveness disappeared.
+-
+-It can make the possessiveness more disturbing because the care is real too.
+diff --git a/production/characters/linlin/overview.md b/production/characters/linlin/overview.md
+index 498ba9a..35c1aa5 100644
+--- a/production/characters/linlin/overview.md
++++ b/production/characters/linlin/overview.md
+@@ -16,7 +16,7 @@ tags:
+ 
+ ## Core
+ 
+-Peak Linlin is a roughly 400-year-old imperial pirate matriarch.
++Peak Linlin is an imperial pirate matriarch.
+ 
+ She keeps the food obsession, enormous family, Totto Land, Soul-Soul ability, Tea Parties, territorial control, political relationships, and terrifying maternal authority.
+ 
+@@ -24,6 +24,8 @@ The toddler behavior is removed.
+ 
+ She is calm, controlled, elegant, thoughtful, frightening, and capable of running an empire.
+ 
++Her exact rewritten age is **not locked**. The roughly-four-hundred-year version now lives in [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin]] as a contested proposal.
++
+ ## Personality
+ 
+ Linlin believes valuable things should not be wasted.
+@@ -52,7 +54,7 @@ The real evaluation asks:
+ - how much stronger can this person become?
+ - how likely are they to die / disappear before then?
+ 
+-Linlin can leave a promising young pirate **Green** for years because her own time horizon is enormous.
++Linlin can leave a promising young pirate **Green** because a stronger future harvest may justify the risk.
+ 
+ When somebody is **Ripe**, she harvests.
+ 
+@@ -129,35 +131,6 @@ The point is not that Linlin becomes morally clean.
+ 
+ The point is that her love for Pudding is real.
+ 
+-## History with Imu
+-
+-Linlin was already a feared pirate and already building Totto Land before the Imu contract.
+-
+-Imu offers long-term Government tolerance / protection in exchange for recurring high-quality soul material.
+-
+-The agreement changes the environment in which Linlin can build.
+-
+-It does not invent her empire.
+-
+-## Four centuries must leave scars
+-
+-The Imu deal explains Government tolerance only.
+-
+-The wider world should contain old:
+-
+-- treaties
+-- grudges
+-- fortifications
+-- trade adaptations
+-- family branches
+-- folklore
+-- military doctrine
+-- border changes
+-
+-shaped by centuries of Charlotte power.
+-
+-See [[production/lore/history/charlotte-imperial-footprint|Charlotte Imperial Footprint]].
+-
+ ## Fishman Island
+ 
+ Linlin sees Fishman Island as an unusually attractive post-Whitebeard acquisition because Whitebeard already helped make the extraction infrastructure, routes, labor networks, and trade relationships viable.
+@@ -174,19 +147,11 @@ Gems matter because they are one valuable military commodity in the basin.
+ 
+ Fishman Island remains valuable without them.
+ 
+-## Why General Linlin is competent
++## Competence
+ 
+-Four centuries of experience should make Linlin frighteningly refined.
++Linlin's competence comes from running a large family-state, surviving high-level piracy, delegating to specialists, and learning from repeated consequences.
+ 
+-She has had an absurd amount of time to:
+-
+-- make mistakes
+-- survive them
+-- refine institutions
+-- delegate
+-- learn which coercion destroys productivity
+-- build rituals
+-- watch generations of enemies repeat patterns
++She does not need four centuries of age to be allowed to think.
+ 
+ Her competence is not emotional health.
+ 
+@@ -194,24 +159,10 @@ She remains possessive, grotesque, funny, vain, loving, controlling, spiritually
+ 
+ ## Competence is not perfection
+ 
+-Four centuries do not make Linlin omniscient.
++Linlin can have strong models and still fail when something genuinely new appears.
+ 
+ Her Hyena mass-extraction failure remains a model error: she trusts a normally reliable battlefield assumption and collides with a novel phenotype she did not know enough to test for.
+ 
+-## She is still the author of her empire
+-
+-Imu does not invent Totto Land.
+-
+-Imu does not invent Linlin's family.
+-
+-Imu does not invent Linlin's desire for longevity.
+-
+-Imu does not invent her military need for soul material.
+-
+-Linlin is already building.
+-
+-The Imu relationship changes the environment in which that project is allowed to grow.
+-
+ ## Emotional contradiction
+ 
+ Peak Linlin should not become emotionally healthy merely because she is institutionally competent.
+@@ -231,6 +182,12 @@ They are competing desires and assumptions inside one person.
+ 
+ > **Contradiction is not inconsistency.**
+ 
++## Contested extension
++
++The current proposal to make Linlin roughly four hundred years old, sustain a long-lived dynasty through increasingly expensive soul/lifespan conversion, leave centuries of geopolitical scars, and potentially interact with Imu's contract system is **not canon**.
++
++See [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin / Immortal Soul Dynasty]].
++
+ ## Related
+ 
+ - [[production/characters/linlin/abilities|Abilities]]
+@@ -239,7 +196,6 @@ They are competing desires and assumptions inside one person.
+ - [[production/characters/pudding/relationships|Pudding relationship]]
+ - [[production/systems/soul-system|Soul System]]
+ - [[production/lore/factions/charlotte-orchard|The Orchard]]
+-- [[production/lore/history/charlotte-imperial-footprint|Charlotte Imperial Footprint]]
+ - [[production/lore/factions/big-mom-pirates|Charlotte Empire]]
+ - [[production/lore/locations/fishman-island|Fishman Island]]
+ - [[production/lore/locations/totto-land|Totto Land]]
+diff --git a/production/characters/linlin/relationships.md b/production/characters/linlin/relationships.md
+index f89028d..d56265a 100644
+--- a/production/characters/linlin/relationships.md
++++ b/production/characters/linlin/relationships.md
+@@ -32,33 +32,24 @@ These are not all locked dialogue.
+ 
+ ## Katakuri
+ 
+-Katakuri is a centuries-old commander trusted to act autonomously.
++Katakuri is a veteran commander trusted to act autonomously.
+ 
+ Linlin does not micromanage every battlefield decision.
+ 
+ ## Imu
+ 
+-The relationship is contractual, strategic, and load-bearing.
++No Linlin/Imu contract is currently locked into Linlin's canon relationships.
+ 
+-The important order is:
++If [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin]] survives, a recurring soul-for-tolerance contract becomes one possible extension.
+ 
+-1. Linlin is already Linlin.
+-2. She is already building the state that becomes Totto Land.
+-3. She already has independent reasons to value souls: longevity, Homies, weapons, family/state power.
+-4. Imu offers something the World Government can uniquely provide: long-term tolerance / immunity from the level of suppression that would normally target a growing pirate empire.
+-5. Linlin pays for that freedom with a recurring soul obligation.
+-
+-The contract therefore **shapes** an extraction economy that already has reasons to exist.
+-
+-It does not create Linlin's personality or author the Charlotte Empire.
++That version must preserve the ordering:
+ 
+-Without the contract, the story immediately has to answer why the World Government tolerated roughly four centuries of expansion without escalating to existential suppression.
+-
+-That makes the connection causal rather than trivia.
+-
+-Current working continuity still allows Imu to have arranged or influenced Linlin's access to the Soul-Soul Fruit, but that detail should not become "Imu created Big Mom."
++1. Linlin is already Linlin.
++2. Linlin is already building her own family-state.
++3. Linlin already has independent reasons to value souls.
++4. Imu can change the environment around her; he does not author her identity.
+ 
+-Linlin fears Imu because she understands the cost of breaking the contract, not because she is secretly his subordinate in every part of her life.
++See the proposal rather than treating this relationship as established canon.
+ 
+ ## Related
+ 
+diff --git a/production/characters/luffy/overview.md b/production/characters/luffy/overview.md
+index a3d5bd2..933e6e1 100644
+--- a/production/characters/luffy/overview.md
++++ b/production/characters/luffy/overview.md
+@@ -13,6 +13,8 @@ tags:
+ 
+ # Monkey D. Luffy
+ 
++> **Foundational direction:** Luffy meaningfully develops across Recharted. See [[production/FOUNDATIONS|Foundations]].
++
+ ## Core
+ 
+ Luffy remains joyful, impulsive, hungry, funny, intuitive, stubborn, and absurd.
+diff --git a/production/characters/luffy/progression.md b/production/characters/luffy/progression.md
+index 0140cca..387c3cc 100644
+--- a/production/characters/luffy/progression.md
++++ b/production/characters/luffy/progression.md
+@@ -12,6 +12,8 @@ tags:
+ 
+ # Luffy: Progression
+ 
++> **Foundational direction:** the exact route can change; an essentially static Luffy is not the Recharted target.
++
+ ## Early sea
+ 
+ Luffy knows pirates can be monsters.
+diff --git a/production/community/contributor-intake.md b/production/community/contributor-intake.md
+index 860c31c..e49b412 100644
+--- a/production/community/contributor-intake.md
++++ b/production/community/contributor-intake.md
+@@ -7,6 +7,8 @@ tags: [community, contributors, workflow]
+ ---
+ # Contributor Intake
+ 
++Before assigning work, make sure the newcomer has seen [[production/FOUNDATIONS|Foundations]]. Recharted is broader than the original post-timeskip repair premise, and nobody should discover that only after contributing substantial work.
++
+ Do not invent a formal title the moment somebody joins the writers' room.
+ 
+ If a new collaborator already has rewrite notes, videos, chapter work, research, or critiques, read the work first.
+diff --git a/production/community/discord-welcome.md b/production/community/discord-welcome.md
+index 1f9ad3b..392cbff 100644
+--- a/production/community/discord-welcome.md
++++ b/production/community/discord-welcome.md
+@@ -7,15 +7,27 @@ tags:
+ 
+ # Discord Welcome
+ 
+-# Welcome to Peak Piece
++# Welcome to One Piece: Recharted
+ 
+-This is a collaborative rewrite of One Piece.
++This is a collaborative **reimagining** of One Piece.
++
++It is not limited to "fix post-timeskip mistakes and otherwise preserve canon."
++
++Sometimes we repair. Sometimes we preserve. Sometimes we take ingredients canon already used well and ask what another version could become.
++
++Before doing major writing, read the short foundation document:
++
++https://github.com/nathaniel-bonolo/peak-piece/blob/main/production/FOUNDATIONS.md
++
++Current foundational directions include meaningful Luffy progression, Devil's Hand Hordy, Brook's second-life/dead-promises arc, and the Poneglyph suppression architecture.
++
++Those directions are **not immune to criticism**. Their execution can change. They are disclosed because nobody should contribute for weeks and only later discover what kind of rewrite this is.
+ 
+ If you want to **read the current story so far**, go to the GitHub repo and open the `story/` folder:
+ 
+ https://github.com/nathaniel-bonolo/peak-piece/tree/main/story
+ 
+-`story/` is the readable canonical version of Peak Piece.
++`story/` is the readable canonical version of Recharted.
+ 
+ Discord is where discussion happens: brainstorming, arguing about ideas, character rewrites, systems, arc planning, research, feedback, and deciding what should become canon.
+ 
+@@ -23,6 +35,8 @@ Discord is where discussion happens: brainstorming, arguing about ideas, charact
+ 
+ Ideas can be discussed here first. Once we agree on them, they get added to the actual story, character, lore, or system files.
+ 
++A new idea does not need to instantly prove it is better than finished canon before it is allowed to be explored. If it has real potential, let it cook; then compare the developed version.
++
+ You do not need to agree with every idea. If something does not make sense, question it.
+ 
+ Critique the idea, not the person.
+diff --git a/production/indexes/Characters.md b/production/indexes/Characters.md
+index 57a195b..c341c40 100644
+--- a/production/indexes/Characters.md
++++ b/production/indexes/Characters.md
+@@ -16,6 +16,7 @@ tags: [moc, characters]
+ - [[production/characters/robin/_Robin|Nico Robin]]
+ - [[production/characters/chopper/overview|Tony Tony Chopper]]
+ - [[production/characters/sanji/_Sanji|Sanji]]
++- [[production/characters/brook/_Brook|Brook]]
+ 
+ ## Fishman Island focus
+ 
+@@ -43,6 +44,7 @@ tags: [moc, characters]
+ ## Revolutionary Army
+ 
+ - [[production/characters/belo-betty/_Belo Betty|Belo Betty]]
++- [[production/characters/koala/overview|Koala]]
+ 
+ ## Endgame
+ 
+diff --git a/production/indexes/Lore.md b/production/indexes/Lore.md
+index 559e831..4d537fe 100644
+--- a/production/indexes/Lore.md
++++ b/production/indexes/Lore.md
+@@ -21,7 +21,6 @@ tags: [moc, lore]
+ 
+ - [[production/lore/factions/big-mom-pirates|Charlotte Empire]]
+ - [[production/lore/factions/charlotte-orchard|The Orchard]]
+-- [[production/lore/history/charlotte-imperial-footprint|Charlotte Imperial Footprint]]
+ - [[production/lore/locations/totto-land|Totto Land]]
+ 
+ ## Straw Hats
+@@ -31,6 +30,7 @@ tags: [moc, lore]
+ 
+ ## Wider history
+ 
++- [[production/lore/history/poneglyphs|Poneglyphs]]
+ - [[production/lore/history/flood-resource-order|Flood Resource Order]]
+ - [[production/lore/history/gem-history|Gem History]]
+ - [[production/lore/history/haki-history|Haki History]]
+diff --git a/production/indexes/Proposals.md b/production/indexes/Proposals.md
+index 58700a0..821e51f 100644
+--- a/production/indexes/Proposals.md
++++ b/production/indexes/Proposals.md
+@@ -6,6 +6,12 @@ tags: [moc, proposals]
+ 
+ ## Active
+ 
++- [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin / Immortal Soul Dynasty]]
++- [[production/proposals/active/brook-ancient-linlin-extension|Brook / Ancient Linlin Extension]]
++- [[production/proposals/active/loki-fable-fake-ragnir|Fable Loki / Fake Ragnir]]
++- [[production/proposals/active/nidhoggr-creature|Nidhoggr Creature]]
++- [[production/proposals/active/burgess-mera-mera|Burgess Mera-Mera]]
++- [[production/proposals/active/sabo-earned-brotherhood|Sabo Earned Brotherhood]]
+ - [[production/proposals/active/may-weller|May Weller]]
+ - [[production/proposals/active/wci-without-germa|WCI Without Germa]]
+ - [[production/proposals/active/chopper-smile-blackbeard|Chopper, SMILE and Blackbeard]]
+diff --git a/production/lore/economy/gems.md b/production/lore/economy/gems.md
+index d642fff..f74e58e 100644
+--- a/production/lore/economy/gems.md
++++ b/production/lore/economy/gems.md
+@@ -57,4 +57,4 @@ An empty high-grade Gem can be stored long-term.
+ 
+ Maintaining Gems near maximum charge costs electricity, converters, inspection, security, leakage losses, and cycle life.
+ 
+-A four-century stockpile of crystals is not a four-century stockpile of electricity.
++A decades-long stockpile of crystals is not a decades-long stockpile of electricity.
+diff --git a/production/lore/factions/big-mom-pirates.md b/production/lore/factions/big-mom-pirates.md
+index c50dae0..f632063 100644
+--- a/production/lore/factions/big-mom-pirates.md
++++ b/production/lore/factions/big-mom-pirates.md
+@@ -91,7 +91,7 @@ The Charlotte state can improve stability and working conditions relative to cha
+ 
+ ## Competent does not mean sterile
+ 
+-A roughly four-century empire should have mature institutions.
++A mature imperial family-state should have real institutional memory.
+ 
+ It should also have:
+ 
+@@ -105,7 +105,7 @@ It should also have:
+ 
+ The Charlotte Empire is not a perfectly optimized strategy-game faction.
+ 
+-It is a family state that has been alive for centuries.
++It is a family state with enough history to accumulate habits, shortcuts, and doctrine.
+ 
+ A Biscuit Reserve batch that salutes backwards can coexist with terrifying battlefield logistics.
+ 
+@@ -113,7 +113,7 @@ See [[production/lore/factions/small-moments/charlotte-family/backwards-salute-b
+ 
+ ## Ritual and Final Service
+ 
+-Long-lived military culture produces ritual.
++Long-running military culture produces ritual.
+ 
+ Final Service therefore has ceremonial weight without being framed as morally heroic.
+ 
+diff --git a/production/lore/factions/charlotte-orchard.md b/production/lore/factions/charlotte-orchard.md
+index a5ab510..12d3d78 100644
+--- a/production/lore/factions/charlotte-orchard.md
++++ b/production/lore/factions/charlotte-orchard.md
+@@ -155,15 +155,15 @@ A frightening reveal can be that somebody thought the Charlottes spared them whe
+ 
+ ## Linlin's time horizon
+ 
+-Linlin is roughly four centuries old.
+-
+-Waiting years for a promising pirate to mature is emotionally easy for her in a way it is not for ordinary people.
++Linlin is willing to think in years when a promising soul is unusually valuable.
+ 
+ Her logic is simple:
+ 
+ > **do not harvest a promising soul before it matures**
+ 
+-Waiting can produce a stronger future weapon.
++Waiting can produce a stronger future weapon, but it also increases spoilage risk.
++
++The contested [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin]] version would make this patience even more extreme; the Orchard itself does not depend on that age.
+ 
+ ## Emperor friction
+ 
+diff --git a/production/lore/factions/revolutionary-army.md b/production/lore/factions/revolutionary-army.md
+index 2218640..b0206e6 100644
+--- a/production/lore/factions/revolutionary-army.md
++++ b/production/lore/factions/revolutionary-army.md
+@@ -52,6 +52,14 @@ Usopp learns how a weaker force manipulates what a stronger force thinks is true
+ 
+ They develop independently, meet later at base, and can travel back toward Sabaody together.
+ 
++## Koala
++
++[[production/characters/koala/overview|Koala]] is the current direction for Revolutionary Army #2.
++
++The rank should come from organizational experience, strategy, liberation work, trust, and field competence rather than being treated as a combat-power label.
++
++This direction originated with **firefox6663355 / Fox**.
++
+ ## Dragon and Sabo
+ 
+ Robin's presence creates space to develop Dragon and Sabo through actual work rather than lore dumps.
+diff --git a/production/lore/factions/world-government.md b/production/lore/factions/world-government.md
+index c95075c..43a078e 100644
+--- a/production/lore/factions/world-government.md
++++ b/production/lore/factions/world-government.md
+@@ -33,12 +33,27 @@ Over centuries it can absorb teachers, suppress hostile schools, restrict archiv
+ 
+ Haki survives in pockets.
+ 
+-## Linlin exemption
++## Linlin / Imu extension
+ 
+-A hidden Imu-level contract protects the Charlotte Empire from the full suppression pressure a centuries-long pirate state would ordinarily invite.
++No Linlin exemption contract is currently locked.
+ 
+-Linlin pays through a recurring soul obligation.
++If [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin]] survives, a soul-for-tolerance arrangement with Imu becomes one possible way to explain how an openly persistent imperial pirate state survives central suppression pressure.
+ 
+-Important:
++That proposal must not make Imu the author of Linlin's empire.
+ 
+-> **The Imu deal explains why the central Government tolerates her. It does not erase four centuries of consequences for everybody else.**
++## Poneglyph suppression
++
++The Government cannot simply destroy Poneglyphs.
++
++Its durable strategy is therefore to suppress the human infrastructure required to make them useful:
++
++- readers
++- scholars
++- teaching traditions
++- archives
++- research networks
++- access to high-danger stones
++
++This is a foundational Recharted world rule.
++
++See [[production/lore/history/poneglyphs|Poneglyphs]].
+diff --git a/production/lore/history/charlotte-imperial-footprint.md b/production/lore/history/charlotte-imperial-footprint.md
+index 1be25dc..8bd47f7 100644
+--- a/production/lore/history/charlotte-imperial-footprint.md
++++ b/production/lore/history/charlotte-imperial-footprint.md
+@@ -1,112 +1,22 @@
+ ---
+-type: history
+-status: draft
+-canon: true
+-aliases:
+-  - Charlotte Imperial Footprint
+-  - Four Hundred Years of Linlin
+-tags:
+-  - lore
+-  - history
+-  - charlotte
+-  - linlin
++type: proposal-pointer
++status: superseded
++canon: false
++aliases: [Charlotte Imperial Footprint]
++tags: [lore, history, charlotte, linlin, proposal]
+ ---
+-
+ # Charlotte Imperial Footprint
+ 
+-## Locked consequence
++This material used to be locked because Peak Piece previously locked a roughly four-hundred-year-old Linlin.
+ 
+-If [[production/characters/linlin/overview|Charlotte Linlin]] has been a major imperial pirate for roughly four centuries, the outside world must bear evidence of that fact.
++That age is now **contested**, not canon.
+ 
+-The Imu contract can explain why the central World Government does not commit to eliminating her.
++The historical-footprint requirement has moved into:
+ 
+-It cannot explain away four centuries of:
++- [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin / Immortal Soul Dynasty]]
+ 
+-- diplomacy
+-- war
+-- migration
+-- bloodlines
+-- trade
+-- military adaptation
+-- folklore
+-- institutional memory
++If the proposal is accepted, the central rule returns:
+ 
+ > **If Linlin is four centuries old, pay for it in world history.**
+ 
+-## Possible manifestations
+-
+-Useful traces can include:
+-
+-- obsolete anti-Charlotte forts that later became towns
+-- kingdoms that were once tributaries and later escaped
+-- old treaties still affecting borders or tariffs
+-- aristocratic branches with distant Charlotte ancestry
+-- naval doctrine written specifically around Homies / Charlotte warfare
+-- centuries-old merchant routes designed around Totto Land
+-- songs, folktales, children's warnings, or religious language about "Mama"
+-- maps whose historical borders reflect Charlotte wars
+-- diplomatic customs shaped by old Charlotte conflicts
+-- culinary / wedding / trade traditions inherited from Charlotte contact
+-- dusty Marine manuals describing how to fight the same woman still alive today
+-
+-The exact footprint should emerge where geography and story make it useful.
+-
+-## Anti-centralization warning
+-
+-Do **not** respond by making every old fort, family, recipe, kingdom, company, or historical war secretly about Linlin.
+-
+-The purpose is to make four centuries feel real, not create Charlotte Piece.
+-
+-Use enough scars that her longevity has weight.
+-
+-Leave unrelated history unrelated.
+-
+-## Institutional memory
+-
+-Some people may not emotionally process Linlin as an ordinary living individual.
+-
+-To them, "Mama" may function like:
+-
+-- a dynasty
+-- a permanent geopolitical feature
+-- a bogeywoman
+-- a trade institution
+-- a historical era
+-
+-Then they meet the literal same woman.
+-
+-That contrast can make her age feel uncanny.
+-
+-## Haki / technology constraint
+-
+-Linlin's age should not automatically make her the universal transmitter of every old technique.
+-
+-Her knowledge follows:
+-
+-- what her empire encountered
+-- what she cared about
+-- what specialists preserved
+-- what enemies concealed
+-- what information was destroyed
+-
+-Four hundred years creates experience, not omniscience.
+-
+-## Imu contract boundary
+-
+-The contract answers:
+-
+-> **Why has the World Government tolerated a centuries-long pirate empire?**
+-
+-It does **not** answer:
+-
+-> **Why did nobody else adapt to four centuries of Charlotte power?**
+-
+-The second question must be answered by the world itself.
+-
+-## Related
+-
+-- [[production/characters/linlin/overview|Charlotte Linlin]]
+-- [[production/characters/imu/relationships|Imu and Linlin]]
+-- [[production/lore/factions/world-government|World Government]]
+-- [[production/lore/factions/big-mom-pirates|Charlotte Empire]]
+-- [[production/lore/locations/totto-land|Totto Land]]
++Until then, do not treat centuries of Charlotte wars, treaties, cults, bloodlines, or Government tolerance as established Recharted history.
+diff --git a/production/lore/history/poneglyphs.md b/production/lore/history/poneglyphs.md
+new file mode 100644
+index 0000000..61aca81
+--- /dev/null
++++ b/production/lore/history/poneglyphs.md
+@@ -0,0 +1,113 @@
++---
++type: lore-system
++status: draft
++canon: true
++foundational: true
++aliases: [Poneglyphs, Poneglyph Suppression Doctrine]
++tags: [lore, history, void-century, poneglyph, foundational]
++---
++# Poneglyphs
++
++> **Foundational direction:** the World Government cannot solve the Poneglyph problem by destroying the stones.
++
++## Core problem
++
++If the World Government genuinely wants the Void Century erased, surviving public monuments need a reason to exist.
++
++Recharted's answer is structural:
++
++> **The stones are effectively indestructible to the Government.**
++
++Therefore the Government attacks the thing it **can** destroy:
++
++> **the ability to read, teach, study, reach, and connect them.**
++
++## Most stones are not permanently guarded
++
++There are too many Poneglyphs to place an elite army beside every one forever.
++
++Most can remain where history left them.
++
++Government suppression focuses on:
++
++- scholars
++- language traditions
++- archives
++- teaching chains
++- excavation / research
++- transport information
++- institutions capable of comparing multiple stones
++
++This makes Ohara-style suppression part of the actual containment strategy rather than an oddly indirect side policy.
++
++## High-danger stones
++
++Especially dangerous stones can receive stronger measures:
++
++- burial
++- sealing
++- military installations
++- restricted islands
++- proxy guardians
++- treaty control
++- access denial
++
++Road Poneglyphs are obvious candidates for exceptional containment because combining them creates a navigational route rather than isolated historical fragments.
++
++## The Government accidentally creates the pirate gauntlet
++
++People notice that certain indestructible stones attract absurd levels of secrecy and force.
++
++Rumors can grow organically:
++
++> guarded stones → forbidden route → hidden truth / treasure → pirate obsession
++
++The Government does **not** need to intentionally advertise a One Piece myth.
++
++Its own containment behavior makes the stones look important.
++
++The irony is that locking forbidden history into separate inaccessible pieces can help create the ultimate pirate challenge.
++
++## Roger / Pirate King
++
++Pirate King is not simply "the strongest pirate alive."
++
++Roger becomes Pirate King because he uniquely completes the distributed gauntlet:
++
++- survives the Grand Line
++- gains access to readers / deciphering
++- penetrates multiple political locks
++- acquires the necessary Road Poneglyph information
++- reaches the destination no other pirate reached
++
++This preserves room for other monsters to be older, stronger in a matchup, richer, or more territorially powerful without automatically becoming Pirate King.
++
++## God Valley
++
++A Poneglyph can be one strategic reason the Government values God Valley.
++
++It should **not** become the reason every independent character arrives there.
++
++Native Hunting, slaves, prizes, Rocks objectives, Roger, Garp, personal relationships, and other motives should remain independent where they already work.
++
++> **Use the Poneglyph to explain Government strategic value, not to compress every character's motive into one cause.**
++
++## Open implementation questions
++
++The foundation does **not** yet lock:
++
++- exact material composition
++- how difficult movement is
++- why dumping every movable stone into ocean/magma is not a complete solution
++- which exact stones the Government knows about
++- exact Road Poneglyph custody history
++
++Those questions need answers when the story reaches them.
++
++Do not silently invent universal rules only to close a spreadsheet early.
++
++## Related
++
++- [[production/FOUNDATIONS|Foundations]]
++- [[production/lore/history/void-century|Void Century]]
++- [[production/lore/factions/world-government|World Government]]
+diff --git a/production/lore/history/void-century.md b/production/lore/history/void-century.md
+index e58f540..d7ba253 100644
+--- a/production/lore/history/void-century.md
++++ b/production/lore/history/void-century.md
+@@ -18,6 +18,10 @@ Do not fill the Void Century with guesses merely because the folder exists.
+ 
+ Locked or near-locked ideas should be added only as they become part of the rewrite.
+ 
++## Poneglyph containment
++
++The foundational suppression architecture lives in [[production/lore/history/poneglyphs|Poneglyphs]]. The Government cannot simply destroy the stones, so it attacks access to meaning.
++
+ ## Related
+ 
+ - [[production/lore/timeline|Timeline]]
+diff --git a/production/lore/locations/totto-land.md b/production/lore/locations/totto-land.md
+index eb6ef0e..53b169f 100644
+--- a/production/lore/locations/totto-land.md
++++ b/production/lore/locations/totto-land.md
+@@ -22,7 +22,7 @@ Do not use the two names interchangeably when geography matters.
+ 
+ ## Function
+ 
+-Peak Totto Land should feel like the center of a centuries-old imperial family state.
++Peak Totto Land should feel like the center of a lived-in imperial family state rather than a candy-themed boss lobby.
+ 
+ It should have:
+ 
+@@ -43,17 +43,11 @@ Not every citizen should exist only to sing about candy.
+ 
+ Totto Land is Linlin's project.
+ 
+-The Imu contract does not create it.
++Its family structure, soul economy, food production, military infrastructure, trade, and internal politics are hers.
+ 
+-Linlin is already constructing the family-state and already has independent reasons to use soul material.
++The current canon version does not require an Imu contract to create or sustain the state.
+ 
+-Imu's contribution is political space:
+-
+-a hidden arrangement that makes the World Government tolerate expansion it would otherwise have stronger incentives to crush.
+-
+-That immunity lets Linlin refine the project for centuries.
+-
+-See [[production/characters/linlin/relationships|Linlin and Imu]].
++If [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin]] survives, a long-term Government-tolerance contract becomes a possible extension rather than Totto Land's origin.
+ 
+ ## Orchard support
+ 
+diff --git a/production/lore/timeline.md b/production/lore/timeline.md
+index 697450a..5f6c010 100644
+--- a/production/lore/timeline.md
++++ b/production/lore/timeline.md
+@@ -16,7 +16,7 @@ Do not guess dates when we have not locked them.
+ - Void Century
+ - post-flood Gem consolidation
+ - early World Government
+-- Linlin and Imu contract era
++- possible ancient-Linlin / Imu contract era — contested, see [[production/proposals/active/ancient-linlin-soul-dynasty|proposal]]
+ - Fisher Tiger liberation era
+ - Whitebeard Fishman protection era
+ - Roger era / Haki rediscovery
+diff --git a/production/proposals/README.md b/production/proposals/README.md
+index 8bf5fd3..10c3f79 100644
+--- a/production/proposals/README.md
++++ b/production/proposals/README.md
+@@ -13,3 +13,14 @@ Use this area to discuss changes before they are merged into authoritative files
+ There is intentionally no permanent "accepted" folder.
+ 
+ If an idea is accepted, update the real canon files.
++
++
++## Decision states
++
++Major directions can move through:
++
++> **Draft → Contested → Converging → Locked**
++
++A contested proposal is not rejected. It is a direction with unresolved disagreement that should be developed before final comparison.
++
++A foundation is not stored here merely because somebody disagrees with it; foundations are documented in [[production/FOUNDATIONS|Foundations]].
+diff --git a/production/proposals/active/ancient-linlin-soul-dynasty.md b/production/proposals/active/ancient-linlin-soul-dynasty.md
+new file mode 100644
+index 0000000..d7af021
+--- /dev/null
++++ b/production/proposals/active/ancient-linlin-soul-dynasty.md
+@@ -0,0 +1,187 @@
++---
++type: proposal
++status: contested
++canon: false
++author: Nathan
++aliases: [Ancient Linlin, 400 Year Linlin, Immortal Soul Dynasty]
++tags: [proposal, linlin, soul, totto-land, contested]
++---
++# Proposal: Ancient Linlin / Immortal Soul Dynasty
++
++This proposal is **not Recharted canon**.
++
++The current canon Linlin files preserve the Orchard, competent imperial motherhood, soul weapons, Pudding harvest work, Totto Land, and Soul Feast without requiring her to be roughly four hundred years old.
++
++The question here is not "canon Linlin is bad."
++
++The question is:
++
++> **What if the lifespan implications of the Soul-Soul Fruit were followed for centuries?**
++
++## Core premise
++
++Linlin is roughly four hundred years old.
++
++Recharted extends the Soul-Soul Fruit so stolen lifespan can be used to maintain / extend Linlin and selected members of her dynasty.
++
++This is a **rewrite extension**, not a canon fact.
++
++## Longevity must get more expensive
++
++Longevity is not free immortality.
++
++Lifespan conversion is **lossy**.
++
++The older a recipient becomes, the less efficiently outside lifespan maintains them.
++
++Therefore:
++
++> **The longer Linlin lives, the more souls/lifespan she needs merely to keep living.**
++
++And because the project is a **dynasty**, not only one immortal woman:
++
++> **The longer the Charlotte dynasty preserves its oldest members, the more total soul income the family needs simply to sustain the dynasty it already has.**
++
++This creates compounding pressure.
++
++A century of success does not make the system cheaper. It makes the maintenance bill larger.
++
++The empire therefore has a structural reason to keep expanding its soul base even if its territorial ambitions stop growing.
++
++## Two supply routes
++
++The existing soul rules support two morally different but mechanically related routes.
++
++### Fear
++
++Coerced extraction.
++
++People surrender lifespan because Charlotte power can take it.
++
++### Conviction
++
++Voluntary donation.
++
++Some subjects can sincerely give lifespan to Mama, the family, or the state because they believe the dynasty protected their grandparents, parents, and themselves.
++
++This can create a genuine cult without making Linlin a literal god.
++
++## The feedback loop
++
++A possible loop:
++
++> survives centuries → becomes legend → devotion grows → voluntary supply grows → survives longer
++
++But aging efficiency gets worse at the same time.
++
++The political system therefore races against its own longevity cost.
++
++If a territory or generation stops loving Mama, Linlin experiences all of these at once:
++
++- emotional rejection
++- legitimacy crisis
++- resource crisis
++- dynasty-maintenance crisis
++
++That gives her possessive maternal psychology material consequences.
++
++> **Why don't they love Mama anymore?**
++
++can become both emotional wound and imperial emergency.
++
++## Totto Land
++
++If accepted, Totto Land becomes a centuries-developed family state whose soul economy increasingly exists to maintain:
++
++- Linlin
++- selected long-lived family members
++- military soul systems
++- Orchard harvests
++- ordinary state functions
++
++Do not turn every citizen into a battery or every institution into a soul farm.
++
++The point is pressure, not one-note dystopia.
++
++## The historical bill
++
++If Linlin is four centuries old, the world must visibly pay for that premise.
++
++Possible evidence:
++
++- obsolete anti-Charlotte forts that became towns
++- kingdoms that were tributaries and later escaped
++- old treaties still shaping tariffs / borders
++- distant Charlotte bloodlines
++- anti-Homie / anti-soul military doctrine
++- merchant routes built around Totto Land
++- songs, warnings, cult language, and folklore about Mama
++- historical maps distorted by Charlotte wars
++- Marine manuals describing how to fight the same woman who is still alive
++
++Do **not** make every old event secretly about Linlin.
++
++The goal is historical weight, not Charlotte Piece.
++
++## Pirate King problem
++
++Linlin's age must not automatically make her Pirate King.
++
++Pirate King is not "oldest / strongest pirate."
++
++Roger's title should come from completing the Poneglyph/end-of-world gauntlet and reaching the destination no one else did.
++
++Linlin's goals are empire, family, territory, longevity, soul wealth, and control.
++
++If accepted, she also needs a cultural/historical title of her own. Working possibilities include:
++
++- Eternal Matriarch
++- Mama of the Sea
++- Old Mother
++- Queen Who Does Not Die
++
++None are locked.
++
++## Rocks / Kaido / Roger test
++
++This proposal fails if making Linlin ancient makes the Rocks / Kaido / Roger era emotionally flatter.
++
++The rewrite must show why those people and that era matter **despite** Linlin already having centuries behind her.
++
++If it cannot, the age should die.
++
++## Imu extension
++
++An Imu contract can become an optional consequence of this proposal rather than the reason the proposal exists.
++
++Possible form:
++
++- Imu's system already exists independently
++- Linlin's empire produces unusually coherent soul material
++- Government tolerance gives Linlin political room
++- Linlin pays a recurring soul obligation
++
++Linlin must remain the author of her own empire.
++
++Do not defend ancient Linlin primarily as an Imu fix.
++
++## Brook extension
++
++If this proposal survives, [[production/proposals/active/brook-ancient-linlin-extension|Brook as an old Charlotte/Orchard victim]] becomes chronologically possible.
++
++That extension is separately contested.
++
++Ancient Linlin does not automatically force Brook into it.
++
++## What survives if this proposal loses
++
++- The Orchard
++- soul quality / yield / compatibility / bruising
++- Pudding harvest work
++- Linlin as competent imperial matriarch
++- Totto Land
++- Final Service
++- Soul Feast
++- Linlin's genuine love + possession contradiction
++
++Losing the age should not collapse the entire Charlotte rewrite.
+diff --git a/production/proposals/active/brook-ancient-linlin-extension.md b/production/proposals/active/brook-ancient-linlin-extension.md
+new file mode 100644
+index 0000000..17ec713
+--- /dev/null
++++ b/production/proposals/active/brook-ancient-linlin-extension.md
+@@ -0,0 +1,57 @@
++---
++type: proposal
++status: contested
++canon: false
++author: Nathan
++aliases: [Brook Linlin Extension, Brook Orchard Victim]
++tags: [proposal, brook, linlin, orchard, contested]
++---
++# Proposal: Brook as an Ancient Linlin / Orchard Victim
++
++This is **not part of foundational Brook**.
++
++It only becomes chronologically possible if [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin]] survives.
++
++## Direction
++
++Roughly fifty years before the main story, Brook's own pirate crew becomes valuable enough to attract Charlotte/Orchard attention.
++
++The causal chain is institutional rather than coincidence:
++
++> significant pirate crew → Charlotte intelligence evaluates them → Orchard system marks them → high-value harvest operation
++
++Pudding / Charlotte harvest specialists prepare the crew.
++
++The crew is eventually turned into soul weapons.
++
++## Brook's Yomi-Yomi complication
++
++Before Brook's resurrection has occurred, the Yomi-Yomi no Mi has a claim on his soul's postmortem return.
++
++Proposed narrow rule:
++
++> **Before the destined resurrection, Brook's soul cannot be permanently severed into a finished Charlotte weapon.**
++
++This is not generic immunity after resurrection.
++
++Repeated harvest failure can make Brook unusually knowledgeable about souls before Linlin finally kills him and his Fruit returns him later.
++
++## Potential payoff
++
++If accepted, this can explain:
++
++- why mention of Linlin can break Brook's normal comedic rhythm
++- why his soul knowledge is unusually practical
++- why Soul Feast interactions with loose soul material matter personally
++- why his dead-promises arc has one wound he cannot reduce to a logbook
++
++## Failure conditions
++
++Reject or rewrite this extension if it:
++
++- makes Brook's foundational dead-promises arc dependent on Linlin
++- makes the world feel smaller rather than causally connected
++- requires Ancient Linlin to survive only to save Brook's backstory
++- turns every important old pirate into a Charlotte victim
++
++Brook remains Peak Brook if this entire proposal is deleted.
+diff --git a/production/proposals/active/burgess-mera-mera.md b/production/proposals/active/burgess-mera-mera.md
+new file mode 100644
+index 0000000..4abbea3
+--- /dev/null
++++ b/production/proposals/active/burgess-mera-mera.md
+@@ -0,0 +1,31 @@
++---
++type: proposal
++status: active
++canon: false
++author: firefox6663355 / Fox
++aliases: [Burgess Flame-Flame, Burgess Mera-Mera]
++tags: [proposal, burgess, mera-mera, dressrosa]
++---
++# Proposal: Burgess Gets the Mera-Mera no Mi
++
++Author: **firefox6663355 / Fox**
++
++## Direction
++
++Instead of Sabo inheriting Ace's Fruit, Jesus Burgess obtains the Mera-Mera no Mi.
++
++Nathan currently prefers this direction, but the exact Dressrosa scenario is not finished enough to lock.
++
++## Why explore it
++
++- avoids turning Sabo into an Ace replacement through the same power
++- gives the Blackbeard Pirates a symbol that is personally intolerable to Luffy
++- makes a future Burgess conflict emotionally specific rather than only factional
++- lets Ace's legacy remain contested rather than neatly returned to Luffy's side
++
++## Open work
++
++- exactly how Burgess wins / steals / receives the Fruit
++- what Luffy can reasonably do in Dressrosa
++- what this changes about Sabo's entrance and combat identity
++- when the emotional payoff happens
+diff --git a/production/proposals/active/loki-fable-fake-ragnir.md b/production/proposals/active/loki-fable-fake-ragnir.md
+new file mode 100644
+index 0000000..b8e89df
+--- /dev/null
++++ b/production/proposals/active/loki-fable-fake-ragnir.md
+@@ -0,0 +1,98 @@
++---
++type: proposal
++status: active
++canon: false
++author: Nathan
++aliases: [Fable Loki, Fake Ragnir, Loki Fable Fruit]
++tags: [proposal, loki, elbaf, devil-fruit, ragnir]
++---
++# Proposal: Fable Loki and the Fake Ragnir
++
++## What this replaces
++
++An earlier direction used **Ragnir** as a Ratatoskr + Mjolnir concept:
++
++> Loki's hammer ate a squirrel Zoan.
++
++This proposal deletes that literal creature-weapon.
++
++It also avoids simply giving Loki another giant Mythical Zoan dragon package.
++
++## Fable-Fable Fruit
++
++### Unawakened
++
++A lie Loki tells can become true when other people **genuinely believe** it.
++
++The Fruit does not reward somebody politely pretending to believe him.
++
++Belief has to be real enough to change the world.
++
++### Awakened
++
++Loki's own genuine belief can alter reality.
++
++Hard rule:
++
++> **Loki cannot choose what he believes. He can only make reality follow something he genuinely accepts as true.**
++
++If he knows he is pretending, nothing happens.
++
++## The fake hammer
++
++Loki's hammer is not the real divine Ragnir / Mjolnir.
++
++It begins as an ordinary or fake hammer.
++
++Loki convinces people that it **is** the legendary weapon.
++
++Their belief gives the lie enough reality that the fake hammer becomes capable of doing what the myth says the real one should do.
++
++The delicious part is that the weapon can become functionally real **because the fake convinced the world it was real**.
++
++This makes the hammer an expression of Loki's core power rather than a second unrelated gimmick.
++
++## Blindness direction
++
++Loki's removed eyes can connect to belief mechanics.
++
++Direct sensory contradiction is a powerful source of doubt.
++
++Removing sight can become a deliberate sacrifice that reduces the amount of reality constantly telling him:
++
++> **that thing you believe is false**
++
++The Odin parallel is useful, but the story should make the choice belong to Loki rather than merely checking a mythology box.
++
++## Weakness
++
++Information can hurt Loki.
++
++If an opponent can make Loki genuinely believe that he is:
++
++- bleeding
++- trapped
++- losing
++- unable to perform something
++
++his own power can make that belief dangerous.
++
++This creates a natural Usopp information/deception battle without requiring Usopp to overpower Loki physically.
++
++## Overlap risk
++
++The concept needs enough constraints to avoid feeling like generic reality warping or a copy of other belief/comedy powers.
++
++The "cannot choose belief" rule is the current core constraint.
++
++Exact scope, duration, number of simultaneous beliefs, contradiction behavior, and awakening limits remain open.
++
++## Nidhoggr
++
++[[production/proposals/active/nidhoggr-creature|Nidhoggr]] should remain a separate creature/ecology direction rather than being forced into Loki's Fruit.
++
++A useful Elbaf split is:
++
++- **Loki = lies / belief**
++- **mythic animal messengers = information**
++- **Nidhoggr = physical mythology / ecology**
+diff --git a/production/proposals/active/nidhoggr-creature.md b/production/proposals/active/nidhoggr-creature.md
+new file mode 100644
+index 0000000..d1146fc
+--- /dev/null
++++ b/production/proposals/active/nidhoggr-creature.md
+@@ -0,0 +1,36 @@
++---
++type: proposal
++status: active
++canon: false
++author: CerezaVeneris
++aliases: [Nidhoggr Creature Direction]
++tags: [proposal, elbaf, nidhoggr, mythology, creature]
++---
++# Proposal: Nidhoggr as an Actual Creature
++
++Author: **CerezaVeneris**
++
++## Direction
++
++Nidhoggr exists as a physical mythological creature / Elbaf ecological horror rather than being reduced to "Loki has another dragon Zoan."
++
++Current visual direction:
++
++- European mole-like skull / head language
++- subterranean, predatory body plan
++- modified wing-arms functioning as digging limbs rather than standard flight wings
++- enormous even by giant standards, but not lazy island-scale escalation
++- roots / underground relationship to Yggdrasil
++- visual influence from burrowing monster designs rather than another Kaido silhouette
++
++## Mythology
++
++Nidhoggr's association with roots, corpses, darkness, Hel / Niflheim, and gnawing beneath the world tree can inform ecology and abilities.
++
++Cold / ice remains an attractive possibility, not a locked checklist item.
++
++## Separation from Loki
++
++This proposal pairs naturally with [[production/proposals/active/loki-fable-fake-ragnir|Fable Loki]].
++
++Keeping Nidhoggr physically separate lets Loki's power remain about belief while the mythological creature can have its own ecology, scale, and story function.
+diff --git a/production/proposals/active/sabo-earned-brotherhood.md b/production/proposals/active/sabo-earned-brotherhood.md
+new file mode 100644
+index 0000000..c8cda5a
+--- /dev/null
++++ b/production/proposals/active/sabo-earned-brotherhood.md
+@@ -0,0 +1,48 @@
++---
++type: proposal
++status: contested
++canon: false
++author: Nathan
++aliases: [Sabo Earned Brotherhood]
++tags: [proposal, sabo, dragon, revolutionary-army, contested]
++---
++# Proposal: Sabo Earns Brotherhood Onscreen
++
++This proposal keeps Sabo alive but removes the retroactive secret third-brother / noble-childhood insertion.
++
++It remains contested.
++
++## Direction
++
++Dragon rescues an orphaned Sabo during Revolutionary activity.
++
++Sabo grows up inside the Revolutionary Army and jokingly treats Dragon as his father.
++
++Dragon mostly refuses to indulge the bit.
++
++When Sabo later learns that Luffy is Dragon's biological son, his conclusion is immediate and ridiculous:
++
++> **Oh shit. I have a brother now.**
++
++Luffy does not agree.
++
++Robin can tell Luffy about Dragon's adopted son during / after the timeskip.
++
++When they finally meet, Sabo claims brotherhood and Luffy responds more like:
++
++> **You're that idiot Robin told me about. You're not my brother.**
++
++The relationship then has to become real through shared action.
++
++## Why explore it
++
++- preserves Sabo as a Revolutionary character with useful plot functions
++- removes retroactive ASL childhood insertion
++- makes brotherhood something built in the present
++- gives Dragon/Sabo an actual parent-child texture
++
++## Conflict
++
++Some collaborators prefer Sabo to remain dead / preserve canon ASL history.
++
++Do not treat this proposal as locked until the room resolves that direction.
+diff --git a/production/story-notes/death-and-fakeout-direction.md b/production/story-notes/death-and-fakeout-direction.md
+new file mode 100644
+index 0000000..d0a9ec4
+--- /dev/null
++++ b/production/story-notes/death-and-fakeout-direction.md
+@@ -0,0 +1,32 @@
++---
++type: story-planning
++status: draft
++canon: false
++aliases: [Death and Fakeout Direction]
++tags: [story-planning, death, fakeout]
++---
++# Death and Fakeout Direction
++
++## Principle
++
++If a scene is written and emotionally staged as a death, do not casually erase the consequence afterward.
++
++This is not a mandate to kill characters for grit.
++
++It is a mandate to stop using fake death as free emotion.
++
++## Locked / strong directions
++
++- **Pell dies.** The sacrifice keeps the consequence it was written to have.
++- **Pound dies.** Do not convert the emotional beat into another survival reveal.
++
++## Open
++
++- **Bon Clay:** unresolved. Do not lock survival/death merely to preserve a later clone mechanic.
++- **Kin'emon:** current preference is that he returns to Wano with purpose and eventually dies for real, but exact timing remains story work.
++
++## Standard
++
++A death should change relationships, information, leadership, grief, logistics, or future decisions.
++
++Do not preserve a character solely because the setting has historically preserved people after apparent death.
+diff --git a/production/systems/gems.md b/production/systems/gems.md
+index 3261f02..a53f638 100644
+--- a/production/systems/gems.md
++++ b/production/systems/gems.md
+@@ -85,6 +85,30 @@ Stored energy can be drawn by:
+ - a purpose-built machine / converter
+ - destructive rupture or catastrophic overdraw, producing an explosion at the cost of the Gem
+ 
++## Strategic jurisdiction
++
++Gems are **external strategic reserves for extreme, sustained, infrastructure-scale, or military output**.
++
++They are not the explanation for ordinary supernatural action.
++
++Luffy stretching, Robin making limbs, normal fire/string use, ordinary Haki, and routine Devil Fruit combat do not need a Gem accounting pass.
++
++Start asking about external reserve support when a feat begins affecting:
++
++- armies
++- islands
++- infrastructure
++- repeated strategic-scale output
++- sustained military logistics
++
++Examples include army-scale Mirror World transport, unusually sustained Kuzan-scale freezing, repeated massive gravity operations, island-lifting endurance, or emergency machine overdrive.
++
++> **Gems do not create the limit. They let a user temporarily push past a normal sustainable limit.**
++
++Production stopping rule:
++
++> **Audit the miracle when its scale creates strategic consequences. Leave ordinary spectacle alone.**
++
+ ## Grade is multidimensional
+ 
+ Do not reduce Gem quality to one number.
+diff --git a/production/systems/soul-system.md b/production/systems/soul-system.md
+index 6eed7f5..f196ea7 100644
+--- a/production/systems/soul-system.md
++++ b/production/systems/soul-system.md
+@@ -190,11 +190,11 @@ Linlin personally refers to completed weapons as **toys**.
+ 
+ ## Lifespan extension
+ 
+-Linlin can use soul material to extend lifespan.
++Canon establishes lifespan extraction and transfer into other vessels, but Recharted does **not** currently lock stolen-lifespan self-extension for Linlin.
+ 
+-This is part of how she and parts of her family have survived for centuries.
++That extension belongs to [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin / Immortal Soul Dynasty]].
+ 
+-The exact efficiency and upper limits remain open.
++If accepted, conversion is lossy and becomes increasingly inefficient with recipient age, so the older Linlin and preserved dynasty become, the more external lifespan the system needs merely to maintain them.
+ 
+ ## Final Service
+ 
+diff --git a/project.json b/project.json
+index ec5f81f..fbe3147 100644
+--- a/project.json
++++ b/project.json
+@@ -1,6 +1,6 @@
+ {
+   "name": "Peak Piece",
+-  "version": 8,
++  "version": 10,
+   "canon_roots": [
+     "systems",
+     "characters",
+@@ -20,7 +20,8 @@
+   "contributors": [
+     "Nathaniel Bonolo",
+     "CerezaVeneris",
+-    "Remmkoe"
++    "Remmkoe",
++    "firefox6663355 / Fox"
+   ],
+-  "latest_lock": "V8 - reader/production split, Gem clarification, three-ceiling model, contradiction/continuity doctrine, full Hordy backstory and letters"
++  "latest_lock": "V10 - reimagining philosophy, disclosed foundations, Brook and Poneglyph foundations, ancient Linlin moved to contested"
+ }
+diff --git a/story/sagas/soul-feast/arcs/soul-feast/arc.md b/story/sagas/soul-feast/arcs/soul-feast/arc.md
+index 7c81fb6..1d54cb1 100644
+--- a/story/sagas/soul-feast/arcs/soul-feast/arc.md
++++ b/story/sagas/soul-feast/arcs/soul-feast/arc.md
+@@ -193,7 +193,7 @@ Seed mirrors can spread the local network after the army arrives.
+ 
+ Perospero is a combat engineer and infrastructure chief.
+ 
+-His candy is useful because a centuries-old military officer with instant hardening material would obviously find infrastructure uses for it.
++His candy is useful because a veteran military officer with instant hardening material would obviously find infrastructure uses for it.
+ 
+ He can create:
+ 
+@@ -406,7 +406,7 @@ Charlotte soldiers may voluntarily donate lifespan late in the war.
+ 
+ This is **not** framed as heroic martyrdom.
+ 
+-It is wartime survival calculus inside a centuries-old culture.
++It is wartime survival calculus inside a military culture that has normalized lifespan as something people can spend.
+ 
+ A soldier may have forty expected years left.
+ 

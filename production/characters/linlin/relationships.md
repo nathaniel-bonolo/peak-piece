@@ -32,33 +32,24 @@ These are not all locked dialogue.
 
 ## Katakuri
 
-Katakuri is a centuries-old commander trusted to act autonomously.
+Katakuri is a veteran commander trusted to act autonomously.
 
 Linlin does not micromanage every battlefield decision.
 
 ## Imu
 
-The relationship is contractual, strategic, and load-bearing.
+No Linlin/Imu contract is currently locked into Linlin's canon relationships.
 
-The important order is:
+If [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin]] survives, a recurring soul-for-tolerance contract becomes one possible extension.
+
+That version must preserve the ordering:
 
 1. Linlin is already Linlin.
-2. She is already building the state that becomes Totto Land.
-3. She already has independent reasons to value souls: longevity, Homies, weapons, family/state power.
-4. Imu offers something the World Government can uniquely provide: long-term tolerance / immunity from the level of suppression that would normally target a growing pirate empire.
-5. Linlin pays for that freedom with a recurring soul obligation.
+2. Linlin is already building her own family-state.
+3. Linlin already has independent reasons to value souls.
+4. Imu can change the environment around her; he does not author her identity.
 
-The contract therefore **shapes** an extraction economy that already has reasons to exist.
-
-It does not create Linlin's personality or author the Charlotte Empire.
-
-Without the contract, the story immediately has to answer why the World Government tolerated roughly four centuries of expansion without escalating to existential suppression.
-
-That makes the connection causal rather than trivia.
-
-Current working continuity still allows Imu to have arranged or influenced Linlin's access to the Soul-Soul Fruit, but that detail should not become "Imu created Big Mom."
-
-Linlin fears Imu because she understands the cost of breaking the contract, not because she is secretly his subordinate in every part of her life.
+See the proposal rather than treating this relationship as established canon.
 
 ## Related
 

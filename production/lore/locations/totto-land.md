@@ -22,7 +22,7 @@ Do not use the two names interchangeably when geography matters.
 
 ## Function
 
-Peak Totto Land should feel like the center of a centuries-old imperial family state.
+Peak Totto Land should feel like the center of a lived-in imperial family state rather than a candy-themed boss lobby.
 
 It should have:
 
@@ -43,17 +43,11 @@ Not every citizen should exist only to sing about candy.
 
 Totto Land is Linlin's project.
 
-The Imu contract does not create it.
+Its family structure, soul economy, food production, military infrastructure, trade, and internal politics are hers.
 
-Linlin is already constructing the family-state and already has independent reasons to use soul material.
+The current canon version does not require an Imu contract to create or sustain the state.
 
-Imu's contribution is political space:
-
-a hidden arrangement that makes the World Government tolerate expansion it would otherwise have stronger incentives to crush.
-
-That immunity lets Linlin refine the project for centuries.
-
-See [[production/characters/linlin/relationships|Linlin and Imu]].
+If [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin]] survives, a long-term Government-tolerance contract becomes a possible extension rather than Totto Land's origin.
 
 ## Orchard support
 

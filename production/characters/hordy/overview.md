@@ -7,6 +7,8 @@ tags: [character, fishman-island]
 ---
 # Hordy Jones
 
+> **Foundational direction:** Recharted intentionally gives Hordy the Devil's Hand thesis rather than using him as canon's pure inherited-hatred vehicle. See [[production/FOUNDATIONS|Foundations]].
+
 ## Core
 
 > **If somebody is going to hurt us anyway, I should control how much it hurts.**

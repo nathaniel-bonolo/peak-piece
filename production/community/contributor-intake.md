@@ -7,6 +7,8 @@ tags: [community, contributors, workflow]
 ---
 # Contributor Intake
 
+Before assigning work, make sure the newcomer has seen [[production/FOUNDATIONS|Foundations]]. Recharted is broader than the original post-timeskip repair premise, and nobody should discover that only after contributing substantial work.
+
 Do not invent a formal title the moment somebody joins the writers' room.
 
 If a new collaborator already has rewrite notes, videos, chapter work, research, or critiques, read the work first.

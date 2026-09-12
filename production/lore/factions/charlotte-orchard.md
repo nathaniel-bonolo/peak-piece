@@ -155,15 +155,15 @@ A frightening reveal can be that somebody thought the Charlottes spared them whe
 
 ## Linlin's time horizon
 
-Linlin is roughly four centuries old.
-
-Waiting years for a promising pirate to mature is emotionally easy for her in a way it is not for ordinary people.
+Linlin is willing to think in years when a promising soul is unusually valuable.
 
 Her logic is simple:
 
 > **do not harvest a promising soul before it matures**
 
-Waiting can produce a stronger future weapon.
+Waiting can produce a stronger future weapon, but it also increases spoilage risk.
+
+The contested [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin]] version would make this patience even more extreme; the Orchard itself does not depend on that age.
 
 ## Emperor friction
 

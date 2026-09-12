@@ -1,6 +1,6 @@
 {
   "name": "Peak Piece",
-  "version": 8,
+  "version": 10,
   "canon_roots": [
     "systems",
     "characters",
@@ -20,7 +20,8 @@
   "contributors": [
     "Nathaniel Bonolo",
     "CerezaVeneris",
-    "Remmkoe"
+    "Remmkoe",
+    "firefox6663355 / Fox"
   ],
-  "latest_lock": "V8 - reader/production split, Gem clarification, three-ceiling model, contradiction/continuity doctrine, full Hordy backstory and letters"
+  "latest_lock": "V10 - reimagining philosophy, disclosed foundations, Brook and Poneglyph foundations, ancient Linlin moved to contested"
 }

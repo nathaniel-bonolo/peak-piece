@@ -67,7 +67,13 @@ Later arcs:
 - [[production/characters/pudding/overview|Charlotte Pudding]]
 - [[production/characters/katakuri/overview|Charlotte Katakuri]]
 - [[production/characters/sanji/overview|Sanji]]
+- [[production/characters/brook/overview|Brook]]
+- [[production/characters/koala/overview|Koala]]
 - [[production/characters/imu/overview|Imu]]
+
+## Foundations
+
+Some character directions define the adaptation rather than living as ordinary proposals. See [[production/FOUNDATIONS|Foundations]] for Luffy, Hordy, and Brook.
 
 ## Related
 

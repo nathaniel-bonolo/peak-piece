@@ -13,6 +13,8 @@ tags:
 
 # Monkey D. Luffy
 
+> **Foundational direction:** Luffy meaningfully develops across Recharted. See [[production/FOUNDATIONS|Foundations]].
+
 ## Core
 
 Luffy remains joyful, impulsive, hungry, funny, intuitive, stubborn, and absurd.

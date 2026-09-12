@@ -23,7 +23,7 @@ Peak Piece wants the supernatural toolkit to express one coherent character idea
 
 ## Peak Piece response
 
-Peak Imu's core is deferred consequence: avoid costs now, transfer them through valid contracts/souls, and force somebody else to pay later. Linlin's contract is one expression.
+Peak Imu's core is deferred consequence: avoid costs now, transfer them through valid contracts/souls, and force somebody else to pay later. The system must stand independently of any Linlin connection.
 
 ## Why this solution
 
@@ -52,20 +52,18 @@ Do not overdefine Imu too early. Contract limits stay open until the endgame is 
 
 See [[production/references/canon/source-policy|Canon Audit Source Policy]].
 
-## Linlin connection test
+## Linlin extension test
 
-The Linlin relationship must remain causal rather than connective fanservice.
+A Linlin relationship is no longer assumed.
 
-Remove a bad lore connection and almost nothing changes.
+If [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin]] survives, a soul-for-tolerance contract can be tested as an extension.
 
-Remove this contract and major questions reopen:
+It only passes if:
 
-- why does the World Government tolerate a four-century pirate empire?
-- what does Linlin owe for that immunity?
-- why does Imu accept her continued expansion?
-- how does an external soul obligation reshape an economy Linlin already wants?
-
-The contract passes the connection test only as long as Linlin remains the author of her own empire.
+- Imu's system already works without her
+- Linlin remains the author of her own empire
+- the exchange creates real obligations on both sides
+- the connection answers more than "these two villains are important"
 
 ## Failure mode
 

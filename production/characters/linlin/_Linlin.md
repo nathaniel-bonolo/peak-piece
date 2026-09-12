@@ -26,3 +26,7 @@ tags: [moc, character, linlin]
 - [[production/systems/soul-system|Soul System]]
 - [[production/lore/factions/big-mom-pirates|Charlotte Empire]]
 - [[production/lore/locations/totto-land|Totto Land]]
+
+## Contested extension
+
+- [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin proposal]]

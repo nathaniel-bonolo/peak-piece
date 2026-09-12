@@ -190,11 +190,11 @@ Linlin personally refers to completed weapons as **toys**.
 
 ## Lifespan extension
 
-Linlin can use soul material to extend lifespan.
+Canon establishes lifespan extraction and transfer into other vessels, but Recharted does **not** currently lock stolen-lifespan self-extension for Linlin.
 
-This is part of how she and parts of her family have survived for centuries.
+That extension belongs to [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin / Immortal Soul Dynasty]].
 
-The exact efficiency and upper limits remain open.
+If accepted, conversion is lossy and becomes increasingly inefficient with recipient age, so the older Linlin and preserved dynasty become, the more external lifespan the system needs merely to maintain them.
 
 ## Final Service
 

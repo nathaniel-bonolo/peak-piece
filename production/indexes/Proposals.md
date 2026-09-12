@@ -6,6 +6,12 @@ tags: [moc, proposals]
 
 ## Active
 
+- [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin / Immortal Soul Dynasty]]
+- [[production/proposals/active/brook-ancient-linlin-extension|Brook / Ancient Linlin Extension]]
+- [[production/proposals/active/loki-fable-fake-ragnir|Fable Loki / Fake Ragnir]]
+- [[production/proposals/active/nidhoggr-creature|Nidhoggr Creature]]
+- [[production/proposals/active/burgess-mera-mera|Burgess Mera-Mera]]
+- [[production/proposals/active/sabo-earned-brotherhood|Sabo Earned Brotherhood]]
 - [[production/proposals/active/may-weller|May Weller]]
 - [[production/proposals/active/wci-without-germa|WCI Without Germa]]
 - [[production/proposals/active/chopper-smile-blackbeard|Chopper, SMILE and Blackbeard]]

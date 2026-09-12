@@ -3,7 +3,7 @@ type: character-abilities
 status: draft
 canon: true
 aliases:
-  - "Imu Abilities"
+  - Imu Abilities
 tags:
   - character
   - imu
@@ -22,7 +22,7 @@ If Imu's leg is broken, he can defer the consequence.
 
 The injury does not disappear.
 
-As he continues to use the leg, the unpaid consequence accumulates interest.
+As he continues to use the leg, the unpaid consequence accumulates.
 
 Eventually the consequence must be paid.
 
@@ -35,23 +35,43 @@ Possible destinations include:
 
 The exact transfer rules still need to be locked.
 
-## Contracts
+## Contract rules
 
-Contracts create additional routes for consequence and control.
+The current direction is intentionally stricter than generic magical fine print.
 
-A severe contract violation may allow Imu to seize the violator's body.
+A valid contract requires:
 
-This is the current explanation direction for Rocks being "Domi Reversed."
+- both parties voluntarily agree
+- both parties understand the terms and conditions they are agreeing to
+- neither side lies about the agreement
+- each promised action is actually within the promisor's known capability
+- both parties are bound
+- the consequence for breach is whatever the contract explicitly establishes
 
-## Linlin connection
+Imu must uphold his side too.
 
-Linlin supplies high-quality soul material that Imu can use as consequence sinks.
+A contract is frightening because somebody knowingly accepts a cost, not because the Fruit silently rewrites a document they never understood.
 
-This helps explain the appearance of immortality without literal immortality.
+## Domi Reversi direction
+
+Domi Reversi is not innate point-and-click mind control.
+
+A contract can contain a breach clause granting Imu access to mind/body if a party knowingly violates a specified term.
+
+If the breach occurs, Imu collects the payment that was actually agreed.
+
+The exact Rocks implementation remains endgame work.
+
+## Soul material
+
+Stored soul material can potentially function as a consequence sink.
+
+Imu's survival system must work independently of Charlotte Linlin.
+
+If [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin]] survives, her empire can become an unusually valuable supplier of coherent soul material. That is an optional extension, not the engine that makes Imu possible.
 
 ## Related
 
 - [[production/characters/imu/overview|Imu]]
 - [[production/characters/imu/relationships|Relationships]]
-- [[production/characters/linlin/abilities|Linlin's soul abilities]]
 - [[production/systems/soul-system|Soul System]]

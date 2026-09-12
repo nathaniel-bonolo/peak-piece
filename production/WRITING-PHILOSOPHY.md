@@ -11,6 +11,100 @@ tags:
 
 # Writing Philosophy
 
+
+## Recharted is allowed to recook the meal
+
+The project is not limited to cleaning up canon mistakes.
+
+Sometimes canon already works and another direction is still worth exploring.
+
+The question is not always:
+
+> **What did Oda do wrong?**
+
+It can also be:
+
+> **I understand what this version is doing. What else could these ingredients become?**
+
+Recharted can preserve, repair, develop, or reimagine.
+
+A good canon idea creates a **higher burden of replacement**, not a prohibition on experimentation.
+
+> **Canon quality determines the burden of replacement, not whether replacement is allowed to be explored.**
+
+An alternative does not need to defeat a finished manga at pitch stage. It needs enough potential to justify development.
+
+Only after the direction has been given scenes, consequences, relationships, costs, and payoff should we make the serious comparison.
+
+This protects two things at once:
+
+- canon is not changed merely to be different
+- canon familiarity does not kill every new idea before it has a chance to become a story
+
+## Pre-timeskip is protected, not sacred
+
+Pre-timeskip material generally carries a higher burden of replacement because more of it already works and because early character identity matters.
+
+That does **not** create a no-retcon zone.
+
+A pre-timeskip change is allowed when it creates enough character, causality, downstream structure, discovery, or emotional value to justify what is lost.
+
+> **Protected means higher burden. Sacred means no questions. Recharted chooses protected.**
+
+A proposal does not become good merely because it is radical, but "Oda already cooked this part" is not the end of the discussion.
+
+## Discovery is a creative value
+
+Recharted is being made for people who may already know *One Piece*.
+
+Repairs have value. A cleaner fight, a dead Pell, or a removed gag can make the story better.
+
+But discovery has value too.
+
+A useful internal test:
+
+> **If one sentence gives away most of the reason to experience the change, it is mainly a repair. If one sentence creates more questions than it answers, it is becoming a reimagining.**
+
+Neither category is automatically superior.
+
+But Recharted should contain enough discovery that a returning reader cannot always predict the route from a list of canon complaints.
+
+## Creative ownership is a feature
+
+If this project eventually becomes drawn chapters, contributors should sometimes feel that they are drawing **their version of the story**, not only redrawing Oda with corrections.
+
+That does not mean forcing novelty into every scene.
+
+It means making room for original architecture, alternate theses, new consequences, new characters, and different routes when they earn the opportunity to exist.
+
+A rewrite that only removes gags, shortens arcs, and repairs fights can still be useful. Recharted deliberately aims for enough original discovery that creators and returning readers both have something genuinely new to uncover.
+
+## Let collaborators cook
+
+A writer does not need to make everybody prefer a proposal immediately before they are allowed to develop it.
+
+If somebody has demonstrated good instincts and sees potential the rest of the room does not yet see, the room can say:
+
+> **I do not see the full meal yet. Cook.**
+
+Exploration is not lock.
+
+Trusting somebody to develop a direction is not the same as promising to accept the final result.
+
+This is especially important for original characters, alternate theses, and major reimaginings where the value may only become visible after several consequences are connected.
+
+## Foundations are disclosed, not hidden vetoes
+
+Some direction-level choices define what adaptation Recharted is.
+
+Those choices live in [[production/FOUNDATIONS|Foundations]].
+
+A foundation can be attacked in execution. It can be refined. Its mechanism can change. It is not protected from criticism.
+
+But contributors should not discover foundational premises only after investing weeks of work.
+
+Likewise, maintainers should not create new foundations silently in GitHub and rely on collaborators never noticing the diff.
+
 ## Audit everything
 
 A cool premise is not enough.
@@ -397,25 +491,30 @@ Informative interludes are allowed when they are fun and useful, but they should
 
 The repository can be obsessive so the story does not have to be.
 
-## Different from canon is not a defense
+## Different from canon is not enough to lock
 
-Peak Piece being intentionally different from canon does **not** answer the question:
+Intentional difference is a valid reason to **explore**.
 
-> **Is the replacement actually better?**
+It is not, by itself, a valid reason to **lock**.
 
-If a rewrite is more coherent but less fun, less emotional, less distinctive, less surprising, or less character-specific, "we meant to change it" is not a defense.
+After the alternative has been developed enough to judge fairly, audit it:
 
-Every intentional replacement still has to survive the same audit:
-
+- what did canon accomplish?
+- what did we preserve?
+- what did we deliberately reject?
 - what did we gain?
 - what did we lose?
-- is the new version actually better on the page?
+- is the new version fun, emotional, distinctive, surprising, and character-specific enough to justify its cost?
 - did rigor preserve the character's identity or sterilize it?
-- did we replace a flawed One Piece idea with something that no longer feels like One Piece?
+- did we create discovery, or merely rearrange facts?
 
-Intent protects us from the accusation that we accidentally missed canon's point.
+A rewrite may knowingly choose a different thesis even when canon's thesis was good.
 
-It does not protect the replacement from criticism.
+The standard is not "canon had a flaw, therefore change."
+
+The standard is:
+
+> **Was the alternate direction worth exploring, and after exploration, did it earn its place in this version?**
 
 ## We may intentionally reject canon's function
 
@@ -560,6 +659,12 @@ When the system has done enough to:
 stop.
 
 > **When the spreadsheet has done enough to make the adventure consistent, close it.**
+
+A broader stopping rule:
+
+> **Audit the miracle when its scale creates strategic consequences. Leave ordinary spectacle alone.**
+
+Follow consequence until additional precision stops improving character, plot, worldbuilding, continuity, or payoff.
 
 Then write the fucking adventure.
 

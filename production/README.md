@@ -22,7 +22,7 @@ Once the internal model has answered the downstream questions that matter:
 
 ## Core philosophy
 
-See [[production/WRITING-PHILOSOPHY|Writing Philosophy]].
+See [[production/FOUNDATIONS|Foundations]] and [[production/WRITING-PHILOSOPHY|Writing Philosophy]].
 
 Key ideas include:
 
@@ -34,7 +34,9 @@ Key ideas include:
 - competent systems are not perfect systems
 - contradiction is not inconsistency
 - continuity can discover payoff without manufacturing setup
-- different from canon is not a defense for being less fun
+- canon quality raises the burden of replacement; it does not ban exploration
+- different from canon is not enough to lock, but it can be enough to explore
+- returning readers should receive discovery as well as repair
 - causal integration should deepen the world rather than collapse every cause into one master system
 
 ## Collaboration

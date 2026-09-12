@@ -193,7 +193,7 @@ Seed mirrors can spread the local network after the army arrives.
 
 Perospero is a combat engineer and infrastructure chief.
 
-His candy is useful because a centuries-old military officer with instant hardening material would obviously find infrastructure uses for it.
+His candy is useful because a veteran military officer with instant hardening material would obviously find infrastructure uses for it.
 
 He can create:
 
@@ -406,7 +406,7 @@ Charlotte soldiers may voluntarily donate lifespan late in the war.
 
 This is **not** framed as heroic martyrdom.
 
-It is wartime survival calculus inside a centuries-old culture.
+It is wartime survival calculus inside a military culture that has normalized lifespan as something people can spend.
 
 A soldier may have forty expected years left.
 

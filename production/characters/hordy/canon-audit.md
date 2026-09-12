@@ -7,6 +7,8 @@ tags: [audit, canon]
 ---
 # Hordy Jones: Canon Audit
 
+> **Foundational direction:** this alternate thesis is an intentional identity-level choice for Recharted, not a claim that canon failed to have a thesis.
+
 ## Canon baseline
 
 Canon Hordy is deliberately revealed as someone whose hatred is not rooted in a personal atrocity committed against him. The Fish-Man District environment transmits hatred to him.

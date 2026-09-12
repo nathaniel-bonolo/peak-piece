@@ -11,6 +11,68 @@ tags:
 
 # Changelog
 
+## V10 - Recharted becomes a disclosed reimagining
+
+### Project identity
+- Reframed Recharted from a repair-only project into a project that can **preserve, repair, develop, or reimagine**.
+- Locked: **canon quality determines the burden of replacement, not whether replacement is allowed to be explored.**
+- Added the exploration pipeline: **What if? → worth exploring? → let it cook → audit the result → lock/revise/contest/reject.**
+- Added discovery as an explicit reader value: returning readers should not always be able to infer the rewrite from a list of canon complaints.
+- Added: **Audit the miracle when its scale creates strategic consequences. Leave ordinary spectacle alone.**
+
+### Foundations
+- Added a public [[production/FOUNDATIONS|Foundations]] document so collaborators know the adaptation premise before investing work.
+- Foundational: Luffy meaningfully develops rather than remaining essentially static.
+- Foundational: Hordy keeps the Devil's Hand thesis rather than returning to canon's central inherited-hatred function.
+- Foundational: Brook is not a Rumbar Pirate; his accidental second life becomes a dead-promises / survival arc.
+- Foundational: the Government cannot simply destroy Poneglyphs and therefore suppresses readers, scholarship, and access.
+- Foundations remain criticizable in execution and cannot be silently added by the maintainer.
+
+### Brook
+- Added full Brook character architecture.
+- Preserved the Rumbar Pirates, Laboon promise, Binks' Sake, and musical death sequence while separating Brook's own crew from the Rumbar crew.
+- Locked core movement: **"I have to finish what the dead couldn't" → "I can remember the dead without giving them the rest of my life."**
+- Brook / Linlin history moved to a separate contested extension.
+
+### Linlin
+- **Superseded V9's lock on roughly four-century Linlin.** Ancient Linlin is now contested, not canon.
+- Orchard, harvest doctrine, Pudding, competent imperial motherhood, Final Service, and Soul Feast no longer depend on Linlin being ancient.
+- Added the Ancient Linlin / Immortal Soul Dynasty proposal.
+- If accepted, lifespan conversion is lossy and increasingly inefficient with age.
+- Locked proposal requirement: **the longer Linlin and the preserved dynasty live, the more external lifespan they need merely to sustain the dynasty they already have.**
+- Ancient Linlin must pay for four centuries in actual world history if accepted.
+- Imu / Linlin soul-for-tolerance connection is now proposal-dependent rather than canonical.
+
+### Imu
+- Refined contract rules: voluntary agreement, mutual understanding, no lying about terms, promises within actual capability, both sides bound, explicit breach consequences.
+- Domi Reversi moved toward a contract-breach collection mechanism rather than free point-and-click mind control.
+- Imu's deferred-consequence system must work without Linlin.
+
+### Elbaf proposals
+- Added Fable Loki proposal.
+- Corrected Ragnir history: Ragnir was the Ratatoskr + Mjolnir idea, a hammer that ate a squirrel Zoan.
+- New proposal deletes literal Ragnir: Loki carries a fake hammer, convinces people it is the real legendary weapon, and belief makes the lie functionally real.
+- Added CerezaVeneris's Nidhoggr-as-creature direction, separate from Loki's Fruit.
+
+### Revolutionaries
+- Added Fox's Koala #2 direction to current character/faction architecture.
+- Added Fox's Burgess-receives-Mera-Mera proposal.
+- Added contested Sabo earned-brotherhood proposal.
+
+### Governance / contributors
+- Added **Draft → Contested → Converging → Locked** workflow.
+- Major philosophy/foundation changes must be discussed and announced in the writers' room rather than silently changed in GitHub.
+- Reworded maintainer authority so merge/continuity responsibility is not mistaken for unilateral creative ownership.
+- Added **firefox6663355 / Fox** as a credited contributor; credit persists regardless of current server activity.
+- Preserved Remmkoe's role as co-founder and explicitly acknowledged that the original project pitch was a post-timeskip repair, making the broader reimagining shift something that must be discussed openly.
+
+### Gems
+- Narrowed their jurisdiction again: strategic external reserves for extreme, sustained, infrastructure-scale, or military output.
+- Ordinary supernatural action does not require Gem accounting.
+
+### Death / fakeout direction
+- Added planning note preserving Pell and Pound deaths while leaving Bon Clay and Kin'emon implementation open.
+
 ## V9 - Anti-Gemflation, underwater extraction, Haki reconnection, Orchard doctrine, timeskip expansion
 
 ### Gems

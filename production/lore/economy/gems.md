@@ -57,4 +57,4 @@ An empty high-grade Gem can be stored long-term.
 
 Maintaining Gems near maximum charge costs electricity, converters, inspection, security, leakage losses, and cycle life.
 
-A four-century stockpile of crystals is not a four-century stockpile of electricity.
+A decades-long stockpile of crystals is not a decades-long stockpile of electricity.

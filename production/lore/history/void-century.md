@@ -18,6 +18,10 @@ Do not fill the Void Century with guesses merely because the folder exists.
 
 Locked or near-locked ideas should be added only as they become part of the rewrite.
 
+## Poneglyph containment
+
+The foundational suppression architecture lives in [[production/lore/history/poneglyphs|Poneglyphs]]. The Government cannot simply destroy the stones, so it attacks access to meaning.
+
 ## Related
 
 - [[production/lore/timeline|Timeline]]

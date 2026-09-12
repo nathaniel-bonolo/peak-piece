@@ -16,13 +16,15 @@ tags:
 
 ## Core
 
-Peak Linlin is a roughly 400-year-old imperial pirate matriarch.
+Peak Linlin is an imperial pirate matriarch.
 
 She keeps the food obsession, enormous family, Totto Land, Soul-Soul ability, Tea Parties, territorial control, political relationships, and terrifying maternal authority.
 
 The toddler behavior is removed.
 
 She is calm, controlled, elegant, thoughtful, frightening, and capable of running an empire.
+
+Her exact rewritten age is **not locked**. The roughly-four-hundred-year version now lives in [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin]] as a contested proposal.
 
 ## Personality
 
@@ -52,7 +54,7 @@ The real evaluation asks:
 - how much stronger can this person become?
 - how likely are they to die / disappear before then?
 
-Linlin can leave a promising young pirate **Green** for years because her own time horizon is enormous.
+Linlin can leave a promising young pirate **Green** because a stronger future harvest may justify the risk.
 
 When somebody is **Ripe**, she harvests.
 
@@ -129,35 +131,6 @@ The point is not that Linlin becomes morally clean.
 
 The point is that her love for Pudding is real.
 
-## History with Imu
-
-Linlin was already a feared pirate and already building Totto Land before the Imu contract.
-
-Imu offers long-term Government tolerance / protection in exchange for recurring high-quality soul material.
-
-The agreement changes the environment in which Linlin can build.
-
-It does not invent her empire.
-
-## Four centuries must leave scars
-
-The Imu deal explains Government tolerance only.
-
-The wider world should contain old:
-
-- treaties
-- grudges
-- fortifications
-- trade adaptations
-- family branches
-- folklore
-- military doctrine
-- border changes
-
-shaped by centuries of Charlotte power.
-
-See [[production/lore/history/charlotte-imperial-footprint|Charlotte Imperial Footprint]].
-
 ## Fishman Island
 
 Linlin sees Fishman Island as an unusually attractive post-Whitebeard acquisition because Whitebeard already helped make the extraction infrastructure, routes, labor networks, and trade relationships viable.
@@ -174,19 +147,11 @@ Gems matter because they are one valuable military commodity in the basin.
 
 Fishman Island remains valuable without them.
 
-## Why General Linlin is competent
+## Competence
 
-Four centuries of experience should make Linlin frighteningly refined.
+Linlin's competence comes from running a large family-state, surviving high-level piracy, delegating to specialists, and learning from repeated consequences.
 
-She has had an absurd amount of time to:
-
-- make mistakes
-- survive them
-- refine institutions
-- delegate
-- learn which coercion destroys productivity
-- build rituals
-- watch generations of enemies repeat patterns
+She does not need four centuries of age to be allowed to think.
 
 Her competence is not emotional health.
 
@@ -194,23 +159,9 @@ She remains possessive, grotesque, funny, vain, loving, controlling, spiritually
 
 ## Competence is not perfection
 
-Four centuries do not make Linlin omniscient.
+Linlin can have strong models and still fail when something genuinely new appears.
 
 Her Hyena mass-extraction failure remains a model error: she trusts a normally reliable battlefield assumption and collides with a novel phenotype she did not know enough to test for.
-
-## She is still the author of her empire
-
-Imu does not invent Totto Land.
-
-Imu does not invent Linlin's family.
-
-Imu does not invent Linlin's desire for longevity.
-
-Imu does not invent her military need for soul material.
-
-Linlin is already building.
-
-The Imu relationship changes the environment in which that project is allowed to grow.
 
 ## Emotional contradiction
 
@@ -231,6 +182,12 @@ They are competing desires and assumptions inside one person.
 
 > **Contradiction is not inconsistency.**
 
+## Contested extension
+
+The current proposal to make Linlin roughly four hundred years old, sustain a long-lived dynasty through increasingly expensive soul/lifespan conversion, leave centuries of geopolitical scars, and potentially interact with Imu's contract system is **not canon**.
+
+See [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin / Immortal Soul Dynasty]].
+
 ## Related
 
 - [[production/characters/linlin/abilities|Abilities]]
@@ -239,7 +196,6 @@ They are competing desires and assumptions inside one person.
 - [[production/characters/pudding/relationships|Pudding relationship]]
 - [[production/systems/soul-system|Soul System]]
 - [[production/lore/factions/charlotte-orchard|The Orchard]]
-- [[production/lore/history/charlotte-imperial-footprint|Charlotte Imperial Footprint]]
 - [[production/lore/factions/big-mom-pirates|Charlotte Empire]]
 - [[production/lore/locations/fishman-island|Fishman Island]]
 - [[production/lore/locations/totto-land|Totto Land]]

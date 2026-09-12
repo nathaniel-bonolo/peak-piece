@@ -52,6 +52,14 @@ Usopp learns how a weaker force manipulates what a stronger force thinks is true
 
 They develop independently, meet later at base, and can travel back toward Sabaody together.
 
+## Koala
+
+[[production/characters/koala/overview|Koala]] is the current direction for Revolutionary Army #2.
+
+The rank should come from organizational experience, strategy, liberation work, trust, and field competence rather than being treated as a combat-power label.
+
+This direction originated with **firefox6663355 / Fox**.
+
 ## Dragon and Sabo
 
 Robin's presence creates space to develop Dragon and Sabo through actual work rather than lore dumps.

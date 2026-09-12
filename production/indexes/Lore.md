@@ -21,7 +21,6 @@ tags: [moc, lore]
 
 - [[production/lore/factions/big-mom-pirates|Charlotte Empire]]
 - [[production/lore/factions/charlotte-orchard|The Orchard]]
-- [[production/lore/history/charlotte-imperial-footprint|Charlotte Imperial Footprint]]
 - [[production/lore/locations/totto-land|Totto Land]]
 
 ## Straw Hats
@@ -31,6 +30,7 @@ tags: [moc, lore]
 
 ## Wider history
 
+- [[production/lore/history/poneglyphs|Poneglyphs]]
 - [[production/lore/history/flood-resource-order|Flood Resource Order]]
 - [[production/lore/history/gem-history|Gem History]]
 - [[production/lore/history/haki-history|Haki History]]

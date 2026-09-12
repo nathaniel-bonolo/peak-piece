@@ -40,6 +40,7 @@ Fishman Island is the suggested starting point right now.
 
 ## Project files
 
+- [[production/FOUNDATIONS|Recharted Foundations]]
 - [[production/WRITING-PHILOSOPHY|Writing Philosophy]]
 - [[production/STYLE-GUIDE|Style Guide]]
 - [[CONTRIBUTING|Contributing]]

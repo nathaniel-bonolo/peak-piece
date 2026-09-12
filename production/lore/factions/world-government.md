@@ -33,12 +33,27 @@ Over centuries it can absorb teachers, suppress hostile schools, restrict archiv
 
 Haki survives in pockets.
 
-## Linlin exemption
+## Linlin / Imu extension
 
-A hidden Imu-level contract protects the Charlotte Empire from the full suppression pressure a centuries-long pirate state would ordinarily invite.
+No Linlin exemption contract is currently locked.
 
-Linlin pays through a recurring soul obligation.
+If [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin]] survives, a soul-for-tolerance arrangement with Imu becomes one possible way to explain how an openly persistent imperial pirate state survives central suppression pressure.
 
-Important:
+That proposal must not make Imu the author of Linlin's empire.
 
-> **The Imu deal explains why the central Government tolerates her. It does not erase four centuries of consequences for everybody else.**
+## Poneglyph suppression
+
+The Government cannot simply destroy Poneglyphs.
+
+Its durable strategy is therefore to suppress the human infrastructure required to make them useful:
+
+- readers
+- scholars
+- teaching traditions
+- archives
+- research networks
+- access to high-danger stones
+
+This is a foundational Recharted world rule.
+
+See [[production/lore/history/poneglyphs|Poneglyphs]].
