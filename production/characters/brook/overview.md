@@ -107,7 +107,7 @@ The following can still be changed without abandoning Peak Brook:
 - precise comedy / hallucination balance
 - his possible connection to Charlotte Linlin
 
-The [[production/proposals/active/brook-ancient-linlin-extension|Brook / ancient Linlin connection]] is specifically **contested** and only exists if the ancient-Linlin proposal survives.
+The [[production/proposals/active/brook-ancient-linlin-extension|Brook / ancient Linlin connection]] is specifically **contested**. Ancient Linlin is foundational; Brook does not need to be part of her history for either character to work.
 
 ## Related
 

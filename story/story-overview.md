@@ -33,6 +33,16 @@ Robin and Usopp can share an organization while developing completely different 
 
 ## Current developed arc chain
 
+### Return to Sabaody
+
+[[story/sagas/return-to-sabaody/arcs/return-to-sabaody/arc|Return to Sabaody]] establishes:
+
+- Chopper as the opening emotional anchor for the reunion
+- the question "what happened to everyone over two years?"
+- Sabaody as a Loguetown-style Marine chokepoint under Smoker
+- the Sunny used as bait for a prepared Straw Hat return operation
+- a clear proof that the timeskip training worked
+
 ### Fishman Island
 
 [[story/sagas/fishman-island/arcs/fishman-island/arc|Fishman Island]] establishes:
@@ -43,8 +53,11 @@ Robin and Usopp can share an organization while developing completely different 
 - Linlin's strategic interest in Fishman Island
 - Hordy, Shirahoshi, Genauche, Neptune, and Jinbe's competing approaches to liberation
 - the disruption of Linlin's Gem supply
+- the Straw Hats learning that superior strength does not automatically solve the situation
+- Hoshi becoming the person who ultimately protects Fishman Island through a Sea King she calls
+- Fishman Island beginning independence without simply replacing one outside human flag with another
 
-It also deepens Luffy's question about power by contrasting what Whitebeard and Linlin each do with overwhelming pirate authority.
+It also deepens Luffy's question about power by contrasting Whitebeard, Linlin, and the possibility of an allied people protecting themselves.
 
 ### Whole Cake Island
 

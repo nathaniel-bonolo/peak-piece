@@ -7,7 +7,7 @@ tags: [audit, canon]
 ---
 # Hordy Jones: Canon Audit
 
-> **Foundational direction:** this alternate thesis is an intentional identity-level choice for Recharted, not a claim that canon failed to have a thesis.
+> **Foundational direction:** this alternate thesis is an intentional identity-level choice for Peak Piece, not a claim that canon failed to have a thesis.
 
 ## Canon baseline
 

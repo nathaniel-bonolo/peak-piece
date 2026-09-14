@@ -47,3 +47,32 @@ The arc exposes her to multiple forms of power:
 - her own organizing
 
 She learns that freedom cannot be reduced to winning one fight.
+
+## Fishman Island climax
+
+The Straw Hats fail to resolve the final situation in time.
+
+Hordy brings Shirahoshi to the edge of death and tries to become the Sea King nobody sent to save him.
+
+Shirahoshi deliberately calls an actual Sea King.
+
+It answers her and bites off Hordy's right hand.
+
+The payoff matters politically as much as physically:
+
+> **Fishman Island protected itself.**
+
+## Recurring growth
+
+Shirahoshi does not leave the arc as an automatic controller of every Sea King.
+
+Her ability develops through repeated relationships, training, and larger acts of liberation.
+
+Later material should show:
+
+- stronger / more difficult Sea Kings
+- participation in the Fishman / Luffy alliance
+- Whole Cake Island relevance
+- freeing Fishmen from underwater slave / extraction operations
+
+Her growth continues because becoming Fishman Island's protector is a job, not a one-scene destiny reveal.

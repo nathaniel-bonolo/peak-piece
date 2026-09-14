@@ -16,12 +16,13 @@ Do not guess dates when we have not locked them.
 - Void Century
 - post-flood Gem consolidation
 - early World Government
-- possible ancient-Linlin / Imu contract era — contested, see [[production/proposals/active/ancient-linlin-soul-dynasty|proposal]]
+- ancient Charlotte / Imu relationship era — foundational; exact start date open
 - Fisher Tiger liberation era
 - Whitebeard Fishman protection era
 - Roger era / Haki rediscovery
 - Great Pirate Era
 - pre-timeskip
+- [[story/sagas/return-to-sabaody/arcs/return-to-sabaody/arc|Return to Sabaody]]
 - Skypiea: major Luffy ideological snapping point
 - Marineford
 - [[story/interludes/timeskip-haki-training|Amazon Lily Haki Training]]

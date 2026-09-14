@@ -50,6 +50,6 @@ Do not make Rumble compounds universal magic pills. Fruit-specific calibration m
 ### Peak Piece
 - [[production/characters/chopper/overview|Overview]]
 - [[production/systems/devil-fruit-pharmacology|Devil Fruit Pharmacology]]
-- [[production/proposals/active/chopper-smile-blackbeard|SMILE cure proposal]]
+- [[production/characters/chopper/progression|SMILE / extraction direction]]
 
 See [[production/references/canon/source-policy|Canon Audit Source Policy]].

@@ -7,7 +7,7 @@ tags: [contributing]
 ---
 # Contributing
 
-Recharted is collaborative. Disagreement is expected.
+Peak Piece is collaborative when people choose to contribute. Disagreement is expected.
 
 The standard is not "does everyone like this?"
 
@@ -17,15 +17,17 @@ The standard is:
 
 ## Know what project you are joining
 
-Recharted is **not** a repair-only project.
+Peak Piece is **not** a repair-only project.
 
 It preserves canon when canon earns preservation, repairs weak execution when repair is enough, develops wasted material, and can rebuild good canon material when another direction is worth exploring.
 
-Read [[production/FOUNDATIONS|Foundations]] before doing major story work.
+Read [[production/FOUNDATIONS|Foundations]] and [[production/DECISION-STATUS|Decision Status]] before doing major story work.
 
-Foundations are not a list of Nathan ideas that nobody may question. They are direction-level premises of this particular adaptation. Their execution can be attacked, rewritten, improved, or replaced with another implementation that still serves the same foundation.
+Foundations are not a list of ideas that nobody may question. They are direction-level premises of this particular adaptation. Their execution can be attacked, rewritten, improved, or replaced with another implementation that still serves the same foundation.
 
-If somebody fundamentally wants a different adaptation, that is creative incompatibility, not misconduct. A clean branch/fork/separate version is healthier than pressuring people to write a project they do not believe in.
+If somebody fundamentally wants a different adaptation, that is creative incompatibility, not misconduct.
+
+Peak Piece and **One Piece: Recharted** already demonstrate that two variants can grow from the same early collaboration without becoming competitors.
 
 ## Read before redesigning
 
@@ -55,15 +57,19 @@ Use this sequence for substantial alternatives:
 
 Different is not automatically better. Familiar is not automatically better either.
 
-## Two contributor workflows
+> **Preference is not refutation.**
 
-Nobody has to become a Git nerd to write.
+## Ways to work with the project
 
-Use Discord/shared Docs for the easiest brainstorming and drafting surface.
+Nobody has to become a Git nerd to contribute ideas.
+
+Use whatever drafting surface is practical for the people involved: chat, shared Docs, local notes, or GitHub.
 
 Use Obsidian when you want the full linked project, folder hierarchy, backlinks, and production bible.
 
-GitHub remains the source of truth underneath both workflows.
+Use [[production/AGENTPROMPT|Agent Prompt]] when you want a repository-capable AI to help navigate the project.
+
+GitHub remains the source of truth.
 
 For plain Git:
 
@@ -74,14 +80,6 @@ git clone https://github.com/nathaniel-bonolo/peak-piece.git
 Do not use `gh repo clone` unless GitHub CLI is installed.
 
 See [[production/WORKFLOW|Writers' Room Workflow]].
-
-## No silent constitutional edits
-
-A repository maintainer can merge files. That does **not** make silent philosophy changes legitimate.
-
-If a change would alter what contributors reasonably think Recharted is, discuss it with the current group and announce it in the writers' room before treating it as the shared rule.
-
-This matters especially because some contributors work almost entirely through Discord/Docs and may never notice a GitHub diff.
 
 ## Where an idea goes
 
@@ -115,6 +113,7 @@ See [[production/REVIEW-PROTOCOL|Review Protocol]].
 - Does this create a contradiction elsewhere?
 - Did we make the machinery stronger while accidentally removing the fun?
 - **Does this connection deepen the world, or merely reduce the number of independent causes in it?**
+- **What irrational consequence survived anyway?**
 - Is the objection "this cannot work," "this has not earned itself yet," or simply "I prefer canon"?
 
 ## Reader / production boundary

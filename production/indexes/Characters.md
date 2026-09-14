@@ -43,8 +43,13 @@ tags: [moc, characters]
 
 ## Revolutionary Army
 
+- [[production/characters/sabo/overview|Sabo]]
 - [[production/characters/belo-betty/_Belo Betty|Belo Betty]]
 - [[production/characters/koala/overview|Koala]]
+
+## Marines
+
+- [[production/characters/smoker/overview|Smoker]]
 
 ## Endgame
 

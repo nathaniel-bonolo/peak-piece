@@ -24,3 +24,5 @@ Major directions can move through:
 A contested proposal is not rejected. It is a direction with unresolved disagreement that should be developed before final comparison.
 
 A foundation is not stored here merely because somebody disagrees with it; foundations are documented in [[production/FOUNDATIONS|Foundations]].
+
+See [[production/DECISION-STATUS|Decision Status]] for the full current foundational / contested / active / rejected map.

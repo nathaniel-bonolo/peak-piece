@@ -18,6 +18,6 @@ tags:
 - [[production/characters/usopp/sogeking|Sogeking]]
 - [[production/characters/usopp/timeskip|Timeskip]]
 
-## Open proposals
+## Foundational progression
 
-- [[production/proposals/active/usopp-paranoia-contingencies|Usopp Contingency Paranoia]]
+- [[production/characters/usopp/contingencies|Usopp Contingencies]]

@@ -13,23 +13,28 @@ tags:
 # Current Story
 
 > [!success] Start here
-> **[[story/sagas/fishman-island/arcs/fishman-island/arc|Fishman Island]]** is the current recommended read.
+> **[[story/sagas/return-to-sabaody/arcs/return-to-sabaody/arc|Return to Sabaody]]** is the current recommended read.
 
-Fishman Island is the present development focus and the clearest entry point into Peak Piece's approach to character rewrites, Gems, Fishman politics, and consequences.
+It leads directly into Fishman Island and establishes the post-timeskip reunion, Smoker's Sabaody cordon, and the difference between proving the training worked and proving strength is enough.
 
 ## Current rewrite material
 
-### 1. Fishman Island
+### 1. Return to Sabaody
+
+- [[story/sagas/return-to-sabaody/saga|Saga overview]]
+- [[story/sagas/return-to-sabaody/arcs/return-to-sabaody/arc|Return to Sabaody arc]]
+
+### 2. Fishman Island
 
 - [[story/sagas/fishman-island/saga|Saga overview]]
 - [[story/sagas/fishman-island/arcs/fishman-island/arc|Fishman Island arc]]
 
-### 2. Whole Cake Island
+### 3. Whole Cake Island
 
 - [[story/sagas/whole-cake-island/saga|Saga overview]]
 - [[story/sagas/whole-cake-island/arcs/whole-cake-island/arc|Whole Cake Island arc]]
 
-### 3. Soul Feast
+### 4. Soul Feast
 
 - [[story/sagas/soul-feast/saga|Saga overview]]
 - [[story/sagas/soul-feast/arcs/soul-feast/arc|Soul Feast War]]

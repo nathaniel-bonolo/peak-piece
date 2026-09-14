@@ -12,7 +12,7 @@ tags:
 
 # Luffy: Progression
 
-> **Foundational direction:** the exact route can change; an essentially static Luffy is not the Recharted target.
+> **Foundational direction:** the exact route can change; an essentially static Luffy is not the Peak Piece target.
 
 ## Early sea
 

@@ -7,11 +7,11 @@ tags:
 
 # Contributors
 
-Roles describe current strengths, responsibilities, and credited contributions.
+This page records contribution history and credit.
 
-They are not rank, territory, or a statement that one writer's ideas outrank another writer's ideas.
+Credit remains credit even if somebody later becomes inactive, leaves a server, or works on the sibling Recharted variant instead.
 
-Credit remains credit even if somebody later becomes inactive or leaves the server.
+Peak Piece and One Piece: Recharted grew from the same early collaborative rewrite space before diverging into different adaptation philosophies. That divergence does not erase anybody's work.
 
 ## Nathan
 
@@ -19,69 +19,50 @@ Credit remains credit even if somebody later becomes inactive or leaves the serv
 
 Current responsibilities:
 
-- maintaining the authoritative repository state
+- maintaining the authoritative Peak Piece repository state
 - continuity and merge work
 - story architecture
 - systems/worldbuilding architecture
 - causal auditing
 - character and arc integration
 - long-range continuity
-- translating collaborative decisions into linked production files
+- translating accepted directions into linked production files
 
-Nathan being the maintainer means somebody has to resolve file conflicts and keep one coherent project state.
+Maintainer authority is repository responsibility, not a claim that every creative question terminates at "Nathan wins."
 
-It does **not** mean every creative question terminates at "Nathan wins."
-
-Foundational project directions are disclosed in [[production/FOUNDATIONS|Foundations]] rather than kept as hidden personal vetoes.
+Foundational project directions are disclosed in [[production/FOUNDATIONS|Foundations]].
 
 ## CerezaVeneris
 
-**Writer · Research & Thematic Development**
+**Contributor · Research & Thematic Development**
 
-Current strengths include:
+Credited strengths and contributions include:
 
-- character development
-- story development
-- thematic development
-- historical research
-- mythology
-- biology
+- character and story development
+- historical / mythology / biology research
 - cultural references
-- finding real-world material that deepens or challenges an existing Recharted direction
-- original character work
-
-Cereza's research frequently gives an existing idea stronger historical, thematic, mythological, or scientific roots rather than merely decorating it afterward.
-
-Current authored proposal:
-
+- original-character development
 - [[production/proposals/active/may-weller|May Weller]]
 - [[production/proposals/active/nidhoggr-creature|Nidhoggr creature direction]]
+- proposing Chopper as the opening focal character for the rebuilt Return to Sabaody reunion
 
 ## Remmkoe
 
-**Co-founder · Writer · Story Development & Review**
+**Co-founder of the early collaborative rewrite space · Contributor**
 
-Current strengths include:
-
-- character / arc ideation
-- story development
-- critique
-- reviewing proposed directions before they lock
-- continuity pressure
-- challenging ideas that may lose something canon did well
-- community / server support
-
-Recharted's collaboration grew out of discussion following Remmkoe's original Piratefolk post, which proposed a post-timeskip rewrite focused on fixing major problems:
+The shared collaboration grew from discussion around Remmkoe's original Piratefolk post proposing a post-timeskip rewrite focused on fixing major problems:
 
 https://www.reddit.com/r/Piratefolk/s/zSf6onlYJE
 
-The project's later expansion from repair toward broader reimagining should therefore be discussed openly rather than retroactively treated as what everybody originally signed up for.
+That original premise later diverged into the broader Peak Piece reimagining and the post-timeskip-focused **One Piece: Recharted** variant.
+
+Remmkoe retains credit for the project's shared origin and contributions regardless of which variant later carries a given idea.
 
 ## firefox6663355 / Fox
 
 **Contributor · Story Development & Character/Arc Reimagining**
 
-Fox is credited for ideas and development contributed to Recharted regardless of current server activity.
+Fox is credited for ideas and development contributed during the shared project period regardless of current server activity.
 
 Notable credited directions include:
 
@@ -89,6 +70,18 @@ Notable credited directions include:
 - proposing [[production/proposals/active/burgess-mera-mera|Burgess as the Mera-Mera no Mi recipient]]
 - sustained critique that helped clarify the difference between repair, reimagining, and canon-preservation arguments
 
+## C_FOR / 𝒞_F𝒪𝑅
+
+**Contributor · Story Development & Structural Ideation**
+
+Credited directions retained in Peak Piece include:
+
+- proposing a major Marine presence for rebuilt Return to Sabaody
+- proposing Smoker and Tashigi as the returning Marine antagonistic force
+- the seed that Peak Piece refined into **Sabaody as the new Loguetown**, with Smoker commanding the chokepoint / Straw Hat return operation
+- contributing the idea that Hordy's hatred of humans can function partly as self-exoneration: blaming humans and the mine is easier than fully admitting which later acts were his own choices
+
+Ideas discussed but not retained are not listed here as Peak Piece contributions.
 
 ## Collaboration rule
 
@@ -102,4 +95,4 @@ There is no separate "accepted proposal" canon.
 
 Foundations define the adaptation's direction; they do not make their implementation immune to critique.
 
-See [`CONTRIBUTING.md`](CONTRIBUTING.md) and [[production/FOUNDATIONS|Foundations]].
+See [`CONTRIBUTING.md`](CONTRIBUTING.md), [[production/FOUNDATIONS|Foundations]], and [[production/DECISION-STATUS|Decision Status]].

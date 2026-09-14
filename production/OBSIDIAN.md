@@ -23,7 +23,9 @@ git clone https://github.com/nathaniel-bonolo/peak-piece.git
 
 No community plugin is required for core navigation.
 
-If somebody still hates Obsidian after setup, use Docs/Discord as the drafting surface and let the repository remain the source of truth underneath.
+If somebody still hates Obsidian after setup, use whatever drafting surface is comfortable and let the repository remain the source of truth underneath.
+
+If you would rather ask questions conversationally, use [[production/AGENTPROMPT|Agent Prompt]].
 
 See [[production/WORKFLOW|Writers' Room Workflow]].
 

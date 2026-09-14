@@ -36,11 +36,13 @@ Officers are expected to act autonomously.
 
 ## Core doctrine
 
-The empire combines family loyalty, specialist Devil Fruits, fortification, intelligence, soul economics, trade, and long institutional memory.
+The empire combines family loyalty, specialist Devil Fruits, fortification, intelligence, soul economics, trade, religion, and four centuries of institutional memory.
 
 Linlin's patience applies to souls as well as territory: she is willing to let a promising person mature before harvesting them.
 
-See [[production/lore/factions/charlotte-orchard|The Orchard]].
+The dynasty's age also creates a maintenance problem. Preserving Linlin and selected long-lived family members becomes increasingly expensive, so soul income is not only military supply; it is dynastic survival.
+
+See [[production/lore/factions/charlotte-orchard|The Orchard]] and [[production/characters/linlin/ancient-matriarch|Ancient Matriarch]].
 
 ## The Orchard
 
@@ -63,6 +65,34 @@ Katakuri handles the most dangerous high-value captures.
 Pudding helps prepare captured people by identifying fears and routes to surrender without bruising the soul.
 
 Linlin turns completed souls into **toys**.
+
+
+## Pantheon by history
+
+The Charlotte family does not need to claim literal godhood for subjects to treat ancient members as gods, saints, guardians, or household powers.
+
+Four centuries of repeated public roles create folk domains around individual family members.
+
+The same person can be:
+
+- a military officer to the state
+- an aunt / sibling inside the family
+- a monster to an enemy
+- a divine protector in a subject's household tradition
+
+That contradiction should remain visible.
+
+## Irrational institutional memory
+
+A four-century family state remembers too much.
+
+Some inefficient rules remain because Linlin remembers the death that created them.
+
+Some territories remain subsidized because their ancestors chose Mama centuries earlier.
+
+Some privileges remain because the immortal ruler personally remembers the person who earned them.
+
+The empire is capable, not optimized.
 
 ## Fishman Island
 

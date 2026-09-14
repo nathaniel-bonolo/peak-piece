@@ -33,13 +33,28 @@ Over centuries it can absorb teachers, suppress hostile schools, restrict archiv
 
 Haki survives in pockets.
 
-## Linlin / Imu extension
+## Linlin / Imu arrangement
 
-No Linlin exemption contract is currently locked.
+Peak Piece locks a centuries-old strategic relationship between Imu's system and the Charlotte dynasty.
 
-If [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin]] survives, a soul-for-tolerance arrangement with Imu becomes one possible way to explain how an openly persistent imperial pirate state survives central suppression pressure.
+The Government does not create Linlin's empire.
 
-That proposal must not make Imu the author of Linlin's empire.
+Instead, the relationship develops between two already-existing powers.
+
+Current architecture:
+
+- persistent Charlotte territory receives degrees of tolerance / political room that an ordinary pirate state would not
+- Linlin provides recurring high-quality soul / lifespan value
+- Marines and Holy Knights operating under the agreement are protected categories Linlin is not supposed to harvest
+- breach creates agreed consequences such as additional quotas, compensation, restrictions, or other obligations
+
+This is not friendship.
+
+It is a durable bargain between powers that do not trust each other and both understand that open war would be expensive.
+
+God Valley can expose the weakness in the arrangement: Linlin sometimes sees something valuable enough that knowing the rule does not stop her from breaking it.
+
+See [[production/characters/imu/relationships|Imu Relationships]] and [[production/characters/linlin/relationships|Linlin Relationships]].
 
 ## Poneglyph suppression
 
@@ -54,6 +69,6 @@ Its durable strategy is therefore to suppress the human infrastructure required 
 - research networks
 - access to high-danger stones
 
-This is a foundational Recharted world rule.
+This is a foundational Peak Piece world rule.
 
 See [[production/lore/history/poneglyphs|Poneglyphs]].

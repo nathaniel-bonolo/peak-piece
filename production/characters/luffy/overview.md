@@ -13,7 +13,7 @@ tags:
 
 # Monkey D. Luffy
 
-> **Foundational direction:** Luffy meaningfully develops across Recharted. See [[production/FOUNDATIONS|Foundations]].
+> **Foundational direction:** Luffy meaningfully develops across Peak Piece. See [[production/FOUNDATIONS|Foundations]].
 
 ## Core
 

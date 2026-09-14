@@ -23,7 +23,7 @@ Her central world-changing ability is inherited destiny; much agency is constrai
 
 ## Peak Piece response
 
-Peak Shirahoshi is not a princess or hereditary Poseidon. Sea-creature affinity exists across Fishmen on a spectrum. She admires Fisher Tiger because he frees people, secretly trains after her father refuses, receives tiny informal corrections from Tiger, studies Gem research, and organizes against Linlin.
+Peak Shirahoshi is not a princess or hereditary Poseidon. Sea-creature affinity exists across Fishmen on a spectrum. She admires Fisher Tiger because he frees people, secretly trains after her father refuses, receives tiny informal corrections from Tiger, studies Gem research, and organizes against Linlin. Her Fishman Island climax is choosing to call a Sea King herself, allowing the island to begin protecting itself instead of inheriting another outside human flag.
 
 ## Why this solution
 

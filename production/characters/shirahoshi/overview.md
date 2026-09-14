@@ -83,6 +83,18 @@ She begins with a child's equation:
 
 Her arc complicates it through Tiger, Neptune, Whitebeard, Jinbe, Hordy, organizing, and the costs of violence. She does not abandon strength. She learns what strength is for.
 
+Fishman Island is not the end of that growth.
+
+Hoshi becomes a recurring character whose Sea-King handling improves through repeated use.
+
+She begins with limited, difficult contact rather than automatic hereditary control over every Sea King.
+
+Later appearances can show her taming stronger creatures and using them to free Fishmen from underwater slave / extraction operations.
+
+Luffy can influence her without becoming the person who teaches Fishman Island how to save itself.
+
+Her own repeated choices do that work.
+
 ## Canon audit
 
 See [[production/characters/shirahoshi/canon-audit|Canon Audit]].

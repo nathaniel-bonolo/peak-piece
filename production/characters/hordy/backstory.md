@@ -125,6 +125,20 @@ He blames Tiger for giving people a story they could kill themselves chasing.
 
 That blame is emotionally real and factually unfair.
 
+## 14A. Humans become an alibi
+
+As Hordy's own choices become harder to defend, blaming humans becomes psychologically useful as well as ideological.
+
+The mine really did brutalize him. Human systems really did exploit Fishmen.
+
+But Hordy increasingly stretches those truths into:
+
+> **They made me do all of it.**
+
+That story lets him avoid separating what was forced from what he later chose, enjoyed, or rationalized.
+
+The final apology matters because he eventually loses the ability to make the alibi convince himself.
+
 ## 15. Shirahoshi looks familiar
 
 Her Tiger-inspired rebellion recreates the pattern Hordy learned to fear.

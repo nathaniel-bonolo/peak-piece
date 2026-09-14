@@ -94,7 +94,7 @@ The canon Ice Oni crisis is cut from Chopper's required Wano function.
 - [[production/characters/queen/_Queen|Queen]]
 - [[story/sagas/soul-feast/arcs/soul-feast/arc|Soul Feast]]
 - [[production/systems/devil-fruits|Devil Fruits]]
-- [[production/proposals/active/chopper-smile-blackbeard|Chopper / SMILE / Blackbeard]]
+- [[production/characters/chopper/progression|Chopper / SMILE / Blackbeard direction]]
 - [[production/lore/locations/wano|Wano]]
 
 ## How ideas move through the organization

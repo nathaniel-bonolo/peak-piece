@@ -12,4 +12,4 @@ tags: [character, brook, straw-hat]
 - [[production/characters/brook/relationships|Relationships]]
 - [[production/characters/brook/canon-audit|Canon Audit]]
 
-> **Foundational direction:** Brook's accidental second life becomes an actual character arc. He is not a Rumbar Pirate in Recharted.
+> **Foundational direction:** Brook's accidental second life becomes an actual character arc. He is not a Rumbar Pirate in Peak Piece.

@@ -20,6 +20,16 @@ Fear helps extraction but does not define total soul value.
 
 See [[production/systems/soul-system|Soul System]].
 
+## Stolen lifespan extension
+
+Linlin can use extracted lifespan to sustain herself and selected members of the Charlotte dynasty.
+
+The conversion is lossy and becomes less efficient as recipients age.
+
+Soul quality, coherence, compatibility, and voluntary conviction can improve conversion efficiency without making every strong person interchangeable.
+
+See [[production/characters/linlin/ancient-matriarch|Ancient Matriarch]].
+
 ## Personal lifespan
 
 Linlin can spend her own lifespan as premium soul material.

@@ -8,6 +8,10 @@ tags: [moc, lore]
 
 # Lore
 
+## Sabaody
+
+- [[production/lore/locations/sabaody|Sabaody Archipelago]]
+
 ## Fishman Island
 
 - [[production/lore/locations/fishman-island|Fishman Island]]
@@ -22,6 +26,8 @@ tags: [moc, lore]
 - [[production/lore/factions/big-mom-pirates|Charlotte Empire]]
 - [[production/lore/factions/charlotte-orchard|The Orchard]]
 - [[production/lore/locations/totto-land|Totto Land]]
+- [[production/lore/history/charlotte-imperial-footprint|Charlotte Imperial Footprint]]
+- [[production/spinoffs/the-years-she-ate/README|The Years She Ate]]
 
 ## Straw Hats
 

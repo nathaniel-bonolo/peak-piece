@@ -12,13 +12,14 @@ tags:
 # Story
 
 > [!success] Recommended read
-> Start with [[story/sagas/fishman-island/arcs/fishman-island/arc|Fishman Island]].
+> Start with [[story/sagas/return-to-sabaody/arcs/return-to-sabaody/arc|Return to Sabaody]].
 
 ## Current rewrite
 
-1. [[story/sagas/fishman-island/saga|Fishman Island Saga]]
-2. [[story/sagas/whole-cake-island/saga|Whole Cake Island Saga]]
-3. [[story/sagas/soul-feast/saga|Soul Feast Saga]]
+1. [[story/sagas/return-to-sabaody/saga|Return to Sabaody Saga]]
+2. [[story/sagas/fishman-island/saga|Fishman Island Saga]]
+3. [[story/sagas/whole-cake-island/saga|Whole Cake Island Saga]]
+4. [[story/sagas/soul-feast/saga|Soul Feast Saga]]
 
 ## Supporting navigation
 

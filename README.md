@@ -1,18 +1,49 @@
-# One Piece: Recharted
+# Peak Piece
 
-**One Piece: Recharted** is a collaborative reimagining of *One Piece*.
+**Peak Piece** is an unofficial, non-commercial reimagining of *One Piece*.
 
-The project began internally under the codename **Peak Piece**. That name remains useful writer shorthand inside the production bible and older files; this version does not perform a repo-wide rename.
+It is not a "One Piece Fixed Edition."
 
-Recharted is not limited to repairing scenes that canon executed badly. It can preserve what works, repair what needs repair, develop what was underused, and rebuild a foundation when another direction is worth exploring.
+Peak Piece can preserve what earns preservation, repair weak execution, develop underused material, and deliberately rebuild material that may already work when another direction is worth exploring.
 
-> **Respect canon enough to understand what it is doing. Never respect it so much that we stop asking “what if?”**
+> **Respect canon enough to understand what it is doing. Never respect it so much that we stop asking "what if?"**
 
-That means a canon idea does **not** have to be bad before Recharted is allowed to explore another one. A replacement still has to earn itself before it locks, but a promising direction is allowed to be cooked before it is compared against a finished manga.
+A canon idea does **not** have to be bad before Peak Piece is allowed to explore another one. Likewise, being different is not automatically an improvement.
 
-See [`production/FOUNDATIONS.md`](production/FOUNDATIONS.md) and [`production/WRITING-PHILOSOPHY.md`](production/WRITING-PHILOSOPHY.md).
+The useful comparison is:
 
-## Just want to read Recharted?
+- what is canon trying to accomplish?
+- what is Peak Piece trying to accomplish instead?
+- what does each version gain?
+- what does each version lose?
+- after the alternate direction has been developed far enough to judge fairly, did it earn its place?
+
+> **Preference is not refutation.**
+
+A reader can prefer canon Hordy, canon Brook, canon Linlin, or any other canon direction. That preference is valid. It does not by itself show that Peak Piece failed, because Peak Piece may be intentionally asking a different question.
+
+The question is not always:
+
+> **How do we fix canon?**
+
+Sometimes it is simply:
+
+> **What else could these ingredients have become?**
+
+See [`production/FOUNDATIONS.md`](production/FOUNDATIONS.md), [`production/WRITING-PHILOSOPHY.md`](production/WRITING-PHILOSOPHY.md), and [`production/DECISION-STATUS.md`](production/DECISION-STATUS.md).
+
+## Related variant: One Piece: Recharted
+
+Peak Piece and **One Piece: Recharted** grew from the same early collaborative rewrite project before diverging into two creative directions.
+
+- **Peak Piece** is willing to reimagine foundations, including material that may already work in canon, when another direction has enough potential to justify exploration.
+- **Recharted** focuses primarily on repairing and reworking post-timeskip *One Piece* while keeping pre-timeskip much closer to the original.
+
+Neither version exists as a rebuttal to the other. They are different answers to different creative questions, with shared history, contributors, and ideas.
+
+Recharted Discord: https://discord.gg/3fXkMkHJJ
+
+## Just want to read Peak Piece?
 
 **Stay in [`story/`](story/README.md).**
 
@@ -25,6 +56,7 @@ Right now the project is still being written, so `story/` contains readable arc 
 ### Start here
 
 - [Story guide](story/README.md)
+- [Return to Sabaody](story/sagas/return-to-sabaody/arcs/return-to-sabaody/arc.md)
 - [Fishman Island](story/sagas/fishman-island/arcs/fishman-island/arc.md)
 - [Whole Cake Island](story/sagas/whole-cake-island/arcs/whole-cake-island/arc.md)
 - [Soul Feast](story/sagas/soul-feast/arcs/soul-feast/arc.md)
@@ -35,13 +67,29 @@ Right now the project is still being written, so `story/` contains readable arc 
 
 Repairs matter, but repair alone is not the whole pitch.
 
-A reader who already knows *One Piece* should still be able to discover Recharted rather than only check which canon problems were cleaned up.
+A reader who already knows *One Piece* should still be able to discover Peak Piece rather than only check which canon problems were cleaned up.
 
 A useful internal test is:
 
 > **If summarizing the change gives away most of the reason to experience it, it is mainly a repair. If summarizing it creates more questions than it answers, it is becoming a reimagining.**
 
-Both are useful. Recharted intentionally makes room for both.
+Both are useful. Peak Piece intentionally makes room for both.
+
+## Coherence is not optimization
+
+Peak Piece follows consequences. It does **not** try to turn every person, culture, army, or institution into an optimal strategy engine.
+
+People preserve stupid rules because of grief. Empires subsidize useless places because somebody they loved once lived there. Rituals survive after their original reason disappears. Competent people make impulsive decisions. Trauma becomes policy. Sentiment survives efficiency.
+
+A useful review question is:
+
+> **What irrational consequence survived anyway?**
+
+Or, more simply:
+
+> **Do not optimize away the scar.**
+
+The goal is a world that remembers itself, not a world that behaves like a spreadsheet.
 
 ## Want to see how it is made?
 
@@ -61,6 +109,24 @@ When the internal model has done enough to keep the adventure consistent:
 
 > **Close the spreadsheet and write the fucking story.**
 
+## Explore Peak Piece
+
+### Obsidian
+
+Clone/download the repository and open the repository folder as an Obsidian vault.
+
+Start from [`production/00 - Peak Piece.md`](production/00%20-%20Peak%20Piece.md).
+
+See [`production/OBSIDIAN.md`](production/OBSIDIAN.md).
+
+### Ask ChatGPT or another repository-capable AI
+
+You can ask an AI about Peak Piece without manually reading the entire production bible.
+
+Copy the onboarding prompt from [`production/AGENTPROMPT.md`](production/AGENTPROMPT.md).
+
+The prompt tells the agent to inspect the repository, distinguish canon from Peak Piece status, and evaluate reimagined material according to the question it is actually trying to answer.
+
 ## Two layers, one project
 
 ```text
@@ -71,32 +137,16 @@ peak-piece/
 
 Repository administration such as the changelog, contributing guide, and contributor list stays at the root.
 
-## Obsidian
-
-If you want the full writers' room experience, clone/download the repository and open the `peak-piece` folder in Obsidian.
-
-Start from [`production/00 - Peak Piece.md`](production/00%20-%20Peak%20Piece.md).
-
-See [`production/OBSIDIAN.md`](production/OBSIDIAN.md).
-
-## Discussion
-
-**GitHub is the source of truth. Discord is the writers' room.**
-
-Major changes to project philosophy or foundations must also be announced where collaborators actually work. A silent GitHub edit is not an acceptable way to redefine the project for people who do not use Git day-to-day.
-
-Discord: https://discord.gg/3fXkMkHJJ
-
 ## Contributing
 
 You do not need to agree with every current decision.
 
-If something does not make sense, question it. If a rewrite removes something canon did well, say so. If a strange alternative has real potential, it is allowed to be explored before anybody has to prove it beats a finished canon version.
+If something does not make sense, question it. If a rewrite removes something canon did well, identify the cost. If a strange alternative has real potential, it is allowed to be explored before anybody has to prove it beats a finished canon version.
 
-Foundational directions are disclosed up front. They are not immunity from criticism; they define which version of *One Piece* this particular project is trying to make.
+Foundational directions are disclosed up front. They are not immunity from criticism; they define which version of *One Piece* Peak Piece is trying to make.
 
-See [`CONTRIBUTING.md`](CONTRIBUTING.md), [`CONTRIBUTORS.md`](CONTRIBUTORS.md), and [`production/FOUNDATIONS.md`](production/FOUNDATIONS.md).
+See [`CONTRIBUTING.md`](CONTRIBUTING.md), [`CONTRIBUTORS.md`](CONTRIBUTORS.md), [`production/FOUNDATIONS.md`](production/FOUNDATIONS.md), and [`production/DECISION-STATUS.md`](production/DECISION-STATUS.md).
 
 ## Fan project
 
-**One Piece: Recharted** is an unofficial, non-commercial fan rewrite of *One Piece*. *One Piece* and its characters belong to Eiichiro Oda, Shueisha, and the relevant rights holders.
+**Peak Piece** is an unofficial, non-commercial fan rewrite/reimagining of *One Piece*. *One Piece* and its characters belong to Eiichiro Oda, Shueisha, and the relevant rights holders.

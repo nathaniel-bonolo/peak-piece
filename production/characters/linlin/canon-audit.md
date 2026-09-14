@@ -17,45 +17,57 @@ Canon mixes fairy-tale horror, grotesque motherhood, childish desire, imperial s
 
 Unless a source explicitly confirms authorial intent, this is **interpretation**, not a claim about Oda's private intention.
 
-## Problems Recharted identifies
+## Peak Piece response
 
-Hunger pangs repeatedly reduce a top political/military actor to plot-controlled toddler behavior; her family can function as an enemy roster more than a lived family; the Soul-Soul Fruit opens institutional possibilities canon does not always pursue.
+Peak Piece deliberately takes the Soul-Soul Fruit and family-state premise somewhere much larger.
 
-## Recharted response
+Linlin is roughly four centuries old.
 
-Peak Linlin is a competent imperial matriarch whose soul economy, Tea Party, family, coercion, tenderness, humor, vanity, and possessiveness all remain.
+Her dynasty uses lossy lifespan conversion to preserve Linlin and selected long-lived family members, creating an empire whose maintenance cost grows with its own success.
 
-The Orchard and harvest doctrine develop implications of her soul power without requiring a new age.
+Four centuries turn Charlotte administration into religion, ritual, folklore, law, and historical dependency.
 
-Final Service is wartime lifespan calculus, not heroic martyrdom.
+This change is **not** justified by claiming canon Linlin's backstory was bad.
 
-## Ancient Linlin is now contested
+It is a direct example of Peak Piece asking:
 
-Earlier Peak material locked a roughly four-century Linlin.
-
-That is no longer authoritative.
-
-The idea is preserved as [[production/proposals/active/ancient-linlin-soul-dynasty|a contested proposal]] because it may create a much larger alternate story even though canon Linlin's existing backstory is already good.
-
-This is a deliberate example of the new project philosophy:
-
-> **canon can work and another direction can still be worth exploring**
-
-If the proposal loses, the Orchard, Pudding work, Soul Feast, and competent Linlin remain.
+> **What else could these ingredients have become?**
 
 ## What we preserve
 
-Soul fairy-tale imagery, Totto Land, lifespan extraction, food, family centrality, political empire, frightening strength, possessiveness, genuine affection, grotesque contradiction.
+- soul fairy-tale imagery
+- Totto Land
+- lifespan extraction
+- food
+- family centrality
+- political empire
+- frightening strength
+- possessiveness
+- genuine affection
+- grotesque contradiction
+- the childlike hunger to possess what she wants
 
-## What we intentionally reject
+## What we intentionally reject / transform
 
-Recurring hunger-tantrum incompetence as a fight-balancing device.
+- recurring hunger-tantrum incompetence as a fight-balancing device
+- Linlin's age being too short for the soul economy to reshape centuries of world history
+- the Charlotte family functioning mainly as a large enemy roster instead of a dynasty people have lived under for generations
 
-## Failure modes to watch
+## Calm does not mean cured
 
-Do not turn her into a sterile chess computer. Keep bizarre rituals, emotional attachments, humor, vanity, love, and control.
+Peak Linlin is competent because she has had centuries to learn rulership.
 
-Do not treat institutional competence as evidence that she must be ancient.
+That does not make her emotionally healthy.
+
+Her impulsiveness survives in character-specific form: appetite, possessiveness, grief, old grudges, irrational family attachment, and the inability to leave exceptional "fruit" alone.
+
+## Review standard
+
+A reader can prefer canon Linlin.
+
+That preference does not by itself answer whether Peak Piece's Eternal Matriarch succeeds at the different story it is trying to tell.
+
+Audit the replacement on its own costs and payoffs.
 
 ## References
 
@@ -63,11 +75,12 @@ Do not treat institutional competence as evidence that she must be ancient.
 - Manga ch. 835 - Totto Land lifespan toll and soul system.
 - Manga ch. 829 - major hunger-pang material.
 
-### Recharted
+### Peak Piece
 - [[production/characters/linlin/overview|Overview]]
+- [[production/characters/linlin/ancient-matriarch|Ancient Matriarch]]
 - [[production/characters/linlin/abilities|Abilities]]
 - [[production/systems/soul-system|Soul System]]
-- [[story/sagas/soul-feast/arcs/soul-feast/arc|Soul Feast]]
-- [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin proposal]]
+- [[production/lore/factions/charlotte-orchard|The Orchard]]
+- [[production/spinoffs/the-years-she-ate/README|The Years She Ate]]
 
 See [[production/references/canon/source-policy|Canon Audit Source Policy]].

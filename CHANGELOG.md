@@ -11,6 +11,81 @@ tags:
 
 # Changelog
 
+## V11 - Peak Piece becomes the reimagining variant
+
+### Project identity
+- Restored **Peak Piece** as the public project name.
+- Documented **One Piece: Recharted** as the sibling post-timeskip-focused rewrite that grew from the same early collaboration.
+- Added the Recharted Discord as a related-project link rather than presenting it as Peak Piece's own server.
+- Clarified that the two variants are different creative answers, not competing claims to the one correct rewrite.
+
+### Philosophy and review
+- Made **preference is not refutation** explicit in the public README and writing philosophy.
+- Added: **A coherent world is not an optimized world.**
+- Added the audit question: **What irrational consequence survived anyway?**
+- Added: **Do not optimize away the scar.**
+- Generalized hostile review around intended function, gains, losses, and execution rather than hard-coded canon loyalty.
+
+### Navigation / AI onboarding
+- Added root `AGENTS.md`.
+- Added [[production/AGENTPROMPT|AGENTPROMPT]] for copy-paste ChatGPT / AI onboarding.
+- Added [[production/DECISION-STATUS|Decision Status]] so foundational, contested, proposed, rejected, and superseded material can be read in one place.
+- Updated Obsidian / production navigation to expose the new status and AI paths.
+
+### Foundations promoted
+- **Ancient Linlin / Eternal Matriarch** is foundational.
+- **Sabo earns brotherhood onscreen** is foundational.
+- **Chopper's timeskip must causally produce his doctor / Zoan-pharmacologist skillset** is foundational.
+- **Chopper's SMILE / nonlethal Devil Fruit extraction direction** is foundational.
+- **Usopp contingency paranoia** is foundational.
+- **Imu / Linlin's centuries-old strategic relationship** is foundational.
+- Brook / Ancient Linlin remains separately contested.
+
+### Eternal Matriarch
+- Locked Linlin at roughly four centuries old.
+- Locked lossy lifespan conversion and increasing maintenance cost as Linlin / preserved dynasty members age.
+- Added soul-quality / coherence / compatibility / conviction effects on conversion efficiency.
+- Added genuine political legitimacy for Charlotte protection in some territories.
+- Added Orchard victim petitions / public justice framing.
+- Added voluntary offering cultures and Festival-of-Years-style religious life.
+- Added Charlotte folk divinity: Mama, Brulee, Pudding, Katakuri and other long-lived family members can accumulate religious domains without being literal gods.
+- Added Brulee-attuned household mirrors and the possible Charlotte origin of the seven-years bad-luck superstition.
+- Locked calm Linlin as **four centuries of learned rulership, not the removal of the child underneath**.
+- Added Roger as the extraordinary Orchard prospect Linlin never gets to harvest: terminal illness, Poneglyph theft, chosen death, and the Great Pirate Era all change the relationship.
+- Added God Valley as an irresistible concentration of valuable souls from Linlin's POV while preserving everybody else's independent motives.
+- Added Linlin violating protected Marine / Holy Knight categories under the Imu arrangement because some souls are too tempting.
+- Added Straw Hat / Roger-crew pattern recognition as historical expertise rather than destiny.
+- Added the post-Linlin succession / religious / security crisis as a required consequence of defeating a four-century god-empress.
+
+### The Years She Ate
+- Added **The Years She Ate** as the Charlotte historical companion anthology.
+- Added multi-century POV structure, mythology-by-distortion, religion / folklore notes, timeline anchors, and story seeds.
+
+### Return to Sabaody
+- Added Return to Sabaody as the new reader-facing start of the developed post-timeskip chain.
+- Chopper becomes the opening emotional anchor for **what happened to everyone over the last two years?**
+- Fake Straw Hats can remain, but their visual plausibility and causal existence are strengthened; matching Devil Fruits are unnecessary.
+- Refined C_FOR's Marine / Smoker direction into **Sabaody as the new Loguetown**, with Smoker commanding the chokepoint operation.
+- The Sunny is kept intact as Marine bait rather than guarded by Kuma for two years.
+- 2D3Y plus Brook's public concert sharpens the expected return window.
+- Marines, Pacifistas, Sentomaru, Tashigi, and Smoker now arise from a prepared interception operation.
+- Nami discovering that Marine inventory / confiscation reached her valuables is retained as a comedy beat.
+- The fight structure is intentionally not a rigid tiered boss gauntlet.
+
+### Fishman Island
+- Locked the two-arc progression: **RTS proves the training worked; FMI proves strength alone is not enough.**
+- Hordy can defeat the Straw Hats through home-field control, objectives, environment, injection, and situation rather than simply having a larger power number.
+- Hoshi now deliberately calls the Sea King that defeats Hordy.
+- Fishman Island ultimately protects itself rather than replacing Whitebeard / Linlin with another human pirate flag.
+- Luffy remains an ally without becoming the next outside protectorate owner.
+- Hoshi's Sea-King taming becomes a recurring developmental arc beyond Fishman Island.
+- Added Hordy's anti-human blame as partly self-exoneration: real oppression becomes a shield against admitting which later choices were his.
+
+### Credits
+- Preserved prior contributors and historical credit after the project divergence.
+- Added **C_FOR / 𝒞_F𝒪𝑅** for the Marine-heavy Return to Sabaody / Smoker seed and the Hordy self-exoneration refinement.
+- Added CerezaVeneris credit for Chopper as the opening Return to Sabaody focal character.
+
 ## V10 - Recharted becomes a disclosed reimagining
 
 ### Project identity

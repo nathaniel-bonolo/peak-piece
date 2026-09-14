@@ -58,6 +58,28 @@ Peak Piece understands canon Hordy's inherited-hatred thesis and deliberately gi
 
 Hordy's new mine is deliberately non-Gem. Gem injection enters later through liberation folklore, which reduces causal compression without removing the Tiger / Hoshi / failed-injection chain.
 
+## Straw Hat loss / Fishman Island victory
+
+Peak Piece deliberately lets Hordy defeat the Straw Hats' attempt to solve the crisis in time.
+
+That is not a statement that Hordy is simply stronger than the entire post-timeskip crew.
+
+Return to Sabaody already establishes that the training worked.
+
+Fishman Island then tests environment, objectives, rescue pressure, local knowledge, underwater disadvantage, and Hordy's real injection technique.
+
+The point is:
+
+> **Strength is necessary. Strength is not sufficient.**
+
+The final protector is Shirahoshi. She deliberately calls the Sea King that removes Hordy's Devil's Hand.
+
+That lets Fishman Island end without simply replacing Whitebeard / Linlin with another human pirate flag.
+
+Luffy can remain an ally without becoming the next outside owner of the island's security.
+
 ## Shirahoshi warning
 
 Removing Poseidon does not justify replacing her with Generic Badass Woman. She remains gentle, wants to become a warrior because she admires Tiger freeing people, and eventually learns liberation requires more than fighting.
+
+Her Sea-King ability develops through repeated taming / relationship rather than hereditary destiny. Fishman Island is the beginning of that growth, not its endpoint.

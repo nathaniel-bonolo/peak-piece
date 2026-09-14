@@ -10,7 +10,7 @@ tags: [proposal, brook, linlin, orchard, contested]
 
 This is **not part of foundational Brook**.
 
-It only becomes chronologically possible if [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin]] survives.
+Ancient Linlin is now foundational, so this extension is chronologically possible. It remains contested because Peak Brook does not need the Charlotte connection to work.
 
 ## Direction
 
@@ -51,7 +51,7 @@ Reject or rewrite this extension if it:
 
 - makes Brook's foundational dead-promises arc dependent on Linlin
 - makes the world feel smaller rather than causally connected
-- requires Ancient Linlin to survive only to save Brook's backstory
+- makes Ancient Linlin feel as though she exists only to service Brook's backstory
 - turns every important old pirate into a Charlotte victim
 
 Brook remains Peak Brook if this entire proposal is deleted.

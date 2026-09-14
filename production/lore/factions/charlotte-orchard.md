@@ -67,6 +67,8 @@ How strong / coherent is the soul **now**?
 
 Relevant evidence can include combat ability, Haki, Devil Fruit use, experience, will, age, injuries, and observed performance.
 
+For lifespan / longevity use, conversion value also depends on coherence, identity, compatibility, and the condition in which the soul is surrendered. A strong but shattered soul is not automatically the cleanest fuel.
+
 ### Growth potential
 
 How much stronger is the person plausibly going to become?
@@ -134,6 +136,32 @@ She can have favorites.
 
 She can remember who they came from without treating the dead person as somebody she regrets killing.
 
+## Public face: Mama's justice
+
+The Orchard is horrifying from the perspective of the person being cultivated.
+
+It can look very different to somebody the target victimized.
+
+A notorious pirate can massacre a town, receive a Government bounty, and remain free for years.
+
+Charlotte intelligence may actually track them. Katakuri may actually bring them back alive. Mama may make sure they never hurt anybody again.
+
+Victims and families can send the Charlotte state:
+
+- testimony
+- names
+- evidence
+- petitions
+- requests for justice
+
+Some people therefore sincerely believe the Orchard succeeds where Government justice stops at printing a poster.
+
+That legitimacy is dangerous because **bounty is not guilt**.
+
+Political enemies, scholars, revolutionaries, and inconvenient witnesses can also carry large bounties.
+
+The same institution that punishes real monsters can harvest people who never deserved it.
+
 ## Tracking
 
 A Green prospect with high potential and low spoilage risk may be allowed to leave.
@@ -155,15 +183,27 @@ A frightening reveal can be that somebody thought the Charlottes spared them whe
 
 ## Linlin's time horizon
 
-Linlin is willing to think in years when a promising soul is unusually valuable.
+Linlin is willing to think in years or decades when a promising soul is unusually valuable.
 
 Her logic is simple:
 
 > **do not harvest a promising soul before it matures**
 
-Waiting can produce a stronger future weapon, but it also increases spoilage risk.
+Waiting can produce a stronger future weapon or cleaner longevity source, but it also increases spoilage risk.
 
-The contested [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin]] version would make this patience even more extreme; the Orchard itself does not depend on that age.
+Four centuries of experience make the Orchard frighteningly patient without making it infallible.
+
+## Roger and recurring historical patterns
+
+Roger becomes the most famous example of a prospect Linlin watched become more valuable and never successfully harvested.
+
+His crew keeps surviving past the point where most pirate crews collapse.
+
+That history matters in the current era because Linlin can recognize the **same structural pattern** in another crew without prophecy or reincarnation.
+
+The Straw Hats interest her because they keep collectively ripening.
+
+That is an expert predator recognizing a rare pattern, not destiny declaring Luffy the new Roger.
 
 ## Emperor friction
 

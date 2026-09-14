@@ -68,7 +68,7 @@ Stored soul material can potentially function as a consequence sink.
 
 Imu's survival system must work independently of Charlotte Linlin.
 
-If [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin]] survives, her empire can become an unusually valuable supplier of coherent soul material. That is an optional extension, not the engine that makes Imu possible.
+Linlin's ancient empire is an unusually valuable supplier of coherent soul material under the foundational Imu / Linlin relationship. Imu's system still exists independently; Charlotte supply is leverage and scale, not the source of Imu's power.
 
 ## Related
 

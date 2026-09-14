@@ -11,12 +11,12 @@ tags:
 # Peak Piece
 
 > [!success] Just want to read?
-> Start with **[[story/sagas/fishman-island/arcs/fishman-island/arc|Fishman Island]]**.
+> Start with **[[story/sagas/return-to-sabaody/arcs/return-to-sabaody/arc|Return to Sabaody]]**.
 >
-> It is the current development focus and the recommended entry point.
+> It now leads directly into the rebuilt Fishman Island direction.
 
 > [!info] Project workflow
-> **GitHub is the source of truth. Discord is the writers' room.**
+> **GitHub is the source of truth. Obsidian is the full linked view. Chats / Docs are drafting surfaces.**
 >
 > Reader-facing material lives in [[story/_Story|Story]]. Deeper systems, lore, proposals, and production notes are optional.
 
@@ -28,19 +28,21 @@ tags:
 - 👥 [[production/indexes/Characters|Characters MOC]]
 - ⚙️ [[production/indexes/Systems|Systems MOC]]
 - 🌍 [[production/indexes/Lore|Lore MOC]]
+- 🧭 [[production/DECISION-STATUS|Decision Status]]
 - 🧪 [[production/indexes/Proposals|Active proposals]]
 
 ## Current recommended read
 
-1. [[story/sagas/fishman-island/arcs/fishman-island/arc|Fishman Island]]
-2. [[story/sagas/whole-cake-island/arcs/whole-cake-island/arc|Whole Cake Island]]
-3. [[story/sagas/soul-feast/arcs/soul-feast/arc|Soul Feast]]
-
-Fishman Island is the suggested starting point right now.
+1. [[story/sagas/return-to-sabaody/arcs/return-to-sabaody/arc|Return to Sabaody]]
+2. [[story/sagas/fishman-island/arcs/fishman-island/arc|Fishman Island]]
+3. [[story/sagas/whole-cake-island/arcs/whole-cake-island/arc|Whole Cake Island]]
+4. [[story/sagas/soul-feast/arcs/soul-feast/arc|Soul Feast]]
 
 ## Project files
 
-- [[production/FOUNDATIONS|Recharted Foundations]]
+- [[production/FOUNDATIONS|Peak Piece Foundations]]
+- [[production/DECISION-STATUS|Decision Status]]
+- [[production/AGENTPROMPT|Ask ChatGPT / Agent Prompt]]
 - [[production/WRITING-PHILOSOPHY|Writing Philosophy]]
 - [[production/STYLE-GUIDE|Style Guide]]
 - [[CONTRIBUTING|Contributing]]
@@ -53,8 +55,8 @@ Fishman Island is the suggested starting point right now.
 ## Community
 
 - GitHub: https://github.com/nathaniel-bonolo/peak-piece
-- Discord: https://discord.gg/3fXkMkHJJ
-- [[production/community/discord-welcome|Discord Welcome]]
+- Related Recharted Discord: https://discord.gg/3fXkMkHJJ
+- [[production/community/discord-welcome|About the Recharted Discord]]
 
 > [!quote]
 > **Question everything.**

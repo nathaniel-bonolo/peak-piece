@@ -1,6 +1,6 @@
 {
   "name": "Peak Piece",
-  "version": 10,
+  "version": 11,
   "canon_roots": [
     "systems",
     "characters",
@@ -13,15 +13,24 @@
     "production"
   ],
   "story_is_canonical_readable_layer": true,
-  "discord": "https://discord.gg/3fXkMkHJJ",
+  "related_projects": [
+    {
+      "name": "One Piece: Recharted",
+      "focus": "post-timeskip repair/rewrite with pre-timeskip kept much closer to canon",
+      "discord": "https://discord.gg/3fXkMkHJJ"
+    }
+  ],
   "obsidian_home": "00 - Peak Piece.md",
+  "agent_prompt": "production/AGENTPROMPT.md",
+  "decision_status": "production/DECISION-STATUS.md",
   "moc_root": "indexes",
-  "current_focus": "Fishman Island",
+  "current_focus": "Return to Sabaody / Fishman Island",
   "contributors": [
     "Nathaniel Bonolo",
     "CerezaVeneris",
     "Remmkoe",
-    "firefox6663355 / Fox"
+    "firefox6663355 / Fox",
+    "C_FOR / 𝒞_F𝒪𝑅"
   ],
-  "latest_lock": "V10 - reimagining philosophy, disclosed foundations, Brook and Poneglyph foundations, ancient Linlin moved to contested"
+  "latest_lock": "V11 - Peak Piece identity, Eternal Matriarch foundation, status ledger, Sabaody/Smoker rebuild, Fishman Island self-liberation"
 }

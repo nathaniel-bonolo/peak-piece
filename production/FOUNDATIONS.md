@@ -2,26 +2,24 @@
 type: project-foundations
 status: live
 canon: true
-aliases: [Foundations, Recharted Foundations]
+aliases: [Foundations, Peak Piece Foundations]
 tags: [project, philosophy, foundations]
 ---
-# Recharted Foundations
+# Peak Piece Foundations
 
-This file exists so nobody has to discover the project's core direction after weeks of contributing.
+This file exists so nobody has to discover the project's core direction after investing substantial work.
 
-A **foundation** is not "an idea Nathan likes too much to vote on."
-
-It is a direction-level premise that defines what version of *One Piece* Recharted is trying to make.
+A **foundation** is a direction-level premise that defines what version of *One Piece* Peak Piece is trying to make.
 
 Foundations can be criticized. Their execution can change radically. Scenes can fail. Progression can be too fast. A mechanism can be replaced. A better implementation can win.
 
 But removing a foundation entirely means proposing a meaningfully different adaptation.
 
-> **Foundational does not mean above criticism. It means disclosed before collaboration.**
+> **Foundational does not mean above criticism. It means this is the version we are intentionally exploring.**
 
-## 1. Recharted is a reimagining, not a repair-only project
+## 1. Peak Piece is a reimagining, not a repair-only project
 
-Recharted can:
+Peak Piece can:
 
 - preserve what earns preservation
 - repair weak execution
@@ -32,15 +30,17 @@ Canon does not have to be bad before we are allowed to ask:
 
 > **What if?**
 
-Different is not automatically better. A replacement still has to earn its cost before it locks.
+Different is not automatically better. A replacement still has to earn its cost.
 
-But an undeveloped alternative does not need to beat a finished manga before writers are allowed to explore it.
+But an undeveloped alternative does not need to defeat a finished manga before writers are allowed to explore it.
+
+A reader may prefer canon. That preference is valid. It is not automatically a structural refutation of a Peak Piece direction that deliberately asks a different question.
 
 See [[production/WRITING-PHILOSOPHY|Writing Philosophy]].
 
 ## 2. Luffy meaningfully develops
 
-Recharted rejects an essentially static Luffy as the long-form protagonist model.
+Peak Piece rejects an essentially static Luffy as the long-form protagonist model.
 
 Luffy remains joyful, impulsive, absurd, hungry, intuitive, stubborn, and recognizably Luffy.
 
@@ -60,7 +60,7 @@ See [[production/characters/luffy/overview|Luffy]] and [[production/characters/l
 
 ## 3. Hordy uses the Devil's Hand thesis
 
-Recharted understands canon Hordy's inherited-hatred thesis and deliberately chooses another central question:
+Peak Piece understands canon Hordy's inherited-hatred thesis and deliberately chooses another central question:
 
 > **What happens when an oppressed person learns that becoming the oppressor's hand is the safest way to protect the oppressed?**
 
@@ -74,7 +74,7 @@ See [[production/characters/hordy/overview|Hordy]] and [[production/characters/h
 
 ## 4. Brook's second life is an actual character arc
 
-Brook is **not** a Rumbar Pirate in Recharted.
+Brook is **not** a Rumbar Pirate in Peak Piece.
 
 The Rumbar Pirates remain their own crew and retain the Laboon promise.
 
@@ -94,9 +94,7 @@ becomes:
 
 Binks' Sake and the crew-death music sequence are preserved through Brook's own crew.
 
-The exact promise list, parrot material, scenes, and route to Laboon can be refined. The second-life / dead-promises direction is foundational.
-
-Brook's possible history with an ancient Linlin is **not** part of this foundation. It is a contested extension that only exists if the ancient-Linlin proposal survives.
+Brook's possible history with ancient Linlin is **not** part of this foundation. It remains a separately contested extension.
 
 See [[production/characters/brook/overview|Brook]].
 
@@ -122,27 +120,147 @@ The exact material science, movement limits, and disposal edge cases can remain 
 
 See [[production/lore/history/poneglyphs|Poneglyphs]].
 
+## 6. Linlin is the Eternal Matriarch
+
+Charlotte Linlin is roughly four centuries old.
+
+Her Soul-Soul Fruit has been extended so lifespan taken from others can sustain Linlin and selected members of an unusually long-lived Charlotte dynasty.
+
+This is not free immortality.
+
+Conversion is lossy, and maintaining older recipients becomes increasingly expensive.
+
+> **The longer Linlin and the preserved dynasty live, the more external lifespan they need merely to sustain the dynasty they already have.**
+
+Soul value is not a simple strength number. Raw strength, coherence, identity, surrender, compatibility, and voluntary conviction can affect how cleanly extracted lifespan / soul material converts.
+
+Four centuries must visibly exist in the world.
+
+The Charlotte state therefore produces:
+
+- old wars and treaties
+- protected territories with genuine reasons to prefer Mama's rule
+- soul-tax traditions
+- offerings and festivals
+- Orchard justice petitions
+- folklore and religious language
+- Charlotte family members treated as gods / saints / household powers
+- obsolete rules and emotional scars that survive because one immortal family remembers the original event
+
+Linlin is calm because four centuries taught her how to rule.
+
+They did **not** remove the child underneath.
+
+Rare souls, personal loss, possessiveness, appetite, and emotional attachment can still make her impulsive, greedy, irrational, or visibly hungry.
+
+See [[production/characters/linlin/ancient-matriarch|Ancient Matriarch]].
+
+## 7. Sabo earns brotherhood onscreen
+
+Peak Piece keeps Sabo alive but rejects the retroactive secret third-brother / noble-childhood insertion.
+
+Dragon rescues an orphaned Sabo during Revolutionary activity.
+
+Sabo grows up inside the Revolutionary Army and jokingly treats Dragon as his father.
+
+When he learns Luffy is Dragon's biological son, he decides this obviously means Luffy is his brother.
+
+Luffy does not agree.
+
+Their eventual brotherhood must be built through present-tense relationship and shared action rather than restored through retroactive childhood memory.
+
+The exact scenes can change. The earned-brotherhood direction is foundational.
+
+See [[production/characters/sabo/overview|Sabo]].
+
+## 8. Chopper's timeskip must causally produce his later science
+
+Chopper's central specialization is:
+
+> **doctor + Devil Fruit pharmacologist**
+
+His timeskip cannot merely be "he read medical books" or acquire an unrelated combat style.
+
+Two years must plausibly produce the person who later understands Zoan expression, artificial Zoan pathology, toxicology, species differences, and SMILE well enough to pursue a real cure.
+
+The exact island / institution / teachers can remain open while the curricular result is foundational.
+
+See [[production/characters/chopper/timeskip|Chopper Timeskip]].
+
+## 9. Chopper treats SMILE as a Fruit pathology, not a local gag disease
+
+SMILE is one of Chopper's major long-term medical problems.
+
+Symptom treatment is not enough.
+
+A complete cure requires removing, neutralizing, or safely separating the artificial Devil Fruit effect embedded in the victim.
+
+Blackbeard's demonstrated ability to remove / steal Devil Fruits becomes medically relevant because his known process kills the victim.
+
+Peak Piece therefore keeps the direction that Chopper, Law, and others may need Blackbeard alive long enough to understand the useful principle and make extraction survivable.
+
+The exact Blackbeard mechanism is not locked.
+
+See [[production/characters/chopper/progression|Chopper Progression]].
+
+## 10. Usopp's preparation develops a cost
+
+Usopp's fear becomes useful because it drives preparation.
+
+That strength cannot mature into flawless tactical omniscience.
+
+The Evil Zoro / internal-threat lesson pushes him toward a darker conclusion:
+
+> **Even the strongest person protecting me can become the threat.**
+
+Usopp begins building contingencies against allies as well as enemies.
+
+Preparation becomes paranoia.
+
+His long arc therefore includes learning that planning cannot make life safe and that bravery eventually requires acting without a perfect contingency.
+
+See [[production/characters/usopp/contingencies|Usopp Contingencies]].
+
+## 11. Imu and Linlin have a centuries-old strategic relationship
+
+Imu's deferred-consequence / contract system stands on its own.
+
+Linlin's empire also stands on its own.
+
+Their relationship is still foundational.
+
+For centuries, Imu tolerates / accommodates parts of Charlotte expansion in exchange for recurring access to unusually valuable soul material.
+
+The arrangement also creates protected categories Linlin is not supposed to harvest, including Marines and Holy Knights operating under the agreement.
+
+Linlin is not Imu's subordinate.
+
+She is fully capable of violating the arrangement because she wants something too badly.
+
+Those violations create real consequences: compensation, quota increases, restrictions, political retaliation, or other costs that can survive for generations.
+
+The exact contract wording, quotas, dates, and payment mechanics remain open.
+
+See [[production/characters/imu/relationships|Imu Relationships]] and [[production/characters/linlin/relationships|Linlin Relationships]].
+
 ## What is explicitly **not** foundational
 
 Being exciting is not enough to become a foundation.
 
 Current examples that remain proposals / contested directions include:
 
-- [[production/proposals/active/ancient-linlin-soul-dynasty|roughly 400-year-old Linlin / immortal soul dynasty]]
-- Brook's possible Charlotte/Orchard victim history
-- [[production/proposals/active/loki-fable-fake-ragnir|Fable Loki and fake Ragnir]]
-- exact Imu/Linlin contract integration
-- exact Sabo reconstruction
-- Burgess receiving the Mera-Mera no Mi until the scenario is finished
+- [[production/proposals/active/brook-ancient-linlin-extension|Brook as an old Charlotte / Orchard victim]]
+- [[production/proposals/active/loki-fable-fake-ragnir|Fable Loki and the fake legendary hammer]]
+- [[production/proposals/active/burgess-mera-mera|Burgess receiving the Mera-Mera no Mi]]
+- [[production/proposals/active/wci-without-germa|Whole Cake Island without Germa]]
+- [[production/proposals/active/nidhoggr-creature|Nidhoggr as an actual creature]]
 
-These can be developed, challenged, accepted, rejected, or replaced without changing the basic identity of Recharted.
+See [[production/DECISION-STATUS|Decision Status]] for the full current list.
 
 ## Foundation governance
 
-Do not silently add foundations because the maintainer controls the repository.
+Peak Piece no longer shares one adaptation premise with the sibling Recharted project.
 
-A change to this file changes what collaborators are being asked to make.
+That divergence is documented rather than treated as a fight somebody had to win.
 
-It should therefore be discussed with the current group and announced in the writers' room before being treated as shared project doctrine.
-
-If collaborators discover that they want fundamentally different adaptations, splitting into separate versions is healthier than pretending the disagreement is a scene-level vote.
+Future foundation changes should still be explicit. Do not quietly convert a draft idea into a foundation and expect readers or contributors to infer the new project from a Git diff.

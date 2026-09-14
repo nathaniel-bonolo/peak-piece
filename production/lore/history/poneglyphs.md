@@ -14,7 +14,7 @@ tags: [lore, history, void-century, poneglyph, foundational]
 
 If the World Government genuinely wants the Void Century erased, surviving public monuments need a reason to exist.
 
-Recharted's answer is structural:
+Peak Piece's answer is structural:
 
 > **The stones are effectively indestructible to the Government.**
 

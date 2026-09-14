@@ -58,7 +58,7 @@ Instead:
 
 "I prefer canon" is valid taste.
 
-"Canon already works, therefore exploring another direction is invalid" is not a sufficient review argument in Recharted.
+"Canon already works, therefore exploring another direction is invalid" is not a sufficient review argument in Peak Piece.
 
 ## Foundational directions
 
@@ -78,13 +78,21 @@ A Luffy scene can still be out of character. Brook's arc can still drag. Hordy's
 
 Before replacing canon, identify what canon is doing.
 
-After the rewrite explicitly understands and intentionally rejects that function, criticism must move forward.
+After Peak Piece explicitly understands and intentionally rejects that function, criticism has to address the direction that actually exists.
 
-"I prefer canon Hordy's inherited-hatred thesis" is valid taste/thematic disagreement.
+A preference for canon can be important taste information. It does not automatically demonstrate that Peak Piece misunderstood canon or failed at its own intended thesis.
 
-"The rewrite failed to understand canon Hordy" is not valid if the audit explicitly states the function and rejects it intentionally.
+Compare the strongest versions on:
 
-Likewise, "canon Linlin is already good" does not settle whether the ancient-Linlin proposal is worth exploring. The proposal still has to earn itself, but the room has to judge the question it is actually asking.
+- intended function
+- emotional effect
+- causal structure
+- character fit
+- downstream possibility
+- what each version loses
+- whether the alternate direction earns the replacement
+
+> **Preference is not refutation.**
 
 ## No unfalsifiable loop
 

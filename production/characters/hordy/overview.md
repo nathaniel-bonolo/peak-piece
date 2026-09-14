@@ -7,7 +7,7 @@ tags: [character, fishman-island]
 ---
 # Hordy Jones
 
-> **Foundational direction:** Recharted intentionally gives Hordy the Devil's Hand thesis rather than using him as canon's pure inherited-hatred vehicle. See [[production/FOUNDATIONS|Foundations]].
+> **Foundational direction:** Peak Piece intentionally gives Hordy the Devil's Hand thesis rather than using him as canon's pure inherited-hatred vehicle. See [[production/FOUNDATIONS|Foundations]].
 
 ## Core
 
@@ -66,6 +66,25 @@ He is not a secret saint.
 Years later Genauche recruits him through the wider extraction network because he understands Fishman miners and coercive labor.
 
 The new position gives Hordy access to Fishman Island, records, high-grade Gem infrastructure, and a path toward the real injection technique.
+
+## Self-exoneration
+
+Hordy's hatred of humans is not only ideology. It also becomes psychological defense.
+
+The more obvious his own cruelty becomes, the more useful it is to tell himself:
+
+- the mine made me do this
+- humans made Fishmen like this
+- Tiger taught people to die for impossible hope
+- none of this would exist if humans had not started it
+
+Some of those statements contain real history.
+
+They also let Hordy avoid the harder sentence:
+
+> **Some of what Hordy Jones did was Hordy Jones's choice.**
+
+The final apology matters because he finally stops successfully hiding behind the explanation.
 
 ## Tiger resentment
 

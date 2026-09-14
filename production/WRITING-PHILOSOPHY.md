@@ -12,7 +12,7 @@ tags:
 # Writing Philosophy
 
 
-## Recharted is allowed to recook the meal
+## Peak Piece is allowed to recook the meal
 
 The project is not limited to cleaning up canon mistakes.
 
@@ -26,7 +26,7 @@ It can also be:
 
 > **I understand what this version is doing. What else could these ingredients become?**
 
-Recharted can preserve, repair, develop, or reimagine.
+Peak Piece can preserve, repair, develop, or reimagine.
 
 A good canon idea creates a **higher burden of replacement**, not a prohibition on experimentation.
 
@@ -49,13 +49,13 @@ That does **not** create a no-retcon zone.
 
 A pre-timeskip change is allowed when it creates enough character, causality, downstream structure, discovery, or emotional value to justify what is lost.
 
-> **Protected means higher burden. Sacred means no questions. Recharted chooses protected.**
+> **Protected means higher burden. Sacred means no questions. Peak Piece chooses protected.**
 
 A proposal does not become good merely because it is radical, but "Oda already cooked this part" is not the end of the discussion.
 
 ## Discovery is a creative value
 
-Recharted is being made for people who may already know *One Piece*.
+Peak Piece is being made for people who may already know *One Piece*.
 
 Repairs have value. A cleaner fight, a dead Pell, or a removed gag can make the story better.
 
@@ -67,7 +67,7 @@ A useful internal test:
 
 Neither category is automatically superior.
 
-But Recharted should contain enough discovery that a returning reader cannot always predict the route from a list of canon complaints.
+But Peak Piece should contain enough discovery that a returning reader cannot always predict the route from a list of canon complaints.
 
 ## Creative ownership is a feature
 
@@ -77,7 +77,7 @@ That does not mean forcing novelty into every scene.
 
 It means making room for original architecture, alternate theses, new consequences, new characters, and different routes when they earn the opportunity to exist.
 
-A rewrite that only removes gags, shortens arcs, and repairs fights can still be useful. Recharted deliberately aims for enough original discovery that creators and returning readers both have something genuinely new to uncover.
+A rewrite that only removes gags, shortens arcs, and repairs fights can still be useful. Peak Piece deliberately aims for enough original discovery that creators and returning readers both have something genuinely new to uncover.
 
 ## Let collaborators cook
 
@@ -95,7 +95,7 @@ This is especially important for original characters, alternate theses, and majo
 
 ## Foundations are disclosed, not hidden vetoes
 
-Some direction-level choices define what adaptation Recharted is.
+Some direction-level choices define what adaptation Peak Piece is.
 
 Those choices live in [[production/FOUNDATIONS|Foundations]].
 
@@ -104,6 +104,25 @@ A foundation can be attacked in execution. It can be refined. Its mechanism can 
 But contributors should not discover foundational premises only after investing weeks of work.
 
 Likewise, maintainers should not create new foundations silently in GitHub and rely on collaborators never noticing the diff.
+
+## Preference is not refutation
+
+Peak Piece is allowed to knowingly ask a different question from canon.
+
+A reader can prefer canon's answer. That is real taste and real emotional information. It is not automatically proof that the alternate direction failed.
+
+When the rewrite has correctly identified canon's function and deliberately chosen another one, compare the versions on the jobs they are actually trying to do.
+
+Ask:
+
+- what does canon accomplish?
+- what does Peak Piece intentionally reject or relocate?
+- what new function is the rewrite trying to create?
+- did that new function earn the cost of replacement?
+
+Do not turn every comparison into a demand that Peak Piece recreate canon's original thesis more efficiently.
+
+> **Preference is not refutation.**
 
 ## Audit everything
 
@@ -333,6 +352,30 @@ If a power or technology is important, ask:
 - What institutions form around it?
 - What black markets form around it?
 - What happens after the miracle?
+
+## Do not optimize away the scar
+
+A coherent world is not an optimized world.
+
+People, families, religions, armies, and governments preserve irrational consequences because history happened to them.
+
+Useful causes include:
+
+- grief becoming policy
+- old fear becoming ritual
+- sentiment preserving strategically useless territory
+- inherited privilege outliving the person who earned it
+- taboo surviving after the original danger disappears
+- an impulsive ruler creating a burden descendants still pay
+- obsolete procedure remaining because nobody is willing to challenge the story attached to it
+
+A useful audit question is:
+
+> **What irrational consequence survived anyway?**
+
+Peak Piece should follow consequences without turning every institution into a strategy-game faction.
+
+> **Do not optimize away the scar.**
 
 ## Competent systems are not perfect systems
 

@@ -27,6 +27,23 @@ Her progression should expose:
 
 Soul Feast should eventually force her to spend part of herself rather than endlessly spending everybody else.
 
+
+## Four centuries did not finish her
+
+Linlin's age creates expertise, not emotional completion.
+
+Her long progression includes learning how to turn appetite into rulership, family into state, and soul extraction into institution.
+
+The childish core remains capable of overruling all of that structure when something becomes personally irresistible.
+
+Current-era conflict therefore exposes the difference between:
+
+- the Eternal Matriarch people worship
+- the administrator who has survived four centuries
+- the child who still decides rare things are **hers**
+
+Roger, the Straw Hats, Pudding, and the collapse of Charlotte permanence can each hit a different layer.
+
 ## Related
 
 - [[production/characters/linlin/overview|Linlin]]

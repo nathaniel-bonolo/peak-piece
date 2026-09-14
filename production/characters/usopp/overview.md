@@ -52,6 +52,22 @@ It is:
 
 See [[production/characters/usopp/combat-philosophy|Combat Philosophy]].
 
+## Contingency paranoia
+
+Preparation eventually acquires a cost.
+
+An internal-threat experience teaches Usopp a dangerous second lesson:
+
+> **Even the strongest person protecting me can become the threat.**
+
+He begins quietly developing contingencies against allies as well as enemies.
+
+This is not proof that he can beat every Straw Hat.
+
+It is proof that fear has started demanding plans for dangers that may never happen.
+
+See [[production/characters/usopp/contingencies|Usopp Contingencies]].
+
 ## Dream
 
 Usopp still wants to become a brave warrior of the sea.

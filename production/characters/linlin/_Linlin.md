@@ -11,6 +11,7 @@ tags: [moc, character, linlin]
 # Charlotte Linlin
 
 - [[production/characters/linlin/overview|Overview]]
+- [[production/characters/linlin/ancient-matriarch|Ancient Matriarch]]
 - [[production/characters/linlin/abilities|Abilities]]
 - [[production/characters/linlin/progression|Progression]]
 - [[production/characters/linlin/relationships|Relationships]]
@@ -25,8 +26,10 @@ tags: [moc, character, linlin]
 
 - [[production/systems/soul-system|Soul System]]
 - [[production/lore/factions/big-mom-pirates|Charlotte Empire]]
+- [[production/lore/factions/charlotte-orchard|The Orchard]]
 - [[production/lore/locations/totto-land|Totto Land]]
+- [[production/spinoffs/the-years-she-ate/README|The Years She Ate]]
 
 ## Contested extension
 
-- [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin proposal]]
+- [[production/proposals/active/brook-ancient-linlin-extension|Brook / Ancient Linlin Extension]]

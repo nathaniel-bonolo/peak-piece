@@ -1,22 +1,52 @@
 ---
-type: proposal-pointer
-status: superseded
-canon: false
+type: lore-history
+status: draft
+canon: true
 aliases: [Charlotte Imperial Footprint]
-tags: [lore, history, charlotte, linlin, proposal]
+tags: [lore, history, charlotte, linlin]
 ---
 # Charlotte Imperial Footprint
 
-This material used to be locked because Peak Piece previously locked a roughly four-hundred-year-old Linlin.
+Linlin is roughly four centuries old.
 
-That age is now **contested**, not canon.
+Peak Piece must therefore **pay for that age in world history**.
 
-The historical-footprint requirement has moved into:
+The Eternal Matriarch cannot exist for centuries while leaving the world looking as though she arrived one generation ago.
 
-- [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin / Immortal Soul Dynasty]]
+## Historical evidence
 
-If the proposal is accepted, the central rule returns:
+Possible recurring evidence includes:
 
-> **If Linlin is four centuries old, pay for it in world history.**
+- obsolete anti-Charlotte forts that later became towns
+- kingdoms that were tributaries and later escaped
+- old treaties still shaping tariffs or borders
+- Charlotte cadet bloodlines
+- anti-soul / anti-Homie doctrine
+- merchant routes built around Totto Land protection
+- religious shrines and anti-Charlotte iconoclasm
+- songs, warnings, nursery stories, and mirror superstitions
+- maps shaped by old Charlotte wars
+- Marine manuals describing how to fight the same family members who are still alive
+- islands whose current policy makes no sense until an event two centuries earlier is revealed
 
-Until then, do not treat centuries of Charlotte wars, treaties, cults, bloodlines, or Government tolerance as established Recharted history.
+## Anti-compression rule
+
+Do **not** make every old war, religion, kingdom, or mystery secretly about Linlin.
+
+The world must retain independent causes.
+
+The goal is historical weight, not Charlotte Piece.
+
+## Irrational continuity
+
+Some of the best evidence of four centuries should be things that are no longer optimal.
+
+Examples:
+
+- a treaty clause nobody would negotiate today
+- a useless island still protected because Linlin remembers why it mattered
+- a taboo whose original event has become myth
+- a family privilege whose founder died ten generations ago
+- an annual ritual that began as emergency logistics and became religion
+
+See [[production/characters/linlin/ancient-matriarch|Ancient Matriarch]] and [[production/spinoffs/the-years-she-ate/README|The Years She Ate]].

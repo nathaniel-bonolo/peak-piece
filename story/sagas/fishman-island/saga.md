@@ -24,5 +24,7 @@ The arc is being rebuilt around:
 - Genauche's extraction administration
 - Neptune's compromise
 - the Tea Party production surge
+- the Straw Hats losing the situation without invalidating their training
+- Hoshi becoming Fishman Island's own protector rather than replacing Linlin with another human flag
 
 See [[story/sagas/fishman-island/arcs/fishman-island/arc|Fishman Island Arc]].

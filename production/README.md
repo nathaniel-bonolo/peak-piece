@@ -22,7 +22,7 @@ Once the internal model has answered the downstream questions that matter:
 
 ## Core philosophy
 
-See [[production/FOUNDATIONS|Foundations]] and [[production/WRITING-PHILOSOPHY|Writing Philosophy]].
+See [[production/FOUNDATIONS|Foundations]], [[production/DECISION-STATUS|Decision Status]], and [[production/WRITING-PHILOSOPHY|Writing Philosophy]].
 
 Key ideas include:
 
@@ -32,6 +32,8 @@ Key ideas include:
 - optimization belongs to characters who optimize
 - competence is not omniscience
 - competent systems are not perfect systems
+- do not optimize away the scar
+- preference is not refutation
 - contradiction is not inconsistency
 - continuity can discover payoff without manufacturing setup
 - canon quality raises the burden of replacement; it does not ban exploration
@@ -43,7 +45,7 @@ Key ideas include:
 
 See [[production/WORKFLOW|Writers' Room Workflow]].
 
-Docs/Discord can be the easy drafting surface. Obsidian can be the full project view. GitHub is the source of truth underneath both.
+Chats / Docs can be easy drafting surfaces. Obsidian is the full linked project view. [[production/AGENTPROMPT|Agent Prompt]] is the conversational AI route. GitHub is the source of truth underneath all of them.
 
 ## Review
 

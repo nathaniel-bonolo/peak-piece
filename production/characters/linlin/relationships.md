@@ -36,24 +36,67 @@ Katakuri is a veteran commander trusted to act autonomously.
 
 Linlin does not micromanage every battlefield decision.
 
+Centuries of public history have also turned him into something larger than himself: a folk figure of foresight, war, and protection in some Charlotte territories.
+
 ## Imu
 
-No Linlin/Imu contract is currently locked into Linlin's canon relationships.
+The Imu / Linlin relationship is foundational.
 
-If [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin]] survives, a recurring soul-for-tolerance contract becomes one possible extension.
+Imu's contract system does **not** create Linlin's identity, Soul Fruit, dynasty, or empire.
 
-That version must preserve the ordering:
+Linlin is already Linlin.
 
-1. Linlin is already Linlin.
-2. Linlin is already building her own family-state.
-3. Linlin already has independent reasons to value souls.
-4. Imu can change the environment around her; he does not author her identity.
+Across centuries, the two powers establish a strategic arrangement:
 
-See the proposal rather than treating this relationship as established canon.
+- the Government tolerates / accommodates parts of persistent Charlotte expansion
+- Linlin supplies recurring high-quality soul material / lifespan value
+- certain Government actors, including Marines and Holy Knights operating under the arrangement, are protected from Charlotte harvest
+- violations create explicit compensation / quota consequences
+
+Linlin is not secretly subordinate to Imu.
+
+She can knowingly violate the arrangement because she wants a soul badly enough.
+
+God Valley is a natural place for that flaw to matter: an impossible concentration of valuable people makes the treaty feel like somebody putting dessert behind glass and telling Mama not to touch it.
+
+Exact quotas, wording, dates, and transfer mechanics remain open.
+
+## Roger
+
+Roger begins as Orchard interest and becomes obsession.
+
+Linlin watches his crew survive, improve, and repeatedly escape the point where most pirate crews collapse.
+
+She thinks in harvest language:
+
+> **Let him ripen.**
+
+When she learns he is terminally ill, she is devastated and furious in a way specific to her worldview.
+
+A perfect fruit has a worm inside.
+
+Roger then makes the relationship personal by penetrating her Poneglyph security and denying her control over something she believed was hers.
+
+His chosen death denies her the harvest one final time.
+
+The Great Pirate Era complicates the hatred because it creates an extraordinary new supply of ambitious Orchard candidates.
+
+Linlin can sincerely hate Roger while admitting that his final act fed Mama well.
+
+## Luffy and the Straw Hats
+
+Linlin's interest in Luffy is not a prophecy parallel.
+
+She recognizes a historical pattern.
+
+The Straw Hats keep surviving and collectively ripening in a way she has seen only rarely.
+
+That resemblance to Roger's crew exists in Linlin's predator model, not in destiny.
 
 ## Related
 
 - [[production/characters/linlin/overview|Linlin]]
+- [[production/characters/linlin/ancient-matriarch|Ancient Matriarch]]
 - [[production/characters/pudding/overview|Pudding]]
 - [[production/characters/katakuri/overview|Katakuri]]
 - [[production/characters/imu/overview|Imu]]

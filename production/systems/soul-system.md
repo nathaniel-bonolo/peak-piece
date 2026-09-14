@@ -190,11 +190,48 @@ Linlin personally refers to completed weapons as **toys**.
 
 ## Lifespan extension
 
-Canon establishes lifespan extraction and transfer into other vessels, but Recharted does **not** currently lock stolen-lifespan self-extension for Linlin.
+Peak Piece locks stolen-lifespan extension for Linlin and selected members of the Charlotte dynasty.
 
-That extension belongs to [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin / Immortal Soul Dynasty]].
+The process is **lossy**.
 
-If accepted, conversion is lossy and becomes increasingly inefficient with recipient age, so the older Linlin and preserved dynasty become, the more external lifespan the system needs merely to maintain them.
+The older a recipient becomes, the less efficiently outside lifespan maintains them.
+
+Therefore:
+
+> **The longer Linlin and the preserved dynasty live, the more external lifespan they need merely to sustain the dynasty they already have.**
+
+Conversion loss is also affected by the quality / coherence of what is being surrendered.
+
+A year taken from one person is not automatically equivalent to a year taken from another.
+
+Relevant factors can include:
+
+- raw soul strength
+- identity coherence
+- will
+- experience
+- compatibility
+- surrender
+- voluntary conviction
+
+This does not make bounties a soul power level.
+
+It makes elite, coherent souls unusually valuable while preserving a place for clean voluntary donation.
+
+See [[production/characters/linlin/ancient-matriarch|Ancient Matriarch]].
+
+## Public / religious donation
+
+Centuries of Charlotte rule create forms of voluntary lifespan surrender that are not battlefield Final Service.
+
+A subject may donate years because:
+
+- Mama protected their island
+- their family receives status / security in return
+- the offering is culturally sacred
+- they genuinely believe becoming useful to the Eternal Matriarch is honorable
+
+The same mechanical system can therefore appear as extortion, tax, military sacrifice, religious offering, or social contract depending on context.
 
 ## Final Service
 

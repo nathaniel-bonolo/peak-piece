@@ -52,13 +52,11 @@ Do not overdefine Imu too early. Contract limits stay open until the endgame is 
 
 See [[production/references/canon/source-policy|Canon Audit Source Policy]].
 
-## Linlin extension test
+## Linlin relationship guardrails
 
-A Linlin relationship is no longer assumed.
+Peak Piece locks a centuries-old strategic Imu / Linlin relationship. Exact quotas and contract wording remain implementation details.
 
-If [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin]] survives, a soul-for-tolerance contract can be tested as an extension.
-
-It only passes if:
+The relationship only works if:
 
 - Imu's system already works without her
 - Linlin remains the author of her own empire

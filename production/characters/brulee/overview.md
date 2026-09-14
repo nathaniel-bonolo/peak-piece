@@ -41,6 +41,25 @@ Gems extend output.
 
 They do not remove the need for mirrors, attunement, range, or Brulee herself.
 
+
+## Religious / cultural role
+
+Centuries of Charlotte rule turn Brulee into more than a military transport specialist.
+
+In some territories, attuned mirrors become household protection objects, emergency infrastructure, and folk shrines.
+
+People may sincerely believe:
+
+> **Lady Brulee watches this house.**
+
+That belief can be comforting because mirror access really can bring Charlotte help.
+
+It can also be terrifying because the same infrastructure creates surveillance.
+
+The superstition that breaking a mirror brings **seven years of bad luck** can descend from an old Charlotte punishment involving lifespan loss after an attuned mirror was deliberately destroyed. The exact historical incident remains open for [[production/spinoffs/the-years-she-ate/README|The Years She Ate]].
+
+Brulee does not need to literally watch every mirror for the culture to believe she might.
+
 ## Related
 
 - [[story/sagas/soul-feast/arcs/soul-feast/arc|Soul Feast]]

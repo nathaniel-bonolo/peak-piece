@@ -125,6 +125,21 @@ And:
 
 See [[production/characters/pudding/identity-and-harvest|Identity and Harvest]].
 
+
+## Cultural role
+
+Four centuries of Charlotte rule allow Pudding's actual job to become myth.
+
+In some territories she is treated as a keeper of memory, confession, testimony, and truth.
+
+The frightening part is that ordinary people may **want** this institution.
+
+An innocent person can say:
+
+> **Let Pudding look. She'll know I didn't do it.**
+
+The world can therefore imagine Pudding as the woman who remembers everything while Pudding privately struggles to determine which memories are actually hers.
+
 ## Related
 
 - [[production/characters/pudding/abilities|Abilities]]

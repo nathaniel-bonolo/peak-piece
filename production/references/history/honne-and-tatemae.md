@@ -34,4 +34,4 @@ That lets Peak Piece keep thematic imagery without requiring Kaido to knowingly 
 
 - [[production/lore/factions/beast-pirates|Beast Pirates]]
 - [[production/characters/queen/overview|Queen]]
-- [[production/proposals/active/chopper-smile-blackbeard|SMILE cure proposal]]
+- [[production/characters/chopper/progression|SMILE / extraction direction]]

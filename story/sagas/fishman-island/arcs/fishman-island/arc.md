@@ -257,25 +257,58 @@ The arc should not collapse that question into one speech.
 - Poseidon is not hereditary destiny.
 - The arc is not driven by a candy-factory protection dispute.
 
+## Why the Straw Hats lose the situation
+
+Fishman Island is the first major post-timeskip lesson after Return to Sabaody proves the training worked.
+
+Hordy defeating the Straw Hats does **not** mean he simply has a higher power number than the entire crew or that the two-year training was useless.
+
+The loss should come from the situation Hordy can create on his own island.
+
+Useful pressures include:
+
+- Fishman home-field mobility
+- flooded / underwater routes that punish Devil Fruit users
+- civilian rescue objectives
+- split crew objectives
+- hostages / workers caught inside extraction infrastructure
+- Hordy's knowledge of local systems and escape routes
+- the real Gem-injection technique giving him temporary output he could never sustain normally
+- the Straw Hats assuming superior combat power means they already understand the problem
+
+The exact choreography can change.
+
+The principle is:
+
+> **The Straw Hats became much stronger. They still fail to solve the entire crisis by hitting harder.**
+
+Return to Sabaody says the training worked.
+
+Fishman Island says strength alone is not mastery of the world.
+
 ## Hordy's final sequence
 
 Hordy eventually obtains the real Gem-injection technique.
 
-The power lets him overwhelm fighters who previously outclassed him.
+The power lets him overwhelm fighters who previously outclassed him and, combined with his control of the environment, turn the final conflict into a situation the Straw Hats fail to resolve in time.
 
 He decides:
 
 > **If nobody came to save us, I will become the Sea King myself.**
 
-During the final struggle, Hordy gets his right hand around Shirahoshi's throat.
+By the end, the Straw Hats are beaten, incapacitated, separated, or trapped by the consequences of the battlefield rather than cleanly available for another protagonist finishing blow.
+
+Hordy gets his right hand around Shirahoshi's throat and brings her to the edge of death.
 
 Shirahoshi has exhausted every other option.
 
-She calls for a Sea King.
+She does not merely panic and trigger a hereditary weapon automatically.
 
-It comes for **her**.
+She **calls**.
 
-The Sea King bites off Hordy's right hand.
+An actual Sea King answers **her**.
+
+It bites off Hordy's right hand.
 
 That is the hand that first took the whip, wrote every private apology, became Devil's Hand, and is currently choking Shirahoshi.
 
@@ -287,7 +320,7 @@ The Sea King throws him into the outskirts and everyone initially assumes he is 
 
 Later word arrives that Hordy survived and is heading home.
 
-Luffy is unconscious.
+Luffy is unconscious / unavailable.
 
 Shirahoshi follows.
 
@@ -299,10 +332,57 @@ She finds only an unreadable ruined page.
 
 There is no public redemption.
 
+## Fishman Island saves itself
+
+The important climax is not that Luffy failed to receive a victory panel.
+
+It is that Fishman Island stops repeating the same political dependency.
+
+For generations, outside power protected the island:
+
+- Whitebeard's flag created real safety
+- after his death, Linlin filled the security vacuum through a predatory bargain
+
+If Luffy simply defeats Hordy and places another human pirate flag over the island, Fishman Island has gained a better protector without escaping the structure.
+
+Hoshi defeating the internal crisis changes the meaning.
+
+For the first time the island can say:
+
+> **We protected ourselves.**
+
+That does not mean Fishman Island rejects allies.
+
+Peak Piece still wants an alliance between Luffy and Fishman Island.
+
+The difference is that alliance is not protectorate.
+
+Fishman Island can raise its **own** flag and begin the harder journey toward independence with a protector of its own emerging from inside the community.
+
+From Luffy's POV, he loses the conventional satisfaction of beating the final villain and acquiring territory.
+
+From Fishman Island's POV, that is a massive win.
+
+## Hoshi after the arc
+
+Hoshi's Sea-King ability remains developmental.
+
+She does not leave Fishman Island as an automatic controller of every Sea King.
+
+Later arcs can show:
+
+- stronger bonds with specific Sea Kings
+- increasing command / taming skill
+- participation in the Luffy / Fishman alliance
+- relevance in Whole Cake Island
+- liberation of Fishmen from underwater slave / extraction sites
+
+Fishman Island is the beginning of her political and martial relevance, not the one arc where destiny activates and then disappears.
+
 ## Ending / bridge to WCI
 
 The final outcome damages Linlin's strategic extraction authority and access to a major Gem reserve.
 
 That gives the later Whole Cake conflict a concrete economic and political consequence without making Fishman Island's entire value depend on Gems.
 
-Luffy should target coercive control and extraction authority, not destroy Fishman Island's own long-term resource future.
+The island begins disentangling itself from the Charlotte protection model rather than immediately replacing Mama's flag with Luffy's.

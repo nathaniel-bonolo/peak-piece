@@ -19,9 +19,9 @@ Canon creates a powerful delayed connection between Brook and Laboon and gives t
 
 That is a real strength.
 
-## Recharted's different question
+## Peak Piece's different question
 
-Recharted deliberately asks:
+Peak Piece deliberately asks:
 
 > **What does decades of accidental survival actually do to Brook?**
 
@@ -29,7 +29,7 @@ The concern is not that canon's Laboon reveal has no emotion.
 
 The concern is that Brook's resurrection and fifty years of isolation can carry a much larger character arc than mainly preserving one old promise until the Straw Hats happen to meet its surviving member.
 
-## Recharted response
+## Peak Piece response
 
 Brook has his own crew.
 
@@ -58,7 +58,7 @@ His arc becomes learning that memory does not require surrendering his entire fu
 
 ## Foundational status
 
-This direction is foundational to Recharted.
+This direction is foundational to Peak Piece.
 
 That does not mean every scene is locked.
 

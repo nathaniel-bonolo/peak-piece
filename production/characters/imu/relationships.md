@@ -14,24 +14,48 @@ tags:
 
 ## Charlotte Linlin
 
-No Linlin contract is currently locked.
+The Imu / Linlin relationship is foundational.
 
-Peak Imu's deferred-consequence system must stand on its own.
+It does **not** create Linlin's empire and it does **not** make her secretly subordinate to the World Government.
 
-If [[production/proposals/active/ancient-linlin-soul-dynasty|Ancient Linlin]] survives, a possible relationship is:
+Linlin is already building her own family-state and already values soul material for her own reasons.
 
-- Linlin is already building her own family-state
-- Imu offers long-term Government tolerance / political room
-- Linlin supplies recurring high-quality soul material
-- both sides exchange something the other uniquely controls
+Across centuries, the two powers establish a strategic arrangement because each controls something the other values.
 
-That version is proposal-dependent.
+Current direction:
 
-Do not write current Linlin as secretly subordinate to Imu.
+- Imu / the World Government tolerates or accommodates parts of persistent Charlotte expansion
+- Linlin supplies recurring high-quality soul / lifespan value
+- the arrangement defines protected categories Linlin is not supposed to harvest, including Marines and Holy Knights operating under the agreement
+- both parties understand the terms and consequences
+- Linlin's violations create explicit compensation, quota increases, restrictions, or other costs
+
+The exact quota, wording, start date, and transfer method remain open.
+
+## God Valley pressure test
+
+God Valley is a natural place to show that a valid contract does not remove character.
+
+Linlin knows some Government-aligned souls are protected.
+
+She also sees an absurd concentration of rare, coherent, powerful people in one place.
+
+Some are too tempting.
+
+She takes them anyway.
+
+Imu's response should be contractual / political rather than arbitrary magic punishment.
+
+The resulting burden can survive long after the original impulsive decision.
+
+This is one example of:
+
+> **What irrational consequence survived anyway?**
 
 ## Related
 
 - [[production/characters/imu/overview|Imu]]
 - [[production/characters/imu/abilities|Abilities]]
 - [[production/characters/linlin/overview|Charlotte Linlin]]
+- [[production/characters/linlin/ancient-matriarch|Ancient Matriarch]]
 - [[production/lore/factions/world-government|World Government]]

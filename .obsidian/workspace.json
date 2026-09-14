@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f876bcb0646a651a",
+        "id": "2002a9da7472d3a3",
         "type": "tabs",
         "children": [
           {
-            "id": "83cf80f4f4353bd3",
+            "id": "f79714e33625e7a3",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "CONTRIBUTORS.md",
-                "bFile": "CONTRIBUTORS.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: CONTRIBUTORS  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -199,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83cf80f4f4353bd3",
+  "active": "f79714e33625e7a3",
   "lastOpenFiles": [
     "story/interludes/straw-hat-timeskip-distribution.md",
     "story/interludes/README.md",

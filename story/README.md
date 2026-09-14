@@ -19,9 +19,10 @@ You do not need the production bible to understand what happens.
 
 ## Current reading order
 
-1. [[story/sagas/fishman-island/arcs/fishman-island/arc|Fishman Island]]
-2. [[story/sagas/whole-cake-island/arcs/whole-cake-island/arc|Whole Cake Island]]
-3. [[story/sagas/soul-feast/arcs/soul-feast/arc|Soul Feast]]
+1. [[story/sagas/return-to-sabaody/arcs/return-to-sabaody/arc|Return to Sabaody]]
+2. [[story/sagas/fishman-island/arcs/fishman-island/arc|Fishman Island]]
+3. [[story/sagas/whole-cake-island/arcs/whole-cake-island/arc|Whole Cake Island]]
+4. [[story/sagas/soul-feast/arcs/soul-feast/arc|Soul Feast]]
 
 The earlier East Blue material has not been fully rewritten yet.
 

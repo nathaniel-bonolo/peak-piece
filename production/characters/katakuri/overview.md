@@ -73,6 +73,25 @@ A relatively unknown fighter may be underpriced.
 
 The Charlotte Empire therefore uses bounty as a lead, not a verdict.
 
+
+## Historical myth
+
+Katakuri has lived long enough for accurate prediction to become religious exaggeration.
+
+Soldiers and civilians can tell stories such as:
+
+> **Katakuri has already seen the road.**
+
+or
+
+> **He has already seen your death.**
+
+Those claims are not literal mechanics.
+
+They are what happens when generations repeatedly watch the same commander anticipate attacks, retrieve impossible targets, and survive.
+
+In some Charlotte cultures he becomes a folk figure of foresight, war, and protection even if Katakuri himself does not think of the role that way.
+
 ## Flaw
 
 Katakuri spent two centuries becoming excellent at anticipating what people will do and accidentally started treating that as understanding them.
