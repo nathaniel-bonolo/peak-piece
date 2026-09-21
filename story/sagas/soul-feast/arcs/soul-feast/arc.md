@@ -434,6 +434,10 @@ Locked Linlin line:
 
 Late in the war, Linlin spends twenty years of her **own** lifespan during an existential threat.
 
+This is **not** Linlin learning that a good ruler should share the sacrifices of her soldiers. She is not completing a moral thesis worksheet. She spends her own years because defeat means losing family, empire, possessions, and people she has decided are hers -- and in that moment preserving them matters more to her than preserving those years.
+
+Her love can be real. Her possessiveness can be monstrous. Neither cancels the other.
+
 This follows canon's existing idea that Linlin can use her own lifespan to empower soul creations, but the Peak chain is allowed to diverge from there.
 
 Luffy does not stand around politely waiting for the transformation to finish.

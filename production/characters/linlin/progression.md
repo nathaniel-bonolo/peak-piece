@@ -25,7 +25,11 @@ Her progression should expose:
 - what happens when her soul economy is turned against her
 - what she is willing to spend when extinction becomes possible
 
-Soul Feast should eventually force her to spend part of herself rather than endlessly spending everybody else.
+Soul Feast should eventually force her to spend part of herself.
+
+That is **not** a moral lesson where Linlin watches her soldiers sacrifice years and realizes a good ruler should finally share the burden.
+
+If she burns her own lifespan, it is because something she refuses to lose is being taken from her. She can hate the cost, remain convinced of her own entitlement, and still spend herself with terrifying sincerity.
 
 
 ## Four centuries did not finish her
@@ -41,6 +45,8 @@ Current-era conflict therefore exposes the difference between:
 - the Eternal Matriarch people worship
 - the administrator who has survived four centuries
 - the child who still decides rare things are **hers**
+
+"Hers" is a recurring axis, not a master key that must explain every scene. Linlin is allowed contradictory motives that remain recognizably hers.
 
 Roger, the Straw Hats, Pudding, and the collapse of Charlotte permanence can each hit a different layer.
 

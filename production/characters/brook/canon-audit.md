@@ -55,6 +55,8 @@ His arc becomes learning that memory does not require surrendering his entire fu
 - Laboon is not the singular reason his fifty-year survival matters
 - Brook develops a second-life / dead-promises arc
 - his relationship to Laboon comes through witnessing the dead rather than coincidence of membership
+- the recurring panty-request gag is removed completely rather than retroactively justified as loneliness
+- Brook's isolation leaves visible behavioral scars that the Straw Hats gradually help him live beyond
 
 ## Foundational status
 

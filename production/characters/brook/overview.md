@@ -60,6 +60,12 @@ and
 
 starts to blur.
 
+The audience should see that boundary problem through ordinary behavior before Brook explains it. He can say **we**, turn toward empty chairs, set food out for dead friends, carry a small number of skulls tied to promises, and speak about people dead for decades in the present tense.
+
+The recurring panty-request gag is deleted rather than given a hidden loneliness justification.
+
+See [[production/characters/brook/behavior-and-recovery|Behavior and Recovery]].
+
 ## The Rumbar Pirates
 
 The Rumbar Pirates remain a separate crew.
@@ -104,7 +110,8 @@ The following can still be changed without abandoning Peak Brook:
 - the parrot implementation
 - exact wreck / logbook sequence
 - exact order in which he learns about Laboon
-- precise comedy / hallucination balance
+- exact balance between comedy, memory, and behavioral disturbance
+- exact number / identity of skulls Brook carries
 - his possible connection to Charlotte Linlin
 
 The [[production/proposals/active/brook-ancient-linlin-extension|Brook / ancient Linlin connection]] is specifically **contested**. Ancient Linlin is foundational; Brook does not need to be part of her history for either character to work.
@@ -112,6 +119,7 @@ The [[production/proposals/active/brook-ancient-linlin-extension|Brook / ancient
 ## Related
 
 - [[production/characters/brook/progression|Progression]]
+- [[production/characters/brook/behavior-and-recovery|Behavior and Recovery]]
 - [[production/characters/brook/relationships|Relationships]]
 - [[production/characters/brook/canon-audit|Canon Audit]]
 - [[production/FOUNDATIONS|Foundations]]

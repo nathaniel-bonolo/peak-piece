@@ -22,6 +22,16 @@ The useful comparison is:
 
 A reader can prefer canon Hordy, canon Brook, canon Linlin, or any other canon direction. That preference is valid. It does not by itself show that Peak Piece failed, because Peak Piece may be intentionally asking a different question.
 
+### What reimagining means in practice
+
+Canon Hordy asks what inherited hatred looks like when the person carrying it has no originating personal injury. Peak Hordy asks what happens when an oppressed person discovers that serving the oppressor can protect people like him, and that survival logic slowly turns him into part of the machinery hurting them.
+
+Canon Brook builds around the Rumbar Pirates, Laboon, and fifty years of carrying one promise after everybody else died. Peak Brook asks a different question: **what if Brook's accidental second life were itself his character arc?** What happens when the one man who got back up starts treating that extra life as something owed to everybody who did not?
+
+Neither change requires the canon version to be bad.
+
+If the standard is "does this preserve the exact thesis, tone, characterization, and route of canon?", Peak Piece will sometimes fail that test **on purpose**. The useful question is whether the alternate direction earns what it changes.
+
 The question is not always:
 
 > **How do we fix canon?**

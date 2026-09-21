@@ -23,6 +23,8 @@ Isolation makes wrecks and skeletons easier to treat as people who are still pre
 
 Logbooks let him reconstruct voices, habits, destinations, jokes, debts, lovers, children, and unfinished plans.
 
+Brook begins building routines around that social world: speaking in **we**, waiting for answers, moving skulls so somebody can "see" the sea, and eventually setting places at meals for people who have been dead for years.
+
 ## 3. Purpose through promises
 
 Brook starts carrying unfinished promises because completing them gives his second life a use.
@@ -39,6 +41,8 @@ Brook can remember a dead person's preferences more easily than his own.
 
 He may talk to people who are not there and occasionally stop knowing whether he is remembering, imagining, or answering himself.
 
+The change must not look like a clean progress bar. A ritual can disappear and return after a trigger. An extra dinner plate can be gone for months and suddenly be back. The direction is recovery, not linear cure.
+
 ## 5. Rumbar / Laboon
 
 The Rumbar logbooks give him one of the clearest unfinished promises he has ever found.
@@ -49,9 +53,13 @@ Laboon becomes a high-priority promise without retroactively making Brook part o
 
 The Straw Hats do not tell Brook to forget the dead.
 
-They keep making new memories with him anyway.
+They do not hold an intervention and cure him.
+
+They keep making new memories with him anyway. Luffy steals food from a plate Brook set for a dead friend. Robin gently shifts present-tense memory into past tense. Sanji cooks for the people at the table. Usopp eventually asks what **Brook** wants.
 
 For the first time in decades, his calendar begins filling with obligations to living people and wants that are actually his.
+
+Brook begins missing conversations with the dead because the living crew is being too loud.
 
 ## 7. Choice
 
@@ -60,6 +68,16 @@ Brook still honors promises where he can.
 The change is that he stops treating every dead person's unfinished life as a commandment.
 
 > **I can remember the dead without giving them the rest of my life.**
+
+A recurring grounding phrase can make the change behavioral rather than explanatory:
+
+> **One breath. One step. Soul stays mine.**
+
+becomes, late in the arc:
+
+> **One breath. One step. I am here.**
+
+The exact origin of the first version currently belongs to the contested Linlin extension. The endpoint does not need a speech.
 
 ## Progression sentence
 

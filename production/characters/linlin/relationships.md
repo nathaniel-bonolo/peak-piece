@@ -22,13 +22,13 @@ Locked line:
 
 > **I asked you to preserve my soldiers, Pudding. I did not ask you to erase my daughter.**
 
-Potential responses to Pudding grieving enemies:
+Potential response to Pudding grieving enemies:
 
 > Then grieve.
 
-> Understanding my enemies does not make you disloyal to me.
+Do not give Linlin a tidy speech explaining that empathy and allegiance are psychologically separate categories. Her behavior should carry the contradiction: she can permit Pudding's grief, continue the harvest system, and stop Pudding from erasing herself because Pudding is her daughter.
 
-These are not all locked dialogue.
+This dialogue is not locked.
 
 ## Katakuri
 
@@ -42,11 +42,17 @@ Centuries of public history have also turned him into something larger than hims
 
 The Imu / Linlin relationship is foundational.
 
-Imu's contract system does **not** create Linlin's identity, Soul Fruit, dynasty, or empire.
+Imu is part of Linlin's origin conditions:
 
-Linlin is already Linlin.
+- Imu gives her the Soul-Soul Fruit
+- gives her land / room to establish herself
+- grants an early form of political immunity / protected operating space
 
-Across centuries, the two powers establish a strategic arrangement:
+That does **not** make Imu the designer of Linlin's identity, dynasty, religion, Orchard, or empire.
+
+Linlin is still the author of what Charlotte civilization becomes.
+
+Across centuries, the relationship develops into a strategic arrangement:
 
 - the Government tolerates / accommodates parts of persistent Charlotte expansion
 - Linlin supplies recurring high-quality soul material / lifespan value
@@ -59,7 +65,7 @@ She can knowingly violate the arrangement because she wants a soul badly enough.
 
 God Valley is a natural place for that flaw to matter: an impossible concentration of valuable people makes the treaty feel like somebody putting dessert behind glass and telling Mama not to touch it.
 
-Exact quotas, wording, dates, and transfer mechanics remain open.
+Exact original motives, quotas, wording, dates, and transfer mechanics remain open.
 
 ## Roger
 
@@ -82,6 +88,14 @@ His chosen death denies her the harvest one final time.
 The Great Pirate Era complicates the hatred because it creates an extraordinary new supply of ambitious Orchard candidates.
 
 Linlin can sincerely hate Roger while admitting that his final act fed Mama well.
+
+## Brook
+
+No Brook / Linlin history is locked here.
+
+The contested extension now explores a stronger relationship than simple revenge: Linlin claims what she harvests as hers, while Brook has spent decades treating his second life as property owed to the dead. If accepted, their conflict becomes a collision over whether preservation is the same thing as possession.
+
+See [[production/proposals/active/brook-ancient-linlin-extension|Brook / ancient Linlin extension]].
 
 ## Luffy and the Straw Hats
 

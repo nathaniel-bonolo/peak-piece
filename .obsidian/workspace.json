@@ -11,10 +11,14 @@
             "id": "f79714e33625e7a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "production/STYLE-GUIDE.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "STYLE-GUIDE"
             }
           }
         ]
@@ -197,10 +201,20 @@
   },
   "active": "f79714e33625e7a3",
   "lastOpenFiles": [
-    "story/interludes/straw-hat-timeskip-distribution.md",
-    "story/interludes/README.md",
+    "production/DECISION-STATUS.md",
+    "production/AGENTPROMPT.md",
+    "production/manga/README.md",
+    "production/manga/soul-feast/README.md",
+    "story/README.md",
+    "README.md",
     "CONTRIBUTORS.md",
     "CONTRIBUTING.md",
+    "CHANGELOG.md",
+    "AGENTS.md",
+    "story/story-overview.md",
+    "story/_Story.md",
+    "story/interludes/straw-hat-timeskip-distribution.md",
+    "story/interludes/README.md",
     "production/lore/factions/charlotte-orchard.md",
     "production/lore/factions/big-mom-pirates.md",
     "production/systems/soul-system.md",
@@ -213,18 +227,8 @@
     "production/characters/zoro/overview.md",
     "production/characters/usopp/timeskip.md",
     "production/characters/belo-betty/overview.md",
-    "production/characters/belo-betty/canon-audit.md",
     "production/canvas/Fishman Island.canvas",
-    "README.md",
-    "production/WORKFLOW.md",
-    "production/story-notes/timeskip/current-direction.md",
     "production/story-notes/timeskip",
-    "production/REVIEW-PROTOCOL.md",
-    "production/proposals/active/sanji-lotus-flytrap-island.md",
-    "production/proposals/active/chopper-timeskip-audit.md",
-    "production/proposals/active/black-maria-yukaku.md",
-    "production/characters/pudding/identity-and-harvest.md",
-    "production/characters/nami/_Nami.md",
     "production/characters/nami",
     "characters/belo-betty",
     "lore/factions/small-moments/straw-hats",

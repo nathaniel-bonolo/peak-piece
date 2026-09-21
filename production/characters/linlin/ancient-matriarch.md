@@ -195,6 +195,32 @@ Peak Piece should preserve irrational consequences such as:
 
 > **Do not optimize away the scar.**
 
+## Preservation and possession
+
+Four centuries mean Linlin has watched almost everything disappear eventually.
+
+Her recurring answer is not a neat philosophy speech. It is behavior:
+
+> **Then Mama keeps it.**
+
+Children, territory, recipes, traditions, weapons, years, promising pirates, old privileges, and sentimental obligations can all become **hers**.
+
+That instinct helps unify the dynasty without becoming a master key for every scene. Linlin can still be generous, cruel, maternal, pragmatic, childish, hungry, affectionate, vindictive, and politically competent for different reasons at different times.
+
+Do not give this a diagnostic trauma explanation just to make it legible. Let four centuries of repeated behavior sell the pattern.
+
+## Systems grow around Mama
+
+Charlotte institutions should look accumulated rather than clean-room designed.
+
+Linlin speaks in appetite and fruit: green, ripe, spoiled, delicious, on the vine, one of mine.
+
+Katakuri, Pudding, intelligence officers, priests, governors, and centuries of family administration are the people who learn how to turn Mama's language into repeatable policy.
+
+A category can become formal precisely because Linlin has used the same childish word for two hundred years.
+
+> **The system should look like it grew around people.**
+
 ## Calm Linlin
 
 Linlin's normal state is controlled, elegant, maternal, politically experienced, and frighteningly competent.

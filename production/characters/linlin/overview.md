@@ -37,7 +37,13 @@ When something is rare enough, delicious enough, humiliating enough, or emotiona
 
 Linlin believes valuable things should not be wasted.
 
-That principle can be beautiful or horrifying depending on what she considers valuable and who gets to decide.
+She also has a deep recurring instinct to **keep what is hers**.
+
+Children, territory, recipes, years, weapons, promises, beautiful things, promising pirates, and ancient obligations can all become possessions in the emotional sense long before they become assets in the administrative sense.
+
+That does **not** reduce Linlin to one motive. She can be generous and possessive, maternal and predatory, competent and impulsive, sincerely protective and monstrously entitled.
+
+The behavior should sell the pattern. Peak Piece does not need a diagnostic trauma monologue explaining why Mama cannot let go.
 
 She can genuinely care for her children while also treating family, soldiers, territory, lifespan, and soul material as parts of an imperial system.
 
@@ -73,34 +79,33 @@ Linlin understands that exceptionally strong and coherent souls are rare.
 
 She therefore does not waste promising people merely because they are already dangerous.
 
-The Charlotte Empire evaluates high-value pirates and tracks selected prospects in:
+But Mama does not personally experience this as an analyst's dashboard.
+
+She talks about people the way she experiences them:
+
+> **Green.**
+
+> **Ripe.**
+
+> **Spoiling.**
+
+> **Leave that one on the vine.**
+
+> **Oh. That one looks delicious.**
+
+Katakuri, Pudding, intelligence officers, and centuries of Charlotte administration are the people who turn Mama's fruit language into a repeatable system called:
 
 > **The Orchard**
 
-A bounty is a first-pass signal, not an exact strength number.
+A bounty remains a first-pass signal, not an exact strength number. The institution behind Linlin translates her appetite into questions about current value, growth potential, conversion quality, and spoilage risk.
 
-The real evaluation asks:
+The categories are useful writer-facing precision and inherited Charlotte doctrine. They should not make Linlin sound like she personally designed soul-management software.
 
-- how valuable is the soul now?
-- how much stronger / more coherent can this person become?
-- how cleanly might the soul convert?
-- how likely are they to die / disappear before then?
-
-Linlin can leave a promising young pirate **Green** because a stronger future harvest may justify the risk.
-
-When somebody is **Ripe**, she harvests.
-
-If somebody is declining, they can become **Overripe**.
-
-If somebody has enormous upside but extreme **spoilage risk**, she may take them early.
-
-Linlin already thinks of tracked people as hers.
+Linlin also tends to think of tracked people as hers before she possesses them.
 
 She may call one:
 
 > **one of mine**
-
-or tell the family to leave somebody **on the vine**.
 
 See [[production/lore/factions/charlotte-orchard|The Orchard]].
 

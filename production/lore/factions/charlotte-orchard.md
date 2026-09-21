@@ -24,19 +24,31 @@ She therefore does **not** automatically harvest every dangerous pirate as soon 
 
 Some are worth more later.
 
-The Charlotte intelligence system calls its tracked pool of promising people:
+Linlin's language comes first.
 
-> **The Orchard**
+Mama naturally talks about promising people as fruit:
 
-Linlin herself is less clinical.
+> **Green.**
 
-She may simply call a tracked person:
+> **Ripe.**
+
+> **Spoiling.**
+
+> **Leave that one on the vine.**
+
+> **That one looks delicious.**
+
+She may also simply call a tracked person:
 
 > **one of mine**
 
-or describe somebody as still being **on the vine**.
+Centuries of Charlotte intelligence and administration learn to interpret those metaphors consistently. The tracked pool and the institution around it become:
 
-The exact dialogue can vary. Do not invent another formal vocabulary layer unless the story needs it.
+> **The Orchard**
+
+The bureaucracy is precise because people need to act on Mama's judgments when Mama is not in the room. The vocabulary remains fruit-shaped because the system grew around Linlin instead of being designed cleanly from scratch.
+
+Do not invent another formal vocabulary layer unless the story needs it.
 
 ## Bounties are the first screen, not a power level
 
@@ -60,6 +72,8 @@ It can be distorted by:
 Charlotte intelligence therefore evaluates the person behind the number.
 
 ## Evaluation axes
+
+These axes are the **institutional translation** of judgments Linlin expresses more intuitively. They are writer-facing precision and Charlotte operational doctrine, not proof that Mama thinks in spreadsheets.
 
 ### Current value
 

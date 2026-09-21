@@ -53,6 +53,8 @@ For that moment, another person is remembering Pudding for her.
 
 Linlin can demand useful work from Pudding and still refuse to let that work erase her.
 
+The relationship should not need a speech where Linlin cleanly explains that understanding an enemy is separate from loyalty. She notices her daughter disappearing, says **enough**, and stays Linlin.
+
 See [[production/characters/pudding/progression|Progression]].
 
 ## Katakuri

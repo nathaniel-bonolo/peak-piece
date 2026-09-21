@@ -131,6 +131,8 @@ Terms:
 - Bruising
 - Toys
 
+These terms do not mean Linlin thinks in a dashboard. Mama's fruit/appetite language comes first; Katakuri, Pudding, intelligence officers, and later administrators make it operational over centuries.
+
 See [[production/lore/factions/charlotte-orchard|The Orchard]].
 
 ## Pudding

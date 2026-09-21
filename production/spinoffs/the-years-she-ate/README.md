@@ -35,6 +35,26 @@ Useful focal characters include:
 - enemies
 - descendants meeting the same immortal Charlotte their ancestor once met
 
+## Character center
+
+The anthology should repeatedly show that Charlotte civilization grew around people rather than appearing fully designed.
+
+Mama says **green** because somebody looks green to her. A century later an intelligence office has a formal Green category.
+
+A family receives a mirror because Brulee once solved a practical problem. Generations later the mirror is a sacred household object.
+
+A punishment happens once. Centuries later it is superstition.
+
+A recurring Linlin pressure is simple enough to become historical without becoming her only motive:
+
+> **What is mine should not disappear.**
+
+Four centuries give that childish instinct enough time to become territory, dynasty, ritual, preservation, law, and sometimes horror.
+
+Do not explain it with one diagnostic origin flashback. Let repeated behavior sell it.
+
+Imu belongs in this history as an origin condition -- Fruit, land, immunity, later strategic obligations -- not as the hidden author of Charlotte culture. Most stories in this anthology should be able to exist without mentioning Imu at all.
+
 ## Core artistic trick
 
 Show an event directly in one era.

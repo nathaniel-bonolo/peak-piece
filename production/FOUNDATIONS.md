@@ -94,6 +94,10 @@ becomes:
 
 Binks' Sake and the crew-death music sequence are preserved through Brook's own crew.
 
+The damage of those decades should be visible in behavior before it is explained: Brook can treat dead companions as socially present, carry a small number of skulls tied to promises, and gradually relearn the difference between remembering the dead and living with them. The exact scenes remain implementation.
+
+See [[production/characters/brook/behavior-and-recovery|Brook: Behavior and Recovery]].
+
 Brook's possible history with ancient Linlin is **not** part of this foundation. It remains a separately contested extension.
 
 See [[production/characters/brook/overview|Brook]].
@@ -152,6 +156,10 @@ Linlin is calm because four centuries taught her how to rule.
 They did **not** remove the child underneath.
 
 Rare souls, personal loss, possessiveness, appetite, and emotional attachment can still make her impulsive, greedy, irrational, or visibly hungry.
+
+A recurring Linlin instinct is preservation through possession: children, territory, recipes, years, weapons, traditions, and promising souls can become **hers** in her emotional vocabulary. That is an axis, not a one-variable explanation for every choice. Contradiction remains part of the character.
+
+The Charlotte systems around her should also look historically grown. Mama speaks in appetite, fruit, family, and possession; Katakuri, Pudding, and centuries of administrators translate those instincts into doctrine.
 
 See [[production/characters/linlin/ancient-matriarch|Ancient Matriarch]].
 
@@ -229,7 +237,11 @@ Linlin's empire also stands on its own.
 
 Their relationship is still foundational.
 
-For centuries, Imu tolerates / accommodates parts of Charlotte expansion in exchange for recurring access to unusually valuable soul material.
+The current origin condition is that Imu gives Linlin the Soul-Soul Fruit, gives her land / room to establish herself, and grants an early form of political immunity or protected operating space.
+
+That does **not** make Imu the author of the Charlotte dynasty. The Orchard, religion, festivals, mirror customs, sacrifice culture, territorial bargains, and family-state develop from Linlin and the Charlottes over centuries.
+
+The relationship later matures into a strategic arrangement in which Imu tolerates / accommodates parts of Charlotte expansion in exchange for recurring access to unusually valuable soul material.
 
 The arrangement also creates protected categories Linlin is not supposed to harvest, including Marines and Holy Knights operating under the agreement.
 
@@ -239,7 +251,7 @@ She is fully capable of violating the arrangement because she wants something to
 
 Those violations create real consequences: compensation, quota increases, restrictions, political retaliation, or other costs that can survive for generations.
 
-The exact contract wording, quotas, dates, and payment mechanics remain open.
+The exact reason Imu chose Linlin, the original bargain, contract wording, quotas, dates, and payment mechanics remain open.
 
 See [[production/characters/imu/relationships|Imu Relationships]] and [[production/characters/linlin/relationships|Linlin Relationships]].
 

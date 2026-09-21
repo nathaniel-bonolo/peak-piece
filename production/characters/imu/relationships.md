@@ -16,13 +16,20 @@ tags:
 
 The Imu / Linlin relationship is foundational.
 
-It does **not** create Linlin's empire and it does **not** make her secretly subordinate to the World Government.
-
-Linlin is already building her own family-state and already values soul material for her own reasons.
-
-Across centuries, the two powers establish a strategic arrangement because each controls something the other values.
+Imu is part of Linlin's origin conditions, but does **not** author Charlotte civilization and does **not** make her secretly subordinate to the World Government.
 
 Current direction:
+
+- Imu gives Linlin the Soul-Soul Fruit
+- Imu gives her land / room in which to establish herself
+- Imu grants an early form of political immunity / protected operating space
+- the exact reason Imu chooses her and the original bargain remain open
+
+What follows belongs to Linlin.
+
+The dynasty, Orchard, religion, festivals, sacrifice culture, mirror customs, territorial bargains, family habits, and institutional scars emerge over centuries from Linlin and the Charlottes rather than from an Imu blueprint.
+
+As both powers mature, the relationship develops into a strategic arrangement because each controls something the other values:
 
 - Imu / the World Government tolerates or accommodates parts of persistent Charlotte expansion
 - Linlin supplies recurring high-quality soul / lifespan value
@@ -30,7 +37,7 @@ Current direction:
 - both parties understand the terms and consequences
 - Linlin's violations create explicit compensation, quota increases, restrictions, or other costs
 
-The exact quota, wording, start date, and transfer method remain open.
+The exact original motive, quota, wording, dates, and transfer method remain open.
 
 ## God Valley pressure test
 

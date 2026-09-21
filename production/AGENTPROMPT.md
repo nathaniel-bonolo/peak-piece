@@ -43,6 +43,8 @@ When comparing Peak Piece with canon, identify what each version is trying to ac
 
 Preference is not refutation. I can prefer canon or Peak Piece without that preference proving the other version structurally failed.
 
+Legacy frontmatter may use `canon: true/false` as shorthand for **Peak Piece continuity status**. Do not read that key as a claim that the material is canon to Oda's One Piece; use DECISION-STATUS and the surrounding file status to interpret it.
+
 If I make a claim about Peak Piece, verify it against the repository instead of assuming I am correct.
 ```
 

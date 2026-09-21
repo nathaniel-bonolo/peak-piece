@@ -11,6 +11,39 @@ tags:
 
 # Changelog
 
+## V11.1 - Linlin / Brook character core and framing cleanup
+
+### Public framing
+- Added concrete Hordy and Brook examples to the root README so "reimagining" is demonstrated rather than merely asserted.
+- Clarified in the AI onboarding prompt that legacy `canon:` frontmatter refers to Peak Piece continuity status, not Oda canon.
+- Added the production principle: **systems should look like they grew around people, not arrived fully designed.**
+
+### Eternal Matriarch
+- Refined Linlin away from sounding like the designer of a soul-management spreadsheet. Mama speaks in fruit, appetite, family, and possession; Katakuri, Pudding, intelligence staff, and centuries of administrators translate that language into doctrine.
+- Strengthened **hers** as a recurring preservation / possession instinct without reducing Linlin to one motive.
+- Explicitly rejected a diagnostic trauma explanation for that instinct; repeated behavior should sell it.
+- Removed the overly tidy Pudding line about understanding enemies not being disloyal.
+- Clarified that Linlin spending her own lifespan in Soul Feast is possessive / desperate love under existential threat, not a lesson in fair leadership or shared sacrifice.
+- Clarified the Imu origin condition: Imu gives Linlin the Soul-Soul Fruit, land / protected operating space, and early political immunity; Charlotte civilization grows from Linlin afterward.
+
+### Brook
+- Deleted the recurring panty-request gag without inventing a loneliness justification for it.
+- Added [[production/characters/brook/behavior-and-recovery|Brook: Behavior and Recovery]].
+- Made Brook's damage behavioral before explanatory: present-tense dead companions, a small number of skulls, extra dinner plates, social pauses, and non-linear setbacks.
+- Made the Straw Hats a living present rather than a therapy team, with Robin especially useful for moving memory from present tense into remembered past without telling Brook to love the dead less.
+- Added the grounding movement **One breath. One step. Soul stays mine. → One breath. One step. I am here.**
+
+### Brook / Linlin contested extension
+- Kept the connection **Contested**.
+- Developed the relationship beyond revenge: Linlin claims what she harvests as hers while Brook has spent decades treating his second life as something owed to the dead.
+- Narrowed the Yomi-Yomi interaction to a prior claim on Brook's promised resurrection, not generic soul immunity.
+- Kept Brook's crew dead; Charlotte weapons may preserve residue, rhythm, pressure, or habit without containing intact conscious people waiting to be rescued.
+- Made Linlin's first harvest catastrophe a possible origin for Brook's grounding ritual without making Linlin the sole author of Brook's later damage or recovery.
+
+### The Years She Ate
+- Added the anthology principle that institutions should visibly accrete from people, accidents, rituals, and remembered decisions.
+- Kept Imu proportionate: an origin condition and ancient strategic relationship, not the hidden author of Charlotte religion and culture.
+
 ## V11 - Peak Piece becomes the reimagining variant
 
 ### Project identity

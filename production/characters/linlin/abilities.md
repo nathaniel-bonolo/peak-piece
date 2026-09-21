@@ -38,6 +38,8 @@ Because her own soul is extremely dense and coherent, this is a high-value emerg
 
 During the later Soul Feast conflict, she may spend twenty years of her own remaining life because if she dies, every future year becomes worth zero.
 
+That is not a lesson in fair leadership or shared sacrifice. It is a possessive, desperate expenditure: Linlin spends herself because she refuses to let something she considers hers be taken from her.
+
 That use is reserved for an existential threat, not a minor embarrassment.
 
 ## Homie weapons

@@ -32,6 +32,7 @@ Key ideas include:
 - optimization belongs to characters who optimize
 - competence is not omniscience
 - competent systems are not perfect systems
+- systems should look like they grew around people, not arrived fully designed
 - do not optimize away the scar
 - preference is not refutation
 - contradiction is not inconsistency

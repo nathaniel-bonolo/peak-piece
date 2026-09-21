@@ -77,6 +77,6 @@ A foundational direction is not the same as every implementation detail being lo
 Examples:
 
 - Ancient Linlin is foundational; exact festival names and every century of history are not.
-- The Imu / Linlin relationship is foundational; exact quotas and contract wording are not.
+- The Imu / Linlin relationship is foundational, including Imu supplying the Fruit, land / protected space, and early immunity; exact motives, quotas, contract wording, and dates are not.
 - Chopper's SMILE / extraction direction is foundational; Blackbeard's exact extraction mechanism is not.
-- Peak Brook is foundational; Brook being a Linlin victim remains contested.
+- Peak Brook is foundational; his behavioral recovery direction is current authoritative implementation, while Brook being a Linlin / Orchard victim remains contested.

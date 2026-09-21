@@ -59,8 +59,9 @@ Peak Piece locks a centuries-old strategic Imu / Linlin relationship. Exact quot
 The relationship only works if:
 
 - Imu's system already works without her
-- Linlin remains the author of her own empire
-- the exchange creates real obligations on both sides
+- Imu can supply the Fruit, land / protected space, and early immunity without becoming the hidden author of everything that follows
+- Linlin remains the author of her own dynasty and civilization
+- the later exchange creates real obligations on both sides
 - the connection answers more than "these two villains are important"
 
 ## Failure mode

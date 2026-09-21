@@ -17,8 +17,10 @@ Lock eras only when a story, relationship, institution, or consequence needs the
 - early Charlotte territories discover the real bargain between protection and lifespan
 - voluntary offering culture emerges somewhere organically
 - Brulee mirror infrastructure becomes folklore / household ritual
-- the Orchard develops from personal hunting into institution
-- the Imu / Linlin strategic arrangement begins
+- Imu gives Linlin the Soul-Soul Fruit, land / protected space, and early political immunity
+- Linlin's family-state develops independently from those origin conditions
+- Mama's fruit language hardens into Orchard vocabulary and institution over generations
+- the later Imu / Linlin strategic arrangement matures
 - at least one major violation of that arrangement creates a long-lived burden
 - Roger becomes a major Orchard obsession
 - God Valley creates or deepens historical scars

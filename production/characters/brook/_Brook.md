@@ -9,6 +9,7 @@ tags: [character, brook, straw-hat]
 
 - [[production/characters/brook/overview|Overview]]
 - [[production/characters/brook/progression|Progression]]
+- [[production/characters/brook/behavior-and-recovery|Behavior and Recovery]]
 - [[production/characters/brook/relationships|Relationships]]
 - [[production/characters/brook/canon-audit|Canon Audit]]
 
