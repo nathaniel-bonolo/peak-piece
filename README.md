@@ -121,6 +121,8 @@ When the internal model has done enough to keep the adventure consistent:
 
 ## Explore Peak Piece
 
+All copy/paste AI entry points now live in [`prompts/`](prompts/README.md).
+
 ### Obsidian
 
 Clone/download the repository and open the repository folder as an Obsidian vault.
@@ -135,18 +137,39 @@ For broad understanding, a repository-capable ChatGPT session is currently the s
 
 The repository remains the source of truth. The AI is the interface over it.
 
-Copy the onboarding prompt from [`production/AGENTPROMPT.md`](production/AGENTPROMPT.md).
+Copy the onboarding prompt from [`prompts/AGENTPROMPT.md`](prompts/AGENTPROMPT.md).
 
 The prompt tells the agent to establish current version / status first, follow connected files, inspect canon audits for radical changes, distinguish explicit documentation from inference, and surface contradictions instead of silently blending them.
 
-If you are a One Piece creator or reviewer trying to decide whether the project is worth deeper exploration, use [`production/CREATORPROMPT.md`](production/CREATORPROMPT.md).
+If you are a One Piece creator or reviewer trying to decide whether the project is worth deeper exploration, use [`prompts/CREATORPROMPT.md`](prompts/CREATORPROMPT.md).
+
+If you are considering contributing as a writer, beta reader, artist, researcher, editor, continuity reviewer, fight choreographer, designer, developer, or simply a detailed reader, use [`prompts/CONTRIBUTORPROMPT.md`](prompts/CONTRIBUTORPROMPT.md). It is interactive and deliberately uses short, low-friction questions.
+
+You do not need to download the repository just to evaluate whether you fit. In a web-capable ChatGPT session, copy/paste:
+
+```text
+I'm considering contributing to Peak Piece, One Piece: Recharted, or both.
+
+Read these public pages first:
+https://github.com/nathaniel-bonolo/peak-piece#readme
+https://github.com/nathaniel-bonolo/peak-piece/blob/main/prompts/CONTRIBUTORPROMPT.md
+
+Then follow the contributor-onboarding instructions in that prompt.
+
+Keep onboarding low-friction. Ask me one short question at a time, usually yes/no, multiple choice, or something I can answer in a few words. Do not make me write an essay just to get started.
+```
+
+Peak Piece has a public repository and can be evaluated directly. Recharted currently does not have a public source-of-truth repository, so the onboarding prompt requires ChatGPT to be explicit about that limitation rather than inventing one.
+
+Using ChatGPT to browse the bible does **not** mean contributors must use AI to write or create. The repository is the source of truth; AI is an optional navigation interface.
 
 ## Two layers, one project
 
 ```text
 peak-piece/
 ├── story/        # what readers are meant to read
-└── production/   # how the writers keep it consistent
+├── production/   # how the writers keep it consistent
+└── prompts/      # AI ingestion, creator evaluation, and contributor onboarding
 ```
 
 Repository administration such as the changelog, contributing guide, and contributor list stays at the root.

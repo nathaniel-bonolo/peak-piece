@@ -42,8 +42,9 @@ tags:
 
 - [[production/FOUNDATIONS|Peak Piece Foundations]]
 - [[production/DECISION-STATUS|Decision Status]]
-- [[production/AGENTPROMPT|Ask ChatGPT / Agent Prompt]]
-- [[production/CREATORPROMPT|Creator Evaluation Prompt]]
+- [[prompts/AGENTPROMPT|Ask ChatGPT / Agent Prompt]]
+- [[prompts/CREATORPROMPT|Creator Evaluation Prompt]]
+- [[prompts/CONTRIBUTORPROMPT|Contributor Onboarding Prompt]]
 - [[production/WRITING-PHILOSOPHY|Writing Philosophy]]
 - [[production/STYLE-GUIDE|Style Guide]]
 - [[CONTRIBUTING|Contributing]]

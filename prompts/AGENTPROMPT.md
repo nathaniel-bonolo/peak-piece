@@ -75,7 +75,9 @@ If I make a factual claim about Peak Piece, verify it against the repository ins
 
 ## Creator route
 
-If the goal is to decide whether Peak Piece is worth exploring before committing significant time, use [[production/CREATORPROMPT|Creator Evaluation Prompt]].
+If the goal is to decide whether Peak Piece is worth exploring before committing significant time, use [[prompts/CREATORPROMPT|Creator Evaluation Prompt]].
+
+If the goal is to decide whether you personally fit the project as a writer, beta reader, artist, researcher, editor, reviewer, designer, or tooling contributor, use [[prompts/CONTRIBUTORPROMPT|Contributor Onboarding Prompt]].
 
 ## Why this exists
 

@@ -25,7 +25,7 @@ No community plugin is required for core navigation.
 
 If somebody still hates Obsidian after setup, use whatever drafting surface is comfortable and let the repository remain the source of truth underneath.
 
-For broad ingestion or cross-file questions, use [[production/AGENTPROMPT|Agent Prompt]]. Obsidian remains useful when you want to browse the linked structure manually.
+For broad ingestion or cross-file questions, use [[prompts/AGENTPROMPT|Agent Prompt]]. For low-friction contributor onboarding, use [[prompts/CONTRIBUTORPROMPT|Contributor Prompt]]. Obsidian remains useful when you want to browse the linked structure manually.
 
 See [[production/WORKFLOW|Writers' Room Workflow]].
 

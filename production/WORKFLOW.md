@@ -61,7 +61,7 @@ Foundations can still be criticized in execution.
 
 Use Obsidian when you want the folder hierarchy, backlinks, systems, character files, lore, and production bible.
 
-Use [[production/AGENTPROMPT|Agent Prompt]] when you want a repository-capable AI to navigate the project conversationally.
+Use [[prompts/AGENTPROMPT|Agent Prompt]] when you want a repository-capable AI to navigate the project conversationally. Use [[prompts/CONTRIBUTORPROMPT|Contributor Prompt]] when onboarding someone who is still deciding whether they fit as a writer, beta reader, artist, researcher, editor, designer, reviewer, or tooling contributor.
 
 For a normal Git installation:
 

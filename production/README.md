@@ -46,7 +46,7 @@ Key ideas include:
 
 See [[production/WORKFLOW|Writers' Room Workflow]].
 
-Chats / Docs can be easy drafting surfaces. Obsidian remains a full linked project view. For broad ingestion, [[production/AGENTPROMPT|Agent Prompt]] is the primary conversational route over the bible, and [[production/CREATORPROMPT|Creator Prompt]] is the cold-entry evaluation route for outside creators. GitHub is the source of truth underneath all of them.
+Chats / Docs can be easy drafting surfaces. Obsidian remains a full linked project view. For broad ingestion, [[prompts/AGENTPROMPT|Agent Prompt]] is the primary conversational route over the bible, [[prompts/CREATORPROMPT|Creator Prompt]] is the cold-entry evaluation route for outside creators, and [[prompts/CONTRIBUTORPROMPT|Contributor Prompt]] is the low-friction route for people deciding how they might help. GitHub is the source of truth underneath all of them.
 
 ## Review
 

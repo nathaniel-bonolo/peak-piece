@@ -10,7 +10,8 @@
   "non_canon_roots": [
     "proposals",
     "references",
-    "production"
+    "production",
+    "prompts"
   ],
   "story_is_canonical_readable_layer": true,
   "related_projects": [
@@ -21,7 +22,7 @@
     }
   ],
   "obsidian_home": "00 - Peak Piece.md",
-  "agent_prompt": "production/AGENTPROMPT.md",
+  "agent_prompt": "prompts/AGENTPROMPT.md",
   "decision_status": "production/DECISION-STATUS.md",
   "moc_root": "indexes",
   "current_focus": "Return to Sabaody / Fishman Island",
@@ -33,5 +34,6 @@
     "C_FOR / 𝒞_F𝒪𝑅"
   ],
   "latest_lock": "V12 - Luffy post-Marineford/timeskip psychology, no hidden second dream, Return to Sabaody fighting retreat, Tashigi weapon-centric direction, AI onboarding refinement",
-  "creator_prompt": "production/CREATORPROMPT.md"
+  "creator_prompt": "prompts/CREATORPROMPT.md",
+  "contributor_prompt": "prompts/CONTRIBUTORPROMPT.md"
 }

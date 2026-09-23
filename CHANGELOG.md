@@ -64,9 +64,15 @@ tags:
 - Marked firefox6663355 / Fox as a **former contributor** while preserving historical credit and provenance.
 
 ### AI / creator onboarding
-- Reworked [[production/AGENTPROMPT|AGENTPROMPT]] around the actual usage pattern: **the repository is the source of truth; ChatGPT is the primary ingestion interface over it.**
+- Reworked [[prompts/AGENTPROMPT|AGENTPROMPT]] around the actual usage pattern: **the repository is the source of truth; ChatGPT is the primary ingestion interface over it.**
 - The prompt now establishes current status first, follows connected files, inspects canon audits for radical changes, distinguishes explicit documentation from inference, and surfaces contradictions rather than silently blending them.
-- Added [[production/CREATORPROMPT|Creator Evaluation Prompt]] for creators who want a skeptical first-pass answer to whether Peak Piece is worth deeper exploration without manually reading the whole bible.
+- Added [[prompts/CREATORPROMPT|Creator Evaluation Prompt]] for creators who want a skeptical first-pass answer to whether Peak Piece is worth deeper exploration without manually reading the whole bible.
+- Moved all AI onboarding prompts into the root `prompts/` folder so conversational entry points are visible without digging through production internals.
+- Added [[prompts/CONTRIBUTORPROMPT|Contributor Onboarding Prompt]] for writers, beta readers, artists, researchers, editors, continuity reviewers, fight choreographers, designers, tooling contributors, and detailed readers.
+- Contributor onboarding is deliberately low-friction: one short question at a time, usually yes/no, multiple choice, or a few words, with a useful contribution map after at most five questions.
+- The contributor prompt presents both Peak Piece and One Piece: Recharted while explicitly refusing to invent a Recharted repository before one exists.
+- Clarified that ChatGPT can inspect the public Peak repository directly from links for onboarding; contributors do not need to download the repo just to decide whether the projects interest them.
+- Clarified that AI is optional for contribution. The repository is the source of truth; ChatGPT is only an ingestion/navigation layer.
 
 ## V11.1 - Linlin / Brook character core and framing cleanup
 
@@ -118,7 +124,7 @@ tags:
 
 ### Navigation / AI onboarding
 - Added root `AGENTS.md`.
-- Added [[production/AGENTPROMPT|AGENTPROMPT]] for copy-paste ChatGPT / AI onboarding.
+- Added [[prompts/AGENTPROMPT|AGENTPROMPT]] for copy-paste ChatGPT / AI onboarding.
 - Added [[production/DECISION-STATUS|Decision Status]] so foundational, contested, proposed, rejected, and superseded material can be read in one place.
 - Updated Obsidian / production navigation to expose the new status and AI paths.
 

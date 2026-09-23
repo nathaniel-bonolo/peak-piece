@@ -67,9 +67,11 @@ Use whatever drafting surface is practical for the people involved: chat, shared
 
 Use Obsidian when you want the full linked project, folder hierarchy, backlinks, and production bible.
 
-Use [[production/AGENTPROMPT|Agent Prompt]] when you want a repository-capable AI to help navigate the project.
+Use [[prompts/AGENTPROMPT|Agent Prompt]] when you want a repository-capable AI to help navigate the project.
 
-GitHub remains the source of truth.
+Use [[prompts/CONTRIBUTORPROMPT|Contributor Onboarding Prompt]] if you are not sure whether you fit best as a writer, beta reader, artist, researcher, editor, continuity reviewer, fight choreographer, designer, tooling contributor, or detailed reader. The onboarding is deliberately short-question-first rather than essay-first.
+
+Using AI is not required to contribute. GitHub remains the source of truth.
 
 For plain Git:
 
