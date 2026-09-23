@@ -50,6 +50,7 @@ tags: [moc, characters]
 ## Marines
 
 - [[production/characters/smoker/overview|Smoker]]
+- [[production/characters/tashigi/overview|Tashigi]]
 
 ## Endgame
 

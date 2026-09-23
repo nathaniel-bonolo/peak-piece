@@ -7,7 +7,9 @@ tags: [project, ai, onboarding]
 ---
 # Ask ChatGPT About Peak Piece
 
-You can use a repository-capable ChatGPT session or another AI assistant to explore Peak Piece without manually reading every file first.
+For most people, a repository-capable ChatGPT session is the fastest way to ingest and explore the Peak Piece bible.
+
+The repository is still the source of truth. ChatGPT is the primary conversational interface over that source.
 
 Copy/paste this prompt:
 
@@ -17,41 +19,68 @@ I'm exploring Peak Piece, a reimagining of One Piece.
 Repository:
 https://github.com/nathaniel-bonolo/peak-piece
 
-Before answering project-specific questions, inspect the repository rather than relying on assumptions about the project.
+Treat the current repository as the source of truth.
 
-Start with:
+Before answering project-specific questions, inspect the repository instead of relying on assumptions about Peak Piece, old conversations, handoffs, or general One Piece knowledge.
+
+First establish the current project state from:
+- project.json
 - README.md
 - production/FOUNDATIONS.md
 - production/DECISION-STATUS.md
 - production/WRITING-PHILOSOPHY.md
 - production/REVIEW-PROTOCOL.md
+- the newest relevant section of CHANGELOG.md when version history matters
 
-Then read the relevant character, story, lore, system, or proposal files for the question I ask.
+Then follow the relevant links into character, story, lore, faction, system, canon-audit, or proposal files for the question I ask.
+
+Do not stop at the first matching file when the answer depends on connected material. Synthesize across the relevant files.
 
 Always distinguish between:
 - One Piece canon
 - Peak Piece foundational / locked material
-- draft implementation
+- current draft implementation
 - contested extensions
 - active proposals
 - rejected / superseded material
-- your own interpretation
+- your own inference
 
 Peak Piece is not merely trying to make canon "better." It deliberately explores alternate directions for material that may already work when another direction is worth exploring.
 
-When comparing Peak Piece with canon, identify what each version is trying to accomplish, what each gains and loses, and whether the Peak Piece direction earns the material it replaces. Do not assume closer adherence to canon is inherently better.
+When evaluating a major replacement:
+- identify what canon is doing
+- inspect the relevant canon audit when one exists
+- identify what Peak Piece is trying to do instead
+- identify what each version gains and loses
+- ask whether the Peak direction earns the cost of replacement
 
-Preference is not refutation. I can prefer canon or Peak Piece without that preference proving the other version structurally failed.
+If the relevant radical change has no canon audit yet, say so instead of pretending the repository has already done that work.
 
-Legacy frontmatter may use `canon: true/false` as shorthand for **Peak Piece continuity status**. Do not read that key as a claim that the material is canon to Oda's One Piece; use DECISION-STATUS and the surrounding file status to interpret it.
+Do not assume closer adherence to canon is inherently better.
+Do not assume greater complexity or greater difference is inherently better.
+Preference is not refutation.
 
-If I make a claim about Peak Piece, verify it against the repository instead of assuming I am correct.
+Legacy frontmatter may use `canon: true/false` as shorthand for Peak Piece continuity status. Do not read that key as a claim that the material is canon to Oda's One Piece. Use production/DECISION-STATUS.md, proposal location, file status, and surrounding context to interpret it.
+
+If multiple files conflict, do not silently merge them. Identify the contradiction and prefer explicit current status / newer authoritative material when the repository makes that hierarchy clear.
+
+When explaining a conclusion, distinguish:
+- what the repository explicitly states
+- what you inferred by connecting multiple files
+
+Use CHANGELOG.md to understand how an idea evolved, not as a substitute for the current authoritative files.
+
+If I make a factual claim about Peak Piece, verify it against the repository instead of assuming I am correct.
 ```
+
+## Creator route
+
+If the goal is to decide whether Peak Piece is worth exploring before committing significant time, use [[production/CREATORPROMPT|Creator Evaluation Prompt]].
 
 ## Why this exists
 
-Obsidian is the strongest way to browse the linked production bible directly.
+Manually opening files is useful when you already know where you are going.
 
-The agent prompt is the conversational route.
+For broad understanding, the AI route is usually stronger because it can traverse the linked bible, compare status, and synthesize across multiple files without requiring the reader to learn the repository layout first.
 
-Both should lead back to the repository as the source of truth.
+The repository remains authoritative underneath that interface.

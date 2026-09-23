@@ -28,6 +28,7 @@ These define the version of *One Piece* Peak Piece is trying to make. Their impl
 - [[production/characters/chopper/progression|Chopper's SMILE / nonlethal Devil Fruit extraction direction]]
 - [[production/characters/usopp/contingencies|Usopp's preparation developing into contingency paranoia]]
 - [[production/characters/imu/relationships|Centuries-old Imu / Linlin strategic relationship]]
+- [[production/FOUNDATIONS#12. Luffy has no hidden second dream|Luffy has no hidden second dream; Pirate King is the dream]]
 
 See [[production/FOUNDATIONS|Foundations]] for the boundary between a direction and its still-open implementation.
 
@@ -40,7 +41,7 @@ These are current canon architecture even when individual scenes remain drafts.
 - [[production/systems/devil-fruit-pharmacology|Fruit-specific pharmacology]]
 - [[production/lore/economy/gems|Gems as strategic external energy reserves]]
 - [[production/characters/pudding/identity-and-harvest|Pudding memory identity / harvest role]]
-- [[story/sagas/return-to-sabaody/arcs/return-to-sabaody/arc|Return to Sabaody: Smoker's Sabaody cordon / reunion structure]]
+- [[story/sagas/return-to-sabaody/arcs/return-to-sabaody/arc|Return to Sabaody: Chopper rescue / fighting retreat through Smoker's Sabaody cordon]]
 - [[story/sagas/fishman-island/arcs/fishman-island/arc|Fishman Island: Hoshi ultimately protects the island itself]]
 
 ## Contested extensions
@@ -60,6 +61,7 @@ Contested means unresolved, not rejected.
 - [[production/proposals/active/sanji-lotus-flytrap-island|Sanji Lotus / Flytrap Island]]
 - [[production/proposals/active/wci-without-germa|Whole Cake Island without Germa]]
 - [[production/proposals/active/yamato-betrayal|Yamato insider betrayal]]
+- [[production/proposals/active/don-krieg-sabaody-callback|Don Krieg ship callback in Return to Sabaody]]
 
 ## Rejected
 

@@ -131,11 +131,15 @@ See [`production/OBSIDIAN.md`](production/OBSIDIAN.md).
 
 ### Ask ChatGPT or another repository-capable AI
 
-You can ask an AI about Peak Piece without manually reading the entire production bible.
+For broad understanding, a repository-capable ChatGPT session is currently the strongest ingestion route into the production bible.
+
+The repository remains the source of truth. The AI is the interface over it.
 
 Copy the onboarding prompt from [`production/AGENTPROMPT.md`](production/AGENTPROMPT.md).
 
-The prompt tells the agent to inspect the repository, distinguish canon from Peak Piece status, and evaluate reimagined material according to the question it is actually trying to answer.
+The prompt tells the agent to establish current version / status first, follow connected files, inspect canon audits for radical changes, distinguish explicit documentation from inference, and surface contradictions instead of silently blending them.
+
+If you are a One Piece creator or reviewer trying to decide whether the project is worth deeper exploration, use [`production/CREATORPROMPT.md`](production/CREATORPROMPT.md).
 
 ## Two layers, one project
 

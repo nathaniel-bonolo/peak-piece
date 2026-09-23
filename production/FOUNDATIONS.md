@@ -255,6 +255,22 @@ The exact reason Imu chose Linlin, the original bargain, contract wording, quota
 
 See [[production/characters/imu/relationships|Imu Relationships]] and [[production/characters/linlin/relationships|Linlin Relationships]].
 
+## 12. Luffy has no hidden second dream
+
+Luffy's dream is to become **King of the Pirates**.
+
+Peak Piece does not introduce a later secret "true dream" behind that goal.
+
+His understanding of what becoming Pirate King means can deepen as he learns more about Roger, the Great Pirate Era, freedom, and responsibility.
+
+That growth does not require the story to reveal that the audience was missing his real motivation the entire time.
+
+The Pirate King dream is enough.
+
+This direction is foundational because it defines Luffy's long-form motivation across the adaptation.
+
+See [[production/characters/luffy/overview|Luffy]].
+
 ## What is explicitly **not** foundational
 
 Being exciting is not enough to become a foundation.
@@ -266,6 +282,10 @@ Current examples that remain proposals / contested directions include:
 - [[production/proposals/active/burgess-mera-mera|Burgess receiving the Mera-Mera no Mi]]
 - [[production/proposals/active/wci-without-germa|Whole Cake Island without Germa]]
 - [[production/proposals/active/nidhoggr-creature|Nidhoggr as an actual creature]]
+- [[production/proposals/active/sanji-lotus-flytrap-island|Sanji Lotus / Flytrap timeskip mechanism]]
+- [[production/proposals/active/don-krieg-sabaody-callback|Don Krieg ship callback in Return to Sabaody]]
+- [[production/proposals/active/black-maria-yukaku|Black Maria / Yukaku rework]]
+- [[production/proposals/active/may-weller|May Weller]]
 
 See [[production/DECISION-STATUS|Decision Status]] for the full current list.
 

@@ -50,6 +50,12 @@ Unresolved character redesigns belong in [[production/proposals/README|Proposals
 
 ## Current focus
 
+Return to Sabaody:
+
+- [[production/characters/luffy/overview|Luffy]]
+- [[production/characters/smoker/overview|Smoker]]
+- [[production/characters/tashigi/overview|Tashigi]]
+
 Fishman Island:
 
 - [[production/characters/hordy/overview|Hordy Jones]]
@@ -73,7 +79,7 @@ Later arcs:
 
 ## Foundations
 
-Some character directions define the adaptation rather than living as ordinary proposals. See [[production/FOUNDATIONS|Foundations]] for Luffy, Hordy, and Brook.
+Some character directions define the adaptation rather than living as ordinary proposals. See [[production/FOUNDATIONS|Foundations]] for the current foundational character directions.
 
 ## Related
 

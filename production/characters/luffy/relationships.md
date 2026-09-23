@@ -32,14 +32,32 @@ Over time Luffy becomes interested in the actual man and in what Roger believed 
 
 Boa helps Luffy because she is utterly infatuated with him, but Peak Piece lets that affection produce competent action.
 
-After Marineford she refuses to let him return to the New World unprepared.
+After Marineford she refuses to let him return to sea unprepared.
 
-She organizes his Haki education and personally teaches Conqueror's.
+She is the person who first forces him to confront how much Sabaody and Marineford depended on stronger people saving him.
+
+She organizes his Haki education, personally teaches Conqueror's, notices when training becomes self-destruction, and eventually shuts the training down when Luffy refuses to rest.
 
 A future romance or marriage is **not locked**.
+
+See [[production/characters/luffy/timeskip|Post-Marineford Trauma and Timeskip]].
+
+## Jinbe
+
+Jinbe remains essential in the immediate aftermath of Marineford.
+
+Boa confronts the danger in Luffy's behavior. Jinbe helps Luffy see what remains alive and worth returning to.
+
+The crew is still there.
+
+That does not solve grief. It gives Luffy a reason not to disappear inside it.
 
 ## Straw Hats
 
 The crew helps turn Luffy's simple instincts into functioning behavior.
 
 His fleet philosophy should emerge from how the crew acts, not from Luffy writing a constitution.
+
+Luffy's captaincy growth should never become a lesson that he must do everything alone.
+
+> **Depending on people is not the same thing as gambling their lives on hope.**

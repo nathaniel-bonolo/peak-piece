@@ -15,6 +15,7 @@ tags:
 - [[production/characters/luffy/overview|Overview]]
 - [[production/characters/luffy/abilities|Abilities]]
 - [[production/characters/luffy/progression|Progression]]
+- [[production/characters/luffy/timeskip|Post-Marineford Trauma and Timeskip]]
 - [[production/characters/luffy/relationships|Relationships]]
 
 ## Major connected ideas

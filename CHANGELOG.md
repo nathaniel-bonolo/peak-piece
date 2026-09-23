@@ -11,6 +11,63 @@ tags:
 
 # Changelog
 
+## V12 - Post-Marineford Luffy, Return to Sabaody execution, and onboarding
+
+### Luffy: Sabaody / Marineford wound
+- Connected Sabaody and Marineford into one captaincy lesson: moral courage does not erase the consequences other people may have to absorb.
+- Locked the distinction: **Depending on people is not the same thing as gambling their lives on hope.**
+- Clarified that punching Charlos is not the moral failure; acting while responsible for others with no answer for the retaliation is the failure.
+- Added the Marineford realization: **"I kept charging forward because every time I should have died, somebody stronger saved me."**
+- Kept Luffy's immediate grief belief that Ace died because of him without requiring the story to endorse that belief as objective truth.
+
+### Luffy: timeskip psychology
+- Added [[production/characters/luffy/timeskip|Post-Marineford Trauma and Timeskip]] as the detailed authority.
+- Boa now initiates the post-war intervention and refuses to help Luffy rush immediately back to sea.
+- Jinbe retains the role of helping Luffy recognize what remains alive and worth returning to.
+- Training is both necessary preparation and grief avoidance; Rusukaina gives Luffy something dangerous enough to keep silence away.
+- Added the recurring **"Again"** behavior and the principle that trauma should appear in action before explanation.
+- Added Boa shutting training down after recognizing self-destruction, the repeated **"Not enough"** exchange, and the line **"At what point would you decide Ace wasn't your failure?"**
+- Kept the Conqueror's eruption scene direction while leaving the exact trauma / Conqueror's mechanics unresolved until the Haki model earns them.
+- The timeskip gives Luffy partial acceptance, not complete healing. The belief **"If I become strong enough, this can never happen again"** survives into post-timeskip.
+
+### Luffy: Haki and long-form progression
+- Refined Kuja training from "Rayleigh replacement" into a living Haki culture with multiple specialists and Hancock teaching Conqueror's.
+- Locked the training principle: **The Kuja give him breadth. Luffy creates the synthesis.**
+- Return to Sabaody now initially validates Luffy's strength answer; Fishman Island then demonstrates that strength cannot control every situation.
+- Made **Luffy has no hidden second dream** foundational. His dream is to become King of the Pirates; later growth can deepen what that means without revealing a second secret motivation.
+
+### Return to Sabaody
+- Chopper now recognizes the Fake Straw Hats, then gets caught when the Marine sweep seizes the imposters, giving the crew a concrete rescue objective.
+- Kept Fake Straw Hats as a compressed gag / bait ecosystem rather than an extended stupidity field.
+- Added Brook continuing to perform while fighting Marines during the concert, with **"We Go"** as the current set-piece direction after the original performance.
+- Added the Sanji → Smoker → Luffy handoff: Sanji initially holds Smoker, then Luffy takes the engagement while Sanji rotates toward Sentomaru.
+- Locked the late-arc rear guard: Luffy holds Smoker, Sanji holds Sentomaru, Zoro holds Tashigi while the rest of the crew gets the Sunny moving.
+- Luffy vs Smoker should read roughly **70/30 for Luffy**. Smoker trained too and is not one-shot fodder, but the old matchup has clearly flipped.
+- Luffy does not finish Smoker merely to assert dominance. Unknown reinforcements, Pacifistas, ship damage, coating damage, recapture, and injury all make an unnecessary extended fight strategically stupid.
+- Once the Sunny is clear, the trio disengage and board the moving ship. The victory condition is recovering Chopper and escaping a prepared interception.
+- Smoker cannot sensibly solo-board the entire crew; pursuit toward Fishman Island requires regrouping, a prepared ship, and coating.
+- Controlled Monster Point is not spent merely as Chopper's first post-timeskip flex.
+
+### Tashigi
+- Added a dedicated Tashigi character direction and canon audit.
+- Peak Tashigi is not driven by proving that a woman can be a serious swordsman; she already knows she is strong.
+- Her stronger axis is weapons: famous blades, craftsmanship, provenance, custody, collection, and the difference between preserving a sword and possessing it.
+- In Return to Sabaody, Shusui intensifies her reason to stop Zoro. The clash is part of the rear guard rather than a ceremonial duel to unconsciousness.
+
+### Proposals kept as proposals
+- Expanded [[production/proposals/active/sanji-lotus-flytrap-island|Sanji Lotus / Flytrap Island]] into a full culinary predator-paradise direction with real food culture, All Blue investigation, Observation / Sky Walk opportunities, and a possible WCI self-worth consequence. It remains **active proposal material**, not canon mechanics.
+- Added [[production/proposals/active/don-krieg-sabaody-callback|Don Krieg Ship Callback]] as an explicit proposal rather than silently placing the fan-service beat into RTS canon.
+- Black Maria / Yukaku and May Weller remain proposals.
+
+### Contributors
+- Updated C_FOR / 𝒞_F𝒪𝑅 from a narrow RTS credit into a fuller character-continuity / structural-ideation / set-piece role reflecting current contributions.
+- Marked firefox6663355 / Fox as a **former contributor** while preserving historical credit and provenance.
+
+### AI / creator onboarding
+- Reworked [[production/AGENTPROMPT|AGENTPROMPT]] around the actual usage pattern: **the repository is the source of truth; ChatGPT is the primary ingestion interface over it.**
+- The prompt now establishes current status first, follows connected files, inspects canon audits for radical changes, distinguishes explicit documentation from inference, and surfaces contradictions rather than silently blending them.
+- Added [[production/CREATORPROMPT|Creator Evaluation Prompt]] for creators who want a skeptical first-pass answer to whether Peak Piece is worth deeper exploration without manually reading the whole bible.
+
 ## V11.1 - Linlin / Brook character core and framing cleanup
 
 ### Public framing

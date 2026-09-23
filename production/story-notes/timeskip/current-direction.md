@@ -13,7 +13,17 @@ Amazon Lily / Rusukaina remains the training base.
 
 Kuja specialists teach Haki subareas; Boa personally handles Conqueror's.
 
-Sabaody and Marineford are the first major cracks in Luffy's worldview. The two-year timeskip improves his tools; it does **not** complete his emotional or philosophical growth.
+Sabaody and Marineford become one connected wound: Luffy repeatedly survives because somebody stronger saves him, then responds by trying to make helplessness impossible through training.
+
+Training is both preparation and grief avoidance.
+
+The timeskip forces some confrontation with Ace's death but does **not** complete Luffy's emotional or philosophical growth.
+
+The belief that survives is that enough strength can stop Sabaody / Marineford from ever happening again.
+
+Return to Sabaody initially validates that answer. Fishman Island attacks it.
+
+See [[production/characters/luffy/timeskip|Luffy: Post-Marineford Trauma and Timeskip]].
 
 ## Robin
 
@@ -29,11 +39,15 @@ Revolutionary field environment remains the direction: reconnaissance, sabotage,
 
 ## Sanji
 
-Current direction: more respectful relationship to women without deleting attraction / romance, stronger lived All Blue practice, and the Lotus / flytrap island as an active mechanism proposal.
+Current character result: more respectful relationship to women without deleting attraction / romance, and stronger lived All Blue practice.
+
+The expanded culinary predator-paradise mechanism remains an active proposal.
+
+See [[production/proposals/active/sanji-lotus-flytrap-island|Sanji Lotus / Flytrap Island]].
 
 ## Nami
 
-Weatheria core remains. Expand the result: weather expertise, rough world mapping, market/pricing skill, and a map that keeps accumulating crew knowledge.
+Weatheria core remains. Expand the result: weather expertise, rough world mapping, market / pricing skill, and a map that keeps accumulating crew knowledge.
 
 ## Chopper
 

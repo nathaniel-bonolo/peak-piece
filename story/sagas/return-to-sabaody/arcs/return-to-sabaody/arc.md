@@ -21,6 +21,14 @@ The crew is stronger, more capable, and more prepared.
 
 The world also had two years to prepare for **them**.
 
+For Luffy specifically, the arc initially validates the answer he built after Sabaody and Marineford:
+
+> **I got stronger. I fixed it.**
+
+Fishman Island will challenge the deeper assumption that strength can keep every situation under control.
+
+See [[production/characters/luffy/timeskip|Luffy: Post-Marineford Trauma and Timeskip]].
+
 ## Emotional hook
 
 The opening feeling is less:
@@ -41,21 +49,25 @@ He approaches Sabaody with uncomplicated excitement about seeing his friends aga
 
 He encounters the Fake Straw Hats first.
 
-They are redesigned to be visually closer to the crew they are impersonating. Two years of unknown training gives Chopper a plausible reason to think his friends may have changed physically.
+They are visually plausible enough that two years of unknown change can briefly create uncertainty, but Chopper is not fooled for an entire subplot.
 
-He is fooled briefly, not indefinitely.
-
-The comedy gives way to memory:
+The comedy gives way to recognition:
 
 > **These people do not feel like my friends.**
 
-Small recollections of the actual crew let Chopper recognize the difference and leave to find the real Straw Hats.
+He figures out that they are fake.
+
+Before he can cleanly leave the situation, the Marine operation moves on the imposters and Chopper is caught in the sweep as well.
+
+That gives the real Straw Hats an immediate objective:
+
+> **Get Chopper back.**
 
 Once the reunion begins, focal weight widens across the crew so the arc does not become "Chopper's Sabaody."
 
 ## Fake Straw Hats
 
-The imposters can stay because the gag is useful, but their existence needs causality.
+The imposters stay, but their role is compressed.
 
 The Straw Hats vanished publicly at the height of their notoriety.
 
@@ -70,9 +82,11 @@ The imposters therefore use the Straw Hat brand to recruit protection, status, a
 
 They do **not** need matching Devil Fruits.
 
-Identity-level plausibility is enough.
+Marine intelligence can tolerate the scam briefly because it attracts wanted pirates and creates useful noise around the real crew's expected return.
 
-Chopper is smart. He is not socially wise enough to demand that somebody demonstrate their Fruit as biometric proof before he believes they changed during two years apart.
+Once the interception begins, the fakes are seized quickly.
+
+Their capture should demonstrate that the Marines are serious rather than require everybody around them to become stupid.
 
 ## Sabaody becomes the new Loguetown
 
@@ -92,7 +106,7 @@ That assignment fits him:
 - he believes letting Luffy reach his potential is dangerous
 - Sabaody lets him intercept crews before they disappear into the New World
 
-Tashigi serves with him.
+[[production/characters/tashigi/overview|Tashigi]] serves with him.
 
 Sabaody is not transformed into one giant Marine fortress.
 
@@ -135,9 +149,19 @@ The Marine presence can include:
 
 Their appearance should feel like the result of the operation rather than canon characters coincidentally spawning where the reunion happens.
 
-Marine intelligence can also keep the Fake Straw Hats under surveillance instead of instantly cleaning them up because the scam attracts wanted pirates and creates useful noise around the real crew's expected return.
+## Brook's concert becomes part of the escape spectacle
 
-That does not require Smoker to like the imposters.
+Brook's public concert helps expose the reunion window.
+
+When the Marines move against the event, Brook does not simply stop being Soul King and become a fighter in a separate scene.
+
+He keeps performing while fighting Marines trying to storm the stage.
+
+The current set-piece direction is for the concert to transition into **"We Go"** as the fight breaks out.
+
+The value is the collision of both Brook identities at once: musician and Straw Hat.
+
+Exact staging remains scene work.
 
 ## The showcase
 
@@ -153,23 +177,115 @@ Different Straw Hats get short opportunities to reveal what changed.
 
 Pacifistas that once represented catastrophe are now manageable.
 
-Smoker and Tashigi matter because they remember the old crew well enough to understand the scale of the difference.
+Sentomaru matters because the old Sabaody force that once crushed the crew now has to deal with a crew capable of protecting its own escape.
+
+Controlled Monster Point should not be spent merely as Chopper's first post-timeskip flex. Save it for a fight that actually needs it.
+
+## Sanji / Smoker / Luffy handoff
+
+Before Luffy arrives, Sanji can be the Straw Hat physically holding Smoker back.
+
+Sanji has grown enormously, but Smoker is still a difficult matchup and Sanji is not meant to casually dominate him here.
+
+When Luffy arrives, he takes the Smoker engagement.
+
+Sanji can then rotate toward Sentomaru as the escape line forms.
+
+The handoff lets Sanji show growth without stealing the Luffy / Smoker payoff.
 
 ## Luffy and Smoker
 
-The important payoff is not necessarily a clean knockout.
+Smoker trained too.
 
-Smoker used to be able to corner Luffy through a combination of Logia advantage, experience, and Luffy's lack of answers.
+Luffy does not one-shot him.
 
-Now Luffy can actually fight him.
+The fight should still read roughly **70/30 in Luffy's favor**.
 
-Smoker gets to experience the growth directly.
+Luffy can now:
 
-The Straw Hats' objective remains:
+- hit Smoker through his Logia defense
+- follow his movement
+- answer his experience with Observation and Armament
+- intercept attempts to switch targets
+- keep Smoker away from the Sunny
 
-> **reunite, reclaim the Sunny, leave.**
+Smoker can land real hits and make Luffy work, but the audience should understand that the old matchup has flipped.
 
-Escaping a prepared Smoker operation while recovering their ship can be a better victory than pausing the reunion to finish a ceremonial boss battle.
+The important payoff is **not** a ceremonial knockout.
+
+Luffy does not know how long fully putting Smoker down would take.
+
+Another five minutes can mean:
+
+- more Marines
+- more Pacifistas
+- an unknown reinforcement package
+- Chopper being recaptured
+- damage to the Sunny
+- damage to the coating
+- entering Fishman Island / the New World injured for no strategic gain
+
+The crew was ambushed. They do not know the full enemy force.
+
+Once Chopper is safe and the Sunny is moving, rendering Smoker unconscious gains almost nothing while extending exposure to unknown risk.
+
+This is part of Luffy's growth after the original Sabaody failure.
+
+He still fights.
+
+He still hits the person in front of him.
+
+He is beginning to understand that **winning the mission matters more than winning every available fight**.
+
+## Tashigi and Zoro
+
+Tashigi's motive is not to prove herself as a woman swordsman.
+
+She wants Zoro's swords in Marine custody, and seeing **Shusui** gives her even more reason to stop him.
+
+Zoro's job is not to beat her unconscious.
+
+He prevents her from reaching the Sunny and makes the post-timeskip gap obvious while the escape proceeds.
+
+When the exit opens, he leaves.
+
+See [[production/characters/tashigi/overview|Tashigi]].
+
+## Final fighting retreat
+
+Once Chopper is recovered, the arc becomes a coordinated exit rather than a boss-clear sequence.
+
+1. The other Straw Hats get Chopper aboard and begin moving the Sunny.
+2. Luffy holds Smoker.
+3. Sanji holds Sentomaru.
+4. Zoro holds Tashigi.
+5. The trio deny the Marines access to the moving ship while the rest of the crew creates distance.
+6. When the Sunny is far enough away, Luffy, Zoro, and Sanji disengage and board the moving ship.
+7. The Sunny proceeds toward submersion for Fishman Island.
+
+The trio are not fleeing because they are losing.
+
+They are finishing the objective.
+
+## Why Smoker cannot simply jump onto the Sunny
+
+Smoker is the fastest of the three Marine opponents.
+
+If he immediately chases the departing ship alone, he turns a coordinated Marine interception into:
+
+> **Smoker vs the entire Straw Hat crew on their own ship.**
+
+If Sentomaru catches up later, it is still two Marines boarding a full Straw Hat ship.
+
+If Tashigi catches up after that, it is still three Marines boarding a full Straw Hat ship.
+
+That is terrible battle instinct, especially when the Straw Hats are expecting pursuit and the Sunny is about to go underwater.
+
+Smoker can still pursue them toward Fishman Island and into the New World.
+
+He simply needs to regroup, prepare a ship, get it coated, organize the pursuit force, and follow.
+
+The Straw Hats create a logistical gap, not a magical disappearance.
 
 ## Bridge to Fishman Island
 
@@ -182,3 +298,9 @@ Fishman Island then gets to say:
 > **Good. Strength still does not solve every problem.**
 
 That two-arc progression is intentional.
+
+## Proposal boundary
+
+The idea that Zoro's ship-destruction showcase uses Don Krieg's ship remains an active proposal rather than part of this arc's current canon.
+
+See [[production/proposals/active/don-krieg-sabaody-callback|Don Krieg Ship Callback]].

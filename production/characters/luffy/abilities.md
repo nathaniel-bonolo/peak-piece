@@ -62,4 +62,4 @@ The story will not invent a fifth stage merely because Gear 4 exists.
 
 Luffy's post-Marineford Haki training happens through [[production/lore/locations/amazon-lily|Amazon Lily]], not two years under Rayleigh.
 
-See [[story/interludes/timeskip-haki-training|Timeskip Haki Training]].
+See [[production/characters/luffy/timeskip|Post-Marineford Trauma and Timeskip]] and [[story/interludes/timeskip-haki-training|Timeskip Haki Training]].

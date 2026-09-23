@@ -35,4 +35,4 @@ The strongest current mechanism is a flytrap / Lotus-Eater-style island whose mi
 
 Real jungle food may weaken the illusion.
 
-This is an active proposal, not locked mechanics.
+This is an active proposal, not locked mechanics. See [[production/proposals/active/sanji-lotus-flytrap-island|Sanji Lotus / Flytrap Island]].

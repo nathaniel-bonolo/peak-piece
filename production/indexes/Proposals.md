@@ -19,6 +19,7 @@ tags: [moc, proposals]
 - [[production/proposals/active/black-maria-yukaku|Black Maria / Yukaku]]
 - [[production/proposals/active/ryuo-simplification|Ryuo Simplification]]
 - [[production/proposals/active/yamato-betrayal|Yamato Betrayal]]
+- [[production/proposals/active/don-krieg-sabaody-callback|Don Krieg Sabaody Callback]]
 
 Accepted material should be merged into authoritative files rather than living here permanently.
 

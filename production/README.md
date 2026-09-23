@@ -46,7 +46,7 @@ Key ideas include:
 
 See [[production/WORKFLOW|Writers' Room Workflow]].
 
-Chats / Docs can be easy drafting surfaces. Obsidian is the full linked project view. [[production/AGENTPROMPT|Agent Prompt]] is the conversational AI route. GitHub is the source of truth underneath all of them.
+Chats / Docs can be easy drafting surfaces. Obsidian remains a full linked project view. For broad ingestion, [[production/AGENTPROMPT|Agent Prompt]] is the primary conversational route over the bible, and [[production/CREATORPROMPT|Creator Prompt]] is the cold-entry evaluation route for outside creators. GitHub is the source of truth underneath all of them.
 
 ## Review
 

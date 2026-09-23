@@ -16,7 +16,7 @@ tags:
 > It now leads directly into the rebuilt Fishman Island direction.
 
 > [!info] Project workflow
-> **GitHub is the source of truth. Obsidian is the full linked view. Chats / Docs are drafting surfaces.**
+> **GitHub is the source of truth. ChatGPT is the primary ingestion interface. Obsidian is the full linked manual view. Chats / Docs are drafting surfaces.**
 >
 > Reader-facing material lives in [[story/_Story|Story]]. Deeper systems, lore, proposals, and production notes are optional.
 
@@ -43,6 +43,7 @@ tags:
 - [[production/FOUNDATIONS|Peak Piece Foundations]]
 - [[production/DECISION-STATUS|Decision Status]]
 - [[production/AGENTPROMPT|Ask ChatGPT / Agent Prompt]]
+- [[production/CREATORPROMPT|Creator Evaluation Prompt]]
 - [[production/WRITING-PHILOSOPHY|Writing Philosophy]]
 - [[production/STYLE-GUIDE|Style Guide]]
 - [[CONTRIBUTING|Contributing]]

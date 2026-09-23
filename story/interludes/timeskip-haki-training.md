@@ -13,6 +13,8 @@ tags:
 
 # Timeskip Haki Training
 
+The detailed character authority is [[production/characters/luffy/timeskip|Luffy: Post-Marineford Trauma and Timeskip]].
+
 ## Before Marineford
 
 Boa helps Luffy because Ace is in immediate danger.
@@ -23,17 +25,19 @@ This is not yet a planned two-year training relationship.
 
 Luffy enters a battlefield far above his level.
 
-He survives because stronger people repeatedly save, carry, block for, and protect him.
+He survives because stronger people repeatedly save, carry, block for, heal, and protect him.
 
-That gap becomes impossible to ignore.
+The gap becomes impossible to ignore.
 
-## Boa's decision
+## Boa's intervention
 
-After the war, Boa's conclusion is simple:
+After the war, Luffy wants to find his crew immediately.
 
-> **You survived by luck and by other people. You are not going back out there like this.**
+Boa refuses to help him rush back out before he can survive the consequences of his own decisions.
 
-Exact dialogue is not locked.
+The emotional core is not "become independent of everybody."
+
+> **Depending on people is not the same thing as gambling their lives on hope.**
 
 ## Training structure
 
@@ -53,6 +57,8 @@ Rusukaina tests.
 
 Luffy repeatedly takes new technique into a dangerous environment, fails in ways that reveal misunderstandings, and returns for correction.
 
+Training also becomes a way to avoid grief. That avoidance is confronted during the two years rather than being completely cured by them.
+
 ## Why Rayleigh is not the master
 
 Two years under Roger's right-hand man creates unnecessary story problems.
@@ -68,9 +74,3 @@ Luffy would reasonably leave knowing far more about:
 Peak Piece wants Luffy to encounter many of those questions later, when he is mature enough to understand why they matter.
 
 Rayleigh can still exist and matter without spending two years as Luffy's private encyclopedia and combat coach.
-
-## Related
-
-- Luffy
-- Boa Hancock
-- Haki

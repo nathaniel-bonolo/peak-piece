@@ -36,6 +36,68 @@ This does not instantly produce a speech or ideology.
 
 It changes what Luffy begins to notice.
 
+## Sabaody: consequence without an exit
+
+Punching Charlos is not the moral mistake.
+
+The failure is acting while responsible for other people without an answer for the consequences that follow.
+
+Kuma saving the crew means Luffy has to confront a brutal fact:
+
+> **If Kuma had wanted them dead, they would be dead.**
+
+## Marineford: hope is not a plan
+
+Marineford magnifies the same problem.
+
+Luffy keeps advancing because stronger people repeatedly save him.
+
+Ace then dies protecting him.
+
+Luffy's immediate grief tells him that Ace died because of him.
+
+The deeper realization is:
+
+> **I kept charging forward because every time I should have died, somebody stronger saved me.**
+
+See [[production/characters/luffy/timeskip|Post-Marineford Trauma and Timeskip]].
+
+## Timeskip: weaponizing the wound
+
+Luffy responds to grief through motion.
+
+Training is necessary, but it also becomes avoidance.
+
+He tries to build a body and Haki toolkit strong enough that helplessness can never happen again.
+
+He makes real emotional progress during the two years, but does not finish the lesson.
+
+The belief that survives is:
+
+> **If I become strong enough, this can never happen again.**
+
+## Return to Sabaody: the answer appears to work
+
+The crew reunites stronger.
+
+Pacifistas that once represented catastrophe are manageable.
+
+Luffy can clearly control a fight with Smoker and then leave when finishing Smoker no longer advances the mission.
+
+The emotional result is almost:
+
+> **I fixed it.**
+
+## Fishman Island: strength cannot control every situation
+
+Hordy can be weaker than Luffy and still control initiative through hostages, environment, information, underwater mobility, politics, and civilian vulnerability.
+
+Fishman Island attacks the belief that enough strength can make uncertainty disappear.
+
+> **Depending on people is not the same thing as gambling their lives on hope.**
+
+That distinction becomes part of Luffy learning how to be captain without becoming cautious or joyless.
+
 ## Building a meaning for his flag
 
 Luffy gradually stops treating a pirate flag as only a symbol of personal freedom.
@@ -55,6 +117,8 @@ Roger's final act did not only inspire adventurers.
 It also unleashed predators.
 
 Luffy increasingly wants to find the One Piece partly because he wants to understand what Roger was thinking.
+
+This deepens the Pirate King dream. It does not replace it with a secret second dream.
 
 ## Shanks and the hat
 

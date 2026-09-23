@@ -31,12 +31,30 @@ Smoker's operation keeps the Sunny intact as bait, watches the likely return win
 
 The post-timeskip clash is valuable because Smoker remembers the version of Luffy who could not properly answer him.
 
-The point does not need to be a ceremonial Smoker knockout.
+Smoker trained too, so he is not fodder and does not disappear in one hit.
 
-It is enough that Smoker personally experiences how much the gap has changed while the Straw Hats still have to escape a prepared Marine operation.
+The fight should still make the new hierarchy clear. Luffy controls most of the engagement, can hit the Logia cleanly, and can stop Smoker from switching targets toward weaker Straw Hats or the Sunny.
+
+Smoker's failure is operational:
+
+> **he cannot stop the crew from recovering Chopper, reclaiming the Sunny, and leaving.**
+
+Luffy does not need to knock him unconscious to prove that.
+
+## Pursuit
+
+Once Luffy boards the moving Sunny, Smoker should not mindlessly jump after him alone.
+
+Doing so would turn a coordinated Marine operation into Smoker boarding the entire Straw Hat crew's ship by himself.
+
+The Sunny is also preparing to submerge.
+
+Smoker can still pursue them toward Fishman Island / the New World, but he needs to regroup, prepare and coat a ship, and organize the force first.
+
+The escape creates a logistical gap rather than making Smoker forget how pursuit works.
 
 ## Tashigi
 
-Tashigi remains part of the Sabaody command structure and can intersect with Zoro / Sanji / other Straw Hats during the collapsing interception operation.
+[[production/characters/tashigi/overview|Tashigi]] remains part of the Sabaody command structure.
 
-Exact matchups remain open.
+Her Zoro conflict is driven by swords, especially Shusui, rather than by a need to prove herself as a woman swordsman.

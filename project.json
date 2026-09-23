@@ -1,6 +1,6 @@
 {
   "name": "Peak Piece",
-  "version": 11.1,
+  "version": 12,
   "canon_roots": [
     "systems",
     "characters",
@@ -32,5 +32,6 @@
     "firefox6663355 / Fox",
     "C_FOR / 𝒞_F𝒪𝑅"
   ],
-  "latest_lock": "V11.1 - Linlin character core, organic Orchard doctrine, Brook behavior/recovery, contested Brook-Linlin relationship expansion"
+  "latest_lock": "V12 - Luffy post-Marineford/timeskip psychology, no hidden second dream, Return to Sabaody fighting retreat, Tashigi weapon-centric direction, AI onboarding refinement",
+  "creator_prompt": "production/CREATORPROMPT.md"
 }
